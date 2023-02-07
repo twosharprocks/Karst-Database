@@ -50,7 +50,8 @@
         * [Oculus Rift](https://www.amazon.com.au/Oculus-Rift-PC-Powered-Gaming-Headset/dp/B07PTMKYS7) 
         * [Google Earth in VR](https://venturebeat.com/2017/04/22/google-earth-in-vr-is-so-beautiful-that-it-made-me-cry/) 
 
-### Photogrammetry
+
+### Photogrammetry 
     * [Standard photography for 3D mapping](https://lizrogersphotography.com/2012/10/3d-mapping-the-pillar-in-tank-cave/) - Liz Rogers
     * Best result are from fixed lights and moving camera (hi-res stills? 
         * 4x GoPros on rig taking a still every 1-3 seconds?
