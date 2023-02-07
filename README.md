@@ -1,2 +1,2 @@
 # Karst-Database
-A database of karst information for cave divers
+A database of karst information for cavers & divers
