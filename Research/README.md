@@ -52,6 +52,9 @@
    * [Meshroom for Beginners](https://meshroom-manual.readthedocs.io/en/latest/tutorials/sketchfab/sketchfab.html)
    * [GitHub - Meshroom](https://github.com/alicevision/Meshroom)
 * Use AWS to process imagery (Snowcone for remote?)
+   * [Run Photogrammetry in the Cloud - AWS How-To](https://www.instructables.com/Run-Photogrammetry-in-the-Cloud/)
+   * [MaxCloudOn](https://photogrammetry.maxcloudon.com/) - Dedicated photogrammetry service with $20 credit
+   
         
 ## UW 360 camera
 * [Pro2](https://store.insta360.com/product/Pro_2?c=361) with [Mantis Sub housing](https://www.mantis-sub.com/products/p/mantis-sub) (on a neutral “push” stick)
