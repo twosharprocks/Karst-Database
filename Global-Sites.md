@@ -26,10 +26,9 @@
 * Katherine Hot Springs
 * Waterfall Cave & Kija Blue
 * Cape Range ([Feb 2022 fire revealed many caves](https://www.abc.net.au/news/2022-03-01/bushfire-uncovers-hidden-caves-in-national-park-near-exmouth/100868132))
+* Cataby
 
-Cataby
-
-## Nullarbor
+### Nullarbor
 * First-time Suggestions: Olwolgin, Slot, Weebubbie, Murra, Burnabbie, Tommy's
     * Others: Nurina, Warbla, 
     * Olwolgin Bluff: Cologna Rockhole, Yudenda Rockhole, 
@@ -64,7 +63,17 @@ Cataby
 * Camooweal, [Lake Eacham](https://en.m.wikipedia.org/wiki/Lake_Eacham_(Queensland)), [Innot Hot Springs,](http://www.athertontablelands.com.au/)** **
 
 ## NT
-* Koolatong Sink Hole (East Arnhem Land), [Katherine Hotsprings](https://goo.gl/maps/MhUvcFrMCUJ8FWMD9), Bitter Springs (Katherine)
+* Koolatong Sink Hole (East Arnhem Land)
+* [Tolmer Falls](https://www.trimixdivers.com/trimix5/?p=4897)
+* [Pine Creek](https://www.trimixdivers.com/trimix5/?p=4893)
+* 
+* Katherine Hot Springs
+   * [Katherine Hotsprings](https://goo.gl/maps/MhUvcFrMCUJ8FWMD9) [TrimixDivers](https://www.trimixdivers.com/trimix5/?p=4889)
+   * [Bitter Springs](https://www.trimixdivers.com/trimix5/?p=4885)
+   * [Mataranka Springs](https://www.trimixdivers.com/trimix5/?p=4891) & Rainbow Springs
+   * [CSIRO - Tracing the source of the Mataranka Springs](https://ecos.csiro.au/tracing-the-source-of-the-mataranka-springs/)
+   - Dr Sebastien Lamontagne is a hydrogeologist who led the Mataranka Springs research
+   * Fed by Cambrian Limestone Aquifer with two imputs to Mataranka - "Georgina" & "Daly"
 
 # New Zealand
 
