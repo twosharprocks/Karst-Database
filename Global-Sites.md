@@ -66,7 +66,6 @@
 * Koolatong Sink Hole (East Arnhem Land)
 * [Tolmer Falls](https://www.trimixdivers.com/trimix5/?p=4897)
 * [Pine Creek](https://www.trimixdivers.com/trimix5/?p=4893)
-* 
 * Katherine Hot Springs
    * [Katherine Hotsprings](https://goo.gl/maps/MhUvcFrMCUJ8FWMD9) [TrimixDivers](https://www.trimixdivers.com/trimix5/?p=4889)
    * [Bitter Springs](https://www.trimixdivers.com/trimix5/?p=4885)
