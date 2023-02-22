@@ -34,3 +34,4 @@ Super Deep
 * [Raising The Dead (Outside)](https://www.outsideonline.com/1922711/raising-dead)
 * [Will Goodman 300m Dive Diary](https://blackwatertek.com/divers-diary/)
 * [Jim Bowden - Zacaton](https://www.tdisdi.com/aquacorps/jim-bowden/)
+* [Hydrogen Diving: The Good, The Bad, the Ugly](https://johnclarkeonline.com/2021/03/07/hydrogen-in-diving-the-good-the-bad-the-ugly/)
