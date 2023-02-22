@@ -1,4 +1,4 @@
-# Diving Equipment
+#Equipment
 
 ### Reels & Spools
 * [Light Monkey 1200’ Exploration reel](https://www.onlinedivegear.com.au/products/light-monkey-primary-reel-1200) ($375)
