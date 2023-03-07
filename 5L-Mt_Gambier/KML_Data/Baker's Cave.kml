@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Baker&apos;s Cave.kml</name>
+	<StyleMap id="LineColor5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineColor80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineColor90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineColor80">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="LineColor90">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Survey - Baker&apos;s Cave</name>
+		<open>1</open>
+		<Style id="LineColor">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Bakers</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bakers</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+					140.680536,-37.945537,-0 140.680536,-37.945537,-0 140.6805207377157,-37.94557730337315,-8.699999999999999 140.680444493194,-37.94575015817635,-20.23 140.6804250499682,-37.94577257028192,-22.88 140.6805101054225,-37.94589676205261,-31.6 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Circuit</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Circuit</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+					140.680444493194,-37.94575015817635,-20.23 140.6804278848136,-37.94571621782277,-18.82 140.6804418742657,-37.94569460705459,-18.51 140.6804503386422,-37.94564325089606,-15.27 140.6804483105855,-37.9456181503806,-14.54 140.6804477287829,-37.94557538874497,-10.71 140.6805207377157,-37.94557730337315,-9.18 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jump</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Jump</name>
+			<styleUrl>#LineColor5</styleUrl>
+			<LineString>
+				<coordinates>
+					140.6804250499682,-37.94577257028192,-22.88 140.6804790339946,-37.94576094574114,-21.51 140.6807178183682,-37.94567682044541,-21.27 140.6807974710246,-37.94559092438238,-18.66 140.6808341768254,-37.94553666093005,-20.3 140.6808410564018,-37.94548887381676,-19.77 140.6808033004426,-37.94541038117201,-19.09 140.6807577048713,-37.94534939497505,-15.22 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

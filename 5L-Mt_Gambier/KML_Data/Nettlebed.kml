@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Nettlebed.kml</name>
+	<Style id="LineColor110">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="LineColor120">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="LineColor173">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineColor110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineColor120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Line</name>
+		<Style id="LineColor">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Nettlebed</name>
+			<styleUrl>#LineColor173</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Nettlebed</name>
+			<styleUrl>#LineColor173</styleUrl>
+			<LineString>
+				<coordinates>
+					140.54869,-37.751511,-0 140.54869,-37.751511,-0 140.5487036872796,-37.75152880255123,-0.05999999999999999 140.5487759327168,-37.75161414585721,-5.66 140.5488793765982,-37.75193000104999,-13.24 140.5487507120874,-37.75182571218745,-14.15 140.5487759327168,-37.75161414585721,-6.07 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Nettlebed</name>
+			<styleUrl>#LineColor173</styleUrl>
+			<LineString>
+				<coordinates>
+					140.5487507120874,-37.75182571218745,-14.15 140.5487589458269,-37.75186227687854,-15.47 140.5486191620216,-37.75204260107428,-21.32 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

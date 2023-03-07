@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Stinging Nettle.kml</name>
+	<Style id="LineColor240">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="LineColor40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineColor500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineColor240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineColor500">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line</name>
+		<Style id="LineColor">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>SN Main</name>
+			<styleUrl>#LineColor40</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>SN Main</name>
+			<styleUrl>#LineColor40</styleUrl>
+			<LineString>
+				<coordinates>
+					140.545424,-37.753977,-0 140.545424,-37.753977,-0 140.5453875702615,-37.75396591252374,-1.6 140.5453897381953,-37.75393751166282,-5.18 140.5453881848867,-37.75392971025302,-5.54 140.5454117411137,-37.75391608092526,-6 140.5453782756909,-37.7539033673939,-10.26 140.545396998699,-37.75389066890615,-12.46 140.5454160553768,-37.75387820779204,-14.3 140.5454461368513,-37.75387025475541,-15.88 140.5454460525023,-37.7538532436028,-17.22 140.545454796763,-37.75384935093372,-17.74 140.5454645304388,-37.75383325497354,-23.2 140.5455083294306,-37.75383165444052,-24.78 140.5455001666151,-37.75381648404737,-25.9 140.5455087002761,-37.75379341620867,-28.71 140.5455421976494,-37.75377131374773,-32.29 140.5455383801108,-37.75376299669191,-32.39 140.5455279220426,-37.75375940073989,-31.94 140.5453447343418,-37.75378388836564,-28.5 140.5453237943901,-37.75381431285125,-27.69 140.5453124024299,-37.75382160562281,-27.53 140.545260786071,-37.75382876212813,-32.11 140.5452735095491,-37.75382319822282,-33.39 140.5452816833392,-37.75379576078317,-34.31 140.5452511513253,-37.7538097521897,-36.07 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Junction</name>
+			<styleUrl>#LineColor40</styleUrl>
+			<LineString>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Junction</name>
+			<styleUrl>#LineColor40</styleUrl>
+			<LineString>
+				<coordinates>
+					140.545454796763,-37.75384935093372,-17.74 140.5454990768929,-37.75389294220344,-17.38 140.5455465625427,-37.75393986240982,-18.09 140.5455109235512,-37.75395389082995,-13.74 140.5454117411137,-37.75391608092526,-10.85 140.545396998699,-37.75389066890615,-12.19 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
