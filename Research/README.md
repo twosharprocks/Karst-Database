@@ -129,3 +129,6 @@
     * [Leak detection using sat images & machine learning](https://threespringstechnology.com/projects/leak-detection/)
     * [Yolo3 object detection How-To](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
     * Use AWS for IDing caves on Nullabor/Cape Range (ASF/WASG database?)
+    
+## Other
+* [Research Paper - Microgravity Surveys on the Nullarbor](https://www.researchgate.net/publication/323448273_Microgravity_surveys_on_the_Nullarbor) 
