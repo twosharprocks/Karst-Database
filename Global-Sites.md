@@ -8,9 +8,7 @@
 ## ACT
 * Mount Fairy (NSW)
 * Lake Burley Griffin (under Treasury Building)
-* Carey’s Caves (Wee Jasper)
 * Cotter Caves
-* Yarrangobilly Caves
 
 ## Vic
 * [Elk River](http://www.cavediving.net.au/index.php/siteinfo/?site=56) & Buchan
@@ -23,15 +21,13 @@
 * [List of Cave names in WA (Wikipedia)](https://en.wikipedia.org/wiki/List_of_caves_in_Western_Australia)
 * [MapCarta (Good for Nullabor & Cape Range)](https://mapcarta.com/)
 * [Zebedee Thermal Springs](https://www.westernaustralia.com/en/Attraction/Zebedee_Springs/596327b2c9d4859822a7f1e1) & Emma Gorge
-* Katherine Hot Springs
 * Waterfall Cave & Kija Blue
 * Cape Range ([Feb 2022 fire revealed many caves](https://www.abc.net.au/news/2022-03-01/bushfire-uncovers-hidden-caves-in-national-park-near-exmouth/100868132))
 * Cataby
 
 ### Nullarbor
 * First-time Suggestions: Olwolgin, Slot, Weebubbie, Murra, Burnabbie, Tommy's
-    * Others: Nurina, Warbla, 
-    * Olwolgin Bluff: Cologna Rockhole, Yudenda Rockhole, 
+    * Others: Nurina, Warbla,  
 * [CDAA “The Nullabor - What It Takes”](http://www.cavedivers.com.au/the-nullarbor-what-it-takes)
 * [CDAA “Cocklebiddy - Alpine Style”](http://www.cavedivers.com.au/cocklebiddy%E2%80%93alpine-style) \
 
