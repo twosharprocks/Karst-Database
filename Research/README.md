@@ -64,16 +64,20 @@
 
 ## Sonar - LiDAR 
 * [Underwater Sonar System](http://www.karstworlds.com/2011/03/underwater-cave-mapping-sensor.html?m=1) - Adapt robot to be pushed by diver?
-    * [Dry - Cave Survey Instruments](https://www.derekbristol.com/survey-instruments) [Overview]
-        * [Caveatron (DIY LiDAR)](https://caveatron.com/)
-        * [GitHub - Caveatron](https://github.com/Caveatron/Caveatron)
-        * [Zebedee (CSIRO)](https://research.csiro.au/robotics/zebedee/) [JDZ has experience] 
-        * [BRIC4](https://www.bricsurvey.com/)
-        * [Disto X310](https://lasersurveyingequipment.com.au/product/leica-disto-x310/)
-        * [GIS for In-Cave Survey](https://cp.cavesurveying.org.uk/index.php)
-        * Any Lidar data from Forestry?
-        
-        
+* [Discussion - Handheld Ping Sonar in Caves](https://discuss.bluerobotics.com/t/suitability-of-ping-sonar-in-caves/11655)
+* [Ping360 - Mechanical Scanning Imaging Sonar for ROVs](https://bluerobotics.com/store/sensors-sonars-cameras/sonar/ping360-sonar-r1-rp/)
+    
+* [Dry - Cave Survey Instruments](https://www.derekbristol.com/survey-instruments) [Overview]
+   * [Excellent Gear Guide - What do I need for Cave Mapping](https://startcaving.com/recommended-gear/mapping)
+      * Compass, Clinometer, Tape Measure or Rangefinder, Recording (Notepad or software)
+      * [Suunto Tandem (Compass/Clino) (~$334)](https://www.amazon.com.au/dp/B00TK6MNUA)
+   * [Caveatron (DIY LiDAR)](https://caveatron.com/) & [GitHub - Caveatron](https://github.com/Caveatron/Caveatron)
+   * [Zebedee (CSIRO)](https://research.csiro.au/robotics/zebedee/) [JDZ has experience] 
+   * [BRIC4](https://www.bricsurvey.com/)
+   * [Disto X310](https://lasersurveyingequipment.com.au/product/leica-disto-x310/)
+   * [GIS for In-Cave Survey](https://cp.cavesurveying.org.uk/index.php)
+   * Any Lidar data from Forestry?
+               
 ## Radiolocators
 * Pingers ([CDAA Page](http://www.cavedivers.com.au/simple-underwater-radiolocation-system))
 * [DIY Radiolocator Kits](https://radiolocation.weebly.com/basic-1--basic2-radios.html)
