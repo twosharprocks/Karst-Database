@@ -30,6 +30,7 @@
 [TDI Cave DPV](https://www.tdisdi.com/tdi/get-certified/tdi-dpv-cave-diver/)
 
 * [DiveX BlackTip Tech](https://dive-xtras.com/products/tech-blacktip) (US$1900 + $500AUD Shipping + 12Ah [batteries](https://www.bunnings.com.au/dewalt-18-54v-12-0ah-xr-flexvolt-battery_p0079389) [2x $319])
+
 * [Seacraft GO!](https://seacraft.eu/products/scooters/go/) ($6000AUD)
 * [DiveX Piranha P2](https://www.sport-instruments.com/product/divex-piranha-p2/#) (US$3100 from Indonesia) or [ALTERNATIVE](https://terminalmarine.com/diving-equipment/197-dive-x-piranha-p2-dive-scooter.html) or [ALTERNATIVE](https://www.sportindopratama.com/product/divex-piranha-p2/)
 * [DiveX Piranha P3](https://www.sport-instruments.com/product/divex-piranha-p3/) (US$3670 from Indonesia)
@@ -40,6 +41,7 @@
 
 * [Black Diamond Helmet](https://www.amazon.com/Black-Diamond-Climbing-Helmet-Denim/dp/B07KXZ133N/ref=sr_1_2?keywords=Black+Diamond+Equipment+Half+Dome+Helmet&qid=1668566757&sr=8-2)
 * [Headlamp - Phaethon (Dual?)](http://www.phaethoncavinglight.com/phaethon.html)
+* [Kevlar Knee Pads - DIY from UK](https://www.ebay.com.au/itm/KNEE-PADS-FOR-DIY-FITTING-PAIR-/393570369670)
 
 ## SRT
 [Getting Started (with full gear list & SRT Link)](https://caving.org.nz/pmwiki/pmwiki.php/Information/GettingStarted) 
