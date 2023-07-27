@@ -1,24 +1,30 @@
 #Equipment
 
+### Servicing & Repair
+* [Scubagaskets.com - O-rings & Reg service kits](https://scubagaskets.com/)
+
 ### Reels & Spools
 * [Light Monkey 1200’ Exploration reel](https://www.onlinedivegear.com.au/products/light-monkey-primary-reel-1200) ($375)
+* [Cable Storage Reel](https://www.bunnings.com.au/click-15m-cable-storage-wheel_p0215797)
 * [Orange Permanent Line - 3mm x 1000m ($75)](https://www.splicingandcutting.com.au/rope_products/throw-line-cord-braided-orange-polyethylene-3mm-x-1000m/)
 * [15-20m Al Jumps ($20)](https://www.aliexpress.com/item/4001099510388.html) 
 * [30-60m Al Spools ($25)](https://www.aliexpress.com/item/1005003162866176.html)
 
 ### Lighting
-
+Main Lights
 * [DivePro Canister Light](https://varuste.net/en/p99606/divepro-cl4200) ($715) 
 * Dive Rite LX20
 
-[Backup Light - Archon 1200](https://au.lightmalls.com/professional-archon-v10s-diving-torch-1-cree-xm-l-u2-led-860-lumens-3-modes-diving-light-flashlight-1-18650-not-include-black-color)
+Backups
+* [Archon 1200](https://au.lightmalls.com/professional-archon-v10s-diving-torch-1-cree-xm-l-u2-led-860-lumens-3-modes-diving-light-flashlight-1-18650-not-include-black-color)
+
+Video Lights
+* [Cheap 27 LED 100m Fill Light](https://www.ebay.com.au/itm/353998099665)
+* [Cheap 3 LED 45m Selfie-stick Fill Light](https://www.aliexpress.com/item/1005003800239793.html)
+* 
 
 ### Video
 * [X3 ($799)](https://store.insta360.com/product/x3?c=2118&from=nav) [[+dive case $149](https://store.insta360.com/product/x3_dive_case?c=2113)]
-* GoPro 11
-
-[Super cheap video light](https://www.ebay.com.au/itm/293625171425) or [ALTERNATIVE](https://www.amazon.com/Flashlight-18000LM-Waterproof-Instructors-Underwater/dp/B09LHS9R8W/ref=sr_1_29) or [ALTERNATIVE](https://www.amazon.com/LetonPower-Flashlight-20000Lumen-Underwater-Waterproof/dp/B09M8S63ZF/ref=sr_1_20)
-
 
 ### Drysuit 
 * [Seaskin](https://www.seaskin.co.uk/)
