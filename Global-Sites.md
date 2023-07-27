@@ -16,6 +16,7 @@
 * Other near Princess Margaret Rose Cave
 * Tarragal Caves (Portland)
 * “Hutchinson property” near Casterton?
+* Daylesford? Where is the spring water coming from?
 
 ## WA
 * [List of Cave names in WA (Wikipedia)](https://en.wikipedia.org/wiki/List_of_caves_in_Western_Australia)
