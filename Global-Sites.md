@@ -2,19 +2,13 @@
 
 ## SA
 * Eyre Peninsula? (Martin Maidment)
-* Flinders Ranges
-* Kangaroo Island - Kelly Hill Caves? East-West Fault line
 
 ## ACT
-* Mount Fairy (NSW)
 * Lake Burley Griffin (under Treasury Building)
 * Cotter Caves
 
 ## Vic
 * [Elk River](http://www.cavediving.net.au/index.php/siteinfo/?site=56) & Buchan
-* Lake Monibeong
-* Other near Princess Margaret Rose Cave
-* Tarragal Caves (Portland)
 * “Hutchinson property” near Casterton?
 * Daylesford? Where is the spring water coming from?
 
@@ -28,7 +22,7 @@
 
 ### Nullarbor
 * First-time Suggestions: Olwolgin, Slot, Weebubbie, Murra, Burnabbie, Tommy's
-    * Others: Nurina, Warbla,  
+    * Others: Nurina  
 * [CDAA “The Nullabor - What It Takes”](http://www.cavedivers.com.au/the-nullarbor-what-it-takes)
 * [CDAA “Cocklebiddy - Alpine Style”](http://www.cavedivers.com.au/cocklebiddy%E2%80%93alpine-style) \
 
@@ -57,7 +51,7 @@
 * [TSDC Dive Site Database](http://www.tsdc.org.au/sites.php) [TSDC]
 
 ## Queensland
-* Camooweal, [Lake Eacham](https://en.m.wikipedia.org/wiki/Lake_Eacham_(Queensland)), [Innot Hot Springs,](http://www.athertontablelands.com.au/)** **
+* Camooweal
 
 ## NT
 * Koolatong Sink Hole (East Arnhem Land)
