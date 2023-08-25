@@ -102,6 +102,10 @@
     * Use remote sensing for groundwater detection
     * Drone survey - Integrate with QGIS to record survey zones
 * Geodata Sets
+    * Aerial Photography
+       * [Online aerial photography - Landgate](https://www0.landgate.wa.gov.au/maps-and-imagery/imagery/aerial-photography/aerial)
+       * [WA Historic Aerial Photography](https://link.fsdf.org.au/dataset/wa-historic-aerial-photography)
+       * [Very High Resolution (<2.5 m) Very Low Temporal Coverage (>annual)](https://link.fsdf.org.au/dataset/very-high-resolution-annual)
     * **[Open Data Cube](https://www.opendatacube.org/)** [IMPORTANT] 
         * [CSIRO EASI](https://research.csiro.au/cceo/underpinning-technologies/earth-analytics/) platform
     * [AWS Open Data Registry](https://registry.opendata.aws/) 
@@ -133,6 +137,10 @@
     * [Leak detection using sat images & machine learning](https://threespringstechnology.com/projects/leak-detection/)
     * [Yolo3 object detection How-To](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
     * Use AWS for IDing caves on Nullabor/Cape Range (ASF/WASG database?)
+    * Potential future project - using ML to study satellite and aerial photography data to ID caves
+    * [Using deep learning for feature extraction and classification](https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm)
+    * [Techniques for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/techniques)
+    * [Advancing Cave Detection Using Terrain Analysis and Thermal Imagery](https://www.mdpi.com/2072-4292/13/18/3578/htm)
     
 ## Other
 * [Research Paper - Microgravity Surveys on the Nullarbor](https://www.researchgate.net/publication/323448273_Microgravity_surveys_on_the_Nullarbor) 
