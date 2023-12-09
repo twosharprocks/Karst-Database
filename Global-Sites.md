@@ -138,6 +138,12 @@
 * Tampa - Crystal Springs, [Weeki Wachee](https://vimeo.com/326552810?fbclid=IwAR0dSO3mTRazxRdRRE_SuxlRhQMuuQ2vD3qsKnDpLwEh6rgIZAFpbVCCPSQ)
 * Fort White - Hidden Worlds [Marissa Eckert], Ginnie Springs, Eagle Nest, Devil’s Eye \
 
+## Texas
+* Wet cave on Demolition Ranch (San Antonio) [YouTube](https://youtu.be/sYOCJz72zhU?si=h3tFREr3AY7-KJi5&t=1578) with flowing water and features [YouTube](https://www.youtube.com/watch?v=QPCunlEN5kw)
+
+## Tennessee
+* Speak to Scott (Mexico)
+
 ## Pacific North-West
 * [Clear Lake, Oregon](https://nwdiveclub.com/viewtopic.php?t=13516) (Cave)
 * [Royal City, Washington - Titan I Missile Silo](http://www.underseaadventures.net/titan-i-missile-silo-silo-diving-dive-into-history.htm)
