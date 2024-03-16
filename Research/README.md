@@ -79,7 +79,7 @@
    * Any Lidar data from Forestry?
                
 ## Radiolocators
-* Pingers ([CDAA Page](http://www.cavedivers.com.au/simple-underwater-radiolocation-system))
+* Pingers - [CDAA Page](http://www.cavedivers.com.au/simple-underwater-radiolocation-system), [CDG](ttps://cdg.caves.org.au/CDG-Articles/SA/SMITH-ThePingerSA2008.pdf)
 * [DIY Radiolocator Kits](https://radiolocation.weebly.com/basic-1--basic2-radios.html)
 * Thumpers (JDZ)
 * Cocklebiddy Cache (Contains ground-wave SMS device?)
