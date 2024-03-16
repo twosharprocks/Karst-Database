@@ -37,7 +37,6 @@ Video Lights
 
 * [DiveX BlackTip Tech](https://dive-xtras.com/products/tech-blacktip) (US$1900 + $500AUD Shipping + 12Ah [batteries](https://www.bunnings.com.au/dewalt-18-54v-12-0ah-xr-flexvolt-battery_p0079389) [2x $319])
 
-* [Seacraft GO!](https://seacraft.eu/products/scooters/go/) ($6000AUD)
 * [DiveX Piranha P2](https://www.sport-instruments.com/product/divex-piranha-p2/#) (US$3100 from Indonesia) or [ALTERNATIVE](https://terminalmarine.com/diving-equipment/197-dive-x-piranha-p2-dive-scooter.html) or [ALTERNATIVE](https://www.sportindopratama.com/product/divex-piranha-p2/)
 * [DiveX Piranha P3](https://www.sport-instruments.com/product/divex-piranha-p3/) (US$3670 from Indonesia)
 
