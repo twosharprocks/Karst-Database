@@ -1,5 +1,3 @@
-# Ideas
-
 ## LCKP
 * Develop new cave catalogue
     * Redraw/Update Peter’s maps?

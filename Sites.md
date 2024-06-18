@@ -6,8 +6,6 @@
 * [Coordinate Converter](https://coordinates-converter.com/) - Convert individual locations to any coordinate type 
 * [BatchGEO](https://batchgeo.com/) - Maps data from Excel spreadsheets
 
-# Sites
-
 ## SA
 * Eyre Peninsula? (Martin Maidment)
 * Bubbling sand at [Sellicks Beach](https://goo.gl/maps/sBKG1e63cmWK4SAU7)? Connected to Sellick's Hill?
