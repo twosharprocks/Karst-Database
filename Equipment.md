@@ -34,17 +34,10 @@ Video Lights
 # Caving & SRT
 
 ## Caving
-
 * [Black Diamond Helmet](https://www.amazon.com/Black-Diamond-Climbing-Helmet-Denim/dp/B07KXZ133N/ref=sr_1_2?keywords=Black+Diamond+Equipment+Half+Dome+Helmet&qid=1668566757&sr=8-2)
 * [Headlamp - Phaethon (Dual?)](http://www.phaethoncavinglight.com/phaethon.html)
 * [Kevlar Knee Pads - DIY from UK](https://www.ebay.com.au/itm/KNEE-PADS-FOR-DIY-FITTING-PAIR-/393570369670)
 ### SRT
-* [Peter Knight - Knots](https://www.peakinstruction.com/blog/)
-* [Animated Knots - Alpine Butterfly](https://www.animatedknots.com/alpine-butterfly-loop-knot)
-* [Getting Started (with full gear list & SRT Link)](https://caving.org.nz/pmwiki/pmwiki.php/Information/GettingStarted)
-* [Ascender Types Compared](https://blog.weighmyrack.com/every-ascender-type-compared/)
-* [How To Use Ascenders](https://climbingcall.com/how-to-use-ascendsers/)
-* [SRT - Aspiring Frog Kit](https://aspiringsafety.com.au/product/srt-kit-frog-assembly-climbing-kit/) - Inc. everything below except carabiners, rope, helmet, descender
 * Essential SRT Gear List
 	* hand ascender 
 	* chest ascender 
@@ -54,3 +47,11 @@ Video Lights
 	* Caving harness
 	* Braking descender which does not twist rope
 		  * [Petzl Stop](https://www.aspiring.co.nz/product/petzl-stop-descender/)
+* [SRT - Aspiring Frog Kit](https://aspiringsafety.com.au/product/srt-kit-frog-assembly-climbing-kit/) - Inc. everything above except carabiners, rope, helmet, descender
+
+* [Getting Started (with full gear list & SRT Link)](https://caving.org.nz/pmwiki/pmwiki.php/Information/GettingStarted)
+* [Ascender Types Compared](https://blog.weighmyrack.com/every-ascender-type-compared/)
+* [How To Use Ascenders](https://climbingcall.com/how-to-use-ascendsers/)
+
+* [Peter Knight - Knots](https://www.peakinstruction.com/blog/)
+* [Animated Knots - Alpine Butterfly](https://www.animatedknots.com/alpine-butterfly-loop-knot)

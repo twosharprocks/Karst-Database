@@ -10,10 +10,18 @@
 
 ## SA
 * Eyre Peninsula? (Martin Maidment)
+* Bubbling sand at [Sellicks Beach](https://goo.gl/maps/sBKG1e63cmWK4SAU7)? Connected to Sellick's Hill?
+- Coromandel Valley - report of new cave via CEGSA
+- CEGSA - Dive Delamere
+- Eyre Peninsula? Whaler’s Way Sinkhole
+- Flinders Ranges
 
 ## ACT
 * Lake Burley Griffin (under Treasury Building)
 * Cotter Caves
+
+## NSW
+- [Mt Fairy](https://cdg.caves.org.au/CDG-Articles/NSW/OBRIEN-MtFairyMF-1MainCaveNov2020unpublished.pdf)
 
 ## Vic
 * [Elk River](http://www.cavediving.net.au/index.php/siteinfo/?site=56) & Buchan
@@ -29,11 +37,8 @@
 * Cataby
 
 ### Nullarbor
-* First-time Suggestions: Olwolgin, Slot, Weebubbie, Murra, Burnabbie, Tommy's
-    * Others: Nurina  
-* [CDAA “The Nullabor - What It Takes”](http://www.cavedivers.com.au/the-nullarbor-what-it-takes)
-* [CDAA “Cocklebiddy - Alpine Style”](http://www.cavedivers.com.au/cocklebiddy%E2%80%93alpine-style) \
-
+* First-time Suggestions: Olwolgin, Slot, Weebubbie, Murra, Burnabbie, Tommy Graham's
+    * Others: Nurina,
 * Nullabor Trip Planning Software - Python? Excel sheet?
     * “What to Expect” at each cave site 
         * Integrate cave catalogue, Equipment required, vehicle access, ect
@@ -42,13 +47,15 @@
         * Links to Permits
         * Up to date Emergency Info (Combine with SROP)
         * Can this be a phone app?
-
-    * Ideas to sort
-        * Olwolgin - fairy lights, hang drysuits, coveralls and gloves + glove clip
-        * Garmin for sms? 10m whip?
-        * Take Woodsaw/Chainsaw? 
-        * Shower every 2-3 days. Take a break from diving every 4-5 days.
-
+* Cocklebiddy
+	* [“Cocklebiddy - Alpine Style”](https://cdg.caves.org.au/CDG-Articles/Articles/S-EBERHARD-CocklebiddyAlpineStyle1998.pdf) 
+	* Set Clear Goals (Toad Hall)
+	* [Dive Addiction - Joseph Bicanic](Diveaddiction.me)
+* Tommy Graham's
+	* May have more sumps (DiverNet article)
+* Pannikin Plains
+	- Ask Ryan how to do Pannikin differently?
+	- Equipment Needed
 ## Tasmania
 * Flinders Island - Ranga Cave? Surrounding area?
 * King Island? Other small islands?
