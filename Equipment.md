@@ -30,6 +30,7 @@ Video Lights
 	* [DiveX Piranha P2](https://www.sport-instruments.com/product/divex-piranha-p2/#) (US$3100 from Indonesia) or [ALTERNATIVE](https://terminalmarine.com/diving-equipment/197-dive-x-piranha-p2-dive-scooter.html) or [ALTERNATIVE](https://www.sportindopratama.com/product/divex-piranha-p2/)
 	* [DiveX Piranha P3](https://www.sport-instruments.com/product/divex-piranha-p3/) (US$3670 from Indonesia)
 * [Lift Bag - Ali Express ($36-45)](https://www.aliexpress.com/item/4001101513566.html)
+* [Tech Shorts - 3mm Neoprene ($40-45)](https://www.ebay.com.au/itm/226035866029)
 * [T-Shirt - “Don’t Follow Me I Do Stupid Things”](https://teechip.com/01cave-diving) 
 # Caving & SRT
 
