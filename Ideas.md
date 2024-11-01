@@ -5,14 +5,6 @@
     * QGIS? Other shareable file?
     * Study SAR imagery?
 
-## Music Egg
-
-* Capsule - [Egg](https://spearfishing.com.au/products/problue-plastic-dry-capsule-with-lanyard-neon-yellow) (from [Problue](https://www.problue.com.tw/category-36/Dry-Box1.html)) or [Tube](https://www.anacondastores.com/water-sports/boating-essentials/waterproof-cases/body-glove-swim-dry-capsule/BP90132146-green)
-* Push Button Latching Switch - [Narva](https://www.narva.com.au/products/60076bl/off-on-led-push-button-switch--red---blister-pack-of-1-) 
-* Speaker - [30mm round](https://core-electronics.com.au/speaker-pcb-mount.html), [50mm Full](https://core-electronics.com.au/speaker-0-5w-8-ohm.html), [Matched & enclosed](https://core-electronics.com.au/stereo-enclosed-speaker-3w-8.html)
-* MP3 Module - [Mini](https://core-electronics.com.au/dfplayer-a-mini-mp3-player.html), [Full Board](http://www.widgetbarn.com/shop/hardware/mp3-player-board/)
-* Battery Holder - [18650](https://core-electronics.com.au/18650-battery-holder-through-hole-tabs.html)
-
 ## Electrical Resistivity Survey
 [Electrical Resistivity](https://archive.epa.gov/esd/archive-geophysics/web/html/resistivity_methods.html)
 
