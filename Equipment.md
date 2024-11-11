@@ -40,19 +40,15 @@ Video Lights
 * [Kevlar Knee Pads - DIY from UK](https://www.ebay.com.au/itm/KNEE-PADS-FOR-DIY-FITTING-PAIR-/393570369670)
 ### SRT
 * Essential SRT Gear List
-	* hand ascender 
-	* chest ascender 
-	* foot ascender
+	* Ascenders: hand, chest, and foot
 	* 6x screw gate carabiners (already have 4)
 	* 3-4m length of static 8-10mm rope, 
-	* Caving harness
+	* Harness
 	* Braking descender which does not twist rope
 		  * [Petzl Stop](https://www.aspiring.co.nz/product/petzl-stop-descender/)
 * [SRT - Aspiring Frog Kit](https://aspiringsafety.com.au/product/srt-kit-frog-assembly-climbing-kit/) - Inc. everything above except carabiners, rope, helmet, descender
-
 * [Getting Started (with full gear list & SRT Link)](https://caving.org.nz/pmwiki/pmwiki.php/Information/GettingStarted)
 * [Ascender Types Compared](https://blog.weighmyrack.com/every-ascender-type-compared/)
 * [How To Use Ascenders](https://climbingcall.com/how-to-use-ascendsers/)
-
 * [Peter Knight - Knots](https://www.peakinstruction.com/blog/)
 * [Animated Knots - Alpine Butterfly](https://www.animatedknots.com/alpine-butterfly-loop-knot)
