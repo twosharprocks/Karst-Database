@@ -280,7 +280,8 @@ Samar
 	* Balearic Islands
 	* Mallorca
 		* [Deon Jones visited Sept 2024](https://www.facebook.com/deon.jones.50951/videos/852200763710860/)
-* Portugal - [Pozo Azul](http://www.bonex-systeme.de/en/2015/11/17/pozo-azul-hoehle-ohne-ende/) ([Cave Atlas entry](http://www.caveatlas.com/systems/system.asp?ID=660&co=ES))
+* Portugal - https://cavedivingportugal.com/caves
+	* [Pozo Azul](http://www.bonex-systeme.de/en/2015/11/17/pozo-azul-hoehle-ohne-ende/) ([Cave Atlas entry](http://www.caveatlas.com/systems/system.asp?ID=660&co=ES))
 	* [Fonte da Rainha](https://www.youtube.com/watch?v=QrIF9nfpEMM)
 	* [Ansiao Cave](https://www.youtube.com/watch?v=FuM-L43LcOY)
 	- Alcanena Cave Region (north of Lisbon)
