@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "8bad520889ac4216",
+    "id": "d163fee5e41f1e5a",
     "type": "split",
     "children": [
       {
-        "id": "39c53dd6d7960a2d",
+        "id": "5c6e907d0b59e09e",
         "type": "tabs",
         "children": [
           {
-            "id": "53bb31632e42545d",
+            "id": "43af6ccc5e3b6a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35cfc0790f612a64",
+    "id": "dc2fbe75e26afed7",
     "type": "split",
     "children": [
       {
-        "id": "bb7bccccec0e8365",
+        "id": "06f4bbfbe986681a",
         "type": "tabs",
         "children": [
           {
-            "id": "8c84f7449d50a13c",
+            "id": "84addc8252db02de",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "7b0506f8fb739629",
+            "id": "51b0b3ad8cbf52bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "063f30b99d2b4b23",
+            "id": "28dd1209edbc4d20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +73,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "66d84f4873b01026",
+    "id": "06b494a36e00358b",
     "type": "split",
     "children": [
       {
-        "id": "7acf1372f023b59c",
+        "id": "6f1e25ce12543fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "9b34b28b7d531a56",
+            "id": "091ce0f336299347",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ideas"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "14a62f60b3bb17ae",
+            "id": "3592ad5eb1afb968",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ideas"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cb9661ff48330319",
+            "id": "1c3f84cdd21cfdde",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +128,13 @@
             }
           },
           {
-            "id": "1edf60f0b7215edb",
+            "id": "bc80d9f2dcaebff6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ideas.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Ideas"
+              "title": "Outline"
             }
           }
         ]
@@ -162,11 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53bb31632e42545d",
-  "lastOpenFiles": [
-    "Sites.md",
-    "Ideas.md",
-    "Equipment.md",
-    "Theory.md"
-  ]
+  "active": "43af6ccc5e3b6a2b",
+  "lastOpenFiles": []
 }

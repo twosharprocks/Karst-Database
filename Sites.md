@@ -2,6 +2,7 @@
 * [CaveDB.net](https://cavedb.net/)
 * [GrottoCenter](https://grottocenter.org/)
 * [ASF “KID”](http://kid.caves.org.au/kid/users/search/standard) - Credentials `guest:guest`
+* [MapCarta](mapcarta.com/)
 
 TOC
 Oceania
@@ -136,7 +137,6 @@ North/Central America
 
 ## Christmas Island
 
-
 ## Indonesia
 ### Sulawesi
 - [Sulawesi Dive Trek](https://www.sulawesidivetrek.com/index.php/cave-diving/cave-exploration/) (Robin Cuesta on Wangi Wangi Island) 
@@ -172,6 +172,9 @@ North/Central America
 
 ## Vanuatu
 
+---
+# Central Asia
+* [China - Guangxi Province - Du’an County](https://www.uw360.asia/the-middle-kingdom/) ([Wetmules Exploration](http://www.wetmules.com/projects/china-cave-exploration)) [Dave Hurst]
 # South-East Asia
 ## Phillipines
 - Best Time: November-May (Jan to April are driest)
@@ -219,11 +222,9 @@ Samar
 * Gainesville - [Devil’s Den](http://www.devilsden.com/diving.html)
 * Tampa - Crystal Springs, [Weeki Wachee](https://vimeo.com/326552810?fbclid=IwAR0dSO3mTRazxRdRRE_SuxlRhQMuuQ2vD3qsKnDpLwEh6rgIZAFpbVCCPSQ)
 * Fort White - Hidden Worlds [Marissa Eckert], Ginnie Springs, Eagle Nest, Devil’s Eye \
-
 ## Texas
 * Wet cave on Demolition Ranch (San Antonio) [YouTube](https://youtu.be/sYOCJz72zhU?si=h3tFREr3AY7-KJi5&t=1578) with flowing water and features [YouTube](https://www.youtube.com/watch?v=QPCunlEN5kw)
 * Matt Carricka "Off The Ranch" (Invites cave explorers) [YouTube](https://www.youtube.com/watch?v=se0fSoDddL4&list=WL&index=13) and exploring wet tunnels [YouTube](https://www.youtube.com/watch?v=sYOCJz72zhU&list=WL&index=14)
-
 ## Tennessee
 * Speak to Scott (Mexico)
 * [Lost Creek Cave](https://www.facebook.com/reel/1280127916314906) - new state park, cave closed 6 month/year, req permits. 
@@ -246,13 +247,26 @@ Samar
 * Belize - Winter Wonderland
 ## Bahamas
 - Speak to Sam
+
+## Cayman Islands
+
+## Jamaica
+- https://www.jamaicancaves.org/ & https://www.jamaicancaves.org/gps.htm
+- [Map of Cave sites in Jamaica](https://www.facebook.com/photo/?fbid=1305137410618046&set=pcb.10160839007363639) & [more detailed map](https://www.facebook.com/photo?fbid=1305137713951349&set=pcb.10160839007363639)
+- [Facebook Post with book excerpts](https://www.facebook.com/groups/caversgroup/posts/10160838712948639/)
+- [Satellite of Green Grotto Caves](https://www.facebook.com/photo?fbid=1305137437284710&set=pcb.10160839007363639)
+
 ## Dominican Republic
 
+
+---
 # South America
 ## Brazil
 - Anhumas Abyss (Bonito)
 ## Costa Rica
 - https://divegeorgia.shop/trips/costa-rica 
+
+---
 # Europe 
 ## UK & Ireland
 * Ireland - [Kiltartan](https://www.irishtimes.com/news/subterranean-ireland-the-last-frontier-1.596166) (Galway), [Gort](https://www.irishtimes.com/news/cave-diving-duo-plunge-to-new-depths-in-epic-4km-underwater-adventure-1.648807) (Galway), Clare? Mayo?
@@ -260,8 +274,7 @@ Samar
 * Wales - Caves? Mines?
 * England - Wookey Hole (Somerset), [Top 10 UK Cave Diving sites](https://www.envinsci.co.uk/top-10-cave-diving-destinations-uk/)
 ## France
-- Lot 
-	- [Emergence du Russel](https://thecavetobe.com/)
+- Lot - [Emergence du Russel](https://thecavetobe.com/)
 - Dordogne 
 ## Mediterranean
 * Italy 
@@ -307,6 +320,8 @@ Samar
 * Germany - Miltitz Chalk Mine (Leipzig), Nuttlar Mine (Bestwig)
 * [Russia - Baikal Lake, Siberia](https://www.bigworldsmallsasha.com/single-post/2019/04/09/Ice-Diving-in-Lake-Baikal) [Seals], Orda Cave (Perm Region)
 * Iceland - Silfra, Bjarnagjá (Þorbjörn)
+
+---
 # Africa
 * South Africa
 	* [Technical Diving Africa - Don Shirley](http://www.technicaldivingafrica.co.za/)
@@ -320,9 +335,7 @@ Samar
         * [Lakato Organised Trips](https://www.facebook.com/pg/Lakato-Madagascar-113546700105746/services/?ref=page_internal)
         * [Madagascar Flights via Nairobi & Johannesburg](https://www.roughguides.com/destinations/africa/madagascar/getting/)
 * Zimbabwe - Chinhoyi Caves, Mashonaland West Province (April-May or Aug-Sept)
-
-## Asia
-* [China - Guangxi Province - Du’an County](https://www.uw360.asia/the-middle-kingdom/) ([Wetmules Exploration](http://www.wetmules.com/projects/china-cave-exploration)) [Dave Hurst]
-
+* Nigeria
+---
 ## Antarctica?
 
