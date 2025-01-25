@@ -217,11 +217,12 @@ Samar
 * Combine with rocket launches [Cape Canaveral in Jan/Feb/]
 * Combine with TekDive Conference [Orlando in April]
     * Best season is from April onwards
+* [KUR Exploration Portal](https://karstunderwater.org/explore/) - Site locations & Survey (KML)
 * Marianna - Edd Sorenson (Cave Adventurers)
 * Tallahassee - Wakulla Springs, [Indian Springs](https://magazine.diviac.com/cave-diving-the-10-best-dive-sites-in-the-world/#indian-springs)
 * Gainesville - [Devil’s Den](http://www.devilsden.com/diving.html)
 * Tampa - Crystal Springs, [Weeki Wachee](https://vimeo.com/326552810?fbclid=IwAR0dSO3mTRazxRdRRE_SuxlRhQMuuQ2vD3qsKnDpLwEh6rgIZAFpbVCCPSQ)
-* Fort White - Hidden Worlds [Marissa Eckert], Ginnie Springs, Eagle Nest, Devil’s Eye \
+* Fort White - Hidden Worlds [Marissa Eckert], Ginnie Springs, Eagle Nest, Devil’s Eye
 ## Texas
 * Wet cave on Demolition Ranch (San Antonio) [YouTube](https://youtu.be/sYOCJz72zhU?si=h3tFREr3AY7-KJi5&t=1578) with flowing water and features [YouTube](https://www.youtube.com/watch?v=QPCunlEN5kw)
 * Matt Carricka "Off The Ranch" (Invites cave explorers) [YouTube](https://www.youtube.com/watch?v=se0fSoDddL4&list=WL&index=13) and exploring wet tunnels [YouTube](https://www.youtube.com/watch?v=sYOCJz72zhU&list=WL&index=14)

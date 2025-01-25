@@ -1,4 +1,4 @@
-# Nullabor Trip Planning Software
+# Nullabor Trip Planning
 - Python? Excel sheet?
     * “What to Expect” at each cave site 
         * Integrate cave catalogue, Equipment required, vehicle access, ect
@@ -6,8 +6,7 @@
             * Type of Vehicle Access (2WD/4WD and difficulty)
         * Links to Permits
         * Up to date Emergency Info (Combine with SROP)
-        * Can this be a phone app? 
-        * Built into CaveDB?
+        * Can this be a phone app? Built into CaveDB?
 ## LCKP
 * Develop new cave catalogue
     * Redraw/Update Peter’s maps?
@@ -15,13 +14,6 @@
     * QGIS? Other shareable file?
     * Study SAR imagery?
     * [Restriction Grades](https://www.surveydown.com/restriction-grades) - SurveyDown (Add this to all future maps)
-## Electrical Resistivity & Microgravity
-[Electrical Resistivity](https://archive.epa.gov/esd/archive-geophysics/web/html/resistivity_methods.html)
-* [Use in Australian archaeology](https://www.asha.org.au/pdf/australasian_historical_archaeology/06_04_Ranson.pdf)
-* [US Cave detection](https://www.agiusa.com/sites/default/files/Sting%20Cave.pdf) ([Associated website](https://www.agiusa.com/cave-detection-testing-industry%E2%80%99s-first-electrical-resistivity-imaging-instrument))
-* [Handheld GraviMag](https://www.geotools.com.au/product/title-12/)
-* [MiniSting R1](https://www.geotools.com.au/product/agi-sting-r1-ministing/) & [2D EarthImager Software](https://www.agiusa.com/agi-earthimager-2d)
-[Research Paper - Microgravity Surveys on the Nullarbor](https://www.researchgate.net/publication/323448273_Microgravity_surveys_on_the_Nullarbor) 
 ## Photogrammetry
 * [Standard photography for 3D mapping](https://lizrogersphotography.com/2012/10/3d-mapping-the-pillar-in-tank-cave/) Liz Rogers
    * Best result are from fixed lights and moving camera (hi-res stills? 4x GoPros on rig taking a still every 1-3 seconds?)
@@ -127,3 +119,11 @@
     * [Using deep learning for feature extraction and classification](https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm)
     * [Techniques for deep learning with satellite & aerial imagery](https://github.com/satellite-image-deep-learning/techniques)
     * [Advancing Cave Detection Using Terrain Analysis and Thermal Imagery](https://www.mdpi.com/2072-4292/13/18/3578/htm)
+## Electrical Resistivity & Microgravity
+[Research Paper - Methods (US EPA)](https://archive.epa.gov/esd/archive-geophysics/web/html/resistivity_methods.html)
+[Research Paper - Microgravity Surveys on the Nullarbor](https://www.researchgate.net/publication/323448273_Microgravity_surveys_on_the_Nullarbor) 
+* [Use in Australian archaeology](https://www.asha.org.au/pdf/australasian_historical_archaeology/06_04_Ranson.pdf)
+* [US Cave detection](https://www.agiusa.com/sites/default/files/Sting%20Cave.pdf) ([Associated website](https://www.agiusa.com/cave-detection-testing-industry%E2%80%99s-first-electrical-resistivity-imaging-instrument))
+* [Handheld GraviMag](https://www.geotools.com.au/product/title-12/)
+* [MiniSting R1](https://www.geotools.com.au/product/agi-sting-r1-ministing/) & [2D EarthImager Software](https://www.agiusa.com/agi-earthimager-2d)
+

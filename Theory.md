@@ -11,8 +11,8 @@ Psychology
 
 Decompression
 * [Dive Rite - Gradient Factors Explainer](https://www.diverite.com/articles/gradient-factors/)
-* [Eliminating the Helium Penalty](https://www.shearwater.com/monthly-blog-posts/eliminating-helium-penalty/) & Heliox vs Trimix - Mitchell 
-    * Same deco time, but more in shallows
+* [Eliminating the Helium Penalty](https://www.shearwater.com/monthly-blog-posts/eliminating-helium-penalty/) & Heliox vs Trimix 
+    * Same total deco time, but less deep stops & more time in shallows
 * [Avoiding Deep Stops](https://gue.com/blog/gradient-factors-in-a-post-deep-stops-world/) - Doolette (GFLow = 83% of GFHigh) [eg. 60/85 or 50/70]
 * [Metabolism-Based Bubble Model](https://alertdiver.eu/en_US/articles/it-s-the-metabolism-stupid-a-new-model-for-bubble-formation?fbclid=IwAR3fzHqnAMG0Gxa0u3hd-K7puzcPoLO-SoRMZKPlqR-I8g4VjiSAGnxvjAE)
 
