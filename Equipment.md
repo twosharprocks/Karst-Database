@@ -19,11 +19,11 @@ Video Lights
 ### Video
 * [Insta360 X3 ($799)](https://store.insta360.com/product/x3?c=2118&from=nav) [+dive case $149](https://store.insta360.com/product/x3_dive_case?c=2113)
 * [Insta360 X3 Invisible Dive Case](https://store.insta360.com/product/x3-invisible-dive-case)
-- [Insta360 3rd person Baczkpack Mount](https://store.insta360.com/product/third_person_backpack_mount)
+- [Insta360 3rd person Backpack Mount](https://store.insta360.com/product/third_person_backpack_mount)
 ### Other
 * [Drysuit - Seaskin](https://www.seaskin.co.uk/)
-* [CCR- Dive Rite ChOptima](https://deepblueventures.com.au/rebreather/optima-cm-ccr)
-	* CM Scooter Ring - https://diverite.com/products/o2ptima/o2ptima-cm-scooter-ring/
+* [CCR - Dive Rite ChOptima](https://deepblueventures.com.au/rebreather/optima-cm-ccr)
+	* [ChOptima Scooter Ring](https://diverite.com/products/o2ptima/o2ptima-cm-scooter-ring/)
 * [Phone Housing - Divevolk](https://www.divevolkdiving.com/en-au/products/divevolk-seatouch-4max-underwater-iphone-diving-housing-iphone-diving-case-compatiable-for-iphone-12-pro-max-13-pro-13-pro-max?variant=44590317961443)
 * DPV
 	* [TDI Cave DPV](https://www.tdisdi.com/tdi/get-certified/tdi-dpv-cave-diver/)
