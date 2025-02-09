@@ -66,6 +66,7 @@
    * [Zebedee (CSIRO)](https://research.csiro.au/robotics/zebedee/) [JDZ has experience] 
    * [BRIC4](https://www.bricsurvey.com/)
    * [Disto X310](https://lasersurveyingequipment.com.au/product/leica-disto-x310/)
+   * [Mandeye Handheld Scanner](https://www.youtube.com/watch?v=BXBbuSJMFEo) - [Github](https://github.com/JanuszBedkowski/mandeye_controller) - [DJI Mid-360 scanner - $999AUD](https://www.livoxtech.com/mid-360/specs)
    * [GIS for In-Cave Survey](https://cp.cavesurveying.org.uk/index.php)
    * Any Lidar data from Forestry?  
 ## Radiolocators
