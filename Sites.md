@@ -1,10 +1,9 @@
-# Databases
+## Databases
 * [CaveDB.net](https://cavedb.net/)
 * [GrottoCenter](https://grottocenter.org/)
 * [ASF “KID”](http://kid.caves.org.au/kid/users/search/standard) - Credentials `guest:guest`
 * [MapCarta](mapcarta.com/)
-
-TOC
+# TOC
 Oceania
 - Australia - SA, ACT, NSW, Vic, WA, Tasmania, Queensland, NT, Christmas Island
 - NZ - South
@@ -211,6 +210,9 @@ Samar
 ### Thailand
 - Contact Liviu Valenas ([Annual trips](https://www.facebook.com/groups/caversgroup/permalink/10160328662813639))
 - [Blue Label Diving Trips](https://www.bluelabeldiving.com/about-cave-diving-south-thailand/cave-diving-trips-thailand/)
+- [Satun Cave Exploration](https://fb.watch/xcyI8uzTbS/) - Mikko Passi
+	- Southern Thailand, near Malaysian border. system is heading straight toward the heart of the Brayabangsa mountain and the sink holes
+	- 1850 meters with max depth of 30m and it still keeps going.
 # North America
 
 ## Florida
@@ -239,17 +241,18 @@ Samar
 * Colorado - [Spring Cave ](https://en.wikipedia.org/wiki/Spring_Cave)(Only open April 16 - Aug 14), Aspen ([Beaver Divers](https://www.beaverdivers.com/))
 * British Columbia - [Vancouver Island](http://www.cavediver.net/forum/showthread.php/7140-Caves-on-Vancouver-Island-British-Columbia?s=a31f1a0e05071f932947b790ea1bc266), [7 Caves in BC](https://www.narcity.com/amp/7-cool-caves-to-explore-in-british-columbia-this-summer), [Canada’s Deepest Cave](https://www.cbc.ca/amp/1.4488952), [Castleguard](https://www.canadiangeographic.ca/article/subterranean-trailblazers)
 # Central America
-## Yucatan
-* [Mexican Cave Maps ](http://www.mexicancaves.org/maps/?fbclid=IwY2xjawGS4VhleHRuA2FlbQIxMQABHZ4oNZAWyLwJpV0p0CZb2GPudbd-fWd3371aK74woVJXWxg2MNbPbwnTAA_aem_SJHnA5dJsyOUi-RYICCOFw)
-* Tulum (Cenote Angelita), Playa del Carmen, Quintana Roo (Ox Bel Ha, The Pit)
-* [Cave Camp](https://www.cavecamp.com/) [Tulum, 2 weeks in September]
-* Zacaton, Tamaulipas (339m) [Super Deep]
+
 ## Belize
 * Belize - Winter Wonderland
 ## Bahamas
 - Speak to Sam
-
 ## Cayman Islands
+
+## Cuba
+- [Regular expeditions Oct/Nov & Jan/Feb/March](https://www.facebook.com/groups/795192310689730/permalink/2646317708910505)
+- [Tech Diving Cuba](https://www.techdivingcuba.com/) - [Facebook](https://www.facebook.com/techdivingcuba) & [Instagram](https://www.instagram.com/techdivingcuba)
+## Dominican Republic
+
 
 ## Jamaica
 - https://www.jamaicancaves.org/ & https://www.jamaicancaves.org/gps.htm
@@ -257,8 +260,12 @@ Samar
 - [Facebook Post with book excerpts](https://www.facebook.com/groups/caversgroup/posts/10160838712948639/)
 - [Satellite of Green Grotto Caves](https://www.facebook.com/photo?fbid=1305137437284710&set=pcb.10160839007363639)
 
-## Dominican Republic
 
+## Yucatan
+* [Mexican Cave Maps ](http://www.mexicancaves.org/maps/?fbclid=IwY2xjawGS4VhleHRuA2FlbQIxMQABHZ4oNZAWyLwJpV0p0CZb2GPudbd-fWd3371aK74woVJXWxg2MNbPbwnTAA_aem_SJHnA5dJsyOUi-RYICCOFw)
+* Tulum (Cenote Angelita), Playa del Carmen, Quintana Roo (Ox Bel Ha, The Pit)
+* [Cave Camp](https://www.cavecamp.com/) [Tulum, 2 weeks in September]
+* Zacaton, Tamaulipas (339m) [Super Deep]
 
 ---
 # South America

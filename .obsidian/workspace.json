@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment.md",
+                "file": "Sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "Sites"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "06b494a36e00358b",
@@ -160,27 +161,23 @@
   },
   "active": "43af6ccc5e3b6a2b",
   "lastOpenFiles": [
-    "README.md",
-    "5L-Mt_Gambier/Maps/Tartwarp Fault.jpg",
-    "Nullabor_Roe_Plains/README.md",
-    "5L-Mt_Gambier/README.md",
-    "5L-Mt_Gambier/Tartwarp Fault.jpg",
+    "5L-Mt_Gambier/Maps/Site Locations - Mt Gambier.jpg",
     "5L-Mt_Gambier/Maps/Lower South East Cave Reference - Peter Horne.pdf",
+    "5L-Mt_Gambier/Maps/Hydrogeology - Narracoorte.jpg",
     "5L-Mt_Gambier/Maps/Cavities in Mt Gambier Township.pdf",
+    "5L-Mt_Gambier/Maps/5L250 Iddlebiddy - Will Passos (Dec 2023).pdf",
+    "5L-Mt_Gambier/Maps/5L250 Iddlebiddy - Satellite & Photogrammetry.jpg",
+    "5L-Mt_Gambier/Maps/5L230 Tank Cave - Railway Version.jpg",
+    "5L-Mt_Gambier/Maps/5L179 Caveton Park Estate Cave [Report].pdf",
     "5L-Mt_Gambier/Maps/5L158 - The Shaft - CEGSA.gif",
+    "5L-Mt_Gambier/Maps/5L097 Mud Hole & 5L290 Nettlebed.jpg",
+    "5L-Mt_Gambier/Maps/5L084-85 Alleyns Cave (Death Cave).gif",
     "5L-Mt_Gambier/Maps/5L072 PiccaninniePonds 1984-1985 SurveyMap.jpg",
     "5L-Mt_Gambier/Maps/5L072 Piccaninnie Ponds 1984-1985 3D Map.pdf",
     "5L-Mt_Gambier/Maps/5L061 Pines (Bunyips CCR).jpg",
     "5L-Mt_Gambier/Maps/5L019-20 Englebrecht's Cave (Lewy's Fault Lines).jpg",
     "5L-Mt_Gambier/Maps/5L019 Englebrecht's East - EEX Overlay (In Progress).jpg",
-    "5L-Mt_Gambier/Maps/5L011 Allendale.gif",
-    "5L-Mt_Gambier/Maps/5L084-85 Alleyns Cave (Death Cave).gif",
-    "5L-Mt_Gambier/Maps/5L061 Pines - Soggy Wombats.jpg",
-    "5L-Mt_Gambier/Maps/5L250 Iddlebiddy - Will Passos (Dec 2023).pdf",
-    "5L-Mt_Gambier/Maps/5L179 Caveton Park Estate Cave [Report].pdf",
-    "5L-Mt_Gambier/KML_Data/README.md",
     "Ideas.md",
-    "Sites.md",
-    "Theory.md"
+    "Sites.md"
   ]
 }
