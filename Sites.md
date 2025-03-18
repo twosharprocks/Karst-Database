@@ -7,12 +7,17 @@
 Oceania
 - Australia - SA, ACT, NSW, Vic, WA, Tasmania, Queensland, NT, Christmas Island
 - NZ - South
-- Indonesia - Sulawesi, West Papua, West Timor
+- Indonesia - Sulawesi, West Papua, West Timor, Kalimantan
 - Timor-Leste
 - PNG
 - Easter Island
 - Vanuatu
-South-East Asia
+Asia
+- China
+- Japan
+- Philippines
+- Laos
+- Thailand
 North/Central America
 - US - Florida, Texas, Tennessee, Pacific North-West
 - Mexico/Bahamas/Cuba
@@ -174,8 +179,12 @@ North/Central America
 ---
 # Central Asia
 * [China - Guangxi Province - Du’an County](https://www.uw360.asia/the-middle-kingdom/) ([Wetmules Exploration](http://www.wetmules.com/projects/china-cave-exploration)) [Dave Hurst]
-# South-East Asia
-## Phillipines
+# East Asia
+## Japan
+- [Japan Karst & Underwater Exploration Project](https://j-kuep.com/)
+	- Okinawa - [South Daito Island](https://j-kuep.com/pj-southdaito) & [J-KUEP Expedition Details](https://j-kuep.com/recruit-sdiep)
+	- Okinawa - Le-Jima Island
+## Philippines
 - Best Time: November-May (Jan to April are driest)
 - https://adrenalineromance.com/2016/08/12/langun-gobingob-cave-a-mountain-under-a-mountain-part-1/
 - https://www.traveling-up.com/exploring-the-underworld-calbiga-caves-samar/
