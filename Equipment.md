@@ -16,7 +16,6 @@
 	- [Red Arrows (x5) - $6 Ali Express](https://www.aliexpress.com/item/1005002519980821.html)
 	- [2-Colour Personalised Cave Markers - $5/each ](https://divewithjeff.com/product/custom-cave-line-markers-multicolor/) 
 	- [Personalised Cookies](https://cave-ha.com/cave-diving-markers/)
-	- 
 ### Lighting
 Main Lights
 * [DivePro Canister Light](https://varuste.net/en/p99606/divepro-cl4200) ($715) 
