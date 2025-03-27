@@ -11,14 +11,12 @@
             "id": "43af6ccc5e3b6a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Equipment.md",
-                "mode": "source",
-                "source": false
+                "file": "Nullabor_Roe_Plains/Maps/6N47 - Murra-El-Elevyn (Porter, 2024) (High-Res PDF).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Equipment"
+              "icon": "lucide-file-text",
+              "title": "6N47 - Murra-El-Elevyn (Porter, 2024) (High-Res PDF)"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 457.5
   },
   "right": {
     "id": "06b494a36e00358b",
@@ -161,23 +159,29 @@
   },
   "active": "43af6ccc5e3b6a2b",
   "lastOpenFiles": [
-    "Ideas.md",
+    "Nullabor_Roe_Plains/Maps/6N47 - Murra-El-Elevyn (Porter, 2024).png",
+    "Nullabor_Roe_Plains/Maps/6N47 - Murra-El-Elevyn (Porter, 2024) (High-Res PDF).pdf",
+    "Nullabor_Roe_Plains/Maps/2c57ba4a-a97f-49bd-8d1c-32328026f156.pdf",
+    "Nullabor_Roe_Plains/Maps/6N47 - Murra El Elevyn (Unknown).jpg",
+    "Nullabor_Roe_Plains/Maps/Slot - Upstream - Line Survey (Richards, 2022).jpg",
+    "Nullabor_Roe_Plains/Maps/6N920 - Olwolgin (DWG, 2019).pdf",
+    "Nullabor_Roe_Plains/Maps/6N920 - Olwolgin (DWG, 2022) (A0 size - north up).pdf",
+    "Nullabor_Roe_Plains/Maps/6N920 - Olwolgin (DWG, 2022) (A0 size).pdf",
+    "Nullabor_Roe_Plains/Maps/6N920 - Olwolgin - Upstream (2002).jpg",
+    "Nullabor_Roe_Plains/Maps/6N48 - Cocklebiddy Part 3.jpg",
+    "Nullabor_Roe_Plains/Maps/6N48 - Cocklebiddy Part 1.jpg",
+    "Nullabor_Roe_Plains/Maps/6N305 - Burnabbie - Line Survey (Richards, 2022).jpg",
+    "Nullabor_Roe_Plains/Maps/README.md",
+    "Nullabor_Roe_Plains/Maps/6N47 - Murra El Elevyn (Unknown).jpg.crdownload",
+    "Nullabor_Roe_Plains/Maps/6N-47 - Murra-El-Elevyn (Porter, 2024).png.crdownload",
+    "Nullabor_Roe_Plains/Maps/6N48 - Cocklebiddy - All.jpg",
+    "Nullabor_Roe_Plains/Maps/6N49 - Pannikin Plains.pdf",
+    "Nullabor_Roe_Plains/Maps/6N47 - Murra El Elevyn (Bicanic, 2022).jpg",
+    "Nullabor_Roe_Plains/Maps/6N920 - Olwolgin - Downstream (Kaczkowski).jpg",
     "Equipment.md",
+    "Ideas.md",
     "Sites.md",
-    "5L-Mt_Gambier/Maps/Site Locations - Mt Gambier.jpg",
     "5L-Mt_Gambier/Maps/Lower South East Cave Reference - Peter Horne.pdf",
-    "5L-Mt_Gambier/Maps/Hydrogeology - Narracoorte.jpg",
-    "5L-Mt_Gambier/Maps/Cavities in Mt Gambier Township.pdf",
-    "5L-Mt_Gambier/Maps/5L250 Iddlebiddy - Will Passos (Dec 2023).pdf",
-    "5L-Mt_Gambier/Maps/5L250 Iddlebiddy - Satellite & Photogrammetry.jpg",
-    "5L-Mt_Gambier/Maps/5L230 Tank Cave - Railway Version.jpg",
-    "5L-Mt_Gambier/Maps/5L179 Caveton Park Estate Cave [Report].pdf",
-    "5L-Mt_Gambier/Maps/5L158 - The Shaft - CEGSA.gif",
-    "5L-Mt_Gambier/Maps/5L097 Mud Hole & 5L290 Nettlebed.jpg",
-    "5L-Mt_Gambier/Maps/5L084-85 Alleyns Cave (Death Cave).gif",
-    "5L-Mt_Gambier/Maps/5L072 PiccaninniePonds 1984-1985 SurveyMap.jpg",
-    "5L-Mt_Gambier/Maps/5L072 Piccaninnie Ponds 1984-1985 3D Map.pdf",
-    "5L-Mt_Gambier/Maps/5L061 Pines (Bunyips CCR).jpg",
-    "5L-Mt_Gambier/Maps/5L019-20 Englebrecht's Cave (Lewy's Fault Lines).jpg"
+    "5L-Mt_Gambier/Maps/Cavities in Mt Gambier Township.pdf"
   ]
 }
