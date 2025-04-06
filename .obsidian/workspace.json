@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory.md",
+                "file": "Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory"
+              "title": "Equipment"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "06b494a36e00358b",
@@ -159,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84addc8252db02de",
+  "active": "43af6ccc5e3b6a2b",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Equipment.md",
+    "README.md",
+    "Theory.md",
+    "Regions/Sites.md",
     "Regions/Yucatan/NoHoch.tml",
     "Regions/Yucatan/Nohoch.kml",
     "Regions/Yucatan",
@@ -172,7 +177,6 @@
     "Regions/5L - Mt Gambier/KML_Data/Pines April 2022.kml",
     "Regions/5L - Mt Gambier/KML_Data/Nettlebed.kml",
     "Regions/5L - Mt Gambier/KML_Data/Iddlebiddy.kml",
-    "Regions/5L - Mt Gambier/KML_Data/Englebrecht's West.kml",
     "Regions/5L - Mt Gambier/MNemo_Data/README.md",
     "Regions/5L - Mt Gambier/Maps/Tartwarp Fault.jpg",
     "Regions/5L - Mt Gambier/Maps/Site Locations - Mt Gambier.jpg",
@@ -194,10 +198,6 @@
     "Regions/5L-Mt_Gambier/MNemo_Data/README.md",
     "Regions/5L-Mt_Gambier/Maps/README.md",
     "Regions/5L-Mt_Gambier/KML_Data/README.md",
-    "Sites.md",
-    "README.md",
-    "Equipment.md",
-    "Ideas.md",
     "5L-Mt_Gambier/Maps/README.md",
     "Regions/Nullabor_Roe_Plains/Maps/README.md"
   ]

@@ -36,25 +36,31 @@ Video Lights
 
 ### DPV
 * [TDI Cave DPV](https://www.tdisdi.com/tdi/get-certified/tdi-dpv-cave-diver/)
-* [DiveX BlackTip Tech](https://dive-xtras.com/products/tech-blacktip) (US$1900 + $500AUD Shipping + 12Ah [batteries](https://www.bunnings.com.au/dewalt-18-54v-12-0ah-xr-flexvolt-battery_p0079389) [2x $319])
+* [DiveX BlackTip Tech](https://dive-xtras.com/products/tech-blacktip) - US$1900 + $500AUD Shipping + 12Ah [batteries](https://www.bunnings.com.au/dewalt-18-54v-12-0ah-xr-flexvolt-battery_p0079389) (2x $319)
 * [DiveX Piranha P2](https://www.sport-instruments.com/product/divex-piranha-p2/#) (US$3100 from Indonesia) or [ALTERNATIVE](https://terminalmarine.com/diving-equipment/197-dive-x-piranha-p2-dive-scooter.html) or [ALTERNATIVE](https://www.sportindopratama.com/product/divex-piranha-p2/)
 * [DiveX Piranha P3](https://www.sport-instruments.com/product/divex-piranha-p3/) (US$3670 from Indonesia)
 ### Other
-* [Drysuit - Seaskin](https://www.seaskin.co.uk/)
-* [CCR - Dive Rite ChOptima](https://deepblueventures.com.au/rebreather/optima-cm-ccr)
-	* [ChOptima Scooter Ring](https://diverite.com/products/o2ptima/o2ptima-cm-scooter-ring/)
+* Drysuit
+	* [Seaskin](https://www.seaskin.co.uk/)
+	* O'Three - [Ri-2-100](https://www.othree.co.uk/drysuit-range/ri-2-100-drysuit/)
+* CCR
+	* [Dive Rite ChOptima](https://deepblueventures.com.au/rebreather/optima-cm-ccr) & [ChOptima Scooter Ring](https://diverite.com/products/o2ptima/o2ptima-cm-scooter-ring/)
 * Music - [Bone-conducting Headphones](https://tayogo.com/products/tayogo-w02-upgraded-waterproof-bluetooth-bone-conduction-headphone)
 * Phone Housings - [Divevolk](https://www.divevolkdiving.com/en-au/products/divevolk-seatouch-4max-underwater-iphone-diving-housing-iphone-diving-case-compatiable-for-iphone-12-pro-max-13-pro-13-pro-max?variant=44590317961443) or [Pixel Case for watching movies?](https://www.ebay.com.au/itm/196358153815) or 
-- Survey - [Night Vision Rangefinder with Digital Compass (US$389)](https://buyospreyglobal.com/night-vision-range-finder/) (or check Ebay for ~$300US)
 * [Lift Bag - Ali Express ($36-45)](https://www.aliexpress.com/item/4001101513566.html)
 * [Tech Shorts - 3mm Neoprene ($40-45)](https://www.ebay.com.au/itm/226035866029)
 * [T-Shirt - “Don’t Follow Me I Do Stupid Things”](https://teechip.com/01cave-diving) 
 # Caving & SRT
-
 ## Caving
-* [Black Diamond Helmet](https://www.amazon.com/Black-Diamond-Climbing-Helmet-Denim/dp/B07KXZ133N/ref=sr_1_2?keywords=Black+Diamond+Equipment+Half+Dome+Helmet&qid=1668566757&sr=8-2)
-* [Headlamp - ArgoLamp](https://www.argolamp.com/EN-index.html)
-* [Kevlar Knee Pads - DIY from UK](https://www.ebay.com.au/itm/KNEE-PADS-FOR-DIY-FITTING-PAIR-/393570369670)
+* Helmets - [Black Diamond Half Dome](https://www.amazon.com/Black-Diamond-Climbing-Helmet-Denim/dp/B07KXZ133N/ref=sr_1_2?keywords=Black+Diamond+Equipment+Half+Dome+Helmet&qid=1668566757&sr=8-2)
+* Headlamps - [ArgoLamp](https://www.argolamp.com/EN-index.html) Buy [Proteus Shop ](https://proteushop.com/it/luci/93798-argolamp-20-pro-luce-bianca.html)
+* Kevlar Knee Pads - [DIY from UK](https://www.ebay.com.au/itm/KNEE-PADS-FOR-DIY-FITTING-PAIR-/393570369670)
+* Survey - [Thermal Imaging - Rugged Phone](https://phonemax.com/products/phonemax-r4gtax-r4gt)
+* Survey - [NV Rangefinder w/ digital compass (US$389)](https://buyospreyglobal.com/night-vision-range-finder/) (or check Ebay for ~$300US)
+* Aspiring Safety
+	* [Caving Suit ($399NZ - Medium)](https://www.aspiring.co.nz/product/caving-overalls/)
+	- [Caving Pack ($215NZ - 55L)](https://www.aspiring.co.nz/product/aspiring-large-caving-pack-55l/) and/or [Small Caving Pack - $93NZ - 15L](https://www.aspiring.co.nz/product/small-cave-pack-15l/)
+	- [Neoprene Socks - ($32NZ - Small)](https://www.aspiring.co.nz/product/aspiring-neoprene-socks-3mm/)
 ### SRT
 * Essential SRT Gear List
 	* Ascenders: hand, chest, and foot

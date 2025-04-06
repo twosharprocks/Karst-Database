@@ -15,8 +15,9 @@
     * Study SAR imagery?
     * [Restriction Grades](https://www.surveydown.com/restriction-grades) - SurveyDown (Add this to all future maps)
 ## Photogrammetry
-* [Standard photography for 3D mapping](https://lizrogersphotography.com/2012/10/3d-mapping-the-pillar-in-tank-cave/) Liz Rogers
-   * Best result are from fixed lights and moving camera (hi-res stills? 4x GoPros on rig taking a still every 1-3 seconds?)
+* Liz Rogers - [Standard photography for 3D mapping](https://lizrogersphotography.com/2012/10/3d-mapping-the-pillar-in-tank-cave/) 
+	* Best result are from fixed lights and moving camera (Hi-res stills?)
+	* Will - 4x GoPros on rig taking a still every 1-3 seconds
 * [Reddit - Cave Photogrammetry Discussion](https://www.reddit.com/r/photogrammetry/comments/vkq95n/software_advice_for_insideout_cave_mapping/)
 * [GitHub - OrbSLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 * [GitHub - RTAB-Map](https://github.com/introlab/rtabmap/wiki) & [Explainer](https://introlab.github.io/rtabmap/)
@@ -30,7 +31,7 @@
    * [Run Photogrammetry in the Cloud - AWS How-To](https://www.instructables.com/Run-Photogrammetry-in-the-Cloud/)
    * [MaxCloudOn](https://photogrammetry.maxcloudon.com/) - Dedicated photogrammetry service with $20 credit
 ## UW 360 camera
-* 3D Experience for diving Pines
+* 3D Experience for diving a cave (Pines?)
    * [Jennifer Adler](https://myemail.constantcontact.com/WALKING-ON-WATER--Presentation-by-Jennifer-Adler.html?soid=1109987089137&aid=L7saoyUY6jY) - “Walking on Water”
    * Interactive book/website - QR codes (like Niamh’s) leading to 3D cave models
    * Use for training to prepare and orient divers (stay simple)
@@ -42,7 +43,7 @@
     * VR system showcased at OzTek by JDZ & Wayne Johnson (Unity Engine)
         * [Oculus Rift](https://www.amazon.com.au/Oculus-Rift-PC-Powered-Gaming-Headset/dp/B07PTMKYS7) 
         * [Google Earth in VR](https://venturebeat.com/2017/04/22/google-earth-in-vr-is-so-beautiful-that-it-made-me-cry/)
-* Mantis Sub
+* Lighting & Processing
 	* [Photogrammetry with 360deg Camera](https://axel-busch.medium.com/how-to-quickly-create-a-3d-model-from-360-underwater-video-in-1h-or-less-b45b1cf29655)
 	* [Best Lighting for 360 camera](https://www.mantis-sub.com/academy/best-lighting-for-underwater-360-video)
 	- [Buy - Insta360 RS 1inch 360](https://store.insta360.com/product/one_rs_1_inch_360)
@@ -62,7 +63,8 @@
    * [GIS for In-Cave Survey](https://cp.cavesurveying.org.uk/index.php)
    * Any Lidar data from Forestry?  
 ## Radiolocators
-* Pingers - [CDAA Page](http://www.cavedivers.com.au/simple-underwater-radiolocation-system), [CDG](ttps://cdg.caves.org.au/CDG-Articles/SA/SMITH-ThePingerSA2008.pdf) & Aren Leishman
+* Pingers - [CDAA Page](http://www.cavedivers.com.au/simple-underwater-radiolocation-system) & [CDG](ttps://cdg.caves.org.au/CDG-Articles/SA/SMITH-ThePingerSA2008.pdf) 
+	* Aren Leishman (working with Ken to standardise)
 * [DIY Radiolocator Kits](https://radiolocation.weebly.com/basic-1--basic2-radios.html)
 * Thumpers (JDZ)
 * Cocklebiddy Cache (Contains ground-wave SMS device?)
