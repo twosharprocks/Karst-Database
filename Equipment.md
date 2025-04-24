@@ -58,7 +58,7 @@ Video Lights
 * Survey - [Thermal Imaging - Rugged Phone](https://phonemax.com/products/phonemax-r4gtax-r4gt)
 * Survey - [NV Rangefinder w/ digital compass (US$389)](https://buyospreyglobal.com/night-vision-range-finder/) (or check Ebay for ~$300US)
 * Aspiring Safety
-	* [Caving Suit ($399NZ - Medium)](https://www.aspiring.co.nz/product/caving-overalls/)
+	* [Caving Suit ($399NZ - SMALL)](https://www.aspiring.co.nz/product/caving-overalls/)
 	- [Caving Pack ($215NZ - 55L)](https://www.aspiring.co.nz/product/aspiring-large-caving-pack-55l/) and/or [Small Caving Pack - $93NZ - 15L](https://www.aspiring.co.nz/product/small-cave-pack-15l/)
 	- [Neoprene Socks - ($32NZ - Small)](https://www.aspiring.co.nz/product/aspiring-neoprene-socks-3mm/)
 ### SRT
