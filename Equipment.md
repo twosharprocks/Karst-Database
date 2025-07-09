@@ -1,3 +1,5 @@
+Tags: [[Diving]] [[Diving - Equipment]]
+
 ---
 ### Reels, Spools, Cookies
 * Big Reels

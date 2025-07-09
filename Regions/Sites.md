@@ -1,8 +1,9 @@
+Tags: [[Diving]], [[Caving]]
 ## Databases
 * [CaveDB.net](https://cavedb.net/)
 * [GrottoCenter](https://grottocenter.org/)
 * [ASF “KID”](http://kid.caves.org.au/kid/users/search/standard) - Credentials `guest:guest`
-* [MapCarta](mapcarta.com/)
+* [MapCarta](https://mapcarta.com/)
 # TOC
 Oceania
 - Australia - SA, ACT, NSW, Vic, WA, Tasmania, Queensland, NT, Christmas Island
@@ -78,7 +79,7 @@ North/Central America
 * Cocklebiddy
 	* [“Cocklebiddy - Alpine Style”](https://cdg.caves.org.au/CDG-Articles/Articles/S-EBERHARD-CocklebiddyAlpineStyle1998.pdf) (CCR & DPV)
 	* Set Clear Goals (Toad Hall)
-	* [Dive Addiction - Joseph Bicanic](Diveaddiction.me)
+	* [Dive Addiction - Joseph Bicanic](https://www.diveaddiction.me)
 * Tommy Graham's
 	* May have more sumps (DiverNet article)
 * Pannikin Plains

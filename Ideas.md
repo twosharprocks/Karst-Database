@@ -1,3 +1,4 @@
+Tags: [[Diving]] [[Caving]] [[Trips]]
 # Nullabor Trip Planning
 - Python? Excel sheet?
     * “What to Expect” at each cave site 
