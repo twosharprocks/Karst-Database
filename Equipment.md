@@ -1,4 +1,4 @@
-Tags: [[Diving]] [[Diving - Equipment]]
+Tags: [[Diving]] [[Diving - Gear]]
 
 ---
 ### Reels, Spools, Cookies
