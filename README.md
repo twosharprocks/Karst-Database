@@ -2,8 +2,11 @@ Tags: [[Diving]], [[Caving]], [[Interests]]
 
 # Karst-Database
 A database of karst information for cavers & divers
-
 # Interesting Links
+General
+- [NSS-CDS Underwater Speleology Magazine](https://nsscds.org/uws/)
+- [Shearwater CCR Library](https://shearwater.com/pages/rebreather)
+
 Planning
 * [Rebreather Rule of Thirds](http://www.cavedivers.com.au/rebreather-gas-management-vs-the-rule-of-thirds) (JDZ)
 * [Cave DPV Planning](http://www.divegainesville.org/cave-dpv-dive-planning/)
@@ -11,11 +14,11 @@ Planning
 * [GUE Standard Gases](https://www.baue.org/procedures/standardmixes.php)
 
 Psychology
-* [“Slow Down Young Fella”](https://www.tdisdi.com/tdi-diver-news/slow-down-young-fella-attitudes-in-technical-diving/) Tech Attitudes
+* [“Slow Down Young Fella”](https://www.tdisdi.com/tdi-diver-news/slow-down-young-fella-attitudes-in-technical-diving/)
 * [Lessons From Overhead](https://dtmag.com/thelibrary/cave-diving-overhead-environment/)
 * [Cave Stress Control](https://www.protecblog.com/641/psychological-adjustment-and-stress-control/)
 
-Decompression
+Decompression Theory
 * [Dive Rite - Gradient Factors Explainer](https://www.diverite.com/articles/gradient-factors/)
 * [Eliminating the Helium Penalty](https://www.shearwater.com/monthly-blog-posts/eliminating-helium-penalty/) & Heliox vs Trimix 
     * Same total deco time, but less deep stops & more time in shallows
@@ -28,3 +31,4 @@ Super Deep
 * [Jim Bowden - Zacaton](https://www.tdisdi.com/aquacorps/jim-bowden/)
 * [Hydrogen Diving: The Good, The Bad, the Ugly](https://johnclarkeonline.com/2021/03/07/hydrogen-in-diving-the-good-the-bad-the-ugly/)
 * [N=1: The Inside Story of the First-Ever Hydrogen CCR Dive](https://gue.com/blog/n1-the-inside-story-of-the-first-ever-h2-ccr-dive/)
+
