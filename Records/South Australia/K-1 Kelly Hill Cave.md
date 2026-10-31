@@ -1,0 +1,24 @@
+---
+title: "K-1 Kelly Hill Cave"
+created: 2023-06-28
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -35.98098847079052
+longitude: 136.90738320350647
+suburb: "Karatta"
+aliases:
+  - "K-1"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/a819a068-5d99-4266-92fa-89f667277d7f.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "51 m"
+address: "Hanson Bay Hike, Karatta, South Australia, AUS, 5223"
+reference: "K-1"
+system_name: "Kelly Hill"
+---
+
+

@@ -1,0 +1,24 @@
+---
+title: "Sinkhole - e2c8f486"
+created: 2023-08-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -37.68583000000001
+longitude: 140.606316
+suburb: "Glencoe"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/e2c8f486-a33f-46ef-b78e-b60a0d34746e.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "66 m"
+address: "232, Glencoe Rd, Glencoe, South Australia, AUS, 5291"
+vertical_access: "No"
+exploration_potential: "Low"
+disabled_access_potential: "Low"
+goes_to_water: "No"
+---
+
+

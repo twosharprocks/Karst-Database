@@ -1,0 +1,23 @@
+---
+title: "Vrelo Sanice"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.652432999999974
+longitude: 16.577377999999953
+state: "Federacija Bosne i Hercegovine"
+suburb: "Ključ"
+region: "[[Bosnia & Herzegovina]]"
+cavedb: "https://app.cavedb.net/share/9cae170d-2224-477a-a540-942fd8eb6a6f.html"
+catalog-type: "cave"
+altitude: "502 m"
+address: "Rijeka, Ključ, Federacija Bosne i Hercegovine, BIH, 79285"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

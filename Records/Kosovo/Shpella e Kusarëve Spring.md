@@ -1,0 +1,19 @@
+---
+title: "Shpella e Kusarëve Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Kosovo]]"
+verification: "unverified"
+---
+
+# Notes
+
+Shpella e Kusarëve Spring, 42.4834, 20.3786,
+
+# References
+
+- [Kosovo](../Regions/Kosovo.md)

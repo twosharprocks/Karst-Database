@@ -1,0 +1,23 @@
+---
+title: "Source Du Planey"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 47.87821700000001
+longitude: 6.231837000000041
+state: "Bourgogne-Franche-Comté"
+suburb: "Anjeux"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/86e3ad76-f39c-4094-8abe-3c997e8408ad.html"
+catalog-type: "cave"
+altitude: "242 m"
+address: "Anjeux, Bourgogne-Franche-Comté, FRA, 70800"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

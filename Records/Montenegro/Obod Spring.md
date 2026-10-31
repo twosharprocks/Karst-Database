@@ -1,0 +1,19 @@
+---
+title: "Obod Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Montenegro]]"
+verification: "unverified"
+---
+
+# Notes
+
+Obod Spring, 42.3674, 19.0262,
+
+# References
+
+- [Montenegro](../Regions/Montenegro.md)

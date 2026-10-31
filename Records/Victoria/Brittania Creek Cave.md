@@ -1,0 +1,34 @@
+---
+title: "Brittania Creek Cave"
+created: 2024-01-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -37.79276999999999
+longitude: 145.67111999999997
+suburb: "Wesburn"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/22e432b8-cd64-477e-bb27-8978c0be2157.html"
+catalog-type: "cave"
+sub-region: "[[Victoria]]"
+altitude: "315 m"
+address: "Britannia Creek Rd, Wesburn, Victoria, AUS, 3799"
+vertical_access: "No"
+tourism_potential: "High"
+---
+
+# About
+
+From [https://www.greatforestnationalpark.com.au/attraction/brittania-creek-caves/](https://www.greatforestnationalpark.com.au/attraction/brittania-creek-caves/)
+
+Brittania Creek Cave is a unique attraction within the Great Forest National Park that is a short 10 minute drive from Yarra Junction and 15 minute drive from Warburton. Tucked amongst Manna Gums (Eucalyptus viminalis) with the sound of trickling water echoing from beneath the forest floor an underground labyrinth awaits you. There is signed access into the main cave which is a simple route that involves several tight squeezes. It is essential to pack a head torch and clothes that you don’t mind getting muddy for this one. Quieten your mind to allow the tranquil sound of flowing water to echo through you and access the deep peace that this experience can emanate. Unique fungi and insects can be witnessed, including incredible glow worms! You can do it on your own accord but please take care.
+
+# Images
+
+- [Brittania Creek Cave - 2024-01-12 06.21.20 - a7942fd1-22e432b8](../../Assets/438f9dc543df7d7ba9e625ef22f28ce8e7eaede1c4c60d1c55ad3e252b257e30.jpg)
+
+# References
+
+- [aad42094-957e-4deb-84b4-f6eee15a1c0e](https://www.youtube.com/watch?v=SWVdj434Ajw)

@@ -1,0 +1,25 @@
+---
+title: "Bendethera Cave"
+created: 2023-06-28
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -35.926710000000014
+longitude: 149.70666499999993
+suburb: "Deua"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/7dffb9a3-f36b-4901-a14f-39be606dfa36.html"
+catalog-type: "cave"
+sub-region: "[[New South Wales]]"
+altitude: "451 m"
+address: "Bendethera Caves Walking Trl, Deua, New South Wales, AUS, 2537"
+source: "National Parks NSW"
+vertical_access: "No"
+tourism_potential: "Low"
+---
+
+# References
+
+- [National Parks NSW](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/bendethera-valley-campground)

@@ -1,0 +1,26 @@
+---
+title: "Devils Slack Tub"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.593279999999993
+longitude: -82.17268999999999
+suburb: "Sumter County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/daee48d9-cb46-4094-a77a-e6c479f895fe.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "21 m"
+address: "11283-11201, Co Rd 682, Sumter County, Florida, USA, 33597"
+cave_rating: "Basic"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

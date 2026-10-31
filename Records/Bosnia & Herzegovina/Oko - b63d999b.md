@@ -1,0 +1,26 @@
+---
+title: "Oko - b63d999b"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.701590619970034
+longitude: 16.463248729705015
+state: "Federation of Bosnia and Herzegovina"
+suburb: "Una-Sana Canton"
+region: "[[Bosnia & Herzegovina]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/b63d999b-71e6-4c7a-b373-703006d897e0.html"
+catalog-type: "cave"
+altitude: "389 m"
+address: "Cesta Bez Naziva, Una-Sana Canton, Federation of Bosnia and Herzegovina, BIH"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

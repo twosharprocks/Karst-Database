@@ -1,0 +1,22 @@
+---
+title: "Pálvölgyi-Mátyáshegyi System [hu]"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 47.532899999999984
+longitude: 19.014999999999986
+state: "Budapest"
+suburb: "Budapest"
+region: "[[Hungary]]"
+cavedb: "https://app.cavedb.net/share/e528c9c8-d017-4147-99ff-ec6844e43d9d.html"
+catalog-type: "cave"
+altitude: "226 m"
+address: "27, Pálvölgyi út, Budapest, Budapest, HUN, 1025"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "31000 m"
+---
+
+

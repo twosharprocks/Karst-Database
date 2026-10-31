@@ -1,0 +1,21 @@
+---
+title: "Laufbalavatn"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 63.91129999999998
+longitude: -19.378349999999955
+state: "Rangárþing ytra"
+region: "[[Iceland]]"
+cavedb: "https://app.cavedb.net/share/c54701c5-63c7-4283-96e0-3f19604e9292.html"
+catalog-type: "cave"
+altitude: "749 m"
+address: "F210, Rangárþing ytra, ISL, 851"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "5013 m"
+---
+
+

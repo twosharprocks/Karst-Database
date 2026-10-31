@@ -1,0 +1,26 @@
+---
+title: "Trout Creek Spring"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.090840000000014
+longitude: -82.34796
+suburb: "Hillsborough County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/9c19c0e9-a722-4c06-be3e-eb78e34619ab.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "7 m"
+address: "7519, Yardley Way, Hillsborough County, Florida, USA, 33592"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

@@ -1,0 +1,23 @@
+---
+title: "Cave Point Cave"
+created: 2023-08-02
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -36.025428000000005
+longitude: 136.96474899999998
+suburb: "Karatta"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/9289adb4-555b-4393-b9c2-7b491adb97f9.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "23 m"
+address: "Karatta, South Australia, AUS, 5223"
+goes_to_water: "Yes"
+---
+
+# About
+
+Large Sea cave

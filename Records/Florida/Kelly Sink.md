@@ -1,0 +1,26 @@
+---
+title: "Kelly Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.315600000000018
+longitude: -84.29237999999998
+suburb: "Leon County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/c52ccaa9-cab4-4a1b-8a98-622305cdcc52.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "4 m"
+address: "9135-8911, Ranchero Rd, Leon County, Florida, USA, 32305"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

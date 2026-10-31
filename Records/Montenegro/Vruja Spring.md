@@ -1,0 +1,19 @@
+---
+title: "Vruja Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Montenegro]]"
+verification: "unverified"
+---
+
+# Notes
+
+Vruja Spring, 43.0345, 19.7936,
+
+# References
+
+- [Montenegro](../Regions/Montenegro.md)

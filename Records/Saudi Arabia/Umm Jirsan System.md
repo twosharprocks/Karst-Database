@@ -1,0 +1,22 @@
+---
+title: "Umm Jirsan System"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 25.588610000000017
+longitude: 39.756939999999986
+state: "Al Madinah Province"
+suburb: "Khyber"
+region: "[[Saudi Arabia]]"
+cavedb: "https://app.cavedb.net/share/e8eb637e-fe6d-4724-a78f-fc2b5d2b8261.html"
+catalog-type: "cave"
+altitude: "1183 m"
+address: "Khyber, Al Madinah Province, SAU, 43863"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "1481 m"
+---
+
+

@@ -1,0 +1,26 @@
+---
+title: "Gadsen Spring"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.684440600000016
+longitude: -85.3163323
+suburb: "Jackson County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/ab18bdc0-08d0-4655-9940-8fa3b552d970.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "29 m"
+address: "1573, Co Rd 167, Jackson County, Florida, USA, 32448"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

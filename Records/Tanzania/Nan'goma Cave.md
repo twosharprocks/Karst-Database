@@ -1,0 +1,22 @@
+---
+title: "Nan'goma Cave"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -8.511443999999983
+longitude: 38.88352800000007
+state: "Lindi Region"
+suburb: "Kilwa"
+region: "[[Tanzania]]"
+cavedb: "https://app.cavedb.net/share/e18f57c9-2015-4aa8-861f-2585e75bdbce.html"
+catalog-type: "cave"
+altitude: "504 m"
+address: "Kilwa, Lindi Region, TZA"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "7510 m"
+---
+
+

@@ -1,0 +1,22 @@
+---
+title: "Diros cave [el]"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 36.638360000000034
+longitude: 22.380660000000034
+state: "Decentralized Administration of Peloponnese, Western Greece and the Ionian"
+suburb: "Peloponnese Region"
+region: "[[Greece]]"
+cavedb: "https://app.cavedb.net/share/eaf09f89-d0f1-46e3-8490-5e0ee8a338ea.html"
+catalog-type: "cave"
+altitude: "6 m"
+address: "Odos Hvris Onomasia, Peloponnese Region, Decentralized Administration of Peloponnese, Western Greece and the Ionian, GRC, 230 62"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "15400 m"
+---
+
+

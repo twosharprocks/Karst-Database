@@ -1,0 +1,22 @@
+---
+title: "Unnamed - b7c7868e"
+created: 2023-06-28
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -15.038749999999993
+longitude: 128.598933
+suburb: "Cambridge Gulf"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/b7c7868e-34b2-401d-9ac9-9e0fb7e4478c.html"
+catalog-type: "cave"
+sub-region: "[[Western Australia]]"
+altitude: "17 m"
+address: "Cambridge Gulf, Western Australia, AUS, 6743"
+---
+
+# About
+
+[Potential Cave](../South%20Australia/Potential%20Cave.md) site - unsure of source

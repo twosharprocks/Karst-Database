@@ -1,0 +1,23 @@
+---
+title: "Grotte de l'Oule"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.43307900000002
+longitude: 1.8543529999999464
+state: "Occitanie"
+suburb: "Saint-Jean-de-Laur"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/6e7b2fda-1ea0-46f8-92e2-f37810ba8a5f.html"
+catalog-type: "cave"
+altitude: "219 m"
+address: "65, Lieu-dit Mas de Sartre, Saint-Jean-de-Laur, Occitanie, FRA, 46260"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

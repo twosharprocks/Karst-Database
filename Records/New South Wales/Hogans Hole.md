@@ -1,0 +1,20 @@
+---
+title: "Hogans Hole"
+created: 2024-11-21
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -34.802719999999994
+longitude: 150.01860999999997
+suburb: "Bungonia"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/c5062aec-1fa9-4fbf-a006-b88b9d25ff44.html"
+catalog-type: "cave"
+sub-region: "[[New South Wales]]"
+altitude: "541 m"
+address: "Bungonia Gorge Walk, Bungonia, New South Wales, AUS, 2580"
+---
+
+

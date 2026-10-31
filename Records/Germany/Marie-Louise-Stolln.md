@@ -1,0 +1,23 @@
+---
+title: "Marie-Louise-Stolln"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 50.87503700000002
+longitude: 13.949391999999989
+state: "Sachsen"
+suburb: "Bad Gottleuba-Berggießhübel"
+region: "[[Germany]]"
+cavedb: "https://app.cavedb.net/share/60ed9601-1039-492f-b3a0-dd9ccc112e73.html"
+catalog-type: "cave"
+altitude: "293 m"
+address: "1, Siedlung, Bad Gottleuba-Berggießhübel, Sachsen, DEU, 01816"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

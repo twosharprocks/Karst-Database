@@ -1,0 +1,24 @@
+---
+title: "Clearing - 27552f7f"
+created: 2023-07-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "NotFound"
+latitude: -37.68490700000001
+longitude: 140.55278899999996
+suburb: "Tantanoola"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/27552f7f-6fe2-4811-b0f9-bede2bc4d2d9.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "87 m"
+address: "Kennedys Trak, Tantanoola, South Australia, AUS, 5280"
+vertical_access: "No"
+goes_to_water: "No"
+---
+
+# About
+
+2021-Aug: MW flew over with drone. Large clearing in forest, no obvious karst.

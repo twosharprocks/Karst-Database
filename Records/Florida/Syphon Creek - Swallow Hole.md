@@ -1,0 +1,26 @@
+---
+title: "Syphon Creek - Swallow Hole"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.854179999999985
+longitude: -82.72721999999999
+suburb: "Gilchrist County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/558fdd05-7fca-4258-8bfa-a91f94032a79.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "7 m"
+address: "5287-5523, Co Rd 138, Gilchrist County, Florida, USA, 32643"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

@@ -1,0 +1,28 @@
+---
+title: "The Lips"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.768711999999994
+longitude: -82.73713099999998
+suburb: "Citrus County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/732364a7-95e4-4032-b1ca-043027322ba3.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "0 m"
+address: "Citrus County, Florida, USA"
+cave_rating: "Basic"
+highest_cave_rating: "Basic"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+# Source notes
+
+Fissure crack in 5' of water bells out to large room with depths exceeding 140', Clear feshwater on the bottom. No goiong cave passade

@@ -1,0 +1,20 @@
+---
+title: "Thep Pratan"
+created: 2025-10-02
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 8.168774999999982
+longitude: 98.88182400000005
+state: "Krabi"
+suburb: "Mueang Krabi District"
+region: "[[Thailand]]"
+cavedb: "https://app.cavedb.net/share/f3ce1088-1d14-4de7-9418-988c52f42c37.html"
+catalog-type: "cave"
+altitude: "137 m"
+address: "Tanon Tee Maimi Shue, Mueang Krabi District, Krabi, THA, 81000"
+---
+
+

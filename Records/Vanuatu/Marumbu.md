@@ -1,0 +1,25 @@
+---
+title: "Marumbu"
+created: 2025-01-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -15.578888888888883
+longitude: 167.1483333333333
+state: "Sanma Province"
+suburb: "Canal - Fanafo"
+region: "[[Vanuatu]]"
+cavedb: "https://app.cavedb.net/share/a894e6f3-b379-4e89-85d3-459384be06ea.html"
+catalog-type: "cave"
+altitude: "54 m"
+address: "Canal - Fanafo, Sanma Province, VUT"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "20 m"
+---
+
+# About
+
+Depth : Nonem
+Length : 20m

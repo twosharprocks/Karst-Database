@@ -1,0 +1,23 @@
+---
+title: "Source de la Finou"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.87976800000001
+longitude: 1.6158809999999448
+state: "Occitanie"
+suburb: "Montvalent"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/da8c4c29-fe46-4702-a68c-7adfb0889f76.html"
+catalog-type: "cave"
+altitude: "138 m"
+address: "Montvalent, Occitanie, FRA, 46600"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

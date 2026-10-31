@@ -1,0 +1,30 @@
+---
+title: "Unnamed Forestry - 412a830e"
+created: 2023-07-31
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "RockyOutcrop"
+latitude: -37.97616500000001
+longitude: 140.90883299999996
+suburb: "Caroline"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/412a830e-ee00-44ac-ada4-01ca137a2028.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "38 m"
+address: "Summer Hill Rd, Caroline, South Australia, AUS, 5291"
+source: "Forestry"
+exploration_potential: "Low"
+---
+
+# Source notes
+
+## Forestry
+
+Thin Roof: ?, Fence: ?. Dimensions: 1.5 x1.5 into small opening. Features: Cave
+
+# Images
+
+- [Unnamed Forestry - 20240828_170847 - 04f0af9b-412a830e](../../Assets/b81373056c98a754e0e37a56db06e480dd8dc2b1f40494d78c025b2362e5a434.jpg)

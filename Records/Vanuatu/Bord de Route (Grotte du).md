@@ -1,0 +1,25 @@
+---
+title: "Bord de Route (Grotte du)"
+created: 2025-01-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -15.376388888888897
+longitude: 166.9708333333333
+state: "Sanma Province"
+suburb: "North Santo"
+region: "[[Vanuatu]]"
+cavedb: "https://app.cavedb.net/share/167e1cad-fb65-434c-a0f9-10c2291eedc6.html"
+catalog-type: "cave"
+altitude: "609 m"
+address: "Unnamed Road, North Santo, Sanma Province, VUT"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "30 m"
+---
+
+# About
+
+Depth : Nonem
+Length : 30m

@@ -1,0 +1,26 @@
+---
+title: "Warm Springs"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.635854999999992
+longitude: -82.596742
+suburb: "Hernando County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/bfabae63-c5a9-415d-a9df-aea277764363.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "1 m"
+address: "Three Bridges Rd, Hernando County, Florida, USA, 34614"
+cave_rating: "Basic"
+highest_cave_rating: "Basic"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

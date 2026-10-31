@@ -1,0 +1,63 @@
+---
+title: "McKay's Shaft - 5L125 - CLOSED"
+created: 2026-06-18
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+region: "[[South Australia]]"
+rating: CDAA Cave, TDI Intro to Cave
+feature_type: "Cave"
+latitude: -37.82663600000001
+longitude: 140.72826800000007
+suburb: "The District Council of Grant"
+cavedb: "https://app.cavedb.net/share/690ebf2b-5344-4afd-b6c8-9b6cf96699a9.html"
+catalog-type: "cave"
+sub-region: "[[Mount Gambier - Lower South East]]"
+altitude: "39 m"
+address: "88, McKay Rd, The District Council of Grant, South Australia, AUS, 5291"
+reference: "L0125"
+source: "Forestry SA"
+cave_rating: "Cave"
+vertical_access: "Yes"
+exploration_potential: "High"
+goes_to_water: "Yes"
+maximum_depth: "15 m"
+water_type: "Fresh"
+tidal: "No"
+access_and_warnings: "Private\n\n- **Coordinates:** -37.830141, 140.73008900000002\n- **Altitude:** 44 m\n- **Address:** 150, McKay Rd, Compton, South Australia, AUS, 5291\n- **Checked:** false"
+---
+
+# About
+
+## McKays Shaft - 690ebf2b
+Site identified from road by CA
+
+## McKay's Shaft- - 5ab4d906
+Shown on "Sites around Mt Gambier" image
+
+# Source notes
+
+## Lower South East Cave Reference — Page 248
+
+Added to the cave diving community's list of approved sites in 1992, McKays Shaft was named after the present landowner, Mr. Murray McKay, whose house lies close to the entrance. The entrance is spectacular enough for many people; a 2.5 metre diameter (possibly artificially-enlarged) chimney in a steep-walled depression which drops sheer for about 18 metres before
+opening up into an impressive lake chamber some 30 x 20 metres across and 5m or so high.
+Landing on a small mound of soft (usually dry) dirt and tree debris (which is almost at water level) after a descent of about 25 metres, visitors are surrounded on all sides by a beautiful clear- water lake and masses of root "curtains" from a couple of very old pines which surround and hang over the entrance. The entrance chimney does not enter the cave in the centre; the nearest wall is only about 4 metres to the west, and the longest axis is about 17 metres to the south-east. A higher, rubbish-choked ceiling tube is situated about 10 metres to the north-east of the entrance chimney, where the ceiling is about 7m above the water. The floor gradually slopes down in all directions from the dirt mound, reaching the nearest wall at a depth of about 5m. The lake chamber is undercut all the way around, so while the lake is something in the order of 30 by 20m across, the underwater extent of the feature takes the form of an elongated cavern about 60 x 35m in size. The depth at the floor beneath most of the lake is around 5-7m, but it gets deeper down the south-eastern end of the cave, to a maximum depth of 15m.
+McKays Shaft is unique to this region because it is presently the only known feature with well-preserved SUBMERGED stalactites and shawls. These delicate features are not numerous, and they mainly decorate the walls at the south-eastern end of the chamber, at a depth of about 3m.
+The cave was named by early divers after it was reportedly first dived by a large party of people consisting of lan and "Blue" Berry, Graham McKenzie, Peter Peterson, Jerry Edwards, Hartley Crafter, David Perry, Messrs. F. Magee and Lyons and Archibald ("Jock") Huxtable on July 5th, 1964, after Murray advised Jock of the cave's existence (pers. comm. Mr. Murray McKay, October 1992). It was first mapped on February 28th 1971 when Phil Prust and Ian Lewis, assisted by Dave Stedman and Hartley Crafter, surveyed the main chamber with local cavers Fred and Jan Aslin, and it was entered into CEGSA Records by lan soon afterwards.
+
+
+## Cave Diving Down Under — McKay's Shaft - 5L125 - CLOSED
+
+Long vertical tube entrance leads to a single large water-filled dome mainly submerged. Well decorated with speleothems underwater.
+
+# Images
+
+- [L0125 - McKays Shaft - 0249 - 6e8cf5db-690ebf2b](../../Assets/2f069498321c33d66edcb0e87163e8b9a8f988fa3618814a467b1a4b4f4697c7.jpg)
+- [L0125 - McKays Shaft - 0248 - ff55e573-690ebf2b](../../Assets/41eb08fa229b74b03296b9cfe7a048e7c1b8d149ec56907f7c3bbbc2b44c720c.jpg)
+
+# References
+
+- [Lower South East Cave Reference (Horne, 1993)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/Lower%20South%20East%20Cave%20Reference%20%28Horne%2C%201993%29.pdf)
+- [Cave Diving Down Under — 5L-125.gif](https://www.cavediving.net.au/images/articles/maps/5L-125.gif)
+- [Cave Diving Down Under — McKay's Shaft - 5L125 - CLOSED](https://www.cavediving.net.au/)

@@ -1,0 +1,21 @@
+---
+title: "Gua Lakawonto"
+created: 2025-09-15
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -5.286082
+longitude: 122.319583
+state: "South East Sulawesi"
+suburb: "Buton Regency"
+region: "[[Indonesia]]"
+cavedb: "https://app.cavedb.net/share/ba22f9eb-35a8-4fcb-a1af-16edf5505d9c.html"
+catalog-type: "cave"
+sub-region: "[[Sulawesi]]"
+altitude: "11 m"
+address: "Buton Regency, South East Sulawesi, IDN, 93762"
+---
+
+

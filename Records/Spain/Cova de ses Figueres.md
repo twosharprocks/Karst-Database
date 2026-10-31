@@ -1,0 +1,20 @@
+---
+title: "Cova de ses Figueres"
+created: 2023-08-10
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 39.43286599999999
+longitude: 3.273545000000013
+state: "Illes Balears"
+suburb: "Felanitx"
+region: "[[Spain]]"
+cavedb: "https://app.cavedb.net/share/9b0f49f5-f97f-40fe-8368-2a62863c84e2.html"
+catalog-type: "cave"
+altitude: "27 m"
+address: "Camí Cala Algar, Felanitx, Illes Balears, ESP, 07670"
+---
+
+

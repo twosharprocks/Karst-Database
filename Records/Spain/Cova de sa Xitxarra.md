@@ -1,0 +1,27 @@
+---
+title: "Cova de sa Xitxarra"
+created: 2023-08-10
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 39.838963000000035
+longitude: 3.1611840000000484
+state: "Illes Balears"
+suburb: "Alcúdia"
+region: "[[Spain]]"
+cavedb: "https://app.cavedb.net/share/7f228b4b-33cb-471c-ab34-e312a9b81458.html"
+catalog-type: "cave"
+altitude: "10 m"
+address: "16, Carrer de s'Illot, Alcúdia, Illes Balears, ESP, 07400"
+source: "MapCarta"
+---
+
+# About
+
+Similar area to Font de ses Aiguades
+
+# References
+
+- [MapCarta](https://mapcarta.com/N6368677404)

@@ -1,0 +1,20 @@
+---
+title: "Rawhiti Cave"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[New Zealand]]"
+sub-region: "[[South Island - New Zealand]]"
+verification: "unverified"
+---
+
+# Notes
+
+- [Rawhiti Cave](https://en.wikipedia.org/wiki/Rawhiti_Cave "Rawhiti Cave")
+
+# References
+
+- [New Zealand](../Regions/New%20Zealand.md)

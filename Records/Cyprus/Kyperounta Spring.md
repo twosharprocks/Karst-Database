@@ -1,0 +1,19 @@
+---
+title: "Kyperounta Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Cyprus]]"
+verification: "unverified"
+---
+
+# Notes
+
+- Kyperounta Spring, 34.9363, 32.9421, Hill slope spring near carbonate-limestone contact; may conceal shallow conduits.
+
+# References
+
+- [Cyprus](../Regions/Cyprus.md)

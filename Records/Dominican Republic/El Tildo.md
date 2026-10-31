@@ -1,0 +1,26 @@
+---
+title: "El Tildo"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 18.455310999999995
+longitude: -69.69705999999996
+state: "Santo Domingo Province"
+suburb: "Boca Chica"
+region: "[[Dominican Republic]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/76a1fcb6-718f-4a1b-87c4-615ae74f3e5c.html"
+catalog-type: "cave"
+altitude: "11 m"
+address: "Marginal Avenida Las Américas, Boca Chica, Santo Domingo Province, DOM"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

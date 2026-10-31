@@ -1,0 +1,25 @@
+---
+title: "Pollnagollum (Of the Boats)"
+created: 2023-08-10
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 54.25338899999997
+longitude: -7.804626999999982
+state: "Northern Ireland"
+suburb: "Enniskillen"
+region: "[[United Kingdom]]"
+cavedb: "https://app.cavedb.net/share/715eaa28-001d-4fbe-aa88-41a317feea96.html"
+catalog-type: "cave"
+altitude: "185 m"
+address: "Marlbank Road, Enniskillen, Northern Ireland, GBR, BT92 1"
+source: "CavesofIreland.com"
+vertical_access: "Yes"
+goes_to_water: "Yes"
+---
+
+# References
+
+- [CavesofIreland.com](https://cavesofireland.com/home/caves/pollnagollum-of-the-boats/)

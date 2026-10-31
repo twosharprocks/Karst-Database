@@ -1,0 +1,26 @@
+---
+title: "Gator Hole Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.844930999999974
+longitude: -82.628803
+suburb: "Alachua County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/88ce6c2c-0060-4769-b5d1-25e0e6ccb1bd.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "14 m"
+address: "25900-26998, NW 206th Pl, Alachua County, Florida, USA, 32643"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

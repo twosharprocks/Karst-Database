@@ -1,0 +1,26 @@
+---
+title: Cenote Dzonotila
+created: 2023-11-18
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: Cave
+latitude: 20.629085000000032
+longitude: -89.65920699999998
+suburb: Abalá Municipality
+region: "[[Mexico]]"
+rating: TDI Intro to Cave
+cavedb: https://app.cavedb.net/share/c2bb827a-83d0-4fa7-a0c5-2ba1f325904a.html
+catalog-type: cave
+sub-region: "[[Yucatan]]"
+altitude: "18 m"
+address: "Abalá Municipality, Yucatan, MEX, 97825"
+cave_rating: "Cave"
+goes_to_water: "Yes"
+maximum_depth: "40 m"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

@@ -1,0 +1,19 @@
+---
+title: "Agiou Nikolaou Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Cyprus]]"
+verification: "unverified"
+---
+
+# Notes
+
+- Agiou Nikolaou Spring (Paphos Forest), 34.9521, 32.6267, Karst resurgence on western slopes of Troodos; limited exploration.
+
+# References
+
+- [Cyprus](../Regions/Cyprus.md)

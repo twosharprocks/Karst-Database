@@ -1,0 +1,24 @@
+---
+title: "Clearing - 1e8410ba"
+created: 2023-07-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "NotFound"
+latitude: -37.69935799999999
+longitude: 140.57441100000005
+suburb: "Tantanoola"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/1e8410ba-d00d-4869-b437-c003102d8b4c.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "106 m"
+address: "Bluff Rd, Tantanoola, South Australia, AUS, 5280"
+vertical_access: "No"
+goes_to_water: "No"
+---
+
+# About
+
+2021-Aug: MW flew over with drone & photographed. Largish, dry clearing in pine forest with slight depression, no obvious limestone.

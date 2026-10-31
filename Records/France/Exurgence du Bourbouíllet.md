@@ -1,0 +1,23 @@
+---
+title: "Exurgence du Bourbouíllet"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.432500000000005
+longitude: 4.268611100000044
+state: "Auvergne-Rhône-Alpes"
+suburb: "Saint-Alban-Auriolles"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/c5739235-55c5-400c-b425-1622c6cd2958.html"
+catalog-type: "cave"
+altitude: "166 m"
+address: "Impasse de Bizac, Saint-Alban-Auriolles, Auvergne-Rhône-Alpes, FRA, 07120"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

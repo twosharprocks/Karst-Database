@@ -1,0 +1,25 @@
+---
+title: "Yekavon"
+created: 2025-01-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -15.0288888888889
+longitude: 167.0722222222222
+state: "Sanma Province"
+suburb: "East Santo"
+region: "[[Vanuatu]]"
+cavedb: "https://app.cavedb.net/share/6a7c7a70-458b-4e7d-a32b-55e987d0a04b.html"
+catalog-type: "cave"
+altitude: "98 m"
+address: "Unnamed Road, East Santo, Sanma Province, VUT"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "33 m"
+---
+
+# About
+
+Depth : Nonem
+Length : 33m

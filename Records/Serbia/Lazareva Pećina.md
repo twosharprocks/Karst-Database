@@ -1,0 +1,21 @@
+---
+title: "Lazareva Pećina"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.029300000000035
+longitude: 21.96270000000004
+suburb: "Bor District"
+region: "[[Serbia]]"
+cavedb: "https://app.cavedb.net/share/0a377670-6237-49ce-8270-eac23ac6e229.html"
+catalog-type: "cave"
+altitude: "303 m"
+address: "392, Bor District, SRB"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "9818 m"
+---
+
+

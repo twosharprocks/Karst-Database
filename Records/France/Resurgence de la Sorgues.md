@@ -1,0 +1,23 @@
+---
+title: "Resurgence de la Sorgues"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 43.99083329999996
+longitude: 3.2450000000000045
+state: "Occitanie"
+suburb: "Nant"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/15ecd842-be8a-454f-90a0-d259ef34deee.html"
+catalog-type: "cave"
+altitude: "791 m"
+address: "Lieu-dit Le Sambuc, Nant, Occitanie, FRA, 12230"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

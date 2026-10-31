@@ -1,0 +1,45 @@
+---
+title: "Kongorong Sinkhole - Location TBC"
+created: 2023-07-31
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -37.89614399999999
+longitude: 140.56154000000004
+suburb: "Kongorong"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/4ceb48cc-1d49-4d19-a03a-a28dbe4f96eb.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "18 m"
+address: "193, Dixons Rd, Kongorong, South Australia, AUS, 5291"
+source: "LSECR"
+vertical_access: "No"
+goes_to_water: "No"
+---
+
+# About
+
+"Behind Kongorong Hall"
+
+# Additional Notes
+
+Kongorong Sinkhole is an almost featureless doline which is basically a simple 30 metre diameter doline some 5 metres or so deep. It is not exactly within "spitting distance" of the small township of Kongorong from which its name was derived, but someone nevertheless thought it was a suitable name at the time, and it can only be seen from a relatively remote dirt track.
+An August 1971 CEGSA Trip Report by caver Ian D. Lewis described the feature as follows:
+"It is on the south-west side of a ridge which runs at 338 degrees. The sinkhole is 100-120 feet long (major axis) and 90-100 feet long (minor axis); it is therefore oval-shaped and degraded along the west and south-western sides.
+"There is a vertical wall 10 feet high on the east and south-eastern sides. Depth is 15 feet (on the) west side and 20 feet on the eastern side. "The major axis runs north-south, and there is a small rubbish pile on the south side which does not appear to cover a shaft or similar feature. The inside floor of the sinkhole is a flat grassed area with a few small rocks. Sheep were grazing in it... when I first approached the sinkhole". The feature does not have any accessible underground extensions, and a visit by the author in 1984 found that a car had also been dumped in it. It is obviously not really worth the effort of a visit by keen cavers!
+
+# Source notes
+
+## Lower South East Cave Reference — pg 276
+
+# Images
+
+- [Kongorong Sinkhole - Location TBC - 0277 - 3901d5d8-4ceb48cc](../../Assets/2f788b9db3a2e86c00b507b8bddbef3294a87f8747fdba271502a352cf73bb39.jpg)
+- [Kongorong Sinkhole - Location TBC - 0276 - a7fa5639-4ceb48cc](../../Assets/f4988175d0394c2b53e1d7f3b95721d135de7e263199d58f61562c5053525c1b.jpg)
+
+# References
+
+- [Lower South East Cave Reference (Horne, 1993)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/Lower%20South%20East%20Cave%20Reference%20%28Horne%2C%201993%29.pdf)

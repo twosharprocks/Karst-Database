@@ -1,0 +1,26 @@
+---
+title: "Leon Sinks - Cheryl Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.297939999999983
+longitude: -84.35246000000001
+suburb: "Wakulla County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/4f7263fb-26d2-4796-ac0b-1b40b5d90409.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "5 m"
+address: "Log Cabin Rd, Wakulla County, Florida, USA, 32327"
+cave_rating: "Basic"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

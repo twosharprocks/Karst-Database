@@ -1,0 +1,25 @@
+---
+title: "Hafasu Tiankeng"
+created: 2023-08-14
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -0.9529770000000326
+longitude: 132.32846100000006
+suburb: "Tambrauw"
+region: "[[Indonesia]]"
+cavedb: "https://app.cavedb.net/share/3c9ae183-d76f-44a5-aa62-cdbfa9dc1623.html"
+catalog-type: "cave"
+altitude: "314 m"
+address: "Tambrauw, IDN"
+source: "Wondermondo.com"
+vertical_access: "Yes"
+exploration_potential: "Medium"
+goes_to_water: "Yes"
+---
+
+# References
+
+- [Wondermondo.com](https://www.wondermondo.com/hafasu-tiankeng/)

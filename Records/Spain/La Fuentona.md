@@ -1,0 +1,49 @@
+---
+title: "La Fuentona"
+created: 2023-06-29
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 41.734548483853814
+longitude: -2.863749638199806
+state: "Castile and León"
+suburb: "Soria"
+region: "[[Spain]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/e78a35a7-c69a-4253-acf8-e05153c74faf.html"
+catalog-type: "cave"
+altitude: "1018 m"
+address: "Soria, Castile and León, ESP, 42146"
+system_name: "La Fuentona"
+source: "Cave Atlas"
+cave_rating: "Advanced"
+vertical_access: "No"
+exploration_potential: "Medium"
+goes_to_water: "Yes"
+maximum_depth: "115 m"
+water_type: "Fresh"
+tidal: "No"
+access_and_warnings: "Permit only?"
+---
+
+# About
+
+La Fuentona is a small lake with a a cave system that runs deep under its surface, the locals call it "Ojo del Mar" (the eye of the sea).  The cave is very deep and considered an advanced dive. Reported max depth 115m
+
+# Additional Notes
+
+La Fuentona is a small lake with a a cave system that runs deep under its surface, the locals call it "Ojo del Mar" (the eye of the sea). The cave is very deep and considered an advanced dive. The first sump is V shaped, reaching 170
+- **Youtube:** Old video (early 2000's)
+https://youtu.be/_eTJOM9SM3E
+- **Youtube:** Lots of Spanish, some video of CCR divers underwater
+https://www.youtube.com/watch?v=ybAeOu0INk4
+
+# Images
+
+- [La Fuentona - 658_profile - 30536db6-e78a35a7](../../Assets/ed2b5f7bc1634f25b505039fa1dda312d2f3243c2eec2cff90d172017c7aa3b1.jpg)
+
+# References
+
+- [Cave Atlas](http://www.caveatlas.com/systems/system.asp?ID=658&co=ES)

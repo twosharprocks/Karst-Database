@@ -1,0 +1,21 @@
+---
+title: "Murrawijinie Cave (C)"
+created: 2023-07-23
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -31.366071000000005
+longitude: 130.87868100000003
+suburb: "Nullarbor"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/ad9ab97d-7d4e-4b76-8b95-cc38bc0f4c9d.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "70 m"
+address: "Nullarbor, South Australia, AUS, 5690"
+system_name: "[[Murrawijinie Caves]]"
+---
+
+

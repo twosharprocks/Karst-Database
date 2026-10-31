@@ -1,0 +1,25 @@
+---
+title: "Clearing - cb87d355"
+created: 2023-07-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Depression"
+latitude: -37.73102499999999
+longitude: 140.53276200000005
+suburb: "Tantanoola"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/cb87d355-5179-4e6c-a81f-1ff399def614.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "53 m"
+address: "Princes Hwy, Tantanoola, South Australia, AUS, 5280"
+vertical_access: "No"
+exploration_potential: "Low"
+goes_to_water: "No"
+---
+
+# About
+
+2021-Jan: MW walked around forest checking clear spots identified from satellite imagery. Clear space in forest found with no obvious karst feature

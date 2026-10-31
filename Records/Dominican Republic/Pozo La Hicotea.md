@@ -1,0 +1,26 @@
+---
+title: "Pozo La Hicotea"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 17.963390000000004
+longitude: -71.63417500000003
+state: "Pedernales Province"
+suburb: "Pedernales"
+region: "[[Dominican Republic]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/fcf0309d-a3e1-480d-85aa-9328ecf50217.html"
+catalog-type: "cave"
+altitude: "8 m"
+address: "Autopista Pedernales, Pedernales, Pedernales Province, DOM, 84000"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

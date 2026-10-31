@@ -1,0 +1,22 @@
+---
+title: "Pajsarjeva Jama"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 46.007960000000026
+longitude: 14.253778000000011
+suburb: "Horjul"
+region: "[[Slovenia]]"
+cavedb: "https://app.cavedb.net/share/1543aa69-3673-48ee-9b0d-8588c51eaeb8.html"
+catalog-type: "cave"
+altitude: "444 m"
+address: "24, Žažar, Horjul, SVN, 1354"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

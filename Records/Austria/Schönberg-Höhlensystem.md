@@ -1,0 +1,22 @@
+---
+title: "Schönberg-Höhlensystem"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 47.701527999999996
+longitude: 13.772333000000003
+state: "Styria"
+suburb: "Liezen District"
+region: "[[Austria]]"
+cavedb: "https://app.cavedb.net/share/2d443eb9-5fce-4f73-acca-1d5b1d9bec00.html"
+catalog-type: "cave"
+altitude: "1581 m"
+address: "Straße Ohne Straßennamen, Liezen District, Styria, AUT, 8992"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "155600 m"
+---
+
+

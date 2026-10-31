@@ -1,0 +1,30 @@
+---
+title: "Telegraph Track"
+created: 2023-04-19
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Landmark"
+latitude: -31.908437731960447
+longitude: 126.85762882232666
+suburb: "Madura"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/f2f3c64f-d26f-4267-9768-0625fc9859bc.html"
+catalog-type: "cave"
+sub-region: "[[Western Australia]]"
+altitude: "105 m"
+address: "Eyre Hwy, Madura, Western Australia, AUS, 6443"
+vertical_access: "No"
+goes_to_water: "No"
+---
+
+# About
+
+Track from Cocklebiddy to Madura via Olwolgin.
+Steep descent from escarpment (would be scary in 2WD).  Telegraph track sandy and rough, not great for 2WD.
+
+# Maps
+
+- [Fire-Tracks-for-JM - 77d18b17-f2f3c64f](../../Assets/2bf006dcb879f4d9c82e87291b3de9712267ba5a96af872097b14ee9aaa1ac41.kml)
+- [Olwolgin - Burnabbie trail - 6c6751f2-f2f3c64f](../../Assets/b2050b527eab05ee70dc63a2e4de393e1f18a4c6b64024241f42974d63000283.gpx)

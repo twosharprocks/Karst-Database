@@ -1,0 +1,22 @@
+---
+title: "Hang Khe Ry cave system"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 17.581199999999967
+longitude: 106.28300000000002
+state: "Quảng Bình"
+suburb: "Bố Trạch District"
+region: "[[Vietnam]]"
+cavedb: "https://app.cavedb.net/share/6960f801-242b-4668-856f-f2e4a4c66013.html"
+catalog-type: "cave"
+altitude: "108 m"
+address: "Đường Chưa Đặt Tên, Bố Trạch District, Quảng Bình, VNM"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "18900 m"
+---
+
+

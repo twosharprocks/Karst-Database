@@ -1,0 +1,26 @@
+---
+title: "Chicken Farm Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.076779180000017
+longitude: -82.33440124000003
+suburb: "Hillsborough County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/cbd5c880-1c7e-47ad-bb34-a829619fbe71.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "8 m"
+address: "12634, Idlewood Dr, Hillsborough County, Florida, USA, 33592"
+cave_rating: "Basic"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

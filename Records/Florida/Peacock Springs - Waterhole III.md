@@ -1,0 +1,28 @@
+---
+title: "Peacock Springs - Waterhole III"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.12289599999997
+longitude: -83.13404000000003
+suburb: "Suwannee County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/48b2f657-e749-43df-8bbe-8ce11c32c0b7.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "9 m"
+address: "18081, 185th Rd, Suwannee County, Florida, USA, 32060"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+# Source notes
+
+Waterhole III is yet another entrance to the Peacock Springs system.  It jumps into the Peanut line at around 950' on the Peanut line.

@@ -1,0 +1,22 @@
+---
+title: "Cueva del Hipocampo"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 6.059954000000005
+longitude: -73.84013400000003
+state: "Santander"
+suburb: "El Peñón"
+region: "[[Colombia]]"
+cavedb: "https://app.cavedb.net/share/0fab2d2a-5935-4765-83d3-3e0c003eee35.html"
+catalog-type: "cave"
+altitude: "2683 m"
+address: "Vía Sin Nombre, El Peñón, Santander, COL, 685027"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "2021 m"
+---
+
+

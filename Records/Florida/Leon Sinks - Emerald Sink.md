@@ -1,0 +1,26 @@
+---
+title: "Leon Sinks - Emerald Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.295560000000023
+longitude: -84.35225000000003
+suburb: "Wakulla County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/26b6f525-e36a-4d0f-bbaf-b20e8bec1758.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "5 m"
+address: "134-284, US-319, Wakulla County, Florida, USA, 32327"
+cave_rating: "Basic"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

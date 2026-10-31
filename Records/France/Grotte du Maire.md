@@ -1,0 +1,23 @@
+---
+title: "Grotte du Maire"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 43.91841699999998
+longitude: 3.735806000000025
+state: "Occitanie"
+suburb: "Laroque"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/00345e48-2065-4938-b005-c28e9446dbb4.html"
+catalog-type: "cave"
+altitude: "256 m"
+address: "Avenue du Chemin Neuf, Laroque, Occitanie, FRA, 34190"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

@@ -1,0 +1,24 @@
+---
+title: "Planina Cave"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 45.820858999999984
+longitude: 14.246499999999969
+suburb: "Postojna"
+region: "[[Slovenia]]"
+cavedb: "https://app.cavedb.net/share/621e3741-6f8c-43c8-bfc6-61a7bd78b29e.html"
+catalog-type: "cave"
+altitude: "488 m"
+address: "175A, Planina, Postojna, SVN, 6232"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+# Source notes
+
+- [Saved Facebook share](https://www.facebook.com/share/p/1A5FYYMoW7/) (content not independently checked)

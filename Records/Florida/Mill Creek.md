@@ -1,0 +1,27 @@
+---
+title: "Mill Creek"
+created: 2024-08-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.791241000000014
+longitude: -82.51115199999998
+suburb: "Alachua County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/cd7cd1d6-cb49-457b-a1d8-068f060551ae.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "48 m"
+address: "15068-15328, NW 149th Rd, Alachua County, Florida, USA, 32615"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+vertical_access: "No"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

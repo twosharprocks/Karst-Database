@@ -1,0 +1,23 @@
+---
+title: "Litjåga"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 66.45452799999998
+longitude: 14.83594400000004
+state: "Nordland"
+suburb: "Storforsheia"
+region: "[[Norway]]"
+cavedb: "https://app.cavedb.net/share/1b5a42a9-e5ce-40ad-a1fd-85dc604509b9.html"
+catalog-type: "cave"
+altitude: "142 m"
+address: "Saltfjellveien, Storforsheia, Nordland, NOR, 8630"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

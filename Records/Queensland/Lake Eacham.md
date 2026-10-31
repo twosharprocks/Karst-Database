@@ -1,0 +1,31 @@
+---
+title: "Lake Eacham"
+created: 2023-04-16
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -17.286003390701126
+longitude: 145.62863945960999
+suburb: "Tablelands Regional"
+aliases:
+  - "Crater Lakes"
+region: "[[Australia]]"
+rating: CDAA Deep Cavern, TDI Cavern
+cavedb: "https://app.cavedb.net/share/b205d6b0-7b57-46f0-8664-b7a99a81bd17.html"
+catalog-type: "cave"
+sub-region: "[[Queensland]]"
+altitude: "772 m"
+address: "Lakes Dr, Tablelands Regional, Queensland, AUS, 4884"
+cave_rating: "Basic"
+vertical_access: "No"
+exploration_potential: "Low"
+tourism_potential: "Medium"
+disabled_access_potential: "High"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

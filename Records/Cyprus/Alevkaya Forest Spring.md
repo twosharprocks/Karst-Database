@@ -1,0 +1,19 @@
+---
+title: "Alevkaya Forest Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Cyprus]]"
+verification: "unverified"
+---
+
+# Notes
+
+- Alevkaya Forest Spring, 35.3136, 33.6768, Cool water spring in karst forest reserve; minor resurgence that may link to deeper subsurface flow.
+
+# References
+
+- [Cyprus](../Regions/Cyprus.md)

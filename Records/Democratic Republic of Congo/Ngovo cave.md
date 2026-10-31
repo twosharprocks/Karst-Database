@@ -1,0 +1,24 @@
+---
+title: "Ngovo cave"
+created: 2024-12-08
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -5.301899999999989
+longitude: 14.93730000000005
+state: "Kongo Central"
+suburb: "Mbanza-Ngungu"
+region: "[[Democratic Republic of Congo]]"
+cavedb: "https://app.cavedb.net/share/38cf4349-271d-47f8-bed0-de50011bc254.html"
+catalog-type: "cave"
+altitude: "596 m"
+address: "Route Sans Nom, Mbanza-Ngungu, Kongo Central, COD"
+surveyed_length: "9522 m"
+---
+
+# About
+
+
+Source: Wikipedia article [List of longest cave by country](https://en.wikipedia.org/wiki/List_of_longest_cave_by_country#cite_ref-Crei_8-0)

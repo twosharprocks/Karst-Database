@@ -1,0 +1,22 @@
+---
+title: "Sistema del Rio Encantado"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 18.343610000000012
+longitude: -66.52944000000002
+state: "Ciales"
+suburb: "Hato Viejo"
+region: "[[Puerto Rico]]"
+cavedb: "https://app.cavedb.net/share/6db4688d-7dd3-449f-a8f1-c6bc6c04d4cf.html"
+catalog-type: "cave"
+altitude: "195 m"
+address: "Unnamed Road, Hato Viejo, Ciales, PRI, 00638"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "21770 m"
+---
+
+

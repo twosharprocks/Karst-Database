@@ -1,0 +1,21 @@
+---
+title: "Danau Meleura"
+created: 2025-09-15
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -4.928377
+longitude: 122.753782
+state: "South East Sulawesi"
+suburb: "Muna Regency"
+region: "[[Indonesia]]"
+cavedb: "https://app.cavedb.net/share/5768e8a2-fc73-42ec-b2fb-d456cae7aa9e.html"
+catalog-type: "cave"
+sub-region: "[[Sulawesi]]"
+altitude: "22 m"
+address: "Jalan Tanpa Nama, Muna Regency, South East Sulawesi, IDN, 93658"
+---
+
+

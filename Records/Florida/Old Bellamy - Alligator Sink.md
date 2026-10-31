@@ -1,0 +1,26 @@
+---
+title: "Old Bellamy - Alligator Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.89481999999998
+longitude: -82.57483000000002
+suburb: "Alachua County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/d71fa6d6-8b38-4c85-bd49-7b0c4c2b4bdd.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "12 m"
+address: "26599, Old Bellamy Rd, Alachua County, Florida, USA, 32643"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

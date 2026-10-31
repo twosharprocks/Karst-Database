@@ -1,0 +1,20 @@
+---
+title: "Breeze Hole River Cave"
+created: 2024-12-26
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 18.217580999999996
+longitude: -77.61158499999999
+state: "Manchester Parish"
+region: "[[Jamaica]]"
+cavedb: "https://app.cavedb.net/share/a113e7aa-4ce1-4670-8b86-1cfb3a5b67fa.html"
+catalog-type: "cave"
+altitude: "366 m"
+address: "Auchtembeddie to Penrith Rd, Manchester Parish, JAM"
+goes_to_water: "Yes"
+---
+
+

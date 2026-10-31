@@ -1,0 +1,20 @@
+---
+title: Oehani Cave
+created: 2026-10-22
+updated: 2026-10-22
+status: seed
+catalog-type: cave
+tags:
+  - caving
+region: "[[Indonesia]]"
+sub-region: "[[West Timor]]"
+verification: unverified
+---
+
+# Notes
+
+- [Crystal Cave & Oehani Cave](https://www.kohtaotecdivers.com/post/cave-diving-in-west-timor) (Kupang Caves)
+
+# References
+
+- [West Timor](../Regions/West%20Timor.md)

@@ -1,0 +1,19 @@
+---
+title: "Ettein Cave"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Oman]]"
+verification: "unverified"
+---
+
+# Notes
+
+- Ettein Cave
+
+# References
+
+- [Oman](../Regions/Oman.md)

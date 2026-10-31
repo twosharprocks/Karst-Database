@@ -1,0 +1,26 @@
+---
+title: "Le Grand Saint Sauveur"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.597480704036
+longitude: 16.64587497711102
+state: "Federation of Bosnia and Herzegovina"
+suburb: "Una-Sana Canton"
+region: "[[Bosnia & Herzegovina]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/213c9f51-253b-4200-b5a9-55e25b7a2fc0.html"
+catalog-type: "cave"
+altitude: "239 m"
+address: "R410, Una-Sana Canton, Federation of Bosnia and Herzegovina, BIH"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

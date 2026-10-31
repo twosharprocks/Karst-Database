@@ -1,0 +1,22 @@
+---
+title: "Migovec System"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 46.25193999999999
+longitude: 13.763889999999947
+state: "Tolmin"
+suburb: "Municipality of Tolmin"
+region: "[[Slovenia]]"
+cavedb: "https://app.cavedb.net/share/b51a84e6-4132-49dd-845d-176e3f10b3dc.html"
+catalog-type: "cave"
+altitude: "1860 m"
+address: "Neimenovana Cesta, Municipality of Tolmin, Tolmin, SVN, 5220"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "43009 m"
+---
+
+

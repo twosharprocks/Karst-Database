@@ -1,0 +1,23 @@
+---
+title: "Unnamed Features"
+created: 2023-08-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "SolutionTube"
+latitude: -37.801792000000006
+longitude: 140.69063600000004
+suburb: "Compton"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/bb44071d-ef8f-4d13-8b94-b6183785d7da.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "44 m"
+address: "306, Hollis Rd, Compton, South Australia, AUS, 5291"
+exploration_potential: "Medium"
+---
+
+# About
+
+2019-Dec: MW visited on foot. Small runaway hole - return with coveralls, gumboots, safety glasses

@@ -1,0 +1,25 @@
+---
+title: "Depression - 90239528"
+created: 2023-08-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Depression"
+latitude: -37.83721
+longitude: 140.790436
+suburb: "Mount Gambier"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/90239528-7829-45ad-ae37-2d6c84a534d9.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "46 m"
+address: "1B, Hanson St, Mount Gambier, South Australia, AUS, 5290"
+vertical_access: "No"
+disabled_access_potential: "Low"
+goes_to_water: "No"
+---
+
+# About
+
+2021-June: MW walked around large depression full of scrub, used as stormwater drain, meeting point for many local cats

@@ -1,0 +1,26 @@
+---
+title: "Old Bellamy - Sweetwater Lake"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.88665000000003
+longitude: -82.57922000000002
+suburb: "Alachua County"
+region: "[[United States]]"
+rating: TDI Cavern
+cavedb: "https://app.cavedb.net/share/48e522e8-5967-48f9-9618-70516173dab4.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "10 m"
+address: "24991, NW 227th Dr, Alachua County, Florida, USA, 32643"
+cave_rating: "Basic"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

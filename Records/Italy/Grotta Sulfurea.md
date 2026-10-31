@@ -1,0 +1,26 @@
+---
+title: "Grotta Sulfurea"
+created: 2023-06-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 40.03724999999997
+longitude: 18.46381999999994
+state: "Puglia"
+suburb: "Santa Cesarea Terme"
+aliases:
+  - "Sulfur Cave Santa Caesarea"
+region: "[[Italy]]"
+cavedb: "https://app.cavedb.net/share/ac0dcb27-6790-4c9e-907a-e593cba394e8.html"
+catalog-type: "cave"
+altitude: "11 m"
+address: "Piazzale delle Terme, Santa Cesarea Terme, Puglia, ITA, 73020"
+source: "Cave Atlas"
+vertical_access: "No"
+tourism_potential: "Medium"
+goes_to_water: "Yes"
+---
+
+

@@ -1,0 +1,28 @@
+---
+title: "Apopka Blue Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 28.751679999999965
+longitude: -81.52080999999998
+suburb: "Orange County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/a2335fc0-fac1-4537-b6fb-41297de56beb.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "25 m"
+address: "598-500, Sand Wedge Loop, Orange County, Florida, USA, 32712"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+# Source notes
+
+Portions of the following information were taken from the Cambrian Foundation  Apopka Blue Sink lies in the forest on the outskirts of the City of Apopka, about  12 miles northwest of Orlando. As is the unfortunate case for many sinkholes, this  karst window has become the repository for litter, trash, and other waste. Thanks  to The Cambrian Foundation for removing the debris from the bottom of the sink.  Garbage removed included a burned sofa, Christmas trees, a car engine block, bottles,  fencing, etc.   Apopka Blue Sink is home to a species of aquatic cave crayfish known only to this  system, the Orlando spider cave crayfish (Troglocambarus sp.). Given the rare  species that rely on these habitats for survival, maintaining these karst  environments free of litter and external debris is critical to their success.

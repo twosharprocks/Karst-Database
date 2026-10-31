@@ -1,0 +1,22 @@
+---
+title: "Kafae Aven"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -15.539241699999991
+longitude: 167.01418609999996
+state: "Sanma Province"
+suburb: "South Santo"
+region: "[[Vanuatu]]"
+cavedb: "https://app.cavedb.net/share/c7d243b7-a18e-4f3c-bb3f-e91ddac8b76a.html"
+catalog-type: "cave"
+altitude: "217 m"
+address: "Unnamed Road, South Santo, Sanma Province, VUT"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "3702 m"
+---
+
+

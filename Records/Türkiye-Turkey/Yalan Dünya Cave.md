@@ -1,0 +1,28 @@
+---
+title: Yalan Dünya Cave
+created: 2023-07-23
+updated: 2026-10-29
+status: seed
+tags:
+  - caving
+feature_type: Cave
+latitude: 36.22116199999999
+longitude: 32.40189499999997
+suburb: Gazipaşa
+region: "[[Türkiye-Turkey]]"
+cavedb: https://app.cavedb.net/share/4366c06c-fbd0-4a8b-9f49-2212fea47651.html
+catalog-type: cave
+altitude: 258 m
+address: Gazipaşa, TUR, 07900
+source: "Antalya.com.tr"
+tourism_potential: "High"
+---
+
+# About
+
+Tourist cave
+
+# References
+
+- [Antalya.com.tr](https://antalya.com.tr/en/discovery/nature/caves/yalan-dunya-cave)
+- [Google](https://goo.gl/maps/SGMmE1ymfwy52nSK9)

@@ -1,0 +1,23 @@
+---
+title: "Wimsener Höhle"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 48.257114
+longitude: 9.448098999999957
+state: "Baden-Württemberg"
+suburb: "Hayingen"
+region: "[[Germany]]"
+cavedb: "https://app.cavedb.net/share/f1e1b118-5ca3-4038-baf0-606ebf34b73d.html"
+catalog-type: "cave"
+altitude: "574 m"
+address: "Wimsener Straße, Hayingen, Baden-Württemberg, DEU, 72534"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

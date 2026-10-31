@@ -1,0 +1,23 @@
+---
+title: "Hosnies Spring Cave"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Australia]]"
+sub-region: "[[Christmas Island]]"
+verification: "unverified"
+---
+
+# Notes
+
+- **Location**: North coast, near Hosnies Spring
+- **Type**: Coastal karst feature with permanent spring
+- **Details**: This area features a **freshwater spring discharging into a brackish mangrove environment**, suggesting a potential **coastal cave system or resurgence** beneath.
+- **Exploration Status**: Caves reported nearby but not explored underwater.
+
+# References
+
+- [Christmas Island](../Regions/Christmas%20Island.md)

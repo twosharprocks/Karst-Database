@@ -1,0 +1,25 @@
+---
+title: "Unnamed Forestry - edf944cd"
+created: 2023-07-29
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -37.19458800000001
+longitude: 140.95621499999993
+suburb: "Comaum"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/edf944cd-03db-4273-83e4-0f970ab921a8.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "109 m"
+address: "Poolaijelo Rd, Comaum, South Australia, AUS, 5277"
+source: "Forestry"
+---
+
+# Source notes
+
+## Forestry
+
+Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Sinkhole

@@ -1,0 +1,22 @@
+---
+title: "Batze Cave"
+created: 2024-12-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -17.16720000000001
+longitude: 29.18360000000007
+state: "Mashonaland West Province"
+suburb: "Hurungwe"
+region: "[[Zimbabwe]]"
+cavedb: "https://app.cavedb.net/share/6394ee5a-f808-41c1-a988-64bd1e22d4a7.html"
+catalog-type: "cave"
+altitude: "853 m"
+address: "Unnamed Road, Hurungwe, Mashonaland West Province, ZWE"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "1037 m"
+---
+
+

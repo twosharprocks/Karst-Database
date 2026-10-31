@@ -1,0 +1,27 @@
+---
+title: "River Cave - 8a777bd3"
+created: 2023-08-13
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -38.33584999999999
+longitude: 141.49577399999998
+suburb: "Portland West"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/8a777bd3-5a92-4ec3-bb4b-c0f807b74eea.html"
+catalog-type: "cave"
+sub-region: "[[Victoria]]"
+altitude: "72 m"
+address: "86, Telegraph Rd, Portland West, Victoria, AUS, 3305"
+source: "ResearchGate"
+---
+
+# Images
+
+- [River Cave - batridge - 3c6340d6-8a777bd3](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
+
+# References
+
+- [ResearchGate](https://www.researchgate.net/publication/226498128_Speleogenesis_in_aeolian_calcarenite_A_case_study_in_western_Victoria)

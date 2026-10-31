@@ -1,0 +1,33 @@
+---
+title: "Mulwaree Cave"
+created: 2023-06-28
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -34.309927000000016
+longitude: 149.96625100000006
+suburb: "Wombeyan Caves"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/54bde4b4-1c9c-4154-92aa-bc778ea847ba.html"
+catalog-type: "cave"
+sub-region: "[[New South Wales]]"
+altitude: "628 m"
+address: "Muilwaree Cave Trak, [[Wombeyan Caves]], New South Wales, AUS, 2580"
+system_name: "[[Wombeyan Caves]]"
+source: "National Parks NSW"
+exploration_potential: "Low"
+tourism_potential: "High"
+disabled_access_potential: "Low"
+---
+
+# Additional Notes
+
+Making up one of the upper levels of expansive [Wollondilly Cave](Wollondilly%20Cave.md), Mulwaree Cave, accessible only during a guided tour, is one of Wombeyan’s most spectacular caves. The colour variations seen on the walls, the shining wax-like decorations, and the stalactites along the pathway are incredibly striking.
+
+The cave itself is 200m long, and there are quite a number of steps to negotiate during the one-hour guided tour, so please be well-prepared for your visit.
+
+# References
+
+- [National Parks NSW](https://www.nationalparks.nsw.gov.au/things-to-do/show-caves/mulwaree-cave)

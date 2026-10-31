@@ -1,0 +1,24 @@
+---
+title: "Potential Cave"
+created: 2023-07-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "RockyOutcrop"
+latitude: -37.98135300000001
+longitude: 140.76976200000001
+suburb: "Mount Schank"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/7f6cb527-29a5-4a17-95df-f1f6f4cad573.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "16 m"
+address: "353, Ellis Rd, Mount Schank, South Australia, AUS, 5291"
+vertical_access: "No"
+exploration_potential: "Medium"
+---
+
+# About
+
+Identified by Col

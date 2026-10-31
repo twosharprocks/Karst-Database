@@ -1,0 +1,26 @@
+---
+title: "Bohemia Cave"
+created: 2023-07-02
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -41.579170000000005
+longitude: 172.55167000000006
+state: "Tasman"
+suburb: "Kahurangi National Park"
+region: "[[New Zealand]]"
+cavedb: "https://app.cavedb.net/share/68379710-40bf-4523-bcde-f63024961b79.html"
+catalog-type: "cave"
+altitude: "628 m"
+address: "Sunrise Peak Rte, Kahurangi National Park, Tasman, NZL, 7073"
+---
+
+# Notes
+
+- [Bohemia Cave](https://en.wikipedia.org/w/index.php?title=Bohemia_Cave&action=edit&redlink=1 "Bohemia Cave (page does not exist)")
+
+# References
+
+- [New Zealand](../Regions/New%20Zealand.md)

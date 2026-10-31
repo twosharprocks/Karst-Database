@@ -1,0 +1,39 @@
+---
+title: "Harbell's cave"
+created: 2023-08-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 45.30029000000002
+longitude: -66.05054999999999
+state: "New Brunswick"
+suburb: "Saint John"
+region: "[[Canada]]"
+cavedb: "https://app.cavedb.net/share/af9c6f2f-0372-44bf-8947-f26116a139b2.html"
+catalog-type: "cave"
+altitude: "48 m"
+address: "186, Promenade Fisher Lakes, Saint John, New Brunswick, CAN, E2K"
+source: "Trailpeak.com"
+---
+
+# Additional Notes
+
+"Find your way to Rockwood Park and Drive up past Lily Lake and left at the duck pond. Take the road up past the campground on the right to the parking lot near the Clean Air Trail. Take the Clean Air Trail to the point where it curves back. Then take the paved trail to the caves."
+- **Trailpeak.com:** https://trailpeak.com/trails/harbells-cave-near-saint-john-nb-1785
+
+"The cave openings are quite small. A stream runs completely thru the cave starting at the entrance. Rockwood Park offers guided tours of the cave as well as one other for only $25 per person."
+- **Cancaver.ca:** https://www.cancaver.ca/prov/nb/
+
+Caves in New Brunswick
+
+# Images
+
+- [Harbell's cave - reg_Harbellscave2JPG - d85123d3-af9c6f2f](../../Assets/74e86b18aacfe6dafa39ed35399d42aef9d3115a20ab1ba32c84af0b832c2708.jpg)
+
+# References
+
+- [Mapio.net](https://mapio.net/pic/p-1871357/)
+- [Geocaching.com](https://www.geocaching.com/geocache/GC8D04_harbells-cave-in-rockwood-park)
+- [3ac84a67-cddc-4d1b-9eb6-1cbcd8038cd3](https://www.youtube.com/watch?v=VsAftnxV-TE)

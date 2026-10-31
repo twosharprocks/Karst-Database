@@ -1,0 +1,47 @@
+---
+title: "Rubbish Cave"
+created: 2023-02-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Destroyed"
+latitude: -37.881159
+longitude: 140.64433600000007
+suburb: "Moorak"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/04c950ae-e324-4e8a-ba2f-79bf26ddeb92.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "19 m"
+address: "Lucas Rd, Moorak, South Australia, AUS, 5291"
+reference: "L0045"
+source: "Forestry SA"
+vertical_access: "No"
+goes_to_water: "No"
+access_and_warnings: "Scott's"
+---
+
+# About
+
+Feature destroyed
+
+# Additional Notes
+
+The descriptive name for this sinkhole-like cave entrance was evidently allocated by Bob Sexton during his April 1962 CEGSA trip to the lower South East, when it contained a vast amount of foul rubbish. The large amount of hard rubbish has only deteriorated a little during the past 25 years or so, and even today it is more of a rubbish tip than an interesting karst feature!
+It is basically a single large collapse chamber with a roof window about 20 metres in diameter and with overhanging walls all the way around. By dropping a 6 metre long ladder along the wall on the south-western side to the top of the rubbish-pile, access to the 25 metre wide area in the lower reaches of Rubbish Cave can be made with care, but it is not possible to safely walk right around the bottom of the feature these days.
+Although the April 1962 trip report stated that "on the south-eastern and eastern sides... there is an extremely foul pool of grey water", preliminary dives by the author and Andrew Cox in May 1990 revealed much clearer conditions and a maximum underwater depth of just 6 metres with no apparent extensions at the south-eastern end.
+Rubbish Cave has very little to attract cave explorers or divers!
+
+# Source notes
+
+## Lower South East Cave Reference — Page 100
+
+# Images
+
+- [L0045 - Rubbish Cave - 0101 - 9764ad3c-04c950ae](../../Assets/c80a373d2b19912161ed225bd54dbc86754a5023fe753dfc7bf98f344571f7c2.jpg)
+- [L0045 - Rubbish Cave - 0100 - 0ec86803-04c950ae](../../Assets/488cd94f3137a6169e52c1282aaeed7e6e02b4f4bf92da705e746a54552c70d2.jpg)
+
+# References
+
+- [Lower South East Cave Reference (Horne, 1993)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/Lower%20South%20East%20Cave%20Reference%20%28Horne%2C%201993%29.pdf)

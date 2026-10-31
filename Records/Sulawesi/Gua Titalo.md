@@ -1,0 +1,21 @@
+---
+title: "Gua Titalo"
+created: 2025-09-15
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -4.904872
+longitude: 122.743134
+state: "South East Sulawesi"
+suburb: "Muna Regency"
+region: "[[Indonesia]]"
+cavedb: "https://app.cavedb.net/share/46a5eadb-6081-42a0-a9fa-50d630e8373b.html"
+catalog-type: "cave"
+sub-region: "[[Sulawesi]]"
+altitude: "31 m"
+address: "Jalan Tanpa Nama, Muna Regency, South East Sulawesi, IDN, 93658"
+---
+
+

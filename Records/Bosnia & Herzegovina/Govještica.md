@@ -1,0 +1,22 @@
+---
+title: "Govještica"
+created: 2024-12-09
+updated: 2026-10-29
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 43.775230599999986
+longitude: 18.889844400000015
+state: "Republika Srpska"
+suburb: "Bosnian Podrinje Canton"
+region: "[[Bosnia & Herzegovina]]"
+cavedb: "https://app.cavedb.net/share/235870ae-c3f2-4ae0-9480-a2ba36ba444e.html"
+catalog-type: "cave"
+altitude: "614 m"
+address: "M5, Bosnian Podrinje Canton, Republika Srpska, BIH"
+source: "https://en.wikipedia.org/wiki/List_of_longest_cave_by_country"
+surveyed_length: "9682 m"
+---
+
+

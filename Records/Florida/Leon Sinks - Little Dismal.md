@@ -1,0 +1,26 @@
+---
+title: "Leon Sinks - Little Dismal"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 30.314419999999984
+longitude: -84.34712999999999
+suburb: "Leon County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/85683824-6927-4b6f-beb2-da6a210174b5.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "5 m"
+address: "8980-8998, US-319, Leon County, Florida, USA, 32305"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

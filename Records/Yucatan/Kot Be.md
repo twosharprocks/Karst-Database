@@ -1,0 +1,25 @@
+---
+title: Kot Be
+created: 2023-08-14
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: Cave
+latitude: 20.36935299999999
+longitude: -87.427097
+state: Quintana Roo
+suburb: Tulum
+region: "[[Mexico]]"
+cavedb: https://app.cavedb.net/share/e740a355-ea0c-4e93-afc3-b661f359da57.html
+catalog-type: cave
+sub-region: "[[Yucatan]]"
+altitude: "15 m"
+address: "Tulum, Quintana Roo, MEX, 77760"
+system_name: "Sistema K'oox Baal"
+exploration_potential: "Medium"
+tourism_potential: "Low"
+goes_to_water: "Yes"
+---
+
+

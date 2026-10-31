@@ -1,0 +1,23 @@
+---
+title: "Unnamed Sinkhole"
+created: 2025-06-09
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Sinkhole"
+latitude: -38.038915
+longitude: 141.158223
+suburb: "Glenelg Shire"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/3eb6c226-cb1f-44b1-bc81-e9f1774aa486.html"
+catalog-type: "cave"
+sub-region: "[[Victoria]]"
+altitude: "19 m"
+address: "River Fire Line Track, Glenelg Shire, Victoria, AUS, 3304"
+source: "G11037_Parishplan_warwin"
+---
+
+# Images
+
+- [Unnamed Sinkhole - mossy cave - e374e3d1-3eb6c226](../../Assets/a7dded2968c87fb7be287b51df6c2bcad796946c259d3d7f54c965179510291f.jpg)

@@ -1,0 +1,23 @@
+---
+title: "Bial"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 44.475915999999984
+longitude: 1.65304500000002
+state: "Occitanie"
+suburb: "Bouziès"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/040ae343-76a6-40bd-abfd-10704313a9c4.html"
+catalog-type: "cave"
+altitude: "147 m"
+address: "Tunnel de Coudoulous, Bouziès, Occitanie, FRA, 46330"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

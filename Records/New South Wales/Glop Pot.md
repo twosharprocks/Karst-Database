@@ -1,0 +1,40 @@
+---
+title: "Glop Pot"
+created: 2023-07-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -35.63740100000001
+longitude: 148.66839800000002
+suburb: "Snowy Valleys Council"
+aliases:
+  - "CP7"
+  - "CP-7"
+region: "[[Australia]]"
+rating: CDAA Advanced Cave, TDI Full Cave
+cavedb: "https://app.cavedb.net/share/85570cfe-ba2b-4c05-b20c-e5d2b6b289ba.html"
+catalog-type: "cave"
+sub-region: "[[New South Wales]]"
+altitude: "1245 m"
+address: "Nichols Gorge Walk, Snowy Valleys Council, New South Wales, AUS, 2611"
+reference: "CP-7"
+system_name: "Cooleman Caves"
+source: "SUSS"
+cave_rating: "Advanced"
+exploration_potential: "High"
+goes_to_water: "Yes"
+---
+
+# Additional Notes
+
+Repository - Survex, sketchsheets and illustrator
+
+# Images
+
+- [CP-7 - Glop Pot - cp7glop - 8415ab24-85570cfe](../../Assets/adf2b31c85e9f1beff1583f2a3fc1885f580aa7a735055c8e5844b8e95c5b69e.jpg)
+
+# References
+
+- [SUSS](https://suss.caves.org.au/cave/cooleman/CP7_Glop_Pot/)

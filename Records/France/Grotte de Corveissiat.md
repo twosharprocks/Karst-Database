@@ -1,0 +1,23 @@
+---
+title: "Grotte de Corveissiat"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 46.25309600000003
+longitude: 5.443941999999993
+state: "Auvergne-Rhône-Alpes"
+suburb: "Simandre-sur-Suran"
+region: "[[France]]"
+cavedb: "https://app.cavedb.net/share/499cd471-6042-4cf3-a8e2-7929f2a5b98e.html"
+catalog-type: "cave"
+altitude: "516 m"
+address: "Chemin de l'Abbaye, Simandre-sur-Suran, Auvergne-Rhône-Alpes, FRA, 01250"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

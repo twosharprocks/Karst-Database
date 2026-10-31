@@ -1,0 +1,19 @@
+---
+title: "Stylos Spring"
+created: "2026-10-22"
+updated: "2026-10-22"
+status: "seed"
+catalog-type: "cave"
+tags:
+  - caving
+region: "[[Crete]]"
+verification: "unverified"
+---
+
+# Notes
+
+- **Stylos Spring**, 35.4511, 24.1546, High-flow resurgence in Apokoronas; potential submerged passages.
+
+# References
+
+- [Crete](../Regions/Crete.md)

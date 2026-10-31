@@ -1,0 +1,24 @@
+---
+title: "Clearing - 4565346c"
+created: 2023-07-30
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Depression"
+latitude: -37.782032000000015
+longitude: 140.60092099999997
+suburb: "Burrungule"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/4565346c-bd03-463c-8c58-f303ae66747b.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "59 m"
+address: "Boundary Rd, Burrungule, South Australia, AUS, 5291"
+vertical_access: "No"
+goes_to_water: "No"
+---
+
+# About
+
+2021-Aug: MW flew over with drone. Simple clearing with no obvious karst features.

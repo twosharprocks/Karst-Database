@@ -1,0 +1,26 @@
+---
+title: "Old Bellamy - Bee Tree Sink"
+created: 2023-12-11
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 29.891520000000014
+longitude: -82.56795999999997
+suburb: "Alachua County"
+region: "[[United States]]"
+rating: TDI Full Cave
+cavedb: "https://app.cavedb.net/share/c7b9d26f-3500-4180-a268-361c00fbb4de.html"
+catalog-type: "cave"
+sub-region: "[[Florida]]"
+altitude: "11 m"
+address: "Unnamed Road, Alachua County, Florida, USA, 32643"
+cave_rating: "Advanced"
+highest_cave_rating: "Advanced"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

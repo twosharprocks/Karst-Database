@@ -1,0 +1,43 @@
+---
+title: "O'Leary Road Cave"
+created: 2023-02-04
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -37.80454900000001
+longitude: 140.75350600000002
+suburb: "Suttontown"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/fa807853-bab5-4791-8d76-b03d4d62a516.html"
+catalog-type: "cave"
+sub-region: "[[South Australia]]"
+altitude: "51 m"
+address: "16, Springview Dr, Suttontown, South Australia, AUS, 5291"
+reference: "L0182"
+source: "Forestry SA"
+exploration_potential: "Low"
+---
+
+# About
+
+Runs under road
+
+# Source notes
+
+## Lower South East Cave Reference — Page 354
+
+This feature doesn't have an official name at this stage, but the author knows it as "O'Leary Road Cave" because it runs underneath the road by that name, near Mount Gambier.
+The entrance is a 1.7 x half-metre high hole in a quarry wall, and this leads into a joint enlargement cave which runs almost directly south-east of the quarry for about 27 metres or so. The average dimensions of the passage are in the order of 1.5 metres wide by 2 metres high, although in one area the ceiling is 4 metres above the floor.
+Apart from some crustal decoration at the end, the cave reportedly contains very little of interest
+(unless you happen to like rubbish!).
+
+# Images
+
+- [L0182 - O'Leary Road Cave - olear2 - ccce492b-fa807853](../../Assets/2c2883c6f8a42ce3eba9d94e1f9ada3ee1235de601475c72bb87fa067b6702d4.jpg)
+- [L0182 - O'Leary Road Cave - olear - 7ea114ea-fa807853](../../Assets/bc3c76b9600a16c9061e0ac7d554b44cb6ecd9209a3063fdc71a30214f0ec45a.jpg)
+
+# References
+
+- [Lower South East Cave Reference (Horne, 1993)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/Lower%20South%20East%20Cave%20Reference%20%28Horne%2C%201993%29.pdf)

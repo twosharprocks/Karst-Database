@@ -1,0 +1,23 @@
+---
+title: "Carriere de Aywaille"
+created: 2023-12-12
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: 50.468028000000004
+longitude: 5.636360999999965
+state: "Wallonie"
+suburb: "Aywaille"
+region: "[[Belgium]]"
+cavedb: "https://app.cavedb.net/share/de82166c-ea2b-47e6-9f70-574a0b75c934.html"
+catalog-type: "cave"
+altitude: "263 m"
+address: "Route de Hoyemont, Aywaille, Wallonie, BEL, 4920"
+goes_to_water: "Yes"
+water_type: "Fresh"
+tidal: "No"
+---
+
+

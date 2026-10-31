@@ -1,0 +1,20 @@
+---
+title: "SUSS Camping Cave"
+created: 2024-11-21
+updated: 2026-10-13
+status: seed
+tags:
+  - caving
+feature_type: "Cave"
+latitude: -34.7996
+longitude: 150.01608
+suburb: "Bungonia"
+region: "[[Australia]]"
+cavedb: "https://app.cavedb.net/share/bb6af3e4-8b6e-4204-8f3c-14429949df9f.html"
+catalog-type: "cave"
+sub-region: "[[New South Wales]]"
+altitude: "523 m"
+address: "Bungonia Lookdown Rd, Bungonia, New South Wales, AUS, 2580"
+---
+
+
