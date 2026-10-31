@@ -48,6 +48,6 @@ Algeria has **extensive cave systems**, many of which are of speleological, ecol
 
 Yes, **Algeria is rich in limestone karst and contains many caves**, including some of the **deepest in Africa**. The **Djurdjura Mountains** are particularly notable for their karst terrain and vertical caves, making the country an intriguing — though logistically demanding — destination for karst and cave exploration.
 
-# Source notes
+# References
 
-https://astrobiology.com/2022/10/discovery-of-exciting-bacteria-in-underground-caves-in-north-africa.html
+- [Source](https://astrobiology.com/2022/10/discovery-of-exciting-bacteria-in-underground-caves-in-north-africa.html)

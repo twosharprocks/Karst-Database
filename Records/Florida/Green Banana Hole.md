@@ -21,7 +21,7 @@ goes_to_water: "Yes"
 [Blue Hole](../United%20States/Blue%20Hole.md) off the coast of Sarasota. 
 Rim @47m, bottom @130m
 
-https://advanceddivermagazine.com/greenbanana.html?fbclid=IwY2xjawKEJrxleHRuA2FlbQIxMQABHtJjFgIdUwVrOREbtnj2HLRKb44SXylbQo9-nkr4qXudzPqT5OCvwrHQPbPZ_aem_puOBB1nkYFVWRp9BsUDxag
+- [Source](https://advanceddivermagazine.com/greenbanana.html?fbclid=IwY2xjawKEJrxleHRuA2FlbQIxMQABHtJjFgIdUwVrOREbtnj2HLRKb44SXylbQo9-nkr4qXudzPqT5OCvwrHQPbPZ_aem_puOBB1nkYFVWRp9BsUDxag)
 
 # Additional Notes
 

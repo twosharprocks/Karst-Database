@@ -23,4 +23,4 @@ access_and_warnings: "Access by Scientific Permit Only"
 
 # About
 
-https://www.ocda.org/exploration/projects/bennett-spring/
+- [Source](https://www.ocda.org/exploration/projects/bennett-spring/)

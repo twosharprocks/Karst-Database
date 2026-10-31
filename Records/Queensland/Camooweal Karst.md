@@ -18,4 +18,4 @@ address: "Rocklands Rd, Camooweal, Queensland, AUS, 4828"
 
 # About
 
-https://helictite.caves.org.au/pdf1/38.2.Eberhard.pdf
+- [Source](https://helictite.caves.org.au/pdf1/38.2.Eberhard.pdf)

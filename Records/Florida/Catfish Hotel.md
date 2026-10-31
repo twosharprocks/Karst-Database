@@ -22,7 +22,7 @@ cave_rating: "Advanced"
 vertical_access: "No"
 exploration_potential: "Medium"
 goes_to_water: "Yes"
-access_and_warnings: "https://www.cavediving.com/where/manatee/"
+access_and_warnings: "- [Source](https://www.cavediving.com/where/manatee/)"
 ---
 
 # About

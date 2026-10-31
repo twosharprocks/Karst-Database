@@ -93,7 +93,7 @@ No records are included in this section of the prepared update.
 
 # About
 
-- [Lot - France](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Lot%20-%20France.md) - [Emergence du Russel](https://thecavetobe.com/) - Speak to Peter Alexander (Also about Ushuaia)
+- [Lot - France](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Lot%20-%20France.md) - [Emergence du Russel](https://thecavetobe.com/) - Speak to Peter Alexander (Also about Ushuaia)
 	- No rules, lots of support, need connections
 - Dive in Ardennes - no support, need dive van
 - Idea: Buy van, travel/dive Europe?

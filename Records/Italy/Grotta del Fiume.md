@@ -25,10 +25,6 @@ water_type: "Salt"
 tidal: "Yes"
 ---
 
-# Source notes
-
-https://www.facebook.com/groups/795192310689730/permalink/2350149415194004/
-
 # Images
 
 - [Grotta del Fiume - 401683982_730672845764965_2050895615210551404_n - 6cd801e8-640d97c5](../../Assets/2f17a36e747a4b430eda8760f0dda643ba69b248c0be13b1296a8b4c1d5fa321.jpg)
@@ -41,3 +37,4 @@ https://www.facebook.com/groups/795192310689730/permalink/2350149415194004/
 # References
 
 - [Facebook](https://www.facebook.com/groups/caversgroup/permalink/10160143393673639/)
+- [Source](https://www.facebook.com/groups/795192310689730/permalink/2350149415194004/)

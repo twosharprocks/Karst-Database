@@ -36,9 +36,9 @@ La Fuentona is a small lake with a a cave system that runs deep under its surfac
 
 La Fuentona is a small lake with a a cave system that runs deep under its surface, the locals call it "Ojo del Mar" (the eye of the sea). The cave is very deep and considered an advanced dive. The first sump is V shaped, reaching 170
 - **Youtube:** Old video (early 2000's)
-https://youtu.be/_eTJOM9SM3E
+- [Source](https://youtu.be/_eTJOM9SM3E)
 - **Youtube:** Lots of Spanish, some video of CCR divers underwater
-https://www.youtube.com/watch?v=ybAeOu0INk4
+- [Source](https://www.youtube.com/watch?v=ybAeOu0INk4)
 
 # Images
 

@@ -35,7 +35,7 @@ Avoid
 - [Cathedral Cave](../New%20South%20Wales/Cathedral%20Cave.md) (Ghar ir-Rih)
 - Reqqa Point
 
-# Source notes
+# References
 
-https://indepthmag.com/beyond-the-light-tech-and-cave-exploration-on-gozo/
-https://www.gozotechnicaldiving.com/cave-diving
+- [Source](https://indepthmag.com/beyond-the-light-tech-and-cave-exploration-on-gozo/)
+- [Source](https://www.gozotechnicaldiving.com/cave-diving)

@@ -22,7 +22,7 @@ address: "101, Caves Rd, Apsley, New South Wales, AUS, 2820"
 Tourist Caves
 
 ## About
-[Trip - Wellington Caves - 2025 Sept](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Trip%20-%20Wellington%20Caves%20-%202025%20Sept.md)
+[Trip - Wellington Caves - 2025 Sept](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Wellington%20Caves%20-%202025%20Sept.md)
 
 Accommodation
 - [Booking Cabins & Campsites](https://bookingsau.newbook.cloud/wellingtoncaves/index.php?place_booking&rand=12917)
@@ -30,8 +30,8 @@ Accommodation
 ## Caves
 - [Limekiln-McCavity Cave](Limekiln-McCavity%20Cave.md)
 
-# Source notes
+# References
 
-https://cdg.caves.org.au/CDG-Articles/NSW/JOHNSTON-Wellington2013-OBrien.pdf
-https://lizrogersphotography.com/2012/01/backlighting-in-mccavity-cave/
-https://www.cavedivers.com.au/index.cfm?module=businessdirectory&pagemode=indiv&action=details&page_id=1404644
+- [Source](https://cdg.caves.org.au/CDG-Articles/NSW/JOHNSTON-Wellington2013-OBrien.pdf)
+- [Source](https://lizrogersphotography.com/2012/01/backlighting-in-mccavity-cave/)
+- [Source](https://www.cavedivers.com.au/index.cfm?module=businessdirectory&pagemode=indiv&action=details&page_id=1404644)

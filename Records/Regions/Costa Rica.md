@@ -16,6 +16,6 @@ No records are included in this section of the prepared update.
 
 No records are included in this section of the prepared update.
 
-# Source notes
+# References
 
-https://divegeorgia.shop/trips/costa-rica
+- [Source](https://divegeorgia.shop/trips/costa-rica)

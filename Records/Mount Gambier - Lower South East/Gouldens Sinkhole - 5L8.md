@@ -66,7 +66,7 @@ Photogram
 
 # Additional Notes
 
-https://www.trimixdivers.com/trimix5/wp-content/uploads/pheghmap2.jpg
+- [Source](https://www.trimixdivers.com/trimix5/wp-content/uploads/pheghmap2.jpg)
 
 # Source notes
 

@@ -56,6 +56,6 @@ Fly Perth, Mauritius, Madagascar
 - 17day trip included 6days of travel
 ---
 
-# Source notes
+# References
 
-https://www.madacaves.com/
+- [Source](https://www.madacaves.com/)

@@ -76,4 +76,4 @@ Previous studies have stated that "this section was affected by the former inten
 
 # Trips
 
-- [Trip - Japan - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Trip%20-%20Japan%20-%202026%20May.md)
+- [Trip - Japan - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Japan%20-%202026%20May.md)

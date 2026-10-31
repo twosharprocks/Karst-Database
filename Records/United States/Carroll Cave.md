@@ -18,7 +18,7 @@ address: "2179, Carroll Cave Rd, Richland, Missouri, USA, 65556"
 vertical_access: "No"
 exploration_potential: "Medium"
 goes_to_water: "Yes"
-access_and_warnings: "https://www.ocda.org/exploration/sump-diving/carroll-cave-lake-room/"
+access_and_warnings: "- [Source](https://www.ocda.org/exploration/sump-diving/carroll-cave-lake-room/)"
 ---
 
 # About

@@ -23,4 +23,4 @@ Site of pavement collapse reported on Mt Gambier chat group 25-06-2023 after hea
 
 Checked by BC and MW on day of collapse, but unable to get into hole because of fencing and emergency services present.
 
-https://www.abc.net.au/news/2023-06-26/mount-gambier-watches-for-more-sinkholes-but-prediction-hard/102522908
+- [Source](https://www.abc.net.au/news/2023-06-26/mount-gambier-watches-for-more-sinkholes-but-prediction-hard/102522908)

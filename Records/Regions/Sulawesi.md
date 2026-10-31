@@ -93,7 +93,7 @@ catalog-type: "region"
 
 # Cave Notes
 
-Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Cave%20Regions.md).
+Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Cave%20Regions.md).
 
 # About
 
@@ -119,7 +119,7 @@ Region Kapantareh
 
 # Trips
 
-- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
+- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
 ---
 
 # Source notes
