@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cova dels arquets.kml</name>
+	<Style id="ThEntranceIcon">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="ThEntranceIcon0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="ThEntranceIcon1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ThEntranceIcon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ThEntranceIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ThSurveyLine">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="ThSurveyLine0">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="ThSurveyLine1">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="ThSurveyLine2">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="ThSurveyLine3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ThSurveyLine2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ThSurveyLine</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ThSurveyLine4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ThSurveyLine0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ThSurveyLine1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cova dels arquets</name>
+		<description><![CDATA[Length 70 m<br>Depth 6 m]]></description>
+		<Style id="ThEntranceIcon">
+			<IconStyle>
+				<Icon>
+					<href>https://therion.speleo.sk/downloads/KmlIconEntrance.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Icon>
+			<href>https://therion.speleo.sk/downloads/KmlIconModel.png</href>
+		</Icon>
+		<Placemark>
+			<name>Cova dels Arquets</name>
+			<styleUrl>#ThEntranceIcon1</styleUrl>
+			<Point>
+				<coordinates>3.21232467459739,42.05815079784891,-8</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>inicial</name>
+			<Placemark>
+				<name>0</name>
+				<styleUrl>#ThSurveyLine4</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							3.21232467459739,42.05815079784891,-8 3.21219694370854,42.0580996814816,-7.699999999999999 3.2120915828454,42.05802585562958,-6.799999999999999 3.21202082492089,42.05802747950276,-5.5 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>inventado</name>
+			<Placemark>
+				<name>0</name>
+				<styleUrl>#ThSurveyLine3</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							3.21202082492089,42.05802747950276,-5.5 3.21153898917692,42.05803856030253,-2.5 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
