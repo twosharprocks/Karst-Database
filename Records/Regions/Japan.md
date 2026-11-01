@@ -1,7 +1,7 @@
 ---
 title: "Japan"
-created: "2026-03-31"
-updated: "2026-10-22"
+created: 2026-10-27
+updated: 2026-10-31
 status: seed
 region: "[[Asia]]"
 smarttraveller: https://www.smartraveller.gov.au/destinations/asia/japan
@@ -19,16 +19,13 @@ catalog-type: "region"
 
 - [Akkadō (安家洞)](../Japan/Akkad%C5%8D%20%28%E5%AE%89%E5%AE%B6%E6%B4%9E%29.md)
 - [Hoshino Cave](../Japan/Hoshino%20Cave.md)
-
-# About
-
+# To Sort
 - Higoshidai
 - Nishidai by Higashikawa
+- [Nippara Limestone Caves - Google Maps](https://maps.app.goo.gl/f9wkyZ3M3zmRT8eV8)
+- [Akiyoshidai Cave](../Akiyoshidai/Akiyoshidai%20Cave.md)
 
-# Cave Notes
-
-Mine region
 
 # Trips
 
-- [Trip - Japan - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Japan%20-%202026%20May.md)
+- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)

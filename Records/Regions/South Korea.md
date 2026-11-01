@@ -23,4 +23,4 @@ South Korea is a parent region used to organise cave notes. More specific admini
 
 # References
 
-- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Cave%20Regions.md)
+- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Cave%20Regions.md)

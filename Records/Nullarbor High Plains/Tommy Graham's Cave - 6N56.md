@@ -1,7 +1,7 @@
 ---
 title: "Tommy Graham's Cave - 6N56"
 created: 2026-06-18
-updated: 2026-10-13
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -16,31 +16,9 @@ catalog-type: "cave"
 sub-region: "[[Nullarbor High Plains]]"
 altitude: "87 m"
 address: "Unnamed Road, Shire of Dundas, Western Australia, AUS, 6443"
-altitude_alternatives: ["88 m ? additional captured location record"]
-cave_rating: "Cave"
-highest_cave_rating: "Cave"
-exploration_potential: "High"
-goes_to_water: "Yes"
-water_type: "Fresh"
-tidal: "No"
-coordinates: "-32.097959, 126.19563500000004"
-checked: "true"
-checked_by: "B c"
-vertical_access: "No"
-difficulty: "VeryHard"
-entry_difficulty: "Hard"
-entry_type: "Shore"
-has_showers: "No"
-has_toilets: "No"
-has_phone: "No"
-family: "Terrible"
-parking: "Excellent"
 ---
 
 # About
-
-## About
-
 The entrance to the cave is a large doline 50m in diameter. The obvious route into the doline leads to short cave below the Northwest cliff line.
 
 The main cave has been described as a “wombat- sized hole” which is found in the Southeast end of the doline, about 3m down from the level of the plain. There is a visitor book on a rock shelf in the entrance. The way on is not obvious and goes through a rock squeeze at the end of the low entrance chamber.
@@ -72,22 +50,17 @@ Tommy Graham’s Sketch Map 2004
 
 N56-CEG8105 (in prep)
 
-# Source notes
+- **https://www.youtube.com/watch?v=-8EcYqws7Nk:** Youtube video showing entrance and blue water
 
-## https://www.youtube.com/watch?v=-8EcYqws7Nk
-
-Youtube video showing entrance and blue water
-
-# Images
-
+## Images
 - [Tommy Grahams Cave - 6N-56 - a62762ce-a865a78d](../../Assets/792042d6914bbab67481b0d8df4645470f8f4b82095144512c4b4c41dfd25e45.jpg)
-
 - [Tommy Graham's Entrance - 17712361067265922681269486020057 - cdfea18a-a81eecf1](../../Assets/87e76c3eb2c6cd0ac93885c3eba66612461fe2b079a1d6a01578fd93b4208646.jpg)
 - [Tommy Graham's Entrance - 6N-56 - 979121b5-a81eecf1](../../Assets/792042d6914bbab67481b0d8df4645470f8f4b82095144512c4b4c41dfd25e45.jpg)
 - [Tommy Graham's Entrance - 17712360916194961679778329578029 - 3071e9f0-a81eecf1](../../Assets/a14f87677bb3d3ad512bf58378aafe7deb4de5e8fcadd9a784d4b99e750852a9.jpg)
 
 # References
 
+- [Tommy Grahams Cave - Google Maps](https://maps.app.goo.gl/r7QR7nYLo8mFTqRE9)
 - [Source](https://www.cavediving.net.au/index.php/siteinfo/?site=10)
 - [Source](https://www.tdisdi.com/tdi-diver-news/trip-report-tommy-grahams-cave/)
 - [Tommy Grahams Cave - cavedivers.com.au](https://www.cavedivers.com.au/index.cfm?action=details&module=BUSINESSDIRECTORY&pageMode=indiv&page_id=1404666)
