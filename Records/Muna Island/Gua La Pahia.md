@@ -57,10 +57,6 @@ parking: "Good"
 
 - [Gua La Pahia - la pahia - map - 9cf56aeb-204d672d](../../Assets/e2a2e518f55a0690075e5438ac48192f001cdc70159a554a720082fe343438ee.jpg)
 
-# Source notes
-
-https://www.youtube.com/watch?v=pw2oqsmQ9Ew
-
 # Images
 
 - [Gua La Pahia - Gua La Pahia - Sketch - 0b1e5a65-204d672d](../../Assets/bd4eba90470d26b005d3a31ac71f19203b20dff28f8e94d466e722dd860061df.jpg)
@@ -72,6 +68,6 @@ https://www.youtube.com/watch?v=pw2oqsmQ9Ew
 
 # References
 
-- [YouTube - Alexey Vlasov](https://www.youtube.com/watch?v=pw2oqsmQ9Ew)
+- [Source](https://www.youtube.com/watch?v=pw2oqsmQ9Ew)
 - [Youtube - Soggy Wombats](https://youtu.be/Uikp7gdta8A)
 - [0d12096e-1570-4c3a-9c35-16a13a4b6b36](https://www.youtube.com/watch?v=Uikp7gdta8A)

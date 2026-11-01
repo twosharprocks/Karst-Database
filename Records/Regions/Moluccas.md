@@ -12,6 +12,6 @@ catalog-type: region
 
 No records are included in this section of the prepared update.
 
-# Source notes
+# References
 
-https://en.wikipedia.org/wiki/Maluku_Islands
+- [Source](https://en.wikipedia.org/wiki/Maluku_Islands)

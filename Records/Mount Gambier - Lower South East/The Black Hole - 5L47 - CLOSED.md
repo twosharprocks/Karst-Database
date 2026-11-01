@@ -41,9 +41,6 @@ The shallowest point in the sinkhole lies at the south-eastern end of the lake, 
 
 The Black Hole has only been cursorily observed scientifically, but some interesting things have already been found... for instance, it contains some rare and very delicate freshwater sponges and crustaceans such as syncarids (Koominga crenarum), and in the warmer months the shallow levels are reduced to a very low visibility due to the presence of zillions of planktonic life-forms. The sinkhole is also an important site for some unusual and very large "stromatolitic" forms which are found on the submerged walls. The lower levels maintain a fairly constant temperature of around 15.4 degrees C. throughout the year, but the shallow-water temperature fluctuates considerably (especially in the summer, when thermoclines form).
 
-
-https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZGl2ZXJlcHRzfGd4OjI4YmQ0OTMyODgzZTkzZGY
-
 # Images
 
 - [L0047 - Black Hole - Screenshot 2024-12-27 224335 - 5c4ae523-91458702](../../Assets/a6206966b92f3292e749ea336a30fe3d08b662326cbc7e24830f99926c7f4fea.png)
@@ -54,3 +51,4 @@ https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZGl2ZXJlc
 - [Lower South East Cave Reference (Horne, 1993)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/Lower%20South%20East%20Cave%20Reference%20%28Horne%2C%201993%29.pdf)
 - [Cave Diving Down Under — 5L-47.gif](https://www.cavediving.net.au/images/articles/maps/5L-47.gif)
 - [Peter Horne - SA Cave Diving Research](https://sites.google.com/site/cdiverepts/Home)
+- [Source](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZGl2ZXJlcHRzfGd4OjI4YmQ0OTMyODgzZTkzZGY)

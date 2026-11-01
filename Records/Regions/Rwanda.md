@@ -73,6 +73,6 @@ Key points:
 
 If you're looking at Rwanda as a potential destination for **cave diving or speleological study**, it’s relatively **understudied**, offering opportunities for **original exploration**, but currently lacks the depth and underwater access found in major karst systems elsewhere.
 
-# Source notes
+# References
 
-https://visitrwanda.com/interests/caving/
+- [Source](https://visitrwanda.com/interests/caving/)

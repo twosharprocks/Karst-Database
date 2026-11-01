@@ -27,7 +27,7 @@ has_toilets: "No"
 # About
 
 At 150.4 miles (242.0 km), Lechuguilla Cave is the eighth-longest explored cave in the world[1] and the second deepest (1,604 feet or 489 meters) in the continental United States.[2] It is most famous for its unusual geology, rare formations, and pristine condition.
-https://en.wikipedia.org/wiki/Lechuguilla_Cave
+- [Source](https://en.wikipedia.org/wiki/Lechuguilla_Cave)
 
 # Additional Notes
 

@@ -57,6 +57,6 @@ Playa Giron (Bay of Pigs) - LOTS of water visible from satellite
 
 [Cuban Cuskell Conservation & Exploration Project](https://www.instagram.com/p/DJfaO6Tv-Pq/)
 
-# Source notes
+# References
 
-https://web.archive.org/web/20170413194401/https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/is-this-seaside-town-cubas-best-kept-secret/
+- [Source](https://web.archive.org/web/20170413194401/https://www.telegraph.co.uk/travel/destinations/caribbean/cuba/articles/is-this-seaside-town-cubas-best-kept-secret/)

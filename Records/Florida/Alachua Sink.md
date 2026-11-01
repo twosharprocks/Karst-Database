@@ -21,7 +21,7 @@ cave_rating: "Advanced"
 vertical_access: "No"
 exploration_potential: "High"
 goes_to_water: "Yes"
-access_and_warnings: "https://caves.org/preserve/mill-creek-sink-nature-preserve-alachua-sinks/"
+access_and_warnings: "- [Source](https://caves.org/preserve/mill-creek-sink-nature-preserve-alachua-sinks/)"
 ---
 
 # Additional Notes

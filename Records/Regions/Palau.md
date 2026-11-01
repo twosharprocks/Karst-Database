@@ -36,6 +36,8 @@ Palau's **Rock Islands**, a UNESCO World Heritage Site, are characterized by **u
 
 # Source notes
 
-https://scubaboard.com/community/threads/palau-mar-apr-2022-wrecks-caves-reefs.619505/
-
 2022 Trip Report - https://wreckedinmyrevo.com/2022/04/10/trip-report-palau-wrecks-caves-reefs/
+
+# References
+
+- [Source](https://scubaboard.com/community/threads/palau-mar-apr-2022-wrecks-caves-reefs.619505/)

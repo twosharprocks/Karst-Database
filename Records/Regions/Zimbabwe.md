@@ -30,6 +30,6 @@ No records are included in this section of the prepared update.
 	- 1992 US Navy divers hit 135m
 	- 2013 divers hit 191m
 
-# Source notes
+# References
 
-https://d2ouvy59p0dg6k.cloudfront.net/downloads/ramsar_chinhoyi_factsheet.pdf
+- [Source](https://d2ouvy59p0dg6k.cloudfront.net/downloads/ramsar_chinhoyi_factsheet.pdf)

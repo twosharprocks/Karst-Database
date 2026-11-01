@@ -15,7 +15,7 @@ catalog-type: "cave"
 sub-region: "[[Western Australia]]"
 altitude: "237 m"
 address: "Shire of Halls Creek, Western Australia, AUS, 6770"
-access_and_warnings: "https://www.mimbicaves.com.au/"
+access_and_warnings: "- [Source](https://www.mimbicaves.com.au/)"
 ---
 
 # About

@@ -46,7 +46,7 @@ Marsh Harbour, CO
 Get Directions
 (242) 359-6128
 bahamacave@aol.com
-http://www.bahamascaves.com
+- [Source](http://www.bahamascaves.com)
 There are very few places left on planet Earth where a person can go right now and say, “I am the first person ever to set eyes on this place.” The opportunity to “be the first” is one that happens on a routine basis here in The Bahamas. The ancient labyrinths that lie below our own feet on these islands are unlike any others found on earth. Imagine swimming through air clear water while being completely surrounded by a place so fragile, and so beautiful, that it can only be described as “swimming inside a crystal chandelier.”
 
 The blue holes of The Bahamas have long been regarded as dark, mysterious places that only the lunatic fringe would dare to enter. This stigma has changed drastically over the last 20 years, as technology and improved training techniques have allowed a relatively large portion of the sport diving community to safely enter these amazingly beautiful and scientifically significant sites.

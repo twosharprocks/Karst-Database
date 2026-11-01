@@ -26,4 +26,4 @@ tidal: "No"
 # About
 
 Lake Navarino, behind Waroona Dam, is a popular recreation area for water skiing and freshwater fishing. Camping and campfires are not permitted but there are a range of camping options available at the Lake Navarino Holiday Park. 
-https://exploreparks.dbca.wa.gov.au/site/lake-navarino
+- [Source](https://exploreparks.dbca.wa.gov.au/site/lake-navarino)

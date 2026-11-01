@@ -79,7 +79,7 @@ Sakon Nakhon Province (Isan)
 
 # Trips
 
-- [Trip - Thailand - Boh Yai Mines - 2026 Jan](https://github.com/twosharprocks/digitalgarden/blob/4000923f84b668a9b13670fd29ae0ebb4889b13e/content/posts/Trip%20-%20Thailand%20-%20Boh%20Yai%20Mines%20-%202026%20Jan.md)
+- [Trip - Thailand - Boh Yai Mines - 2026 Jan](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Thailand%20-%20Boh%20Yai%20Mines%20-%202026%20Jan.md)
 
 # References
 
