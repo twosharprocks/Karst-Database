@@ -19,4 +19,4 @@ address: "Madura, Western Australia, AUS, 6443"
 
 # About
 
-Mismark for [Nurina Cave](../Roe%20Plains/Nurina%20Cave.md)
+Mismark for [Nurina Cave - 6N46](../Roe%20Plains/Nurina%20Cave%20-%206N46.md)

@@ -1876,7 +1876,7 @@ Generated from the published vault records.
 - [Numburghöhle](Germany/Numburgh%C3%B6hle.md)
 - [Numby Numby](Northern%20Territory/Numby%20Numby.md)
 - [Numerous Coastal Caves](Italy/Numerous%20Coastal%20Caves.md)
-- [Nurina Cave](Roe%20Plains/Nurina%20Cave.md)
+- [Nurina Cave - 6N46](Roe%20Plains/Nurina%20Cave%20-%206N46.md)
 - [Nurina Cave \[FALSE\]](Western%20Australia/Nurina%20Cave%20%5BFALSE%5D.md)
 - [Nursery Sink](Florida/Nursery%20Sink.md)
 - [Nuttlar](Germany/Nuttlar.md)

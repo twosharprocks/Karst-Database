@@ -1,7 +1,7 @@
 ---
 title: "Vanuatu"
 created: 2026-06-19
-updated: 2026-09-14
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -11,6 +11,8 @@ catalog-type: "region"
 ---
 
 # Sub-regions
+- [Espiritu Santo](../Vanuatu/Santo.md)
+- 
 
 No records are included in this section of the prepared update.
 
@@ -74,7 +76,15 @@ No records are included in this section of the prepared update.
 
 Vanuatu offers **year-round diving**, but the **dry season** from **October to May** is considered the best time to visit.
 
+[Espiritu Santo](../Vanuatu/Santo.md)
+- [Riri Blue Hole - Google Maps](https://maps.app.goo.gl/dmThApj2N5P4F8CeA)
+- [Millennium Cave - Google Maps](https://maps.app.goo.gl/91wCneMfQwacYiXVA)
+- [Matevulu Blue Hole - Google Maps](https://maps.app.goo.gl/YDqpjwEHRwRHiUR68)
+- [Thar Secret Blue Hole - Google Maps](https://maps.app.goo.gl/QxPRMoVUS5ksnGUHA)
+- [Nanda Blue Hole - Google Maps](https://maps.app.goo.gl/xkymE9tHnCfoAJZd6)
+- [Jackie's Blue Hole - Google Maps](https://maps.app.goo.gl/79pqReuPZPgAMnXH9)
+
 # References
 
-- [Script - Cave Finder - Vanuatu](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Script%20-%20Cave%20Finder%20-%20Vanuatu.md)
+- [Script - Cave Finder - Vanuatu](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Script%20-%20Cave%20Finder%20-%20Vanuatu.md)
 - [I Explored the Islands of Vanuatu – Here’s Why it Should be on Your 2025 Bucket List](https://weareexplorers.co/vanuatu-2025-bucket-list/)

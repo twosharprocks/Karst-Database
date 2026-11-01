@@ -56,7 +56,7 @@ No records are included in this section of the prepared update.
 * Central
 	* [Frasassi Caves](https://en.wikipedia.org/wiki/Frasassi_Caves)
 		* [Lago dello Svizzero](https://www.facebook.com/XdeepGear/posts/pfbid02m8uruBL6JXc91evAV8zpuHU8NhnTFpTMbLYCTNTJHcJ2Cz7TpLsdRmUr6TDTJ67fl) - [Youtube](https://www.youtube.com/watch?v=JqxOuoHgteo)
-* [Sardinia - Italy](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Sardinia%20-%20Italy.md)
+* [Sardinia - Italy](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Sardinia%20-%20Italy.md)
 	* [Sardinia - Multiple Cave Systems](https://protecsardinia.com/caves-of-sardinia/), [Protec Project Utopia](https://protecsardinia.com/skep/?lang=en)
 * Rome - [Pozzo del Merro](../Italy/Pozzo%20del%20Merro.md) (Super Deep)
 * [Portofino - U455](https://portofinodivers.com/en/diving/wreck/u-455.html) [Deep Trimix][Other wrecks in area too]
@@ -70,13 +70,13 @@ No records are included in this section of the prepared update.
 	- "[Bear Cave of Ponte di Nava](../Italy/Bear%20Cave%20of%20Ponte%20di%20Nava.md)" or "CAVE OF THE POGGIO"
 - Castella Grotte (Bari) - Tourist Cave
 	- [Fascebook Post](https://www.facebook.com/groups/caversgroup/posts/10161570804958639/)
-- [Sicily - Italy](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Sicily%20-%20Italy.md)
+- [Sicily - Italy](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Sicily%20-%20Italy.md)
 	- [Pantelleria](https://en.wikipedia.org/wiki/Pantelleria)
 	- Pelagie Islands - [Lampedusa](https://en.wikipedia.org/wiki/Lampedusa), [Linosa](https://en.wikipedia.org/wiki/Linosa)
 
 # Source notes
 
-[Deep Diving Academy](https://www.deepdivingacademy.it/wordpress/associazione/) - Diving in Grotta dell'Orso & [Sardinia - Italy](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Sardinia%20-%20Italy.md)
+[Deep Diving Academy](https://www.deepdivingacademy.it/wordpress/associazione/) - Diving in Grotta dell'Orso & [Sardinia - Italy](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Sardinia%20-%20Italy.md)
 - https://www.deepdivingacademy.it/wordpress/sardegna/
 [La Venta](https://www.laventa.it/it/) Cave Explorers
 

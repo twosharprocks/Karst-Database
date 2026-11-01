@@ -1,7 +1,7 @@
 ---
 title: "Akiyoshidai"
 created: 2026-06-19
-updated: 2026-09-11
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -76,4 +76,14 @@ Previous studies have stated that "this section was affected by the former inten
 
 # Trips
 
-- [Trip - Japan - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Japan%20-%202026%20May.md)
+- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)
+
+# To Sort
+- [Suijin Pond - Google Maps](https://maps.app.goo.gl/dyBhFPfhe12trvCp8)
+- [Beppu Benten Pond - Google Maps](https://maps.app.goo.gl/nYBDSdkrwJuaTLgk9)
+- [Nakaodo Cave - Google Maps](https://maps.app.goo.gl/GRpTRWV6fTEJHLYe9)
+- [Taishodo Cave - Google Maps](https://maps.app.goo.gl/nMGvgSUWNWS8ovjb7)
+- [Kagekiyodo Cave - Google Maps](https://maps.app.goo.gl/DywUNMJk4AXQuvF47)
+- 
+
+# References

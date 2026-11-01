@@ -1,7 +1,7 @@
 ---
 title: "India"
 created: 2025-11-02
-updated: 2026-09-11
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -23,9 +23,8 @@ No records are included in this section of the prepared update.
 - [Bhimkund](https://en.wikipedia.org/wiki/Bhimkund) 
 - [Arjunkund](https://grottomap.org/en/entrance/DzbpLFFE/arjunkund_dhangawan) - 24.455900 N, 79.208200 E
 
-# Balpakram National Park
-
-Near Bangladesh)
+# [Balpakram National Park](https://maps.app.goo.gl/jNFYbkgZZmsykn1ZA)
+Near Bangladesh
 
 # Source notes
 

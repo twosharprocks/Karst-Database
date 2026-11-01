@@ -1,7 +1,7 @@
 ---
 title: "United States"
 created: 2026-06-18
-updated: 2026-09-11
+updated: 2026-10-31
 status: seed
 tags:
   - expeditions
@@ -42,3 +42,5 @@ catalog-type: "region"
 - [Sand Spring](../United%20States/Sand%20Spring.md)
 - [Tears of the Turtle Cave](../United%20States/Tears%20of%20the%20Turtle%20Cave.md)
 - [Welch Spring](../United%20States/Welch%20Spring.md)
+# Misc
+- [Morton Salt (Ohio) - Google Maps](https://maps.app.goo.gl/Jvs3qEgacuthAK4BA) - Underground Salt mine now flooding with water?

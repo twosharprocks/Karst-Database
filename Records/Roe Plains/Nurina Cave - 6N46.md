@@ -1,21 +1,21 @@
 ---
-title: "Nurina Cave"
+title: Nurina Cave - 6N46
 created: 2026-06-18
-updated: 2026-10-13
+updated: 2026-10-31
 status: seed
 tags:
   - caving
 region: "[[Western Australia]]"
 rating: CDAA Advanced Cave, TDI Full Cave
-feature_type: "Cave"
+feature_type: Cave
 latitude: -32.01630499999999
 longitude: 127.00737800000002
-suburb: "Shire of Dundas"
-cavedb: "https://app.cavedb.net/share/69f453d4-3746-47c7-89c2-d18ccef28e10.html"
-catalog-type: "cave"
+suburb: Shire of Dundas
+cavedb: https://app.cavedb.net/share/69f453d4-3746-47c7-89c2-d18ccef28e10.html
+catalog-type: cave
 sub-region: "[[Roe Plains]]"
-altitude: "22 m"
-address: "Shire of Dundas, Western Australia, AUS, 6443"
+altitude: 22 m
+address: Shire of Dundas, Western Australia, AUS, 6443
 source: "Google"
 cave_rating: "Advanced"
 exploration_potential: "Medium"
@@ -26,19 +26,33 @@ temperature: "16–16 °C"
 ---
 
 # About
-
 Situated to the east of Madura Pass, approximately 1400km from Perth, you’ll find a fascinating cave on the Roe Plain. Here, the limestone surface is in close proximity to the water table. This underwater cave is a complex network of intersecting fissures, with a generally small breakdown passage. It features distinct bedding planes at depths of 3, 5, and 7 meters, which house stunning horizontal elliptical phreatic passages as well as low flat passages, all interconnected. The deepest point is a 7m bedding plane, and so far, 410m of underwater passage has been explored (as of February 2004).
 
 The water in the cave, with a temperature of a cool 16C, is saline at 18,000ppm salt, just slightly less than sea water’s 19,000ppm. It has a unique blue hue, reminiscent of Tommy Grahams Cave located to the west. This cave is particularly interesting to speleological biologists due to its rich biodiversity. It is home to the highest number of troglobitic animal species found in a single cave on the Nullarbor, including two different types of troglobitic spiders, a troglobitic cockroach, an isopod, and an amphipod, which is a small aquatic crustacean.
 
-small enterence with little traffic, ropes recommened to get down due to lose rocks and no defined path.
+# Maps
+
+![Nurina Cave site information and map source](https://www.cavediving.net.au/index.php/siteinfo/?site=6)
+- [Source](https://www.cavediving.net.au/docs/nullarbor/6N-46.gif)
+
+## Images
+- [Nurina Cave - IMG_2110 - a4217b89-69f453d4](../../Assets/4a79732a177d0a74b1ae4f9e56b8ab572a2ef42855b510d902120d428364d575.jpeg)
+- [Nurina Cave - IMG_2111 - c71e6885-69f453d4](../../Assets/c16897966402c6bc649e244de316d08d02510ac98990379c24f12a500dd65eb0.jpeg)
+- [Nurina Cave - IMG_2112 - 0150c170-69f453d4](../../Assets/9b0019984a90fe69c979552b27ef6422d8b0390d246260eaa164092fd322ac65.jpeg)
+- [Nurina Cave - nurina - 06986bef-69f453d4](../../Assets/b814427ed0a64aba168de0578c08e7e4edbe7eb350540d96c7768d1bbdcb831e.jpg) — MW
+- [Nurina Cave - nurina drone - d42d4870-69f453d4](../../Assets/d888871cda42731ae38b9d1c77fd55492af879652af793f588d9ba5da90142a9.jpg) — MW
+- [Nurina Cave - nurina water - 1b793f4f-69f453d4](../../Assets/0437455666e1751e2221716629d5c087af7f0b472438564e5c2bf52bd396a193.jpg) — MW
+- [Nurina Cave - nurina water2 - 9278781c-69f453d4](../../Assets/2c8f012f4a81fee57ce24fbab1bb53644b2908ee4fc9d51649ba04e6ff956c35.jpg) — MW
+- [Nurina Cave - nuruna drone2 - 0431e294-69f453d4](../../Assets/7818f5a584026e4ea791b424e07ac1d916e853b26d191abe915ebbaa74e1a018.jpg) — MW
+
+- **Cave Atlas:** http://caveatlas.com/systems/system.asp?ID=744&co=AU
 
 # Additional Notes
 
 Located East of Madura Pass (1400km E of Perth), this cave is on the Roe Plain where the limestone surface is much closer to the water table. The underwater cave is a set of intersecting network fissures with generally small breakdown passage. Distinct bedding planes at 3, 5 & 7m contain the most beautiful horizontal elliptical phreatic passage as well as low flat passages which helps connect them all together. The maximum depth is a 7m bedding plane and the length of underwater passage explored so far is 410m (4/02).
 
 The chilly 16C water is saline at 18,000ppm salt (sea water being 19,000ppm) and has a distinctive blue hue, similar to Tommy Grahams Cave to the west. This cave is of specific interest to speleological biologists as it contains the most number of troglobitic animal species found in a single cave on the Nullarbor. There are two different types of troglobitic spider, a troglobitic cockroach, an isopod and an amphipod (a tiny aquatic crustacean).
-- [Trimix Divers — Nurina Cave](https://www.trimixdivers.com/): www.trimixdivers.com/trimix5/?p=4869
+- [Trimix Divers — Nurina Cave - 6N46](https://www.trimixdivers.com/): www.trimixdivers.com/trimix5/?p=4869
 
 Located East of Madura Pass (1400km E of Perth), this cave is on the Roe Plain where the limestone surface is much closer to the water table (ie. bonus !!). The underwater cave is a set of intersecting network fissures with generally small breakdown passage. Distinct bedding planes at 3, 5 & 7m contain the most beautiful horizontal elliptical phreatic passage (see Gallery) as well as low flat passages which helps connect them all together. The maximum depth is a 7m bedding plane and the length of underwater passage explored so far is 410m (4/02).
 The chilly 16C water is saline at 18,000ppm salt (sea water being 19,000ppm) and has a distinctive blue hue, similar to Tommy Grahams Cave to the west. This cave is of specific interest to speleological biologists as it contains the most number of troglobitic animal species found in a single cave on the Nullarbor. There are two different types of troglobitic spider, a troglobitic cockroach, an isopod and an amphipod (a tiny aquatic crustacean).
@@ -88,26 +102,3 @@ Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves 
 
 ![6N46 + 6N63 - Nurina Cave + Thylacine Hole - ASF JNJ-S-1011-12 - Map - N46 Nurina cave (part only) - N63 Thylacine hole](../../Assets/a9f5d1e558597803c9b238ce3bc35f188dc891deb1bae6e9d81ee0515b52443e.jpg)
 *ASF Joe N. Jennings slide catalogue, JNJ-S-1011-12, Box 1011. Catalogue description: Map - N46 Nurina cave (part only) - N63 Thylacine hole. [ASF record](https://st1.asflib.net/MEDIA/ASFJJSlidesCatalogue/Box%201011/JNJ-S-1011-12.html).*
-
-<!-- ASF slide images: end -->
-
-# Images
-
-- [Nurina Cave - IMG_2110 - a4217b89-69f453d4](../../Assets/bac56d8498c1ae9538ebdf3703ffd4bbd3939fa629766317cb21f9b8f1ba14d7.jpeg)
-- [Nurina Cave - IMG_2111 - c71e6885-69f453d4](../../Assets/28f657abd856001afa328bfc5b283893e2bf5445ad005424fa26ba3e0df35018.jpeg)
-- [Nurina Cave - IMG_2112 - 0150c170-69f453d4](../../Assets/f68a0c842f917eccdcfa404d5df59ef8fdf99d48ac206ad0e6e7749c27778a85.jpeg)
-- [Nurina Cave - nurina - 06986bef-69f453d4](../../Assets/52a4ed2e3beb10adb738c059f89d3cb7ae9ffdd1716d764eba0e55781e91b125.jpg) — MW
-- [Nurina Cave - nurina drone - d42d4870-69f453d4](../../Assets/970a1113b6306255d8f758509dfe1ab718808c6cd44f56c712eae67fce2ff533.jpg) — MW
-- [Nurina Cave - nurina water - 1b793f4f-69f453d4](../../Assets/d6ad6a693d237ecae26a4dee27ecd11142e04aae1eaf74abc53fb22117f327c1.jpg) — MW
-- [Nurina Cave - nurina water2 - 9278781c-69f453d4](../../Assets/26e434351ae847947cb756830bff383bb2cbc9cfdf736916552018f63aa55314.jpg) — MW
-- [Nurina Cave - nuruna drone2 - 0431e294-69f453d4](../../Assets/57b27de983f7c74b1f84d67bd5cb09bc4f7c07f4e15f7a38fb062a001cabca73.jpg) — MW
-
-- [Nurina Cave - nuruna drone2 - 0431e294-69f453d4](../../Assets/57b27de983f7c74b1f84d67bd5cb09bc4f7c07f4e15f7a38fb062a001cabca73.jpg)
-- [Nurina Cave - nurina water2 - 9278781c-69f453d4](../../Assets/26e434351ae847947cb756830bff383bb2cbc9cfdf736916552018f63aa55314.jpg)
-- [Nurina Cave - nurina water - 1b793f4f-69f453d4](../../Assets/d6ad6a693d237ecae26a4dee27ecd11142e04aae1eaf74abc53fb22117f327c1.jpg)
-- [Nurina Cave - nurina drone - d42d4870-69f453d4](../../Assets/970a1113b6306255d8f758509dfe1ab718808c6cd44f56c712eae67fce2ff533.jpg)
-- [Nurina Cave - nurina - 06986bef-69f453d4](../../Assets/52a4ed2e3beb10adb738c059f89d3cb7ae9ffdd1716d764eba0e55781e91b125.jpg)
-
-# References
-
-- [Cave Atlas](http://caveatlas.com/systems/system.asp?ID=744&co=AU)

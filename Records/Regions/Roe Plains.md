@@ -16,7 +16,7 @@ No records are included in this section of the prepared update.
 # Caves
 
 - [Burnabbie Cave - 6N](../Roe%20Plains/Burnabbie%20Cave%20-%206N.md)
-- [Nurina Cave](../Roe%20Plains/Nurina%20Cave.md)
+- [Nurina Cave - 6N46](../Roe%20Plains/Nurina%20Cave%20-%206N46.md)
 - [Olwolgin - 6N920](../Roe%20Plains/Olwolgin%20-%206N920.md)
 
 # About

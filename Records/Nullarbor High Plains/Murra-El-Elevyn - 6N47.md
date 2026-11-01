@@ -1,7 +1,7 @@
 ---
 title: "Murra-El-Elevyn - 6N47"
 created: 2026-06-18
-updated: 2026-10-13
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -18,12 +18,6 @@ sub-region: "[[Nullarbor High Plains]]"
 altitude: "90 m"
 address: "Unnamed Road, Shire of Dundas, Western Australia, AUS, 6443"
 bibliography: "CEGSA (2023), Nullarbor Caves Field Trip Guide, 32nd ASF Conference."
-cave_rating: "Cave"
-highest_cave_rating: "Advanced"
-vertical_access: "Yes"
-exploration_potential: "Medium"
-tourism_potential: "Medium"
-goes_to_water: "Yes"
 ---
 
 # About
@@ -73,7 +67,6 @@ Caves of the Nullarbor 1967 p6 (N47-CEG30047)
 
 Briefing Docs (Dive Addiction)
 
-
 ## https://www.youtube.com/watch?v=yRo_DAsBpeg
 
 Youtube video showing significant cave ladder required
@@ -87,9 +80,12 @@ Youtube video showing significant cave ladder required
 
 # References
 
+- [Murra El Elevyn Cave - Google Maps](https://maps.app.goo.gl/k9iPKK1n1RCsXW3H8)
 - [Source](https://www.cavediving.net.au/index.php/siteinfo/?site=5)
 - [Murra - p1](../../Assets/ec87a8e6c9401ca908dbfdc5270b51cc880e76a4fab610fa206bf4b034d927b7.jpg)
 - [Murra - p2](../../Assets/a3f3a71a31b918deb8818800b95e8bb63687b4b5becd654d40011a536e1d77d8.jpg)
 - [Murra - p3](../../Assets/5cff60536514804077312b0e3c844032ebefe8f6c1212062eb4981b7f0687baf.jpg)
 - [Murra - p4](../../Assets/c7480008bf6eb07ad152804b1b8fa214c7e3361794f999dc46c2908db72a6778.jpg)
 - [Murra - p5](../../Assets/7b68ac13c90e431453c9013cc8b4098290c0b66facc58299471efb33b93874d1.jpg)
+- [Crystal Room (Pinger) - Google Maps](https://maps.app.goo.gl/YaeE8gHaV8oD5cMk6)
+- [End of 60m Line - Google Maps](https://maps.app.goo.gl/4UaGXjN3uvzmHu2G8)

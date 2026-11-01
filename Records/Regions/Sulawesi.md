@@ -1,7 +1,7 @@
 ---
 title: "Sulawesi"
 created: 2026-06-19
-updated: 2026-09-11
+updated: 2026-10-31
 status: seed
 tags:
   - caving
@@ -93,7 +93,7 @@ catalog-type: "region"
 
 # Cave Notes
 
-Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Cave%20Regions.md).
+Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Cave%20Regions.md).
 
 # About
 
@@ -102,14 +102,20 @@ Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](htt
 - Newer caves: Percolation ongoing (reduced vis on return)
 - Highly diverse caves: long/shallow, deep/decompression, sumps
 
-## Makassar 
+# Kolaka (South East Sulawesi)
+- [Danau Biru](https://maps.app.goo.gl/kn3CNMFfJMthdch26)
+## Makassar (South Sulawesi)
 - Lots of cave but heavily influenced by rain
-## Wakatobi National Park 
+
+## East Luwu (South Sulawesi)
+- [Lake Matano - Google Maps](https://maps.app.goo.gl/ykVcyXDHpg5Xxz7v6)
+
+## Wakatobi National Park (South East Sulawesi)
 - Wangi Wangi Island 
 	- [Sulawesi Dive Trek](https://www.sulawesidivetrek.com/index.php/cave-diving/cave-exploration/) & Robin Cuesta 
 - Tomea Island 
 	- [Wakatobi Dive Resort](https://maps.app.goo.gl/bcxuuk3Av9CNqMcN9))
-## Buton Island
+## Buton Island  (South East Sulawesi)
 Region - [Bau-Bau](https://maps.app.goo.gl/q5gYnAPqkr3jeV4M7) (Capital - South)
 - [Goa Lanto](https://maps.app.goo.gl/CQM4CTBdCpUcwxjS7) - [Robin has already been mapping](https://www.facebook.com/SulawesiDiveTrek/posts/cave-diving-indonesia-mapping-project-goa-lanto-baubautoday-was-supposed-to-be-a/787097386029772/) ("Cave Diving Indonesia" book?)
 Region - Butur (North) 
@@ -117,9 +123,10 @@ Region - Butur (North)
 Region Kapantareh
 - [Danau Langkadea](https://maps.app.goo.gl/83VpK5Fzbk87QHZt5)
 
+## Muna Island
+- [Kadena Glamping Dive Resort](https://maps.app.goo.gl/ZioZRpKZppd9k8mw9)
 # Trips
-
-- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/3465901ed77ef68949e31269f6b25078be5e742d/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
+- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
 ---
 
 # Source notes
