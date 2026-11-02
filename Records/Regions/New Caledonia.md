@@ -18,4 +18,4 @@ No records are included in this section of the prepared update.
 
 # References
 
-- [Script - Cave Finder - New Caledonia](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Script%20-%20Cave%20Finder%20-%20New%20Caledonia.md)
+- [Script - Cave Finder - New Caledonia](https://github.com/twosharprocks/digitalgarden/blob/47e01ce4895124c646e96bc37920ae24f5572d74/content/posts/Script%20-%20Cave%20Finder%20-%20New%20Caledonia.md)

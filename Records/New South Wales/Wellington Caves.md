@@ -22,7 +22,7 @@ address: "101, Caves Rd, Apsley, New South Wales, AUS, 2820"
 Tourist Caves
 
 ## About
-[Trip - Wellington Caves - 2025 Sept](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Wellington%20Caves%20-%202025%20Sept.md)
+[Trip - Wellington Caves - 2025 Sept](https://github.com/twosharprocks/digitalgarden/blob/47e01ce4895124c646e96bc37920ae24f5572d74/content/posts/Trip%20-%20Wellington%20Caves%20-%202025%20Sept.md)
 
 Accommodation
 - [Booking Cabins & Campsites](https://bookingsau.newbook.cloud/wellingtoncaves/index.php?place_booking&rand=12917)

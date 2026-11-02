@@ -86,5 +86,5 @@ Vanuatu offers **year-round diving**, but the **dry season** from **October to M
 
 # References
 
-- [Script - Cave Finder - Vanuatu](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Script%20-%20Cave%20Finder%20-%20Vanuatu.md)
+- [Script - Cave Finder - Vanuatu](https://github.com/twosharprocks/digitalgarden/blob/47e01ce4895124c646e96bc37920ae24f5572d74/content/posts/Script%20-%20Cave%20Finder%20-%20Vanuatu.md)
 - [I Explored the Islands of Vanuatu – Here’s Why it Should be on Your 2025 Bucket List](https://weareexplorers.co/vanuatu-2025-bucket-list/)

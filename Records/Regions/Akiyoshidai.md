@@ -76,7 +76,7 @@ Previous studies have stated that "this section was affected by the former inten
 
 # Trips
 
-- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)
+- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/47e01ce4895124c646e96bc37920ae24f5572d74/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)
 
 # To Sort
 - [Suijin Pond - Google Maps](https://maps.app.goo.gl/dyBhFPfhe12trvCp8)

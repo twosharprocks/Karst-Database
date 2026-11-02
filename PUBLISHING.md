@@ -1,26 +1,25 @@
-# Reviewing vault updates
+# Publishing vault updates
 
-Karst-Database contains public copies of cave and regional notes maintained in a personal vault. Changes are prepared on a separate branch and proposed through a pull request. Publishing requires the owner's review and merge; the preparation process never updates the main branch.
+Karst-Database contains public copies of cave and regional notes maintained in a personal vault. The owner's local publisher checks for updates every 15 minutes, alongside the digital-garden website, and publishes verified changes directly to the main branch. Pull requests remain available when a separate review is wanted.
 
-## What a prepared update includes
+## What an update includes
 
-- Eligible notes from the vault's Published folder, formatted with structured information in frontmatter and references last.
-- Only approved attachments referenced by those exported notes.
-- Eight approved public summaries that exclude sensitive location, route and exploration details. Editing or renaming the full vault originals does not replace these summaries with their full content.
-- A change summary and the results of the privacy and link checks in the pull request description.
+- Eligible cave and regional notes from `1 - Published`, with structured information in frontmatter and references last.
+- Only attachments approved for their exact contents and referenced by exported notes.
+- Eight approved public summaries that omit sensitive location, route and exploration details. Editing the full vault originals never automatically replaces these summaries.
 
-The original notes, private attachment register, identity mappings and detailed review reports are kept outside this repository. Files in the private attachment folder, files marked with the private filename suffix and content matching protected file identities are excluded. Renaming a protected attachment does not grant permission to publish it.
+Full source notes, private rules, attachment identities and detailed reports stay outside this repository. Private folders, the private filename suffix and protected content identities prevent export; renaming a protected file does not grant publication permission. Byaduk Caves remains withheld pending a separate image-permission decision.
 
-## Before merging a pull request
+## When publication stops
 
-Review the changed records and new attachments. Pay particular attention to newly added sites, changed access information and any public summaries flagged because their full source notes have changed. Check that the intended public information is complete without disclosing sensitive details.
+A private reference, unapproved attachment, invalid link, changed note with previously reviewed omissions, missing protected identity, unexpected repository edit, or source change during preparation stops the Karst run. These cases require review and never fall back to publishing the full source. Unchanged runs create no commit.
 
-If a private attachment is linked, an approval is missing, a protected record cannot be identified, or a note with previously reviewed omissions changes, preparation stops for review. These cases do not silently fall back to exporting the full note. A run with no changes does not create an empty pull request.
+The website retains its own privacy checks and the same reduced versions. Previously approved copies remain in use where a reviewed source needs a new decision. The two repositories may finish at different times; this is not an atomic deployment.
 
-The checks enforce recorded publishing decisions and file identities. They do not automatically determine whether new prose contains sensitive information; that remains part of reviewing the pull request.
+Checks enforce existing publication decisions and file identities. They do not assess the sensitivity of newly written prose, so sensitive material should stay in Unpublished or a private companion note. New attachments require explicit approval before export.
 
-## Requesting an update
+## Manual updates and review
 
-Ask the vault preparation assistant to **prepare Karst update**. It will fetch the current main branch, prepare and verify the public changes, push a review branch and open a pull request. It will return the pull request link or explain what needs review if preparation is blocked.
+Ask the vault preparation assistant to **prepare Karst update** for a review branch and pull request, or **publish Karst update** for the same checked automatic path. Scheduled runs use direct publication as authorized by the owner. Detailed local reports explain any held record or attachment.
 
-This process updates Karst-Database. The separate digital-garden website publishing process has its own configuration.
+The scheduled publisher runs on the owner's Windows computer while it is available and has access to the vault and GitHub. It reads the vault without editing the originals.

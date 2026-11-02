@@ -109,7 +109,7 @@ No records are included in this section of the prepared update.
 
 - [Map of Tourist Caves](https://www.cuevasturisticas.es/mapa-de-cuevas.php) - Add to cave notes
 - Malaga - Speak to Arvis Green
-- **Balearic Islands - [Mallorca - Spain](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Mallorca%20-%20Spain.md) Menorca:
+- **Balearic Islands - [Mallorca - Spain](https://github.com/twosharprocks/digitalgarden/blob/47e01ce4895124c646e96bc37920ae24f5572d74/content/posts/Mallorca%20-%20Spain.md) Menorca:
     Best diving is **May to October**. Water temperatures range from 18°C in spring to 26°C in late summer. Sea caves like _Cova Genovesa_ and _Cova de sa Gleda_ are most accessible and visible during this time.
 
 - **Inland cave systems (e.g., Cantabria, Andalusia):**  

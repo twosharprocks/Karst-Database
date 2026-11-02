@@ -54,9 +54,9 @@ N56-CEG8105 (in prep)
 
 ## Images
 - [Tommy Grahams Cave - 6N-56 - a62762ce-a865a78d](../../Assets/792042d6914bbab67481b0d8df4645470f8f4b82095144512c4b4c41dfd25e45.jpg)
-- [Tommy Graham's Entrance - 17712361067265922681269486020057 - cdfea18a-a81eecf1](../../Assets/87e76c3eb2c6cd0ac93885c3eba66612461fe2b079a1d6a01578fd93b4208646.jpg)
+- [Tommy Graham's Entrance - 17712361067265922681269486020057 - cdfea18a-a81eecf1](../../Assets/e3c74a6c243d13bf83ea82912b7147cc0a826390ea870a08221b6b2a2a65704e.jpg)
 - [Tommy Graham's Entrance - 6N-56 - 979121b5-a81eecf1](../../Assets/792042d6914bbab67481b0d8df4645470f8f4b82095144512c4b4c41dfd25e45.jpg)
-- [Tommy Graham's Entrance - 17712360916194961679778329578029 - 3071e9f0-a81eecf1](../../Assets/a14f87677bb3d3ad512bf58378aafe7deb4de5e8fcadd9a784d4b99e750852a9.jpg)
+- [Tommy Graham's Entrance - 17712360916194961679778329578029 - 3071e9f0-a81eecf1](../../Assets/bb24d62ab37dbe218c701101da2716184ad0da070ec1fed72c0eac2b0ac0ea7c.jpg)
 
 # References
 
