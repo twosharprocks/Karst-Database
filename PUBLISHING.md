@@ -14,7 +14,7 @@ Full source notes, private rules, attachment identities and detailed reports sta
 
 A private reference, unapproved attachment, invalid link, changed note with previously reviewed omissions, missing protected identity, unexpected repository edit, or source change during preparation stops the Karst run. These cases require review and never fall back to publishing the full source. Unchanged runs create no commit.
 
-The website retains its own privacy checks and the same reduced versions. Previously approved copies remain in use where a reviewed source needs a new decision. The two repositories may finish at different times; this is not an atomic deployment.
+The website retains its own privacy checks and the same reduced versions. Previously approved copies remain in use where a reviewed source needs a new decision. Both publishers start alongside each other; verified new attachment destinations are handed over after both finish and used by the next website cycle. The repositories may finish at different times; this is not an atomic deployment.
 
 Checks enforce existing publication decisions and file identities. They do not assess the sensitivity of newly written prose, so sensitive material should stay in Unpublished or a private companion note. New attachments require explicit approval before export.
 
