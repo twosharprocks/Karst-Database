@@ -20,7 +20,7 @@ No records are included in this section of the prepared update.
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.
 
-![Western Victoria - Western Victoria - ASF JNJ-S-00076 - Lava cave, Byaduk](../../Assets/ea6b5c9710727db698ec87f261a82a65fb106cc0033ba3e279d0d735f8499aa7.jpg)
+![Western Victoria - Western Victoria - ASF JNJ-S-00076 - Lava cave, Byaduk](../../Assets/09e205132304c3b5c84a8e6d6eb46e6e9243d5096f29b84a14b5ae5ea51440e0.jpg)
 *ASF Joe N. Jennings slide catalogue, JNJ-S-00076, Box 38. Catalogue description: Lava cave, Byaduk. [ASF record](https://st1.asflib.net/MEDIA/ASFJJSlidesCatalogue/Box%2038/JNJ-S-00076.html).*
 
 ![Western Victoria - Western Victoria - ASF JNJ-S-00163 - Lava cave, Byaduk](../../Assets/c081d4502fad2d4cb34441902c87bb47c484f15d26ad08f4a01ed4de0f21ea72.jpg)
