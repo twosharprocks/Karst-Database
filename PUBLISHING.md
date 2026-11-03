@@ -8,7 +8,7 @@ Karst-Database contains public copies of cave and regional notes maintained in a
 - Only attachments approved for their exact contents and referenced by exported notes.
 - Eight approved public summaries that omit sensitive location, route and exploration details. Editing the full vault originals never automatically replaces these summaries.
 
-Full source notes, private rules, attachment identities and detailed reports stay outside this repository. Private folders, the private filename suffix and protected content identities prevent export; renaming a protected file does not grant publication permission. Byaduk Caves remains withheld pending a separate image-permission decision.
+Full source notes, private rules, attachment identities and detailed reports stay outside this repository. Private folders, the private filename suffix and protected content identities prevent export; renaming a protected file does not grant publication permission.
 
 ## When publication stops
 

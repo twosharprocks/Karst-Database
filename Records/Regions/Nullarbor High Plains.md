@@ -42,7 +42,7 @@ Advanced Cave
 
 [Cave Diving Down Under - Nullarbor](https://www.cavediving.net.au/index.php/caves/?region=Nullarbor)
 
-<!-- ASF slide images: start -->
+
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

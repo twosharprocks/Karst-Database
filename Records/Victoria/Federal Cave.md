@@ -26,7 +26,6 @@ Federal Cave in the [Buchan Caves](Buchan%20Caves.md) Reserve was originally dev
 
 # Source notes
 
-<!-- ASF slide images: start -->
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

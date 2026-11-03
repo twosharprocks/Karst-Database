@@ -88,7 +88,6 @@ N2-CEG3400
 - [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-5 - d8e10eca-47e1d564](../../Assets/75bfa48b9904132e30cea907fcd07d078d4eb45228ec2a46f9bc8ab981014e78.jpg)
 - [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-m - e74123d7-47e1d564](../../Assets/ef371d5e906dfb381c8872a1a57c531d975eb612a9f350da14cd858598f80fb0.png)
 
-<!-- ASF slide images: start -->
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

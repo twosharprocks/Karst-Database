@@ -37,7 +37,7 @@ Checked 2024-07 by MW
 - [White Wells Cave - PXL_20240713_024215934 - 6a734842-232fe0ac](../../Assets/9482b9801987dbe09669c7ad07c036ce1c744a901de00671e1bfc861cbaec2ca.jpg)
 - [White Wells Cave - DJI_0007 - 67df4ae8-232fe0ac](../../Assets/5b3a7bde9a4180c40bf53f43bb9f021da06c060a69eca28f2c125e3abcc5c6df.jpg)
 
-<!-- ASF slide images: start -->
+
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

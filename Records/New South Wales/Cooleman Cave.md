@@ -19,7 +19,6 @@ system_name: "Cooleman Caves"
 source: "OpenStreetMap"
 ---
 
-<!-- ASF slide images: start -->
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

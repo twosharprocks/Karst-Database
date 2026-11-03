@@ -38,7 +38,7 @@ Further exploration and mapping is warranted; only a rough sketch is available a
 - [L0253 - Witches Cave - witches - 844eff86-97f8b6c7](../../Assets/3c7d8334a38768bc089ad1bcd07580fccfe0fde1a5032610b22963b52c0ab14b.jpg)
 - [L0253 - Witches Cave - witches2 - 9533d210-97f8b6c7](../../Assets/b67fd259a0990d011857c2e41dadc66e91108a0e149a26e08456d7cff2f2f8b0.jpg)
 
-<!-- ASF slide images: start -->
+
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.

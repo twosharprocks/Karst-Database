@@ -11,7 +11,7 @@ catalog-type: "region"
 
 # Sub-regions
 
-No records are included in this section of the prepared update.
+- [Byaduk Caves](Byaduk%20Caves.md)
 
 # Caves
 

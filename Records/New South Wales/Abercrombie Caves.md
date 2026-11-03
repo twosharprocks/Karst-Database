@@ -29,7 +29,6 @@ It's a good idea to wear sturdy shoes and bring a camera. Bring a packed lunch i
 
 # Source notes
 
-<!-- ASF slide images: start -->
 ## ASF slide images
 
 Images are from the ASF Joe N. Jennings slide catalogue. Each caption preserves the catalogue description and links to its source record.
