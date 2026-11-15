@@ -1,7 +1,7 @@
 ---
 title: "Englebrecht's East"
 created: 2023-02-04
-updated: 2026-09-11
+updated: 2026-11-15
 status: seed
 tags:
   - caving
@@ -19,6 +19,8 @@ catalog-type: "cave"
 sub-region: "[[Mount Gambier - Lower South East]]"
 altitude: "44 m"
 address: "21-23, Chute St, City of Mount Gambier, South Australia, AUS, 5290"
+canonical_record: "[[5L019 - Englebrecht's East]]"
+part_of: "[[Englebrecht's Cave - 5L19-20]]"
 reference: "L0019"
 source: "Forestry SA"
 cave_rating: "Cave"
@@ -33,11 +35,28 @@ tidal: "No"
 access_and_warnings: "City of Mt Gambier"
 ---
 
+# Record relationship
+
+This companion record describes the same East branch as [5L019 - Englebrecht's East](../Mount%20Gambier/5L019%20-%20Englebrecht%27s%20East.md), which is the canonical record for its identity and system relationships. Its existing maps, images and source material are retained here.
+
+East and West are branches of one cave system, connected through the central dry access sinkhole. Separate passages lead from the sinkhole into each branch. No direct underwater connection between East and West has been proven. EEX is a section of East: see [Englebrecht's East Extension](../South%20Australia/Englebrecht%27s%20East%20Extension.md).
+
 # Maps
 
 - [Englebrecht's E Extension - 19844d72-6d271bdf](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/KML_Data/Englebrecht%27s%20E%20Extension.kml)
 
+# Images
+- [5L19-20 - Englebrecht's Cave - Survey overlay in progress](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20%28Extension%20Overlay%29.jpg)
+- [5L19-20 - Englebrecht's Cave - Satellite survey overlay](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20-%20Satellite%20%28Richards%2C%202022%29.jpg)
+- [5L19-20 - Englebrecht's Cave - Street survey map](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019-20%20-%20Engelbrecht%27s%20%28Lewis%29.jpg)
+- [5L19-20 - Englebrecht's Cave - Visitor building](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
+- [5L19-20 - Englebrecht's Cave - Entrance sinkhole](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
+- [5L19-20 - Englebrecht's Cave - Survey map (Lewy)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019-20%20-%20Englebrecht%27s%20Cave%20-%20Fault%20Lines%20%28Lewis%29.jpg)
+
 # Source notes
+
+The LSECR extract below is historical source material; its statement about the likelihood of further extensions is not a current assessment. The source edition/date still needs verification. EEX was subsequently discovered in 2020.
+
 
 ## Lower South East Cave Reference — Page 60
 
@@ -47,15 +66,6 @@ Engelbrechts Cave is one of Mount Gambier's most significant cave features, than
 ## Trimix Divers — Englebrecht's East
 
 Engelbrechts Caves (East and West) lie in the heart of the town of Mt Gambier and are accessed via the same path that the tour guides follow into the site. The East cave (a cave rated site) is shown in these images. An early flattener with a dark silt base tests trim and bouyancy and then the divers enter a cleaner limestone passage which soon leads to a dropper at a T junction. A tie off here allows you to swim up a passage to the left finishing in a surface lake which can be “snorkelled” for a distance of around 100m(?). A beautiful spot with breathable air. Heading back to the T junction and then heading to the right, you are faced with 2 or 3 options…all tight vertical slots which can be followed for perhaps 40m. A beautiful and challenging dive.
-
-# Images
-
-- [5L19-20 - Englebrecht's Cave - Survey overlay in progress](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20%28Extension%20Overlay%29.jpg)
-- [5L19-20 - Englebrecht's Cave - Satellite survey overlay](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20-%20Satellite%20%28Richards%2C%202022%29.jpg)
-- [5L19-20 - Englebrecht's Cave - Street survey map](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019-20%20-%20Engelbrecht%27s%20%28Lewis%29.jpg)
-- [5L19-20 - Englebrecht's Cave - Visitor building](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
-- [5L19-20 - Englebrecht's Cave - Entrance sinkhole](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
-- [5L19-20 - Englebrecht's Cave - Survey map (Lewy)](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019-20%20-%20Englebrecht%27s%20Cave%20-%20Fault%20Lines%20%28Lewis%29.jpg)
 
 # References
 

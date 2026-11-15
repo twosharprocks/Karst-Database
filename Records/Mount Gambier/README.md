@@ -24,7 +24,6 @@ No records are included in this section of the prepared update.
 - [Cavetone Park Estate Cave - 5L179](../Mount%20Gambier%20-%20Lower%20South%20East/Cavetone%20Park%20Estate%20Cave%20-%205L179.md)
 - [Dave's Cave - 5L215](../Mount%20Gambier%20-%20Lower%20South%20East/Dave%27s%20Cave%20-%205L215.md)
 - [Ela Elap - 5L14](../Mount%20Gambier%20-%20Lower%20South%20East/Ela%20Elap%20-%205L14.md)
-- [Englebrecht's Cave - 5L19-20](../Mount%20Gambier%20-%20Lower%20South%20East/Englebrecht%27s%20Cave%20-%205L19-20.md)
 - [Englebrecht's East](../Mount%20Gambier%20-%20Lower%20South%20East/Englebrecht%27s%20East.md)
 - [Ewens Ponds - 5L159-161](Ewens%20Ponds%20-%205L159-161.md)
 - [Fossil Cave - 5L81](../Mount%20Gambier%20-%20Lower%20South%20East/Fossil%20Cave%20-%205L81.md)

@@ -1,7 +1,7 @@
 ---
 title: "5L019 - Englebrecht's East"
 created: 2025-11-01
-updated: 2026-10-19
+updated: 2026-11-15
 status: seed
 tags:
   - caving
@@ -19,6 +19,10 @@ catalog-type: "cave"
 sub-region: "[[Mount Gambier - Lower South East]]"
 altitude: "44 m"
 address: "21-23, Chute St, City of Mount Gambier, South Australia, AUS, 5290"
+id: "au-sa-engelbrecht-east"
+part_of: "[[Englebrecht's Cave - 5L19-20]]"
+components:
+  - "[[Englebrecht's East Extension]]"
 reference: "L0019"
 source: "Forestry SA"
 cave_rating: "Cave"
@@ -32,6 +36,12 @@ water_type: "Fresh"
 tidal: "No"
 access_and_warnings: "City of Mt Gambier"
 ---
+
+# System relationship
+
+This is the canonical East branch record within [Englebrecht's Cave - 5L19-20](../Mount%20Gambier%20-%20Lower%20South%20East/Englebrecht%27s%20Cave%20-%205L19-20.md). East and West are branches of one cave system, connected through the central dry access sinkhole. Separate passages lead from the sinkhole into each branch. No direct underwater connection between East and West has been proven.
+
+[Englebrecht's East Extension](../South%20Australia/Englebrecht%27s%20East%20Extension.md) (EEX) is the new passage discovered within East in 2020; the same name also describes the subsequent mapping and survey project.
 
 # Maps
 
@@ -54,6 +64,9 @@ KML Survey: [Englebrecht's E Extension - KML](../../Regions/Oceania/Australia/5L
 - [Englebrecht's E Extension - 19844d72-6d271bdf](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/KML_Data/Englebrecht%27s%20E%20Extension.kml)
 
 # Source notes
+
+The LSECR extract below is historical source material; its statement about the likelihood of further extensions is not a current assessment. The source edition/date still needs verification. EEX was subsequently discovered in 2020.
+
 
 ## Lower South East Cave Reference — Page 60
 

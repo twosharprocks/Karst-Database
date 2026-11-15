@@ -1,7 +1,7 @@
 ---
 title: "Englebrecht's East Extension"
 created: 2023-08-03
-updated: 2026-10-13
+updated: 2026-11-15
 status: seed
 tags:
   - caving
@@ -18,6 +18,9 @@ catalog-type: "cave"
 sub-region: "[[South Australia]]"
 altitude: "51 m"
 address: "29-35, Victoria Terrace, City of Mount Gambier, South Australia, AUS, 5290"
+id: "au-sa-engelbrecht-east-extension"
+part_of: "[[5L019 - Englebrecht's East]]"
+discovery_year: "2020"
 reference: "L019E"
 system_name: "Englebrechts"
 cave_rating: "Advanced"
@@ -28,6 +31,12 @@ maximum_depth: "22 m"
 water_type: "Fresh"
 tidal: "No"
 ---
+
+# Passage and exploration history
+
+Engelbrechts East Extension (EEX) names both a section of passage within [5L019 - Englebrecht's East](../Mount%20Gambier/5L019%20-%20Englebrecht%27s%20East.md) and the project established to map and survey that passage after its discovery in 2020. East is part of [Englebrecht's Cave - 5L19-20](../Mount%20Gambier%20-%20Lower%20South%20East/Englebrecht%27s%20Cave%20-%205L19-20.md). EEX is not a separate entrance or an independent cave system.
+
+The 2020 discovery year and these relationships were confirmed by the discoverer on 15 November 2026. Exact discovery dates and the later survey chronology remain to be documented from the original records.
 
 # Additional Notes
 
@@ -63,13 +72,12 @@ Please note there are only two keys for this site - please be considerate in the
 Due to the pristine characteristics of the site and entry/exit challenges, training of any kind is NOT permitted in this site.
 
 # Images
-
 - [L019E - Englebrecht's East Extension - Diver at Rabbit Hole](../../Assets/633f4edf7a8a5638e667e2709a9202b9cb3a8ca13beb78489b8704d41a81b369.jpg)
 - [L019E - Englebrecht's East Extension - Passage view](../../Assets/a8af8625d5feebd5b0ba981a5b38b8dbd704e47d8813a6459fcab4d1d93f9a2d.jpg)
 - [L019E - Englebrecht's East Extension - Satellite survey overlay](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20-%20Satellite%20%28Richards%2C%202022%29.jpg)
 - [L019E - Englebrecht's East Extension - Survey map including East Extension](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20%28Richards%2C%202022%29.jpg)
+- [da3426c2-7da9-429f-84bb-1f3eb86ca955](https://www.youtube.com/watch?v=M1c0uyAFW9o)
 
 # References
 
 - [CaveDivers.com.au](https://www.cavedivers.com.au/index.cfm?leca=1831&module=BUSINESSDIRECTORY&pageMode=indiv&action=details&page_id=1964632&stattype=default)
-- [da3426c2-7da9-429f-84bb-1f3eb86ca955](https://www.youtube.com/watch?v=M1c0uyAFW9o)

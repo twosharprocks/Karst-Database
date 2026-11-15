@@ -1,7 +1,7 @@
 ---
 title: "5L20 - Englebrecht's West"
 created: 2025-11-01
-updated: 2026-10-13
+updated: 2026-11-15
 status: seed
 tags:
   - caving
@@ -19,6 +19,8 @@ catalog-type: "cave"
 sub-region: "[[Mount Gambier - Lower South East]]"
 altitude: "45 m"
 address: "25-33, Chute St, City of Mount Gambier, South Australia, AUS, 5290"
+id: "au-sa-engelbrecht-west"
+part_of: "[[Englebrecht's Cave - 5L19-20]]"
 reference: "L0020"
 source: "Forestry SA"
 cave_rating: "Advanced"
@@ -32,11 +34,22 @@ tidal: "No"
 access_and_warnings: "City of Mt Gambier"
 ---
 
+# System relationship
+
+West is a branch of [Englebrecht's Cave - 5L19-20](Englebrecht%27s%20Cave%20-%205L19-20.md). East and West are branches of one cave system, connected through the central dry access sinkhole. Separate passages lead from the sinkhole into each branch. No direct underwater connection between East and West has been proven. The other branch is [5L019 - Englebrecht's East](../Mount%20Gambier/5L019%20-%20Englebrecht%27s%20East.md).
+
 # Maps
 
 - [Englebrecht's West - 99982904-79dbb77a](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/KML_Data/Englebrecht%27s%20West.kml)
 
+# Images
+- [L0020 - Englebrecht's West - Visitor building](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
+- [L0020 - Englebrecht's West - Entrance sinkhole](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
+
 # Source notes
+
+The LSECR extract below is historical source material; its statement about the likelihood of further extensions is not a current assessment. The source edition/date still needs verification. EEX was subsequently discovered in 2020.
+
 
 ## Lower South East Cave Reference — Page 60
 
@@ -51,11 +64,6 @@ Engelbrechts Cave (West)
 Once entering the pool, you drop through a small restriction into low flattened tunnel which is approx 100m in length. Here you come to a rockpile and ascend through another restriction which leads you into a spectecular, almost domed chamber of approx 60m diameter and 20m high.
 
 The water/lake in this chamber circles to the right and at the far end of the chamber the cave drops into a forked route. To the right, the tunnel travels a short distance through an older limestone passage of approx 50m in length, whereas the left passage continues for 150m to a terminal rockpile. Again, there is a small passage upwards through a restriction to a small air chamber which could fit a few divers who wish to have a chat before returning!
-
-# Images
-
-- [L0020 - Englebrecht's West - Visitor building](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
-- [L0020 - Englebrecht's West - Entrance sinkhole](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
 
 # References
 
