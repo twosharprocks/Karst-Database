@@ -91,12 +91,12 @@ The Shaft is one of the three deepest natural freshwater sites in Australia ? th
 
 # Images
 
-- [5L13 - The Three Sisters - PXL_20230718_004150955 - 26ae8461-a2404546](../../Assets/33aa14e424985e5e4d345a8f20665052b16931367c8f35b3ec59badefafd52c6.jpg)
-- [5L13 - The Three Sisters - PXL_20230718_004223263 - 304ca45a-a2404546](../../Assets/64a7b98f8fb9dfd09f976e417f6dd6b02954a52e755a6f0543e232fe986d11b5.jpg)
-- [5L13 - The Three Sisters - PXL_20230718_004232208 - c65d0897-a2404546](../../Assets/3a2a1b1930d3f3efc546746256657631ddaa86b2fe9f6054e652ee31c193ff1e.jpg)
-- [5L13 - The Three Sisters - sn2 - e2f3e2bd-a2404546](../../Assets/df5436b54554e6963456d982215370b67148fbc866922067bed55e1265db6112.jpg)
-- [5L13 - The Three Sisters - sn3 - 9bb324a9-a2404546](../../Assets/c0a32f4d72291a6fa6648911ee3e5c26724fde82739520f157626e94fa7f7812.jpg)
-- [5L13 - The Three Sisters - three sisters - 09280f19-a2404546](../../Assets/423fabebc7f8ae2bf1effdc8d309bb4eac2bb690b4c910bb1e75862478f66897.jpg)
+- [5L13 - The Three Sisters - Image 01](../../Assets/33aa14e424985e5e4d345a8f20665052b16931367c8f35b3ec59badefafd52c6.jpg)
+- [5L13 - The Three Sisters - Image 02](../../Assets/64a7b98f8fb9dfd09f976e417f6dd6b02954a52e755a6f0543e232fe986d11b5.jpg)
+- [5L13 - The Three Sisters - Image 03](../../Assets/3a2a1b1930d3f3efc546746256657631ddaa86b2fe9f6054e652ee31c193ff1e.jpg)
+- [5L13 - The Three Sisters - sn2](../../Assets/df5436b54554e6963456d982215370b67148fbc866922067bed55e1265db6112.jpg)
+- [5L13 - The Three Sisters - sn3](../../Assets/c0a32f4d72291a6fa6648911ee3e5c26724fde82739520f157626e94fa7f7812.jpg)
+- [5L13 - The Three Sisters - three sisters](../../Assets/423fabebc7f8ae2bf1effdc8d309bb4eac2bb690b4c910bb1e75862478f66897.jpg)
 
 # References
 

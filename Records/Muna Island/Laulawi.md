@@ -43,12 +43,12 @@ parking: "Ok"
 
 # Images
 
-- [Laulawi - 1500_Muna-entrance-by-Pete-Mesley - e37b9536-352534d7](../../Assets/6ec23d2f1c5da1bb12b3f7f6641b9affad6eacc75d0a52e688cf2a1ea2b0c9f8.jpg) — Pete Mesley
-- [Laulawi - 1500_Stalactite-formation-in-Laulawi-cave-by-Pete-Mesley - e1486aa4-352534d7](../../Assets/3dcc373d430cec76cfa0649c0a220c89faa15e60f8fdf8ec178c99b161278121.jpg) — Pete Mesley
-- [Laulawi - laulawi - 499df331-352534d7](../../Assets/bf83311619a8f4bb1c128097ffec211d761c4452a321d27f75b3894f6745ab17.jpg)
+- [Laulawi - 1500_Muna-entrance-by-Pete-Mesley](../../Assets/6ec23d2f1c5da1bb12b3f7f6641b9affad6eacc75d0a52e688cf2a1ea2b0c9f8.jpg) — Pete Mesley
+- [Laulawi - 1500_Stalactite-formation-in-Laulawi-cave-by-Pete-Mesley](../../Assets/3dcc373d430cec76cfa0649c0a220c89faa15e60f8fdf8ec178c99b161278121.jpg) — Pete Mesley
+- [Laulawi - laulawi](../../Assets/bf83311619a8f4bb1c128097ffec211d761c4452a321d27f75b3894f6745ab17.jpg)
 
-- [Laulawi - 1500_Stalactite-formation-in-Laulawi-cave-by-Pete-Mesley - e1486aa4-352534d7](../../Assets/3dcc373d430cec76cfa0649c0a220c89faa15e60f8fdf8ec178c99b161278121.jpg)
-- [Laulawi - 1500_Muna-entrance-by-Pete-Mesley - e37b9536-352534d7](../../Assets/6ec23d2f1c5da1bb12b3f7f6641b9affad6eacc75d0a52e688cf2a1ea2b0c9f8.jpg)
+- [Laulawi - 1500_Stalactite-formation-in-Laulawi-cave-by-Pete-Mesley](../../Assets/3dcc373d430cec76cfa0649c0a220c89faa15e60f8fdf8ec178c99b161278121.jpg)
+- [Laulawi - 1500_Muna-entrance-by-Pete-Mesley](../../Assets/6ec23d2f1c5da1bb12b3f7f6641b9affad6eacc75d0a52e688cf2a1ea2b0c9f8.jpg)
 
 # References
 

@@ -25,4 +25,4 @@ Identified from satellite survey of [Cueva Del Agua](Cueva%20Del%20Agua.md).
 
 # Images
 
-- [Sima Destapada - sima - e033a01b-3a03110d](../../Assets/2b53e80e66ebcec3341ef9ed8bf4f763e3171c0bfc661958302de1e891ccf862.jpg)
+- [Sima Destapada - sima](../../Assets/2b53e80e66ebcec3341ef9ed8bf4f763e3171c0bfc661958302de1e891ccf862.jpg)

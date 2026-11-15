@@ -38,9 +38,9 @@ In a simple one-paragraph description in a November 1968 Trip Report, this insig
 
 # Images
 
-- [L0121 - Slug Hole - PXL_20230623_051035158 - 052dd484-8b535b6f](../../Assets/54f932b30334d56fbee314135b944a1dfdf25fabb39d141272f3d27f97807935.jpg)
-- [L0121 - Slug Hole - 0240 - 4af61fa6-8b535b6f](../../Assets/a8170449d0f20dc05651cf7e674edca351d452e48768c05bc00d2718396289c0.jpg)
-- [L0121 - Slug Hole - 0241 - 8d36bca6-8b535b6f](../../Assets/29aee28b14d7c1d5620a8aba3f8169a6f638aa0309e0cc1cb6402bcfffa4235b.jpg)
+- [L0121 - Slug Hole - Image 03](../../Assets/54f932b30334d56fbee314135b944a1dfdf25fabb39d141272f3d27f97807935.jpg)
+- [L0121 - Slug Hole - Image 01](../../Assets/a8170449d0f20dc05651cf7e674edca351d452e48768c05bc00d2718396289c0.jpg)
+- [L0121 - Slug Hole - Image 02](../../Assets/29aee28b14d7c1d5620a8aba3f8169a6f638aa0309e0cc1cb6402bcfffa4235b.jpg)
 
 # References
 

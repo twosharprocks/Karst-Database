@@ -24,4 +24,4 @@ BC 8/9/2023: No obvious features
 
 # Images
 
-- [Surface Feature (NW) - 20230908_171124 - d2f0f1b2-58c9fcdf](../../Assets/d4e407c1c117f9f044148f77d605f61507e9ddcd8bf27bc2c4c89f7c9bc47976.jpg)
+- [Surface Feature (NW) - Image 03](../../Assets/d4e407c1c117f9f044148f77d605f61507e9ddcd8bf27bc2c4c89f7c9bc47976.jpg)

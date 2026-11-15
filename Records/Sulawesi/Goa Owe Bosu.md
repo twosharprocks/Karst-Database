@@ -28,5 +28,5 @@ parking: "Bad"
 
 # Images
 
-- [Goa Owe Bosu - Goa Owe Bosu2 - c8468afc-eb39c6be](../../Assets/d07a4d94d808a7ea813feeb4cc049ccd44dd1c9e6409b1ed2743a5289db2f775.jpg)
-- [Goa Owe Bosu - Goa Owe Bosu - aedae535-eb39c6be](../../Assets/4a8ba44f4407bfcbe0f6eb8451deb7ef60c53440f05b4d36c57dc41db565343b.jpg)
+- [Goa Owe Bosu - Goa Owe Bosu2](../../Assets/d07a4d94d808a7ea813feeb4cc049ccd44dd1c9e6409b1ed2743a5289db2f775.jpg)
+- [Goa Owe Bosu - Goa Owe Bosu](../../Assets/4a8ba44f4407bfcbe0f6eb8451deb7ef60c53440f05b4d36c57dc41db565343b.jpg)

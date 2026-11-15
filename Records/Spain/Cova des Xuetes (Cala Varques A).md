@@ -23,8 +23,8 @@ source: "MapCarta"
 
 # Images
 
-- [Cova des Xuetes (Cala Varques A) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area - bdbb234d-6a50c6b5](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
-- [Cova des Xuetes (Cala Varques A) - Screenshot (395) - d8536e22-6a50c6b5](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
+- [Cova des Xuetes (Cala Varques A) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
+- [Cova des Xuetes (Cala Varques A) - Image 01](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
 
 # References
 

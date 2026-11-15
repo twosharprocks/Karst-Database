@@ -25,4 +25,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Unnamed Depression - go_photo_1628485363980 - c98186dd-4ca7169c](../../Assets/ad03d7235a717d371f0b3d8878caa17363b97f71e6c32fe7442b529daae73e97.jpg)
+- [Unnamed Depression - go_photo_1628485363980](../../Assets/ad03d7235a717d371f0b3d8878caa17363b97f71e6c32fe7442b529daae73e97.jpg)

@@ -25,11 +25,11 @@ goes_to_water: "Yes"
 
 # Maps
 
-- [Teomim Caves - Plan-of-Te-omim-Cave-The-inset-shows-the-main-quarrying-lines-abandoned-quarry - a1badb28-4673a4bb](../../Assets/e9abfa72ebbe63987eedbc3186d38a3a8129ee0da834ea37f3c3a0dfe995e470.png)
+- [Teomim Caves - Plan-of-Te-omim-Cave-The-inset-shows-the-main-quarrying-lines-abandoned-quarry](../../Assets/e9abfa72ebbe63987eedbc3186d38a3a8129ee0da834ea37f3c3a0dfe995e470.png)
 
 # Images
 
-- [Teomim Caves - Plan-of-Te-omim-Cave-The-inset-shows-the-main-quarrying-lines-abandoned-quarry - a1badb28-4673a4bb](../../Assets/e9abfa72ebbe63987eedbc3186d38a3a8129ee0da834ea37f3c3a0dfe995e470.png)
+- [Teomim Caves - Plan-of-Te-omim-Cave-The-inset-shows-the-main-quarrying-lines-abandoned-quarry](../../Assets/e9abfa72ebbe63987eedbc3186d38a3a8129ee0da834ea37f3c3a0dfe995e470.png)
 
 # References
 

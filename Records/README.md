@@ -101,6 +101,7 @@ Generated from the published vault records.
 - [Malaysia](Regions/Malaysia.md)
 - [Malta - Gozo](Regions/Malta%20-%20Gozo.md)
 - [Mexico](Regions/Mexico.md)
+- [Middle East](Regions/Middle%20East.md)
 - [Minamidaito (South Daito)](Regions/Minamidaito%20%28South%20Daito%29.md)
 - [Moldova](Regions/Moldova.md)
 - [Moluccas](Regions/Moluccas.md)

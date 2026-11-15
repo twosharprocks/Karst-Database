@@ -27,7 +27,7 @@ Found from "Visit Turquoise Coast" Facebook Post
 
 # Images
 
-- [Little Three Springs - 103574957_3025623157530702_5002766996770101377_n - b999c57f-4614ceae](../../Assets/bb08f1010791d665e93840159067704bcbbcc9c28a3ed402a7baf5f2ee6f4d61.jpg)
+- [Little Three Springs - Image 01](../../Assets/bb08f1010791d665e93840159067704bcbbcc9c28a3ed402a7baf5f2ee6f4d61.jpg)
 
 # References
 

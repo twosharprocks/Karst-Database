@@ -84,9 +84,9 @@ N2-CEG3400
 
 # Images
 
-- [6N2 - Weebubbie Cave - n327-u1_0 - a4e9ba09-47e1d564](../../Assets/febc1ce215ec97fc3cc968f6c9ae9e765289e7b792fc637c1bb5c9d46795ab2f.jpg)
-- [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-5 - d8e10eca-47e1d564](../../Assets/75bfa48b9904132e30cea907fcd07d078d4eb45228ec2a46f9bc8ab981014e78.jpg)
-- [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-m - e74123d7-47e1d564](../../Assets/ef371d5e906dfb381c8872a1a57c531d975eb612a9f350da14cd858598f80fb0.png)
+- [6N2 - Weebubbie Cave - n327-u1_0](../../Assets/febc1ce215ec97fc3cc968f6c9ae9e765289e7b792fc637c1bb5c9d46795ab2f.jpg)
+- [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-5](../../Assets/75bfa48b9904132e30cea907fcd07d078d4eb45228ec2a46f9bc8ab981014e78.jpg)
+- [6N2 - Weebubbie Cave - WEEBUBBIE-CAVE-m](../../Assets/ef371d5e906dfb381c8872a1a57c531d975eb612a9f350da14cd858598f80fb0.png)
 
 ## ASF slide images
 

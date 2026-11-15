@@ -22,12 +22,12 @@ tidal: "No"
 
 # Maps
 
-- [Marche-Pied - Marchepied Survey - e8f45b4a-452bdd53](../../Assets/a81595ad7ecdd79d3f17c7a60b08762768c6cda1a6e58e723e1fba5e7d5d0afd.jpg)
+- [Marche-Pied - Marchepied Survey](../../Assets/a81595ad7ecdd79d3f17c7a60b08762768c6cda1a6e58e723e1fba5e7d5d0afd.jpg)
 
 # Images
 
-- [Marche-Pied - Marchepied - f2f4259e-452bdd53](../../Assets/9ba474b349d8c9557be87c52a1e2cd2fa9962441e3ff55377fde198cd6ebf49a.jpg)
-- [Marche-Pied - Marchepied Survey - e8f45b4a-452bdd53](../../Assets/a81595ad7ecdd79d3f17c7a60b08762768c6cda1a6e58e723e1fba5e7d5d0afd.jpg)
+- [Marche-Pied - Marchepied](../../Assets/9ba474b349d8c9557be87c52a1e2cd2fa9962441e3ff55377fde198cd6ebf49a.jpg)
+- [Marche-Pied - Marchepied Survey](../../Assets/a81595ad7ecdd79d3f17c7a60b08762768c6cda1a6e58e723e1fba5e7d5d0afd.jpg)
 
 # References
 

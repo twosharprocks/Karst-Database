@@ -43,9 +43,9 @@ Dives amid striking rock formations in a sea cave where prehistoric elephant bon
 
 # Images
 
-- [Elephant Cave - IMG_0652-imp - d3d3ad44-da650fec](../../Assets/262ad6bcf69c032b71d58d4b2dff4ba1043274ee5f16cb0f8fe40d74b2fafcee.jpg)
-- [Elephant Cave - A-Peaceful-Place - 79acafff-da650fec](../../Assets/6df1fe59f9a14ec53a03a1d500ec0cfcd24bd3cd1d07b2ed1fefd41292f70ca9.jpg)
-- [Elephant Cave - IMG_0693-imp - 4cb4a67c-da650fec](../../Assets/af73d7908ad8286f8c458dbf2f02f1bd94a66f900622d803cb44d0f0a293e3da.jpg)
+- [Elephant Cave - Image 01](../../Assets/262ad6bcf69c032b71d58d4b2dff4ba1043274ee5f16cb0f8fe40d74b2fafcee.jpg)
+- [Elephant Cave - A-Peaceful-Place](../../Assets/6df1fe59f9a14ec53a03a1d500ec0cfcd24bd3cd1d07b2ed1fefd41292f70ca9.jpg)
+- [Elephant Cave - Image 02](../../Assets/af73d7908ad8286f8c458dbf2f02f1bd94a66f900622d803cb44d0f0a293e3da.jpg)
 
 # References
 

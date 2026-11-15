@@ -44,9 +44,9 @@ L0258, Thin Roof: Y, Fence: Y. Dimensions: 9 x 5 x 3m window. Features:  Some de
 
 # Images
 
-- [L0258 - Koorama Cave - 258 - 1f8bae24-9e4fd6fe](../../Assets/682fe9ce60aa1526391abb827e07ff983905f7359ad4f59a4db6c51d6b724369.jpg)
-- [L0258 - Koorama Cave - PXL_20241214_042847963 - bd9402c4-9e4fd6fe](../../Assets/4ce9c73eef529dd14c7307f98ac3fac1ba563f60e64516f3840c962febd43a97.jpg)
-- [L0258 - Koorama Cave - 258 - 133574e1-9e4fd6fe](../../Assets/405c8319263be4549e2f845549fef9d0a4f64c44d8580f115fd8e97a1ca5de61.jpg)
+- [L0258 - Koorama Cave - Image 02](../../Assets/682fe9ce60aa1526391abb827e07ff983905f7359ad4f59a4db6c51d6b724369.jpg)
+- [L0258 - Koorama Cave - Image 03](../../Assets/4ce9c73eef529dd14c7307f98ac3fac1ba563f60e64516f3840c962febd43a97.jpg)
+- [L0258 - Koorama Cave - Image 01](../../Assets/405c8319263be4549e2f845549fef9d0a4f64c44d8580f115fd8e97a1ca5de61.jpg)
 
 # References
 

@@ -41,7 +41,7 @@ L0225, Thin Roof: N, Fence: Y. Dimensions: ?. Features: recently fenced (July '9
 
 # Images
 
-- [L0225 - No-Go Cave - nogo - d6101a07-b250d641](../../Assets/f428c8b6aae08b745b1b0986f64dff529f290901a412c6c37d5dc0784da69daa.jpg)
+- [L0225 - No-Go Cave - nogo](../../Assets/f428c8b6aae08b745b1b0986f64dff529f290901a412c6c37d5dc0784da69daa.jpg)
 
 # References
 

@@ -25,9 +25,9 @@ tidal: "No"
 
 # Images
 
-- [Fontaine Du Truffe - Font del Truffe2 - fbc528e1-21c811e2](../../Assets/5c9d4c6db19e14b4a8588501e72602a51267ad306cb3f49d8af264d3816feffb.jpg)
-- [Fontaine Du Truffe - Font del Truffe - 075cc393-21c811e2](../../Assets/b20eae8b4e45264ae519926aa471362453d5a821d1bc2878265f2e0251eedfec.jpg)
-- [Fontaine Du Truffe - Font del Truffe3 - ef075de7-21c811e2](../../Assets/df574a598be04a9f81ba58f7e11c507b54aa0688667d95ce24e06f37119e396c.jpg)
+- [Fontaine Du Truffe - Font del Truffe2](../../Assets/5c9d4c6db19e14b4a8588501e72602a51267ad306cb3f49d8af264d3816feffb.jpg)
+- [Fontaine Du Truffe - Font del Truffe](../../Assets/b20eae8b4e45264ae519926aa471362453d5a821d1bc2878265f2e0251eedfec.jpg)
+- [Fontaine Du Truffe - Font del Truffe3](../../Assets/df574a598be04a9f81ba58f7e11c507b54aa0688667d95ce24e06f37119e396c.jpg)
 
 # References
 

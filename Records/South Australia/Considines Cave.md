@@ -42,9 +42,9 @@ BC + GB 22/09/2023:  Entrance is via one of two surface hole. The larger hole re
 
 # Images
 
-- [L0086 - Considines Cave - 2023-09-22 16.21.01 - dccb24bb-5bb1ef77](../../Assets/88c80adf1c38268b905377b07c731fd0269bde15c73958bc95232e76ea436b9d.jpg)
-- [L0086 - Considines Cave - 2023-09-22 16.20.58 - 910a9c6b-5bb1ef77](../../Assets/3334692fc4cb65931c452d4781286996fdd9712857151015658e49b76abe7326.jpg)
-- [L0086 - Considines Cave - 2023-09-22 16.21.12 - e37dc06c-5bb1ef77](../../Assets/298bb158eb7c356f2ca084cc0faf654d8cbb8cbb10d9e98008ce14a6446e7e21.jpg)
+- [L0086 - Considines Cave - Image 02](../../Assets/88c80adf1c38268b905377b07c731fd0269bde15c73958bc95232e76ea436b9d.jpg)
+- [L0086 - Considines Cave - Image 01](../../Assets/3334692fc4cb65931c452d4781286996fdd9712857151015658e49b76abe7326.jpg)
+- [L0086 - Considines Cave - Image 03](../../Assets/298bb158eb7c356f2ca084cc0faf654d8cbb8cbb10d9e98008ce14a6446e7e21.jpg)
 
 # References
 

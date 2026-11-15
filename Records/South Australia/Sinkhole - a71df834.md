@@ -24,4 +24,4 @@ exploration_potential: "Low"
 
 # Images
 
-- [Sinkhole - P306 - d32e7721-a71df834](../../Assets/cb318ce7376c8bbb695751875e0524e919ca19968340e5c8edff2d30e67f13ee.jpg)
+- [Sinkhole - P306](../../Assets/cb318ce7376c8bbb695751875e0524e919ca19968340e5c8edff2d30e67f13ee.jpg)

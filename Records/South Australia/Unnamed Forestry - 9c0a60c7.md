@@ -26,5 +26,5 @@ at least one sink hole (solution tube)
 
 # Images
 
-- [Unnamed Forestry - 20240828_172109 - c1f8728f-9c0a60c7](../../Assets/066e722d5b9e2768f42f249aba6bec1fe98655e3ce73d611af3855f72c8d855d.jpg)
-- [Unnamed Forestry - 20240828_172058 - 6b2e0422-9c0a60c7](../../Assets/741b71a1a56cad8c4eaed3099fcdbb0e91aa2a20d2daee65fc0205ee3e7d7786.jpg)
+- [Unnamed Forestry - Image 19](../../Assets/066e722d5b9e2768f42f249aba6bec1fe98655e3ce73d611af3855f72c8d855d.jpg)
+- [Unnamed Forestry - Image 18](../../Assets/741b71a1a56cad8c4eaed3099fcdbb0e91aa2a20d2daee65fc0205ee3e7d7786.jpg)

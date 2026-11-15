@@ -21,7 +21,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cova des Drac de Cala Santanyí - Aerial-photography-of-Cala-Santanyi-with-the-topography-of-Cova-des-Drac-de-Cala - 0c7978da-f61dbede](../../Assets/d3bb0e1f4d98b4d1362c28ffbc1d04ffa4403c7e2479eb28913fd069229e1853.png)
+- [Cova des Drac de Cala Santanyí - Aerial-photography-of-Cala-Santanyi-with-the-topography-of-Cova-des-Drac-de-Cala](../../Assets/d3bb0e1f4d98b4d1362c28ffbc1d04ffa4403c7e2479eb28913fd069229e1853.png)
 
 # References
 

@@ -42,7 +42,7 @@ La Fuentona is a small lake with a a cave system that runs deep under its surfac
 
 # Images
 
-- [La Fuentona - 658_profile - 30536db6-e78a35a7](../../Assets/ed2b5f7bc1634f25b505039fa1dda312d2f3243c2eec2cff90d172017c7aa3b1.jpg)
+- [La Fuentona - 658_profile](../../Assets/ed2b5f7bc1634f25b505039fa1dda312d2f3243c2eec2cff90d172017c7aa3b1.jpg)
 
 # References
 

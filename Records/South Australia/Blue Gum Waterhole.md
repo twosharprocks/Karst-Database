@@ -27,6 +27,6 @@ Depression about 30m in diameter with boggy marsh at rhe bottom. No obvious sign
 
 # Images
 
-- [Blue Gum Waterhole - 20240322_150852 - 9debbdb5-5ad07c90](../../Assets/49852361fc22a06a01c666bdc007fd0efa556f593b34397363d3fa7b5e2d3c8f.jpg)
-- [Blue Gum Waterhole - 20240322_150914 - c608544d-5ad07c90](../../Assets/92056fb17da0f4b89f2d1238ab6ff6efed3d5c6f54eb0e1e53473c650d0d1470.jpg)
-- [Blue Gum Waterhole - 20240322_150835 - c78c1a83-5ad07c90](../../Assets/958647d3b4ceab5e9af05e0b3b14b7d3941b335f6f0672200106f5ccc670589b.jpg)
+- [Blue Gum Waterhole - Image 02](../../Assets/49852361fc22a06a01c666bdc007fd0efa556f593b34397363d3fa7b5e2d3c8f.jpg)
+- [Blue Gum Waterhole - Image 03](../../Assets/92056fb17da0f4b89f2d1238ab6ff6efed3d5c6f54eb0e1e53473c650d0d1470.jpg)
+- [Blue Gum Waterhole - Image 01](../../Assets/958647d3b4ceab5e9af05e0b3b14b7d3941b335f6f0672200106f5ccc670589b.jpg)

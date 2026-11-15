@@ -23,4 +23,4 @@ has_toilets: "No"
 
 # Images
 
-- [Exposed clay - PXL_20240714_231752258 - d4028a41-dd7545c3](../../Assets/190d6da4603a6d2d69a5dba1fbe1bedb0baf7f4e23d14d772e443c208a17c864.jpg)
+- [Exposed clay - Image 01](../../Assets/190d6da4603a6d2d69a5dba1fbe1bedb0baf7f4e23d14d772e443c208a17c864.jpg)

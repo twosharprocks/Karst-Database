@@ -32,10 +32,10 @@ The cave opens at a depth of -6 meters. The opening is 10 meters wide and leads 
 
 # Images
 
-- [Coves de Cala Viuda - 42b314_viuda-viuda - 4504a3ef-10684be0](../../Assets/886ac23b710c78ec603914a66a63e04432da8dd93913f3595fd7b8827199ebe4.jpg)
-- [Coves de Cala Viuda - images_large_10.1177_0278364917732838-fig2 - aefd7652-10684be0](../../Assets/ac7e4eafbac6c6896f0d703bc7e6ffae80428e11e0ddfc05d973208826ef3925.jpeg)
-- [Coves de Cala Viuda - ROB-14-0213_Fig11b-1024x561 - c4cd3d1f-10684be0](../../Assets/93e65391964cebfb68a8e9aea6fa76f2f1caf12092c26588c9241c9820e50770.jpg)
-- [Coves de Cala Viuda - 42b314_viuda-viuda - 63f78017-10684be0](../../Assets/886ac23b710c78ec603914a66a63e04432da8dd93913f3595fd7b8827199ebe4.jpg)
+- [Coves de Cala Viuda - 42b314_viuda-viuda](../../Assets/886ac23b710c78ec603914a66a63e04432da8dd93913f3595fd7b8827199ebe4.jpg)
+- [Coves de Cala Viuda - images_large_10.1177_0278364917732838-fig2](../../Assets/ac7e4eafbac6c6896f0d703bc7e6ffae80428e11e0ddfc05d973208826ef3925.jpeg)
+- [Coves de Cala Viuda - ROB-14-0213_Fig11b-1024x561](../../Assets/93e65391964cebfb68a8e9aea6fa76f2f1caf12092c26588c9241c9820e50770.jpg)
+- [Coves de Cala Viuda - 42b314_viuda-viuda - 02](../../Assets/886ac23b710c78ec603914a66a63e04432da8dd93913f3595fd7b8827199ebe4.jpg)
 
 # References
 

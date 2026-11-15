@@ -121,10 +121,10 @@ Text: Jolanda Spronck
 
 # Images
 
-- [Pozo Azul - pozo2014-whole - 40896ddf-b374b68c](../../Assets/32ef045bfbe9ead63e6d7d323f2cb19ed3a4214f8bdc315e3e47c23dd5eb5376.png)
-- [Pozo Azul - 6C2W1azD1rBs8i715pX3pAHYgtGre4FqTwRNss7iwxg8C2HncV22jaE - a0b90aae-b374b68c](../../Assets/9a3fb94af56a0ceb9d0b395ed29f8219cd0a96307292a7e46afc030c141e772e.jpg)
-- [Pozo Azul - 660 - 625429d1-b374b68c](../../Assets/cddcb6ed2efe5545d7542517f71ffff2488413409cf4c33d95b7936088ffeab6.jpg)
-- [Pozo Azul - 6C2W1azD1rBs8i715pX3pAHYgtGre4FqTwRNss7oKtSvgnvxT4PhSZc - af2353f5-b374b68c](../../Assets/fe653ac1e5fa9859df37a5dcd21b2a74820d96eaf70fd2c4a1bd81f4fec41991.jpg)
+- [Pozo Azul - pozo2014-whole](../../Assets/32ef045bfbe9ead63e6d7d323f2cb19ed3a4214f8bdc315e3e47c23dd5eb5376.png)
+- [Pozo Azul - 6C2W1azD1rBs8i715pX3pAHYgtGre4FqTwRNss7iwxg8C2HncV22jaE](../../Assets/9a3fb94af56a0ceb9d0b395ed29f8219cd0a96307292a7e46afc030c141e772e.jpg)
+- [Pozo Azul - Image 01](../../Assets/cddcb6ed2efe5545d7542517f71ffff2488413409cf4c33d95b7936088ffeab6.jpg)
+- [Pozo Azul - 6C2W1azD1rBs8i715pX3pAHYgtGre4FqTwRNss7oKtSvgnvxT4PhSZc](../../Assets/fe653ac1e5fa9859df37a5dcd21b2a74820d96eaf70fd2c4a1bd81f4fec41991.jpg)
 
 # References
 

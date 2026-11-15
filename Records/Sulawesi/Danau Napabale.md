@@ -20,4 +20,4 @@ address: "Jalan Tanpa Nama, Muna Regency, South East Sulawesi, IDN, 93658"
 
 # Images
 
-- [Danau Napabale - Danau Napabale - 0d391250-1ee983b3](../../Assets/b4a49048b74f2c1b79c04241fcb42b70d78e174c30c5f0f9a73901b366c17908.jpg)
+- [Danau Napabale - Danau Napabale](../../Assets/b4a49048b74f2c1b79c04241fcb42b70d78e174c30c5f0f9a73901b366c17908.jpg)

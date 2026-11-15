@@ -39,9 +39,9 @@ L0119, Thin Roof: Y, Fence: R. Dimensions: ?. Features: bats/snails/moss  Fence 
 
 # Images
 
-- [L0119a - Snake Hill Cave System - 2023-04-10 12.44.46 - 0bd073b5-d34506f6](../../Assets/e8b8228034bae7927b76d8f7f67f4847bd2dac17da20438b91918d9896eed10a.jpg)
-- [L0119a - Snake Hill Cave System - 2023-04-10 12.45.12 - 5ed683b7-d34506f6](../../Assets/09f4318ea81784bfe2e4ed3181420fb9841247722545fefd233605b355cadc08.jpg)
-- [L0119a - Snake Hill Cave System - 2023-04-10 12.45.07 - be1d5333-d34506f6](../../Assets/7fa641b48fbd9f7c785be4ac9facd5a9b01f91d263362396a9d1c182433248f9.jpg)
+- [L0119a - Snake Hill Cave System - Image 01](../../Assets/e8b8228034bae7927b76d8f7f67f4847bd2dac17da20438b91918d9896eed10a.jpg)
+- [L0119a - Snake Hill Cave System - Image 03](../../Assets/09f4318ea81784bfe2e4ed3181420fb9841247722545fefd233605b355cadc08.jpg)
+- [L0119a - Snake Hill Cave System - Image 02](../../Assets/7fa641b48fbd9f7c785be4ac9facd5a9b01f91d263362396a9d1c182433248f9.jpg)
 
 # References
 

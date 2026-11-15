@@ -120,14 +120,14 @@ the S3
 
 # Maps
 
-- [Bel Torrente Cave - Plan-of-Bel-Torrente-Cave-The-ellipse-defines-the-area-from-which-monk-seal-bones-were - 6efa220e-5aefcb54](../../Assets/c256498706164e89f84d991732ceecc4c61ce6db25459f52b654ce18f34521da.png)
+- [Bel Torrente Cave - Plan-of-Bel-Torrente-Cave-The-ellipse-defines-the-area-from-which-monk-seal-bones-were](../../Assets/c256498706164e89f84d991732ceecc4c61ce6db25459f52b654ce18f34521da.png)
 
 # Images
 
-- [Bel Torrente Cave - Aerial-photograph-of-the-Bel-Torrente-Cave-area-Cave-passages-are-shown-in-black-the - 7a688e19-5aefcb54](../../Assets/20fb8e71438e41403eac8f5c9fade4042b97029b691c99f40358be3a69e1ec09.png)
-- [Bel Torrente Cave - Fig_1_WP - f1f7f5a8-5aefcb54](../../Assets/4dfefcacd92dfe49d6252b7be2b30b7c48b9edf7212f8361acc949c39ea09a96.jpg)
-- [Bel Torrente Cave - 023a9db0bb - 394e6f54-5aefcb54](../../Assets/8b2c3a7c322b12e63a6f52749de60de5d000fd3c52ac49c188654f756cf8cbed.jpg)
-- [Bel Torrente Cave - Plan-of-Bel-Torrente-Cave-The-ellipse-defines-the-area-from-which-monk-seal-bones-were - 6efa220e-5aefcb54](../../Assets/c256498706164e89f84d991732ceecc4c61ce6db25459f52b654ce18f34521da.png)
+- [Bel Torrente Cave - Aerial-photograph-of-the-Bel-Torrente-Cave-area-Cave-passages-are-shown-in-black-the](../../Assets/20fb8e71438e41403eac8f5c9fade4042b97029b691c99f40358be3a69e1ec09.png)
+- [Bel Torrente Cave - Fig_1_WP](../../Assets/4dfefcacd92dfe49d6252b7be2b30b7c48b9edf7212f8361acc949c39ea09a96.jpg)
+- [Bel Torrente Cave - 023a9db0bb](../../Assets/8b2c3a7c322b12e63a6f52749de60de5d000fd3c52ac49c188654f756cf8cbed.jpg)
+- [Bel Torrente Cave - Plan-of-Bel-Torrente-Cave-The-ellipse-defines-the-area-from-which-monk-seal-bones-were](../../Assets/c256498706164e89f84d991732ceecc4c61ce6db25459f52b654ce18f34521da.png)
 
 # References
 

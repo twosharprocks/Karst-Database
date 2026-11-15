@@ -36,7 +36,7 @@ entry_type: "Shore"
 
 # Images
 
-- [Cenote Chun Ya - 463595996_122142941066304723_9025909911566681597_n - bd78072a-513e9c12](../../Assets/1d15a43be36e6c8aac32eef5c3c1e285af41de737e8fb38d00cdcd2f60d823bd.jpg)
+- [Cenote Chun Ya - Image 01](../../Assets/1d15a43be36e6c8aac32eef5c3c1e285af41de737e8fb38d00cdcd2f60d823bd.jpg)
 
 # References
 

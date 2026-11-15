@@ -21,12 +21,12 @@ address: "147, Tweddle Rd, Gisborne South, Victoria, AUS, 3437"
 
 # Maps
 
-- [Gisborne Bone Cave - bone plan - 12f8dda8-bc1368bc](../../Assets/5c75220580618abf188a31141398513adabb010e06e3d839942c0ca2d1c88a19.png)
+- [Gisborne Bone Cave - bone plan](../../Assets/5c75220580618abf188a31141398513adabb010e06e3d839942c0ca2d1c88a19.png)
 
 # Images
 
-- [Gisborne Bone Cave - bone - 0f7ceda7-bc1368bc](../../Assets/b7f5c0bf799c9c114fad1a6afb4955f3b5c8da4cde9cdfddde3d949f01d27c4c.jpg)
-- [Gisborne Bone Cave - bone plan - 12f8dda8-bc1368bc](../../Assets/5c75220580618abf188a31141398513adabb010e06e3d839942c0ca2d1c88a19.png)
+- [Gisborne Bone Cave - bone](../../Assets/b7f5c0bf799c9c114fad1a6afb4955f3b5c8da4cde9cdfddde3d949f01d27c4c.jpg)
+- [Gisborne Bone Cave - bone plan](../../Assets/5c75220580618abf188a31141398513adabb010e06e3d839942c0ca2d1c88a19.png)
 
 # References
 

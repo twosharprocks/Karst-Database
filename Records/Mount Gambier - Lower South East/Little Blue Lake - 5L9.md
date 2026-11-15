@@ -76,11 +76,11 @@ There are some undercuts which can be quite gloomy depending on the viz (changes
 
 # Images
 
-- [5L9 - Little Blue Lake - 2022-06-05 07.05.11 - 1103fd86-33b9fbee](../../Assets/2907479fa7c554dce54a77faf67154b9d9504f3544a5004b223764881607392f.jpg)
-- [5L9 - Little Blue Lake - 2022-06-05 07.05.45 - 7ae97a1e-33b9fbee](../../Assets/a72fbcd50325400c695124f571ad63b1dea4b4a7e734997aa837b744f86a566f.jpg)
-- [5L9 - Little Blue Lake - 2022-06-05 07.06.53 - b454eb4f-33b9fbee](../../Assets/3d7b49942e0435ced0cd168a8a0df3eac40b5b2e2c3346a19192600654a3983d.jpg)
-- [5L9 - Little Blue Lake - IMG_20211021_072556_8 - 70de5c6e-33b9fbee](../../Assets/b7243a24b4c3f0b29870360832e19d21217fc366e2c8f45130d94d9233758fdb.jpg)
-- [5L9 - Little Blue Lake - Screenshot 2023-11-19 095014 - 2c6dff54-33b9fbee](../../Assets/16145dc529abc50ee98deb32ac9d13aae7f17b4808213df3c6babc11ed409cbd.png)
+- [5L9 - Little Blue Lake - Image 01](../../Assets/2907479fa7c554dce54a77faf67154b9d9504f3544a5004b223764881607392f.jpg)
+- [5L9 - Little Blue Lake - Image 02](../../Assets/a72fbcd50325400c695124f571ad63b1dea4b4a7e734997aa837b744f86a566f.jpg)
+- [5L9 - Little Blue Lake - Image 03](../../Assets/3d7b49942e0435ced0cd168a8a0df3eac40b5b2e2c3346a19192600654a3983d.jpg)
+- [5L9 - Little Blue Lake - Image 04](../../Assets/b7243a24b4c3f0b29870360832e19d21217fc366e2c8f45130d94d9233758fdb.jpg)
+- [5L9 - Little Blue Lake - Image 05](../../Assets/16145dc529abc50ee98deb32ac9d13aae7f17b4808213df3c6babc11ed409cbd.png)
 
 # References
 

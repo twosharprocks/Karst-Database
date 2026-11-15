@@ -26,4 +26,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Jug Hole - Image - 28057c05-5d1d55cc](../../Assets/4e7beeab550e349ecb53cae8174036a9b70a7d2ec426eda208437a11199d224b.jpg)
+- [Jug Hole - Image 01](../../Assets/4e7beeab550e349ecb53cae8174036a9b70a7d2ec426eda208437a11199d224b.jpg)

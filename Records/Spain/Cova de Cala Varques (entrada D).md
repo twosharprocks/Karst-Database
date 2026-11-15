@@ -21,7 +21,7 @@ source: "MapCarta"
 
 # Images
 
-- [Cova de Cala Varques (entrada D) - Screenshot (395) - b03fe3df-09bbe831](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
+- [Cova de Cala Varques (entrada D) - Image 01](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
 
 # References
 

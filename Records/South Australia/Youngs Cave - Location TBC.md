@@ -39,8 +39,8 @@ Rough location based on LSECR - look for rubbish pile?
 
 # Images
 
-- [Youngs Cave - Location TBC - 0141 - 5c2a7b7c-b2418d68](../../Assets/6f6963a7f7af9e22ede556750b2c99c992b7f8a041e496c96d8e3d5674609885.jpg)
-- [Youngs Cave - Location TBC - 0140 - 4da03e58-b2418d68](../../Assets/2bd8a8609d8266e8fec6b5bfc17ba08545c963571ff20519e104dca1508f3005.jpg)
+- [Youngs Cave - Location TBC - Image 02](../../Assets/6f6963a7f7af9e22ede556750b2c99c992b7f8a041e496c96d8e3d5674609885.jpg)
+- [Youngs Cave - Location TBC - Image 01](../../Assets/2bd8a8609d8266e8fec6b5bfc17ba08545c963571ff20519e104dca1508f3005.jpg)
 
 # References
 

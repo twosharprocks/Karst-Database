@@ -21,4 +21,4 @@ source: "ResearchGate"
 
 # Images
 
-- [Cova de Cala Varques (B) - Screenshot (395) - 90ee3111-31a60777](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
+- [Cova de Cala Varques (B) - Image 01](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)

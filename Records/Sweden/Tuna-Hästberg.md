@@ -22,4 +22,4 @@ tidal: "No"
 
 # Images
 
-- [Tuna-Hästberg - FB_IMG_1729430014342 - 121a60f9-4f590195](../../Assets/7d9ec00f6b8de3b3b8f06f145988ea3cdf2c46a2e667e465b39ec74ba50c8a24.jpg)
+- [Tuna-Hästberg - Image 01](../../Assets/7d9ec00f6b8de3b3b8f06f145988ea3cdf2c46a2e667e465b39ec74ba50c8a24.jpg)

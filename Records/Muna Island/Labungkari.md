@@ -42,7 +42,7 @@ parking: "Excellent"
 
 # Images
 
-- [Gua Labungkari - Labungkari - sketch - de683b2c-508a29bc](../../Assets/c0d52154810d5e80082ca2421760aee64ddbf1fa5d49b097b348220d03ef1d9a.jpg)
+- [Gua Labungkari - Labungkari - sketch](../../Assets/c0d52154810d5e80082ca2421760aee64ddbf1fa5d49b097b348220d03ef1d9a.jpg)
 
 # References
 

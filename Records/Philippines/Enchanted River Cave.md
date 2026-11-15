@@ -43,15 +43,15 @@ The cave is a siphon and the current will help you on the way in but exiting wil
 
 # Images
 
-- [Enchanted River Cave - approach-complex-side-ab - c2191529-a7e3569b](../../Assets/411ff61ab63170c7c48df87a8a691227e1ee41e5b1eba3e67a1b34531e19d4bc.jpg)
-- [Enchanted River Cave - Hinatuan_enchanted_river - c75b37af-a7e3569b](../../Assets/900c80a4f4bfddc587602eb5c9e7d7ad0273d160f1c13e5a5beaa704b4f26b79.jpg)
-- [Enchanted River Cave - enchanted-entrance-complex-top-view1 - 5f7f8f49-a7e3569b](../../Assets/cc6ad80cdab4426b232e7dcdb2679e9133739658b700b8ddfc0de7125aea90df.jpg)
-- [Enchanted River Cave - enchanted river - 0cd012a0-a7e3569b](../../Assets/21b9f2a3110252cf067b410203db15534f23c20ca044d0ddc121609cb0409f5e.jpg)
-- [Enchanted River Cave - enchanted-new-profile - 97243b2d-a7e3569b](../../Assets/e308ddbe598be04c9c2df8550398c2c9fbc1d5d157436edabe7e587e493e2c21.jpg)
-- [Enchanted River Cave - fig-3a - b71f79bf-a7e3569b](../../Assets/cfcb7588920a3054bdf4d2c38d8d8dd1ae1b1dcbe8f157825e799cdfb80df0f6.jpg)
-- [Enchanted River Cave - hinatuan4_miranda2 - ec34680c-a7e3569b](../../Assets/39210fbc6f060ed2e128ae98708fd215c8917a27903655d61436772e99a52298.jpg)
-- [Enchanted River Cave - fig-3b - fc1aef92-a7e3569b](../../Assets/835e28c19abc1e2dcf2b61377703764d2438d31dd787ffa7eb4cac80934a4d70.jpg)
-- [Enchanted River Cave - fb_img_1488976199398-1 - 46ebda8e-a7e3569b](../../Assets/57de47f6faa50cb98245ce8517fbe9a676517fc22c61e863fe6422ea85393d88.webp)
+- [Enchanted River Cave - approach-complex-side-ab](../../Assets/411ff61ab63170c7c48df87a8a691227e1ee41e5b1eba3e67a1b34531e19d4bc.jpg)
+- [Enchanted River Cave - Hinatuan_enchanted_river](../../Assets/900c80a4f4bfddc587602eb5c9e7d7ad0273d160f1c13e5a5beaa704b4f26b79.jpg)
+- [Enchanted River Cave - enchanted-entrance-complex-top-view1](../../Assets/cc6ad80cdab4426b232e7dcdb2679e9133739658b700b8ddfc0de7125aea90df.jpg)
+- [Enchanted River Cave - enchanted river](../../Assets/21b9f2a3110252cf067b410203db15534f23c20ca044d0ddc121609cb0409f5e.jpg)
+- [Enchanted River Cave - enchanted-new-profile](../../Assets/e308ddbe598be04c9c2df8550398c2c9fbc1d5d157436edabe7e587e493e2c21.jpg)
+- [Enchanted River Cave - fig-3a](../../Assets/cfcb7588920a3054bdf4d2c38d8d8dd1ae1b1dcbe8f157825e799cdfb80df0f6.jpg)
+- [Enchanted River Cave - hinatuan4_miranda2](../../Assets/39210fbc6f060ed2e128ae98708fd215c8917a27903655d61436772e99a52298.jpg)
+- [Enchanted River Cave - fig-3b](../../Assets/835e28c19abc1e2dcf2b61377703764d2438d31dd787ffa7eb4cac80934a4d70.jpg)
+- [Enchanted River Cave - Image 01](../../Assets/57de47f6faa50cb98245ce8517fbe9a676517fc22c61e863fe6422ea85393d88.webp)
 
 # References
 

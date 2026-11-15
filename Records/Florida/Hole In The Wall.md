@@ -61,4 +61,4 @@ the northwest side of the pool. In June 2003, very little flow from the spring w
 
 # Images
 
-- [Hole In The Wall - FB_IMG_1731374953546 - 62d0d931-73065350](../../Assets/468c6db4790fc17c99b64d8b84c08d6fce563dbb9a5ef23899739458f925e4a4.jpg)
+- [Hole In The Wall - Image 01](../../Assets/468c6db4790fc17c99b64d8b84c08d6fce563dbb9a5ef23899739458f925e4a4.jpg)

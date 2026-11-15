@@ -92,10 +92,10 @@ The sinkhole was comprehensively mapped by the S.A. Underwater Speleological Soc
 
 # Images
 
-- [L0008 - Goulden's Hole - 2019-04-20 11.45.07 - 374ecf7d-da15a321](../../Assets/4c0d0bcf58ca6c184f97d66e650ef4aacb3d396ec84890aeaf1615e9377c3019.jpg)
-- [L0008 - Goulden's Hole - gouldens topo - a23f001a-da15a321](../../Assets/a92bed22eb9e15f663156131b3b09f1d4650d4724b6a942c88d2493501a2d22a.jpg)
-- [L0008 - Goulden's Hole - 5L8 from _Lower South East Cave Reference_ by Peter _Puddles_ Horne - 3c91321f-da15a321](../../Assets/d905383ca4faa76a96e808746d1370213c61388e765bfcfe354f75d103e0d401.jpg)
-- [L0008 - Goulden's Hole - Panoramic photo of Goulden's Sinkhole taken. Photo includes Martin Slater and Abi Harwood - 7dbf0b30-da15a321](../../Assets/5b58362076057eb3e3e22e60f6989e1678ce332eadb4428e0a6c955b53895416.jpg)
+- [L0008 - Goulden's Hole - Image 01](../../Assets/4c0d0bcf58ca6c184f97d66e650ef4aacb3d396ec84890aeaf1615e9377c3019.jpg)
+- [L0008 - Goulden's Hole - gouldens topo](../../Assets/a92bed22eb9e15f663156131b3b09f1d4650d4724b6a942c88d2493501a2d22a.jpg)
+- [L0008 - Goulden's Hole - 5L8 from _Lower South East Cave Reference_ by Peter _Puddles_ Horne](../../Assets/d905383ca4faa76a96e808746d1370213c61388e765bfcfe354f75d103e0d401.jpg)
+- [L0008 - Goulden's Hole - Panoramic photo of Goulden's Sinkhole taken. Photo includes Martin Slater and Abi Harwood](../../Assets/5b58362076057eb3e3e22e60f6989e1678ce332eadb4428e0a6c955b53895416.jpg)
 
 # References
 

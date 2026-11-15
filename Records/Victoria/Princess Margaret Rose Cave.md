@@ -77,8 +77,8 @@ Parks Victoria is looking for a tour provider at the Princess Margaret Rose Cave
 
 # Images
 
-- [Princess Margaret Rose Cave - princess-margaret-rose-cave_gor_r_1235335_1600x900 - b91735ff-07e049de](../../Assets/6e9c2bcda31494bc78d64348d08640ecdc5b8c50949ed1e42185f0acf1c17282.jpg)
-- [Princess Margaret Rose Cave - VGO image PMR cave - 6364b1f4-07e049de](../../Assets/46b09c273cf65396210eead9e0d4925934082fc825eb0771b9749147fbca61cc.jpg)
+- [Princess Margaret Rose Cave - princess-margaret-rose-cave_gor_r_1235335_1600x900](../../Assets/6e9c2bcda31494bc78d64348d08640ecdc5b8c50949ed1e42185f0acf1c17282.jpg)
+- [Princess Margaret Rose Cave - VGO image PMR cave](../../Assets/46b09c273cf65396210eead9e0d4925934082fc825eb0771b9749147fbca61cc.jpg)
 
 # References
 

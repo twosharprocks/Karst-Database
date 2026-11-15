@@ -32,7 +32,7 @@ The cave has been protected since 1966 as a Bien de Interés Cultural, with regi
 
 # Images
 
-- [Cova des Coloms - 800px-Cova_des_Coloms_es_Migjorn_Gran - 6a398df6-9f3c74ad](../../Assets/e6905c9a411596aac7b406ffd984ebf436473357f7246b1dd0d54cc45409b637.jpg)
+- [Cova des Coloms - 800px-Cova_des_Coloms_es_Migjorn_Gran](../../Assets/e6905c9a411596aac7b406ffd984ebf436473357f7246b1dd0d54cc45409b637.jpg)
 
 # References
 

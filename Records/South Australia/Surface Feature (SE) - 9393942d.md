@@ -24,4 +24,4 @@ BC 24/92023:  Some rocky features but no signs of anything interesting
 
 # Images
 
-- [Surface Feature (SE) - 16954326249982376518075861513984 - 28c59a13-9393942d](../../Assets/88c3b445c8d281dd9b8f0f6f7efd036b1b0a7a10adffa7df00b7f421235cfee9.jpg)
+- [Surface Feature (SE) - Image 01](../../Assets/88c3b445c8d281dd9b8f0f6f7efd036b1b0a7a10adffa7df00b7f421235cfee9.jpg)

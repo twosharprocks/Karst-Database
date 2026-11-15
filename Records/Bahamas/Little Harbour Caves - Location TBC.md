@@ -29,5 +29,5 @@ Location Estimated from attached paper
 
 # Images
 
-- [Little Harbour Caves - Location TBC - abaco - bb1095dd-9d4e83f6](../../Assets/7fcf9bf3112dd4f2c92baff93c38257d175074d4e8b68ca8dd1c1388e4aa05bd.jpg)
+- [Little Harbour Caves - Location TBC - abaco](../../Assets/7fcf9bf3112dd4f2c92baff93c38257d175074d4e8b68ca8dd1c1388e4aa05bd.jpg)
 - [The_caves_of_Abaco_Island_Bahamas_Keys_to_geologic - 77875333-9d4e83f6](../../Assets/0fc0e87e855fb7fa5a1f450eace4bdaddddaf8d2a4e697fd8247bfcc1cf9ecb3.pdf)

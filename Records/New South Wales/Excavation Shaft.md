@@ -23,5 +23,5 @@ has_phone: "Yes"
 
 # Images
 
-- [Excavation Shaft - PXL_20250926_065556250 - 3793f23a-5ca44013](../../Assets/144a021212665875152f67a22b9e69f7e60d6646b89ed4f43abfb829dbf9e419.jpg)
-- [Excavation Shaft - PXL_20250926_065539790 - 13ede1e2-5ca44013](../../Assets/881b1917528e86e418af552643ea8eb3acd7db912d6c1499d30e7ac10a4759bd.jpg)
+- [Excavation Shaft - Image 02](../../Assets/144a021212665875152f67a22b9e69f7e60d6646b89ed4f43abfb829dbf9e419.jpg)
+- [Excavation Shaft - Image 01](../../Assets/881b1917528e86e418af552643ea8eb3acd7db912d6c1499d30e7ac10a4759bd.jpg)

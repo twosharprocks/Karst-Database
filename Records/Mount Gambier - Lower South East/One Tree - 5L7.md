@@ -79,9 +79,9 @@ One Tree Sinkhole , also marked on maps as Lake Wurwurkooloo, is on the same pro
 
 # Images
 
-- [5L7 - One Tree - DSC_0690web-600x399 - e607a460-2bd204e8](../../Assets/ff7a5ea1403c78902ac83426acc84d6b0e669f397bbb0c61ef8e13b83dc528f8.jpg) — Leon Rademeyer
+- [5L7 - One Tree - Image 01](../../Assets/ff7a5ea1403c78902ac83426acc84d6b0e669f397bbb0c61ef8e13b83dc528f8.jpg) — Leon Rademeyer
 
-- [5L7 - One Tree - DSC_0690web-600x399 - e607a460-2bd204e8](../../Assets/ff7a5ea1403c78902ac83426acc84d6b0e669f397bbb0c61ef8e13b83dc528f8.jpg)
+- [5L7 - One Tree - Image 01](../../Assets/ff7a5ea1403c78902ac83426acc84d6b0e669f397bbb0c61ef8e13b83dc528f8.jpg)
 
 # References
 

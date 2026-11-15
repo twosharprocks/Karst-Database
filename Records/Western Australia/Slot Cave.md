@@ -42,8 +42,8 @@ The downstream side is a tight squeeze through black silt to get to a relatively
 
 # Images
 
-- [Slot Cave - slot - d78a5ff4-76c76c32](../../Assets/9c55f49425f5a1119dc4f8ec5c22e6afa3d099932bb7a8beae66e3529cb66900.jpg)
-- [Slot Cave - slot up - 792fcc3d-76c76c32](../../Assets/0cec0fc9592649c0863ebf1ebe4d76b9daf041fa030407c8b1f6ea17cde76ac3.jpg)
-- [Slot Cave - 2023-11-30 14.26.12 - a8ffbc60-76c76c32](../../Assets/97096ed8e5ddb502adb8be2468e63b3c728b4ac87d66c4d3d663d3fab157a3b2.jpg)
-- [Slot Cave - Photo_6553675_DJI_75_jpg_4077857_0_202282410950_photo_original - cc8d1df5-76c76c32](../../Assets/21da2e3eec7da3abf27577b87ad18ec3ddf8693291c6501cd0b390e4089c4789.jpg)
-- [Slot Cave - Image - 056c21e7-76c76c32](../../Assets/d3c8bf17c27a3fbaf3dc498c786c8b804878128b23b3dea74f105780c0509329.jpg)
+- [Slot Cave - slot](../../Assets/9c55f49425f5a1119dc4f8ec5c22e6afa3d099932bb7a8beae66e3529cb66900.jpg)
+- [Slot Cave - slot up](../../Assets/0cec0fc9592649c0863ebf1ebe4d76b9daf041fa030407c8b1f6ea17cde76ac3.jpg)
+- [Slot Cave - Image 01](../../Assets/97096ed8e5ddb502adb8be2468e63b3c728b4ac87d66c4d3d663d3fab157a3b2.jpg)
+- [Slot Cave - Photo_6553675_DJI_75_jpg_4077857_0_202282410950_photo_original](../../Assets/21da2e3eec7da3abf27577b87ad18ec3ddf8693291c6501cd0b390e4089c4789.jpg)
+- [Slot Cave - Image 02](../../Assets/d3c8bf17c27a3fbaf3dc498c786c8b804878128b23b3dea74f105780c0509329.jpg)

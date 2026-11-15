@@ -37,7 +37,7 @@ entry_type: "Boat"
 
 # Images
 
-- [Vrelo - vrleo - cave - 3924f02d-84b13d26](../../Assets/9d07b95084c6071a06b2982f30f1f23dbc0c8f9c4d49bc1a8a9ab2947f35b040.jpg)
+- [Vrelo - vrleo - cave](../../Assets/9d07b95084c6071a06b2982f30f1f23dbc0c8f9c4d49bc1a8a9ab2947f35b040.jpg)
 
 - [North Macedonia](../Regions/North%20Macedonia.md)
 

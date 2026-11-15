@@ -42,9 +42,9 @@ The entrance to the cave, with a metal grille door, is 170 meters northwest of t
 
 # Images
 
-- [Cova de Pont - yellow - 14ae24b3-83162bde](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
-- [Cova de Pont - Cueva_del_Puente_(Martel) - 31d9ab21-83162bde](../../Assets/bf82836cc99cbb3057d71342c4eff44d8f5967c7bd3a63fa5e46955e6a4fd7b5.jpg)
-- [Cova de Pont - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca - aaeb5006-83162bde](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
+- [Cova de Pont - yellow](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
+- [Cova de Pont - Cueva_del_Puente_(Martel)](../../Assets/bf82836cc99cbb3057d71342c4eff44d8f5967c7bd3a63fa5e46955e6a4fd7b5.jpg)
+- [Cova de Pont - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
 
 # References
 

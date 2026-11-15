@@ -41,8 +41,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Veryovkina Cave - Verëvkina_cave_-_profile_with_surface - cb7ebc5f-ba70c4fb](../../Assets/95b471c45b6f14b4d8d7a3278d387af7c2e9bc7778330b372fbf2cb9b85b1519.svg)
-- [Veryovkina Cave - План_English_(сер) - b7650429-ba70c4fb](../../Assets/d30d0f3bc2b936e626b10d1acd827c60f29f7b2ca3e6039812e6c50217051986.jpg)
+- [Veryovkina Cave - Verëvkina_cave_-_profile_with_surface](../../Assets/95b471c45b6f14b4d8d7a3278d387af7c2e9bc7778330b372fbf2cb9b85b1519.svg)
+- [Veryovkina Cave - План_English_(сер)](../../Assets/d30d0f3bc2b936e626b10d1acd827c60f29f7b2ca3e6039812e6c50217051986.jpg)
 
 # References
 

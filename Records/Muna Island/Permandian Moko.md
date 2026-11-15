@@ -43,6 +43,6 @@ about 65 m long ending in a collapse of stones.
 
 # Images
 
-- [Permandian Moko - Permandian Moko - b382ab8a-83ed1117](../../Assets/1c5c2340a2fff72c26c1f0fc2f81a4c7076929f5380e32a941254b9ff230de99.jpg)
+- [Permandian Moko - Permandian Moko](../../Assets/1c5c2340a2fff72c26c1f0fc2f81a4c7076929f5380e32a941254b9ff230de99.jpg)
 
 - [241 - 67c09ef9-83ed1117](../../Assets/4dbb8b5b04ef81a3ca7fad15a9922c39cd912241bb4d7595e3378b7de0041257.pdf)

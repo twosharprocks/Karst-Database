@@ -25,4 +25,4 @@ Identified from satellite image of Cueva del Agua network.
 
 # Images
 
-- [Sima de Hornos - sima - a1e05cb1-70b8afd4](../../Assets/2b53e80e66ebcec3341ef9ed8bf4f763e3171c0bfc661958302de1e891ccf862.jpg)
+- [Sima de Hornos - sima](../../Assets/2b53e80e66ebcec3341ef9ed8bf4f763e3171c0bfc661958302de1e891ccf862.jpg)

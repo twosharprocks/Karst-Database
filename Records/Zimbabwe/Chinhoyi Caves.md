@@ -29,8 +29,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Chinhoyi Caves - Chinhoyi_caves,_Zimbabwe - 52ec29b5-e8ecf61c](../../Assets/681784a2f895bf07dc072a1e204e6d0360bd7e58d0baeb1e4594ec95e8ad664f.jpg)
-- [Chinhoyi Caves - chinhoyi-caves - bafcb1ae-e8ecf61c](../../Assets/4eb0137203e3bf2e6f94d64ddfad55dd6a5712c53623bef69e9fe793df862009.jpg)
+- [Chinhoyi Caves - Chinhoyi_caves,_Zimbabwe](../../Assets/681784a2f895bf07dc072a1e204e6d0360bd7e58d0baeb1e4594ec95e8ad664f.jpg)
+- [Chinhoyi Caves - chinhoyi-caves](../../Assets/4eb0137203e3bf2e6f94d64ddfad55dd6a5712c53623bef69e9fe793df862009.jpg)
 
 # References
 

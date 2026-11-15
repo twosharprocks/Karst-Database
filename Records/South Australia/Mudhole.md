@@ -71,8 +71,8 @@ On the way back out, you will see the (hopefully small amount) silt you caused o
 
 # Images
 
-- [L0097 - Mudhole - IMG_20191122_175015_350 - 1e702226-ea4dacca](../../Assets/ea3ca055469cbc480f3b0d4d97670d6bdddd53d788dc71c1824c0fae5045aead.jpg)
-- [L0097 - Mudhole - IMG_20200113_231039_698 - 0dc482a1-ea4dacca](../../Assets/65362031aefd605c9023f5069d5d14f0e7324e263025c3d6dd4e678283e40f99.jpg)
+- [L0097 - Mudhole - Image 01](../../Assets/ea3ca055469cbc480f3b0d4d97670d6bdddd53d788dc71c1824c0fae5045aead.jpg)
+- [L0097 - Mudhole - Image 02](../../Assets/65362031aefd605c9023f5069d5d14f0e7324e263025c3d6dd4e678283e40f99.jpg)
 
 # References
 

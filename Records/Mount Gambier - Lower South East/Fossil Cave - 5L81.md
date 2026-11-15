@@ -74,23 +74,23 @@ The western side of Fossil Cave has a small shallow pool (-6m) with a dark silt.
 
 # Images
 
-- [5L81 - Fossil Cave - 20240203_130825 - d5a232e7-7cb19cbe](../../Assets/2325e6ef635f277b99b428d32b2151dd26d34fad3e48ca9f48aadd9aa571079b.jpg) — Martin Slater
-- [5L81 - Fossil Cave - 20240203_130908 - 444e0913-7cb19cbe](../../Assets/76be1c8967c25dfd375b041d6106649e849f4af62cfaa630b2d9b30e8e8e7ed4.jpg) — Martin Slater
-- [5L81 - Fossil Cave - 20240203_130951 - 416e2a24-7cb19cbe](../../Assets/97e41c6fe2dd7a371e4f4c833bd3a903df8cea1baa5d7b1fc9c69da3d32fb126.jpg) — Martin Slater
-- [5L81 - Fossil Cave - 20240203_131030 - 2d9f1812-7cb19cbe](../../Assets/41f3254192737ce54f9fe16f427759838802bfd3d7115598e6488ab46175d279.jpg) — Martin Slater
-- [5L81 - Fossil Cave - Fossil East lake - fa9397b1-7cb19cbe](../../Assets/a3893f061a9e9bf644a16404c86a689c2251fc815effc3868f58606621cd5fd7.jpg) — Martin Slater
-- [5L81 - Fossil Cave - Fossil East lake entrance - 3e7da6a5-7cb19cbe](../../Assets/e8205926f5b5ff2c6e6e0ea61e52877e1b05922384a648e8fad420355ab2a8b5.jpg) — Martin Slater
-- [5L81 - Fossil Cave - Point Cloud side view of Fossil Cave and surface area - 366ae8a6-7cb19cbe](../../Assets/4946b316e860ff2c378503229f8342f54382f2250bb8b8a9c7be2d42e25480a5.jpeg) — Will Passos
-- [5L81 - Fossil Cave - Point Cloud top view of Fossil Cave and surface - 402b4259-7cb19cbe](../../Assets/1ec96afa68c16de339c55f0e96da16817f181ba87baf1ffa909daf4916a61e82.jpeg) — Will Passos
+- [5L81 - Fossil Cave - Image 01](../../Assets/2325e6ef635f277b99b428d32b2151dd26d34fad3e48ca9f48aadd9aa571079b.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Image 02](../../Assets/76be1c8967c25dfd375b041d6106649e849f4af62cfaa630b2d9b30e8e8e7ed4.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Image 03](../../Assets/97e41c6fe2dd7a371e4f4c833bd3a903df8cea1baa5d7b1fc9c69da3d32fb126.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Image 04](../../Assets/41f3254192737ce54f9fe16f427759838802bfd3d7115598e6488ab46175d279.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Fossil East lake](../../Assets/a3893f061a9e9bf644a16404c86a689c2251fc815effc3868f58606621cd5fd7.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Fossil East lake entrance](../../Assets/e8205926f5b5ff2c6e6e0ea61e52877e1b05922384a648e8fad420355ab2a8b5.jpg) — Martin Slater
+- [5L81 - Fossil Cave - Point Cloud side view of Fossil Cave and surface area](../../Assets/4946b316e860ff2c378503229f8342f54382f2250bb8b8a9c7be2d42e25480a5.jpeg) — Will Passos
+- [5L81 - Fossil Cave - Point Cloud top view of Fossil Cave and surface](../../Assets/1ec96afa68c16de339c55f0e96da16817f181ba87baf1ffa909daf4916a61e82.jpeg) — Will Passos
 
-- [5L81 - Fossil Cave - Point Cloud side view of Fossil Cave and surface area - 366ae8a6-7cb19cbe](../../Assets/4946b316e860ff2c378503229f8342f54382f2250bb8b8a9c7be2d42e25480a5.jpeg)
-- [5L81 - Fossil Cave - Fossil East lake - fa9397b1-7cb19cbe](../../Assets/a3893f061a9e9bf644a16404c86a689c2251fc815effc3868f58606621cd5fd7.jpg)
-- [5L81 - Fossil Cave - 20240203_130908 - 444e0913-7cb19cbe](../../Assets/76be1c8967c25dfd375b041d6106649e849f4af62cfaa630b2d9b30e8e8e7ed4.jpg)
-- [5L81 - Fossil Cave - 20240203_130825 - d5a232e7-7cb19cbe](../../Assets/2325e6ef635f277b99b428d32b2151dd26d34fad3e48ca9f48aadd9aa571079b.jpg)
-- [5L81 - Fossil Cave - 20240203_130951 - 416e2a24-7cb19cbe](../../Assets/97e41c6fe2dd7a371e4f4c833bd3a903df8cea1baa5d7b1fc9c69da3d32fb126.jpg)
-- [5L81 - Fossil Cave - Point Cloud top view of Fossil Cave and surface - 402b4259-7cb19cbe](../../Assets/1ec96afa68c16de339c55f0e96da16817f181ba87baf1ffa909daf4916a61e82.jpeg)
-- [5L81 - Fossil Cave - Fossil East lake entrance - 3e7da6a5-7cb19cbe](../../Assets/e8205926f5b5ff2c6e6e0ea61e52877e1b05922384a648e8fad420355ab2a8b5.jpg)
-- [5L81 - Fossil Cave - 20240203_131030 - 2d9f1812-7cb19cbe](../../Assets/41f3254192737ce54f9fe16f427759838802bfd3d7115598e6488ab46175d279.jpg)
+- [5L81 - Fossil Cave - Point Cloud side view of Fossil Cave and surface area](../../Assets/4946b316e860ff2c378503229f8342f54382f2250bb8b8a9c7be2d42e25480a5.jpeg)
+- [5L81 - Fossil Cave - Fossil East lake](../../Assets/a3893f061a9e9bf644a16404c86a689c2251fc815effc3868f58606621cd5fd7.jpg)
+- [5L81 - Fossil Cave - Image 02](../../Assets/76be1c8967c25dfd375b041d6106649e849f4af62cfaa630b2d9b30e8e8e7ed4.jpg)
+- [5L81 - Fossil Cave - Image 01](../../Assets/2325e6ef635f277b99b428d32b2151dd26d34fad3e48ca9f48aadd9aa571079b.jpg)
+- [5L81 - Fossil Cave - Image 03](../../Assets/97e41c6fe2dd7a371e4f4c833bd3a903df8cea1baa5d7b1fc9c69da3d32fb126.jpg)
+- [5L81 - Fossil Cave - Point Cloud top view of Fossil Cave and surface](../../Assets/1ec96afa68c16de339c55f0e96da16817f181ba87baf1ffa909daf4916a61e82.jpeg)
+- [5L81 - Fossil Cave - Fossil East lake entrance](../../Assets/e8205926f5b5ff2c6e6e0ea61e52877e1b05922384a648e8fad420355ab2a8b5.jpg)
+- [5L81 - Fossil Cave - Image 04](../../Assets/41f3254192737ce54f9fe16f427759838802bfd3d7115598e6488ab46175d279.jpg)
 
 # References
 

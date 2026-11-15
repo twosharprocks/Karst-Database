@@ -49,21 +49,21 @@ This cave entered CEGSA's Records in the form of some notes by Ian Lewis in Dece
 
 # Images
 
-- [5L174 - Stafford Road Cave - 20231014_123930 - feb9a3c4-f59b17b5](../../Assets/4100aae4621d94683208f763245b8a4c583927a0041642ff8d4dc7e4664f15d8.jpg)
-- [5L174 - Stafford Road Cave - 20231014_123940 - 3d99144d-f59b17b5](../../Assets/fe20f26c0422ebd2fdd9f3873135180346917eb3f161358ca8a68b55029177d1.jpg)
-- [5L174 - Stafford Road Cave - 20231014_123956 - d44c3718-f59b17b5](../../Assets/5562d94822af6fdc6dfb168b3c5a310b4baaeb0d5dac332912762cd09c6e512d.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.05.07 - 6f0a878c-f59b17b5](../../Assets/9e551904ffe770c801e12619ab562c82d7952cfd8e3d12e307380ba065c92bc7.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.08.42 - f9655d3e-f59b17b5](../../Assets/3c55e54bb53afbc213fb22fbeceb85c269b9571c61370447a37fa82de9b59ecf.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.19.20 - 5ff2d1f4-f59b17b5](../../Assets/43b08b5bde233eb95979f84a2432304002513b5f6a4932b2e05704333bc4d05a.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.19.30 - 100e5286-f59b17b5](../../Assets/8ff8b3b8473430fd1d88fab113d735501f74e643797df4b32684d7ddf7359922.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.20.45 - 370197c0-f59b17b5](../../Assets/a182a81eceb43047bdea47ef35677aa9cc6acf4e5e30e684840baef57eb17be9.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.20.52 - 7c25cde7-f59b17b5](../../Assets/b36327dc8dd4662f2011057ce7cb4e6cd3e2619ba424e3eb0b19aaf1fd7c6524.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.26.44 - e8ef185b-f59b17b5](../../Assets/54430233bcab36b14dbab0895085915d6a142b430a81e0dc58f0800eac350d7a.jpg)
-- [5L174 - Stafford Road Cave - 2024-03-24 12.27.38 - 522dabad-f59b17b5](../../Assets/87c1be002a08c359b813fe8a3d896dc1cfa6c2e7eabf8dd263000ad6e0816806.jpg)
-- [5L174 - Stafford Road Cave - crystal - 363b9699-f59b17b5](../../Assets/e3f6fdce5e24f0cb313f97778f2dce711ecba1e1bb2b8051c14c8f11eabe33f9.jpeg)
-- [5L174 - Stafford Road Cave - crystal down - b6822a64-f59b17b5](../../Assets/c08f70257ece830e9b44438c63bce0709ae80973234463b20888abde1e959e2a.jpeg)
-- [5L174 - Stafford Road Cave - staff - 6624f21b-f59b17b5](../../Assets/12f12c4b3aadba96082f0bc635a19f6ab1bb9cf930339f547359a31f1701518f.jpg)
-- [5L174 - Stafford Road Cave - staff2 - e8018d91-f59b17b5](../../Assets/088bfd035494fd924763b9a056939051d6e0cf89a4e0ad14f646723aca49abde.jpg)
+- [5L174 - Stafford Road Cave - Image 01](../../Assets/4100aae4621d94683208f763245b8a4c583927a0041642ff8d4dc7e4664f15d8.jpg)
+- [5L174 - Stafford Road Cave - Image 02](../../Assets/fe20f26c0422ebd2fdd9f3873135180346917eb3f161358ca8a68b55029177d1.jpg)
+- [5L174 - Stafford Road Cave - Image 03](../../Assets/5562d94822af6fdc6dfb168b3c5a310b4baaeb0d5dac332912762cd09c6e512d.jpg)
+- [5L174 - Stafford Road Cave - Image 04](../../Assets/9e551904ffe770c801e12619ab562c82d7952cfd8e3d12e307380ba065c92bc7.jpg)
+- [5L174 - Stafford Road Cave - Image 05](../../Assets/3c55e54bb53afbc213fb22fbeceb85c269b9571c61370447a37fa82de9b59ecf.jpg)
+- [5L174 - Stafford Road Cave - Image 06](../../Assets/43b08b5bde233eb95979f84a2432304002513b5f6a4932b2e05704333bc4d05a.jpg)
+- [5L174 - Stafford Road Cave - Image 07](../../Assets/8ff8b3b8473430fd1d88fab113d735501f74e643797df4b32684d7ddf7359922.jpg)
+- [5L174 - Stafford Road Cave - Image 08](../../Assets/a182a81eceb43047bdea47ef35677aa9cc6acf4e5e30e684840baef57eb17be9.jpg)
+- [5L174 - Stafford Road Cave - Image 09](../../Assets/b36327dc8dd4662f2011057ce7cb4e6cd3e2619ba424e3eb0b19aaf1fd7c6524.jpg)
+- [5L174 - Stafford Road Cave - Image 10](../../Assets/54430233bcab36b14dbab0895085915d6a142b430a81e0dc58f0800eac350d7a.jpg)
+- [5L174 - Stafford Road Cave - Image 11](../../Assets/87c1be002a08c359b813fe8a3d896dc1cfa6c2e7eabf8dd263000ad6e0816806.jpg)
+- [5L174 - Stafford Road Cave - crystal](../../Assets/e3f6fdce5e24f0cb313f97778f2dce711ecba1e1bb2b8051c14c8f11eabe33f9.jpeg)
+- [5L174 - Stafford Road Cave - crystal down](../../Assets/c08f70257ece830e9b44438c63bce0709ae80973234463b20888abde1e959e2a.jpeg)
+- [5L174 - Stafford Road Cave - staff](../../Assets/12f12c4b3aadba96082f0bc635a19f6ab1bb9cf930339f547359a31f1701518f.jpg)
+- [5L174 - Stafford Road Cave - staff2](../../Assets/088bfd035494fd924763b9a056939051d6e0cf89a4e0ad14f646723aca49abde.jpg)
 
 # References
 

@@ -40,7 +40,7 @@ Noting that the water was flowing from the right as well as the left hand passag
 
 # Images
 
-- [Katherine Hot Springs - Image - bff4727d-4810f45e](../../Assets/ac1fff66327438a78aa8a63ed5140862b6bcc9e5ce010e340179c863edbb1cb0.gif)
+- [Katherine Hot Springs - Image 01](../../Assets/ac1fff66327438a78aa8a63ed5140862b6bcc9e5ce010e340179c863edbb1cb0.gif)
 
 # References
 

@@ -33,11 +33,11 @@ SF and party checked 2019-10. Similar to [Slot Cave](Slot%20Cave.md) but with 2 
 
 # Images
 
-- [Snake skin cave - slot21 - eaf92815-a3110680](../../Assets/b8c5e2adff957a778ffb858e771fcb07d14ed4600431e5bb4130c2a2a66eee07.jpeg)
-- [Snake skin cave - 1 - afa0c19d-a3110680](../../Assets/a5391f931f40c58d61c9f3737f04fbcd69e4890e2e779ee732853459f3939113.jpeg)
-- [Snake skin cave - slot22 - 1a7235c5-a3110680](../../Assets/c2a321b7d56b13b886f418f9534c34458e695a57ddf760a5ff7922a9c60c07d5.jpeg)
-- [Snake skin cave - 2024-04-24 17.04.16 - e74d76df-a3110680](../../Assets/53da035c1cf61bd8aed0d14e45193b5a30a358986270603f5af2ff937e57e895.jpg)
-- [Snake skin cave - 2024-04-24 17.05.07 - 7974219b-a3110680](../../Assets/0e468a62ea12f960f4f1c6db7fcb3b1f6910fd044eb37bfd08bb4f963fa4e762.jpg)
-- [Snake skin cave - slot23 - ffc0ce26-a3110680](../../Assets/761621fbd573b652ea8420c2a55d9aa1a8c1c3e58bc5168c43e7a0dc274527c1.jpeg)
-- [Snake skin cave - 2 - af4dadb2-a3110680](../../Assets/1a1d5a32b2b766abeb0c87c4785b28ac71df6405137bd3d1197dd4603d56507b.jpeg)
-- [Snake skin cave - slot2 - 2316b8d8-a3110680](../../Assets/2cb118a31a44dcd47e4cefd46ea094c65a3ac405c78c2c4a3e8e877637294e77.jpeg)
+- [Snake skin cave - slot21](../../Assets/b8c5e2adff957a778ffb858e771fcb07d14ed4600431e5bb4130c2a2a66eee07.jpeg)
+- [Snake skin cave - Image 01](../../Assets/a5391f931f40c58d61c9f3737f04fbcd69e4890e2e779ee732853459f3939113.jpeg)
+- [Snake skin cave - slot22](../../Assets/c2a321b7d56b13b886f418f9534c34458e695a57ddf760a5ff7922a9c60c07d5.jpeg)
+- [Snake skin cave - Image 03](../../Assets/53da035c1cf61bd8aed0d14e45193b5a30a358986270603f5af2ff937e57e895.jpg)
+- [Snake skin cave - Image 04](../../Assets/0e468a62ea12f960f4f1c6db7fcb3b1f6910fd044eb37bfd08bb4f963fa4e762.jpg)
+- [Snake skin cave - slot23](../../Assets/761621fbd573b652ea8420c2a55d9aa1a8c1c3e58bc5168c43e7a0dc274527c1.jpeg)
+- [Snake skin cave - Image 02](../../Assets/1a1d5a32b2b766abeb0c87c4785b28ac71df6405137bd3d1197dd4603d56507b.jpeg)
+- [Snake skin cave - slot2](../../Assets/2cb118a31a44dcd47e4cefd46ea094c65a3ac405c78c2c4a3e8e877637294e77.jpeg)

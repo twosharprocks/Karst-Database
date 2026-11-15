@@ -27,4 +27,4 @@ DO NOT DISCLOSE CAVE LOCATION
 
 # Images
 
-- [Mt Fairy Cave - Multiple Resurgences - Mt Fairy - 4d78cc68-b79c9220](../../Assets/969bed7f776509e4e0dcd99a7dcb527f2e57cfddd56c2174acc3346ffa4027a8.png)
+- [Mt Fairy Cave - Multiple Resurgences - Mt Fairy](../../Assets/969bed7f776509e4e0dcd99a7dcb527f2e57cfddd56c2174acc3346ffa4027a8.png)

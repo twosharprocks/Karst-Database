@@ -29,7 +29,7 @@ water_type: "Fresh"
 
 # Images
 
-- [El Brinco Cave - 417534014_7290794861003905_5569104153020291016_n - 4865d083-2f38dcb5](../../Assets/3831b7cfdac1ca50f27a4ced65915b108fe7b3db7e9a99e70c6eb1985864d4c3.jpg)
+- [El Brinco Cave - Image 01](../../Assets/3831b7cfdac1ca50f27a4ced65915b108fe7b3db7e9a99e70c6eb1985864d4c3.jpg)
 
 # References
 

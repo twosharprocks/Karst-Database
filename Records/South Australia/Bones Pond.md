@@ -35,8 +35,8 @@ The pond was mapped and formally numbered by the author (in the company of Depar
 
 # Images
 
-- [L0265 - Bones Pond - Screenshot (347) - 0eb65c6b-3bb0d4cb](../../Assets/f65f7fc81803f2313c0ae84711d51693e2c1dfab8ed0b5a62cd1463eab4f43ff.png)
-- [L0265 - Bones Pond - Screenshot (348) - 836f701e-3bb0d4cb](../../Assets/2cbaca042e348633f684e8d3547973cc5924481cabd53fe0fb620b33fc008637.png)
+- [L0265 - Bones Pond - Image 01](../../Assets/f65f7fc81803f2313c0ae84711d51693e2c1dfab8ed0b5a62cd1463eab4f43ff.png)
+- [L0265 - Bones Pond - Image 02](../../Assets/2cbaca042e348633f684e8d3547973cc5924481cabd53fe0fb620b33fc008637.png)
 
 # References
 

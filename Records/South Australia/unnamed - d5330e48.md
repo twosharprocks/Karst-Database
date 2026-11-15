@@ -34,4 +34,4 @@ L0914, Thin Roof: N, Fence: N. Dimensions: 15m x 1m deep. Features: Small doline
 
 # Images
 
-- [L0914 - unnamed - 2023-04-21 12.32.20 - f73a8fb6-d5330e48](../../Assets/981d85ef4c31289bcce21834171c7ebe84d071eb594fabd6eaa9b672b9977f46.jpg)
+- [L0914 - unnamed - Image 01](../../Assets/981d85ef4c31289bcce21834171c7ebe84d071eb594fabd6eaa9b672b9977f46.jpg)

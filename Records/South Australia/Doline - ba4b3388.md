@@ -25,4 +25,4 @@ Checked 23-06-2023 by MW: Spotted from satellite imagery, visited on foot. Simpl
 
 # Images
 
-- [Doline - PXL_20230623_045555606 - 5342c8a3-ba4b3388](../../Assets/479d6b073f9804eabc2e67c69f83e33cc2b012989b54a803ce80a8fa12439119.jpg)
+- [Doline - Image 01](../../Assets/479d6b073f9804eabc2e67c69f83e33cc2b012989b54a803ce80a8fa12439119.jpg)

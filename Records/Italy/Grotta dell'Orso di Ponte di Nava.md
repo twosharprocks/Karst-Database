@@ -96,9 +96,9 @@ The cave "Orso di Ponte di Nava" (Ormea, CN) is a gym for all of Attilio's stude
 
 # Images
 
-- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - 481768237_1038911638274416_1039167156572363095_n - 53aed3b3-8c2264a0](../../Assets/17ad52c6e777f3037e54c90b42e0e8326ce044475ae554d9af4bc6cf2c5459b0.jpg)
-- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - Orso_nava - 52c81d27-8c2264a0](../../Assets/7beba075eb68f76469391f46a9529066d712e51255a9dee86d787fcb734ecd57.jpg)
-- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - 480701667_1038911938274386_1940017596703691323_n - 07430983-8c2264a0](../../Assets/4306b5c01e26a67ae631e5ac13acfe32bda8489deeede63a726b2e8e2a1310cb.jpg)
+- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - Image 02](../../Assets/17ad52c6e777f3037e54c90b42e0e8326ce044475ae554d9af4bc6cf2c5459b0.jpg)
+- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - Orso_nava](../../Assets/7beba075eb68f76469391f46a9529066d712e51255a9dee86d787fcb734ecd57.jpg)
+- [118 Pi_CN - Grotta dell'Orso di Ponte di Nava - Image 01](../../Assets/4306b5c01e26a67ae631e5ac13acfe32bda8489deeede63a726b2e8e2a1310cb.jpg)
 
 # References
 

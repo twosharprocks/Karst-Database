@@ -22,4 +22,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Air Lawonolita - Air Lawonolita - 4ee6222a-d84c2432](../../Assets/cfd5e8e2140f6b51107bf112e1c93d662f82ccff332abc3e78e336b5675ee7c8.jpg)
+- [Air Lawonolita - Air Lawonolita](../../Assets/cfd5e8e2140f6b51107bf112e1c93d662f82ccff332abc3e78e336b5675ee7c8.jpg)

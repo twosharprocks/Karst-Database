@@ -39,14 +39,14 @@ Burrinjuck Dam is a gated, concrete-walled hydro-electric gravity dam at Burrinj
 
 # Maps
 
-- [Burrinjuck Dam - map - f9b39c1c-6a69b9c0](../../Assets/07667ee6a3ed4ea4447d7cee99094a4c7a012a893cba1d4425fa67e76c91ddb8.jpg)
+- [Burrinjuck Dam - map](../../Assets/07667ee6a3ed4ea4447d7cee99094a4c7a012a893cba1d4425fa67e76c91ddb8.jpg)
 
 # Images
 
-- [Burrinjuck Dam - map - f9b39c1c-6a69b9c0](../../Assets/07667ee6a3ed4ea4447d7cee99094a4c7a012a893cba1d4425fa67e76c91ddb8.jpg)
-- [Burrinjuck Dam - n2869-u- (1) - 8274a9f2-6a69b9c0](../../Assets/4353d98c92c94f740a81b8e4fc8494069483c5c04119d853d827d4e72533c779.jpg)
-- [Burrinjuck Dam - depth_map - 3d2b2c64-6a69b9c0](../../Assets/3a8849aa357f4100332d505f93ba521039a094b386d88e76c6d38578b19bcf5b.jpg)
-- [Burrinjuck Dam - n2862-u- - 12ecc639-6a69b9c0](../../Assets/d26edf09089ff009f81eecb77f9e4870683472fb624e80b8d5b0d9ddbc444505.jpg)
-- [Burrinjuck Dam - entrance - 36c27050-6a69b9c0](../../Assets/95656f0e8f2129f971fedd709ca422405224f24644cca0d604376aa4455190de.jpg)
-- [Burrinjuck Dam - n2863-u- - 54141ef4-6a69b9c0](../../Assets/e35c0f2ea0f7bb7f02a9f4ad36de50233e3feac4ed5a80eddbccdfd45b7ed61e.jpg)
+- [Burrinjuck Dam - map](../../Assets/07667ee6a3ed4ea4447d7cee99094a4c7a012a893cba1d4425fa67e76c91ddb8.jpg)
+- [Burrinjuck Dam - n2869-u- (1)](../../Assets/4353d98c92c94f740a81b8e4fc8494069483c5c04119d853d827d4e72533c779.jpg)
+- [Burrinjuck Dam - depth_map](../../Assets/3a8849aa357f4100332d505f93ba521039a094b386d88e76c6d38578b19bcf5b.jpg)
+- [Burrinjuck Dam - n2862-u](../../Assets/d26edf09089ff009f81eecb77f9e4870683472fb624e80b8d5b0d9ddbc444505.jpg)
+- [Burrinjuck Dam - entrance](../../Assets/95656f0e8f2129f971fedd709ca422405224f24644cca0d604376aa4455190de.jpg)
+- [Burrinjuck Dam - n2863-u](../../Assets/e35c0f2ea0f7bb7f02a9f4ad36de50233e3feac4ed5a80eddbccdfd45b7ed61e.jpg)
 - [Burrinjuck 2 - 092c379a-6a69b9c0](../../Assets/35450c4fc6f00b77f4d3aeccf2e2e36bb8307f2e071b6ab66f109d9be596c3ce.pdf)

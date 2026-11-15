@@ -25,4 +25,4 @@ BC 8/9/2023: Visited and no sign of any interesting features
 
 # Images
 
-- [Surface Feature (SE) - 20230908_163446 - 1bf86de5-c865fa79](../../Assets/80a6b4a7d49c2ab759f90f374a73fa4190d3ac13450ff4b481ac9bde576210a5.jpg)
+- [Surface Feature (SE) - Image 02](../../Assets/80a6b4a7d49c2ab759f90f374a73fa4190d3ac13450ff4b481ac9bde576210a5.jpg)

@@ -31,4 +31,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Rubbish-filled Karst Feature - IMG_20210801_145730_9 - 858f4adb-4097fd6b](../../Assets/331e1e6f145d33440d079dc42f1b942cf226d2ac5b8e0d3eb2a7d2e543413cd2.jpg)
+- [Rubbish-filled Karst Feature - Image 01](../../Assets/331e1e6f145d33440d079dc42f1b942cf226d2ac5b8e0d3eb2a7d2e543413cd2.jpg)

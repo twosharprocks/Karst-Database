@@ -81,8 +81,8 @@ Romano Trevisiol
 
 # Images
 
-- [Grotta Rio Torretta - rio - 0b0b52f5-3e26cb10](../../Assets/af1821813850855471c4f201402dfca420b58fe6f765edb0e616413e015514bb.jpg)
-- [Grotta Rio Torretta - rio2 - 39ff4229-3e26cb10](../../Assets/adb86f4207d4887ae14e4d5ad86e630ad237412a4a83881d05a71457551510f4.jpg)
+- [Grotta Rio Torretta - rio](../../Assets/af1821813850855471c4f201402dfca420b58fe6f765edb0e616413e015514bb.jpg)
+- [Grotta Rio Torretta - rio2](../../Assets/adb86f4207d4887ae14e4d5ad86e630ad237412a4a83881d05a71457551510f4.jpg)
 - [La risorgenza di Rio Torretta - c480b8b1-3e26cb10](../../Assets/b0543650415a8ff9795cfd8bd97a87b835db28228db900a7e769a2388d5bb269.pdf)
 
 # References

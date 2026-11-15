@@ -30,7 +30,7 @@ Caves in New Brunswick
 
 # Images
 
-- [Harbell's cave - reg_Harbellscave2JPG - d85123d3-af9c6f2f](../../Assets/74e86b18aacfe6dafa39ed35399d42aef9d3115a20ab1ba32c84af0b832c2708.jpg)
+- [Harbell's cave - reg_Harbellscave2JPG](../../Assets/74e86b18aacfe6dafa39ed35399d42aef9d3115a20ab1ba32c84af0b832c2708.jpg)
 
 # References
 

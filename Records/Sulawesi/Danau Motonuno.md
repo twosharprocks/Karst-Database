@@ -20,4 +20,4 @@ address: "Jl. [[Danau Napabale]], Muna Regency, South East Sulawesi, IDN, 93658"
 
 # Images
 
-- [Danau Motonuno - Danau Motonuno - 9fd80d56-8d3c4da6](../../Assets/bbfff3421e7339711cfaa4bb429547b8f6eeea02de65e5223f199efde818c921.jpg)
+- [Danau Motonuno - Danau Motonuno](../../Assets/bbfff3421e7339711cfaa4bb429547b8f6eeea02de65e5223f199efde818c921.jpg)

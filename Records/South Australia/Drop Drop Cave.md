@@ -35,9 +35,9 @@ This well-known cave basically consists of a single south-easterly passage which
 
 # Images
 
-- [L0029 - Drop Drop Cave - DJI_0065 - 96bbe960-b720aecb](../../Assets/42e62dfe54b2da26f339226aae556f99f8cc6524805ba9bbc4460d1298f8b29f.jpg)
-- [L0029 - Drop Drop Cave - dropdrop2 - 52e2e085-b720aecb](../../Assets/62fee8432f33d2b9a20d717f4c009c9c1ff71eb5db18be7a39a968b09b9ebd47.jpg)
-- [L0029 - Drop Drop Cave - dropdrop - 4029b0ef-b720aecb](../../Assets/25ba80ca3d6a335a87fa84578aa26effb1cbe3ddef2e2e283b7426f11f0a2b65.jpg)
+- [L0029 - Drop Drop Cave - Image 01](../../Assets/42e62dfe54b2da26f339226aae556f99f8cc6524805ba9bbc4460d1298f8b29f.jpg)
+- [L0029 - Drop Drop Cave - dropdrop2](../../Assets/62fee8432f33d2b9a20d717f4c009c9c1ff71eb5db18be7a39a968b09b9ebd47.jpg)
+- [L0029 - Drop Drop Cave - dropdrop](../../Assets/25ba80ca3d6a335a87fa84578aa26effb1cbe3ddef2e2e283b7426f11f0a2b65.jpg)
 
 # References
 

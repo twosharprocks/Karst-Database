@@ -39,7 +39,7 @@ parking: "Good"
 
 # Images
 
-- [La Ode Panu - La Ode Panu - 9cb227e1-fedd84ff](../../Assets/a854c463d22e1ced6c3f3ef8578fe4b7cadf7a8de9c9fda9d92118410fdab53f.jpg)
+- [La Ode Panu - La Ode Panu](../../Assets/a854c463d22e1ced6c3f3ef8578fe4b7cadf7a8de9c9fda9d92118410fdab53f.jpg)
 
 # References
 

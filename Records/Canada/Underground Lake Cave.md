@@ -26,7 +26,7 @@ Now, dial in your coordinates for the underground lake and follow the trail. The
 
 # Images
 
-- [Underground Lake Cave - lake - cc8319a3-34bf70f7](../../Assets/1dcb84b7af8fbab5934452169408941f50aaffa0ae20fb1304b2c59be5446426.gif)
+- [Underground Lake Cave - lake](../../Assets/1dcb84b7af8fbab5934452169408941f50aaffa0ae20fb1304b2c59be5446426.gif)
 
 # References
 

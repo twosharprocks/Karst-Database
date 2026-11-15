@@ -30,4 +30,4 @@ Reasonable sized doline. Small cave with multiple entrances, lots of loose slabb
 
 # Images
 
-- [N2783 - Upside Down Cave - N2783 - 6fc8332c-3e6552a2](../../Assets/ea387f742ee8844a3333e12c87a926ec946f8af4656fef9ce15c950bb4b463b3.jpg)
+- [N2783 - Upside Down Cave - N2783](../../Assets/ea387f742ee8844a3333e12c87a926ec946f8af4656fef9ce15c950bb4b463b3.jpg)

@@ -22,5 +22,5 @@ tidal: "No"
 
 # Images
 
-- [Gourneyras - Gourneyras2 - 62e4030b-63476a31](../../Assets/13eef3c96d59a981f23f40ba0d5efb970a8bb8f28889572002fa14fcf28486d2.jpg)
-- [Gourneyras - Gourneyras - 4dc7814a-63476a31](../../Assets/559d74e4142a7dfd951fbca138de077d62d0cd8518d1d495521f14d8b7a1cc39.jpg)
+- [Gourneyras - Gourneyras2](../../Assets/13eef3c96d59a981f23f40ba0d5efb970a8bb8f28889572002fa14fcf28486d2.jpg)
+- [Gourneyras - Gourneyras](../../Assets/559d74e4142a7dfd951fbca138de077d62d0cd8518d1d495521f14d8b7a1cc39.jpg)

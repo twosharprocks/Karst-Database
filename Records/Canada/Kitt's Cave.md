@@ -24,7 +24,7 @@ source: "Trailpeak.com"
 
 # Images
 
-- [Kitt's Cave - kit - ce18cf45-d3d1635f](../../Assets/fba86c0df0ce03d879e091793cd8a0e70b2db11efee4e1f1c4d52809e925dbff.gif)
+- [Kitt's Cave - kit](../../Assets/fba86c0df0ce03d879e091793cd8a0e70b2db11efee4e1f1c4d52809e925dbff.gif)
 
 # References
 

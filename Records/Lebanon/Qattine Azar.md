@@ -29,8 +29,8 @@ has_toilets: "No"
 
 # Images
 
-- [Qattine Azar - qattine azar - 257a9ef3-eeeeb234](../../Assets/2d49b6e2c219c38cf4abfc676d6fb7b79d04432be3348b996a1a3ed4f2e4f066.jpg)
-- [Qattine Azar - qattine azar2 - 808bb717-eeeeb234](../../Assets/8af611c15ce85575693d3afd23fecfc069c8be77032f5cb751c2a7423fd94fd4.jpg)
+- [Qattine Azar - qattine azar](../../Assets/2d49b6e2c219c38cf4abfc676d6fb7b79d04432be3348b996a1a3ed4f2e4f066.jpg)
+- [Qattine Azar - qattine azar2](../../Assets/8af611c15ce85575693d3afd23fecfc069c8be77032f5cb751c2a7423fd94fd4.jpg)
 
 # References
 

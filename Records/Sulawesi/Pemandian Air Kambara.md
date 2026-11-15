@@ -25,5 +25,5 @@ has_phone: "Yes"
 
 # Images
 
-- [Pemandian Air Kambara - Pemandian Air Kambara - 36a58c25-9b7241b3](../../Assets/dd4bdd8b80175169b8c5172263ce56a872e457c0aba0df1f2da1ffd585ee33c3.jpg)
-- [Pemandian Air Kambara - Pemandian Air Kambara2 - f09be35a-9b7241b3](../../Assets/8e701e1df2e87ebfc5a2b9f67f59465cd1513385dadbaf0ef34bbe2341085041.jpg)
+- [Pemandian Air Kambara - Pemandian Air Kambara](../../Assets/dd4bdd8b80175169b8c5172263ce56a872e457c0aba0df1f2da1ffd585ee33c3.jpg)
+- [Pemandian Air Kambara - Pemandian Air Kambara2](../../Assets/8e701e1df2e87ebfc5a2b9f67f59465cd1513385dadbaf0ef34bbe2341085041.jpg)

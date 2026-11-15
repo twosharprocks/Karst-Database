@@ -33,10 +33,10 @@ The cave entrance, with a metal grille door, lies south-east along the path from
 
 # Images
 
-- [Cova des Pirata - Coves_des_Pirata_02 - fb329c5c-962f048b](../../Assets/fa185a730295cace002956def7c0a9f9d13ca7114873b989089687257a044629.jpg)
-- [Cova des Pirata - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca - c2d8d19d-962f048b](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
-- [Cova des Pirata - Cueva_del_Pirata_(Martel) - 16b101d9-962f048b](../../Assets/88d65445f11b163704fa1d460c49138e1f527f99324b0337ce9ed3d9fe7cd358.jpg)
-- [Cova des Pirata - yellow - fe175973-962f048b](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
+- [Cova des Pirata - Coves_des_Pirata_02](../../Assets/fa185a730295cace002956def7c0a9f9d13ca7114873b989089687257a044629.jpg)
+- [Cova des Pirata - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
+- [Cova des Pirata - Cueva_del_Pirata_(Martel)](../../Assets/88d65445f11b163704fa1d460c49138e1f527f99324b0337ce9ed3d9fe7cd358.jpg)
+- [Cova des Pirata - yellow](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
 
 # References
 

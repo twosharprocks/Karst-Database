@@ -23,4 +23,4 @@ vertical_access: "No"
 
 # Images
 
-- [Gua Liang Kamoi - Goa Liang Kamoi - 74542570-efc8c648](../../Assets/ca94277c95bd41951ca5b7e8a541f3100da82213d11837128de8c1c0c2e28d7d.jpg)
+- [Gua Liang Kamoi - Goa Liang Kamoi](../../Assets/ca94277c95bd41951ca5b7e8a541f3100da82213d11837128de8c1c0c2e28d7d.jpg)

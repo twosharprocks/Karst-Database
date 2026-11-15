@@ -31,7 +31,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Buco della Sovaglia - images - ede174eb-5f34e463](../../Assets/3bc8c2391f29e1f4e0f7e7394bf6ca2888d8c854fff569ce0865b33466fb3421.jpg)
+- [Buco della Sovaglia - Image 01](../../Assets/3bc8c2391f29e1f4e0f7e7394bf6ca2888d8c854fff569ce0865b33466fb3421.jpg)
 
 # References
 

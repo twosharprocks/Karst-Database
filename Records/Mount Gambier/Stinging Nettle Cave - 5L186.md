@@ -63,15 +63,15 @@ The account was prepared for the November 2003 CEGSA newsletter. It refers to Pe
 
 # Images
 
-- [5L186 - Stinging Nettle Cave - 2022-11-06 11.45.20 - 9ef24daf-e7d5edba](../../Assets/975817f847d726c73765f90864d4c06b60d0442ec5fa95aa0d236466aac58387.jpg)
-- [5L186 - Stinging Nettle Cave - 2294872 - ff5f335a-e7d5edba](../../Assets/2f7fa17fe3fc544a045d5c7815514b868281b87a0a2f44a55f0e870b6130087c.jpg)
-- [5L186 - Stinging Nettle Cave - 2864873 - 3dc7f480-e7d5edba](../../Assets/2559273ea83804bc6d5e368ed0efab55f08b6cff30373153abd38fe7716e988e.jpg) — Will Passos
-- [5L186 - Stinging Nettle Cave - dji_fly_20250322_112438_0_1742604878478_photo_low_quality - b316550a-e7d5edba](../../Assets/1906191d848fda5ff51c3d06d0d7f0bc35c1134959eb8629fbe62234adabad92.jpg)
-- [5L186 - Stinging Nettle Cave - dji_fly_20250322_112506_0_1742604906315_photo_low_quality - 18cc0e0f-e7d5edba](../../Assets/d3f9b84f918003c5e91fc2edbe2a5356ad532fa0ea2fdce2f00605a20032c732.jpg)
-- [5L186 - Stinging Nettle Cave - dji_fly_20250322_112514_0_1742604914331_photo_low_quality - 833be923-e7d5edba](../../Assets/7f2126164c8ef496fb71f066296f5f095cc6558ddd0fd71bf329f198898a7462.jpg)
-- [5L186 - Stinging Nettle Cave - stinging_nettle_cave_lg - 6db99aed-e7d5edba](../../Assets/e67d42f99ff109e142ef8b09502494b5a005797c6dc21b2f01787597eaede0c7.jpg)
+- [5L186 - Stinging Nettle Cave - Image 01](../../Assets/975817f847d726c73765f90864d4c06b60d0442ec5fa95aa0d236466aac58387.jpg)
+- [5L186 - Stinging Nettle Cave - Image 02](../../Assets/2f7fa17fe3fc544a045d5c7815514b868281b87a0a2f44a55f0e870b6130087c.jpg)
+- [5L186 - Stinging Nettle Cave - Image 03](../../Assets/2559273ea83804bc6d5e368ed0efab55f08b6cff30373153abd38fe7716e988e.jpg) — Will Passos
+- [5L186 - Stinging Nettle Cave - Image 04](../../Assets/1906191d848fda5ff51c3d06d0d7f0bc35c1134959eb8629fbe62234adabad92.jpg)
+- [5L186 - Stinging Nettle Cave - Image 05](../../Assets/d3f9b84f918003c5e91fc2edbe2a5356ad532fa0ea2fdce2f00605a20032c732.jpg)
+- [5L186 - Stinging Nettle Cave - Image 06](../../Assets/7f2126164c8ef496fb71f066296f5f095cc6558ddd0fd71bf329f198898a7462.jpg)
+- [5L186 - Stinging Nettle Cave - stinging_nettle_cave_lg](../../Assets/e67d42f99ff109e142ef8b09502494b5a005797c6dc21b2f01787597eaede0c7.jpg)
 
-- [5L186 - Stinging Nettle Cave - 2864873 - 3dc7f480-e7d5edba](../../Assets/2559273ea83804bc6d5e368ed0efab55f08b6cff30373153abd38fe7716e988e.jpg)
+- [5L186 - Stinging Nettle Cave - Image 03](../../Assets/2559273ea83804bc6d5e368ed0efab55f08b6cff30373153abd38fe7716e988e.jpg)
 
 # References
 

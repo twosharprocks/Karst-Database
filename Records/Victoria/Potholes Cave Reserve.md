@@ -19,4 +19,4 @@ address: "800, Gelantipy Rd, East Gippsland Shire, Victoria, AUS, 3885"
 
 # Images
 
-- [Potholes Cave Reserve - 122 - e1c2aab7-fcda00ee](../../Assets/3bb3c227a5cb86a7b1b4a88670acc0037e3b927252caf101f07c6d72c9644b1c.jpg)
+- [Potholes Cave Reserve - Image 01](../../Assets/3bb3c227a5cb86a7b1b4a88670acc0037e3b927252caf101f07c6d72c9644b1c.jpg)

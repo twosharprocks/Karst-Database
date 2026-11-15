@@ -18,4 +18,4 @@ address: "Great South West Walk, Glenelg Shire, Victoria, AUS, 3292"
 
 # Images
 
-- [Freshwater Limestone - freshwater - 8d4ca070-8909778e](../../Assets/9ca4d0c85835cb983d7fe3f658e753093f63c7074399d4aa1a6729e6a017ff85.jpg)
+- [Freshwater Limestone - freshwater](../../Assets/9ca4d0c85835cb983d7fe3f658e753093f63c7074399d4aa1a6729e6a017ff85.jpg)

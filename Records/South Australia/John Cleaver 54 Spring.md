@@ -44,7 +44,7 @@ The water is extraordinarily clear as it is found only in South Australia (this 
 
 # Images
 
-- [John Cleaver 54 Spring - john cleavers_54 topo - 73e0615b-9a497b73](../../Assets/5feb4fcfb4e9841204957c8c35d0d100a54bb2c1f9475f0a81be0330c848cb91.jpg)
+- [John Cleaver 54 Spring - john cleavers_54 topo](../../Assets/5feb4fcfb4e9841204957c8c35d0d100a54bb2c1f9475f0a81be0330c848cb91.jpg)
 
 # References
 

@@ -36,9 +36,9 @@ temperature: "4–7 °C"
 
 # Images
 
-- [Izvor Cetine - Eye-of-the-Earth-Cetina-River-Spring - f9082465-870e0b78](../../Assets/8acf784746059cebce6e1bed317db470d2dbea1b7b001c6c50f72c18e9004f43.webp)
-- [Izvor Cetine - croatia_shutterstock_2060958194_edit - a503b4a5-870e0b78](../../Assets/84f959bffa6dcda54823efd93fbbb541afce5578ae03db7fc549fbecdc131d98.jpg)
-- [Izvor Cetine - the-eye-of-cetina-river - 4794caa7-870e0b78](../../Assets/26c9ec0b42f8d665fd2a9ff2363662f40407b9ca682ffb4071a1c8d9de3c1945.webp)
+- [Izvor Cetine - Eye-of-the-Earth-Cetina-River-Spring](../../Assets/8acf784746059cebce6e1bed317db470d2dbea1b7b001c6c50f72c18e9004f43.webp)
+- [Izvor Cetine - croatia_shutterstock_2060958194_edit](../../Assets/84f959bffa6dcda54823efd93fbbb541afce5578ae03db7fc549fbecdc131d98.jpg)
+- [Izvor Cetine - the-eye-of-cetina-river](../../Assets/26c9ec0b42f8d665fd2a9ff2363662f40407b9ca682ffb4071a1c8d9de3c1945.webp)
 
 # References
 

@@ -42,7 +42,7 @@ No one knows when the cave system actually formed. Adding to it's mysterious all
 
 # Images
 
-- [Lechuguilla Cave - lech - 3910b5d5-e0d7e35b](../../Assets/65379421313d96d9337eb79519a3a74a9b52c1d00343541ef7c40b3844c17448.jpg)
+- [Lechuguilla Cave - lech](../../Assets/65379421313d96d9337eb79519a3a74a9b52c1d00343541ef7c40b3844c17448.jpg)
 
 ## Links reviewed from Cave Data Ideas
 

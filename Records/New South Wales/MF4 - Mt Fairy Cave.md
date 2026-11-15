@@ -27,4 +27,4 @@ DO NOT DISCLOSE CAVE LOCATION
 
 # Images
 
-- [MF4 - Mt Fairy Cave - Mt Fairy - 4a8ca77d-28ed9522](../../Assets/969bed7f776509e4e0dcd99a7dcb527f2e57cfddd56c2174acc3346ffa4027a8.png)
+- [MF4 - Mt Fairy Cave - Mt Fairy](../../Assets/969bed7f776509e4e0dcd99a7dcb527f2e57cfddd56c2174acc3346ffa4027a8.png)

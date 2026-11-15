@@ -35,7 +35,7 @@ This heathland region contains more species of flora per square kilometre than t
 
 # Images
 
-- [6J-3 - Moorba Cave - guano - 8449262a-a672556d](../../Assets/8a94cc19963959ae7e2b2abd5a6dd50ae801da94f2134f23359e3851c52dddb9.jpg)
+- [6J-3 - Moorba Cave - guano](../../Assets/8a94cc19963959ae7e2b2abd5a6dd50ae801da94f2134f23359e3851c52dddb9.jpg)
 
 # References
 

@@ -39,15 +39,15 @@ Visitors should note that the silica mines and the surface area surrounding is a
 
 # Maps
 
-- [Upper Dinas Silica Mine - Explorers plan - 88c6b1b8-f94a1b94](../../Assets/8c4d6282121f3fec7b60a2893ba999958a1409cb36f46cbf0bf9ba0f2db776a0.jpg)
+- [Upper Dinas Silica Mine - Explorers plan](../../Assets/8c4d6282121f3fec7b60a2893ba999958a1409cb36f46cbf0bf9ba0f2db776a0.jpg)
 
 # Images
 
-- [Upper Dinas Silica Mine - upper_dinas2_v_small - fd95a71e-f94a1b94](../../Assets/7d704f8576c15b325e3c8f8c5ad49f7b28d997d7550236ee97217a5bd27aeca7.jpg)
-- [Upper Dinas Silica Mine - Paul_Marvin_Photo - f8e5e584-f94a1b94](../../Assets/38de262077d5aa8fb901aaa97560d0a085f3b74558a05c60264e998a9db24685.jpg)
-- [Upper Dinas Silica Mine - main_entrance_small - c41c415d-f94a1b94](../../Assets/ddb67789ed2c36c672aa7c6c8021339ba223edf7749970a31d07c703d47c3606.jpg)
-- [Upper Dinas Silica Mine - Explorers plan - 88c6b1b8-f94a1b94](../../Assets/8c4d6282121f3fec7b60a2893ba999958a1409cb36f46cbf0bf9ba0f2db776a0.jpg)
-- [Upper Dinas Silica Mine - plan_small - 0d87c52e-f94a1b94](../../Assets/33ef5ef83aa07ed750b18fdb40af200557d307dba0e3f0da28f08581867b8ece.jpg)
+- [Upper Dinas Silica Mine - upper_dinas2_v_small](../../Assets/7d704f8576c15b325e3c8f8c5ad49f7b28d997d7550236ee97217a5bd27aeca7.jpg)
+- [Upper Dinas Silica Mine - Paul_Marvin_Photo](../../Assets/38de262077d5aa8fb901aaa97560d0a085f3b74558a05c60264e998a9db24685.jpg)
+- [Upper Dinas Silica Mine - main_entrance_small](../../Assets/ddb67789ed2c36c672aa7c6c8021339ba223edf7749970a31d07c703d47c3606.jpg)
+- [Upper Dinas Silica Mine - Explorers plan](../../Assets/8c4d6282121f3fec7b60a2893ba999958a1409cb36f46cbf0bf9ba0f2db776a0.jpg)
+- [Upper Dinas Silica Mine - plan_small](../../Assets/33ef5ef83aa07ed750b18fdb40af200557d307dba0e3f0da28f08581867b8ece.jpg)
 
 # References
 

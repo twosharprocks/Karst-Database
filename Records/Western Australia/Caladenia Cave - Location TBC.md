@@ -29,7 +29,7 @@ Location from Bonzle and ExplorOz - unlikely to be correct, see paper in referen
 
 # Images
 
-- [EM-17 - Caladenia Cave - Location TBC - cala - 6db1c211-957af7f4](../../Assets/43209965511f856467a5f708120ca217ee886e5d91b139ab5f31559a9cffcefb.jpg)
+- [EM-17 - Caladenia Cave - Location TBC - cala](../../Assets/43209965511f856467a5f708120ca217ee886e5d91b139ab5f31559a9cffcefb.jpg)
 
 # References
 

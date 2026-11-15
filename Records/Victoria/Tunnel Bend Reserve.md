@@ -26,7 +26,7 @@ parking: "Outstanding"
 
 # Images
 
-- [Tunnel Bend Reserve - tunnel - 319009bb-c3b710dc](../../Assets/6746b9be3e7a1ccec6c9abfb67b47a9a1669ff967ad762bdf744aa47a559424f.jpg)
+- [Tunnel Bend Reserve - tunnel](../../Assets/6746b9be3e7a1ccec6c9abfb67b47a9a1669ff967ad762bdf744aa47a559424f.jpg)
 
 # References
 

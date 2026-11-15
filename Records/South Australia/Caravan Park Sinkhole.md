@@ -21,7 +21,7 @@ address: "12, Krummel St, Mount Gambier, South Australia, AUS, 5290"
 Multiple reports from K. Mott (CEGSA) of regular collapse. The caravan park sinkhole has been backfilled previously, before collapsing again. "There were 5 tonnes of rocks in there before, and they've gone down the hole, and then the council cemented the top and that's gone down the hole as well," Mr Paltridge said.
 
 ## Images
-- [Caravan Park Sinkhole - Screenshot (291) - 94f0bb06-2594193f](../../Assets/57633a3bce4ba1cd693a70909001b5a781e1d9c316d79f43670b1884ea564470.jpg)
+- [Caravan Park Sinkhole - Image 01](../../Assets/57633a3bce4ba1cd693a70909001b5a781e1d9c316d79f43670b1884ea564470.jpg)
 
 # References
 

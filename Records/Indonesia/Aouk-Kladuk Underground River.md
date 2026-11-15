@@ -38,8 +38,8 @@ Page in Italian
 
 # Images
 
-- [Aouk-Kladuk Underground River - 4-Kladuk_Ilgen-shaft - 593421a3-f6b4b3e9](../../Assets/40e09ea0514982fd12f67d05e05cfa9732ac7bc9c0ae8d0faa40d61d6ab717bc.jpg)
-- [Aouk-Kladuk Underground River - IT_papua_water3 - 63af37a4-f6b4b3e9](../../Assets/495e32067e81e5e250b769f0c525112165c0a89c3a262389a2d31efb895c726f.jpg)
+- [Aouk-Kladuk Underground River - 4-Kladuk_Ilgen-shaft](../../Assets/40e09ea0514982fd12f67d05e05cfa9732ac7bc9c0ae8d0faa40d61d6ab717bc.jpg)
+- [Aouk-Kladuk Underground River - IT_papua_water3](../../Assets/495e32067e81e5e250b769f0c525112165c0a89c3a262389a2d31efb895c726f.jpg)
 
 # References
 

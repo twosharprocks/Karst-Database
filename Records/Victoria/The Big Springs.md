@@ -19,4 +19,4 @@ source: "G11037_Parishplan_warwin"
 
 # Images
 
-- [The Big Springs - mossy cave - c2c00dd9-bb7d0d96](../../Assets/a7dded2968c87fb7be287b51df6c2bcad796946c259d3d7f54c965179510291f.jpg)
+- [The Big Springs - mossy cave](../../Assets/a7dded2968c87fb7be287b51df6c2bcad796946c259d3d7f54c965179510291f.jpg)

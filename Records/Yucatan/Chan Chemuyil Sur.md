@@ -31,4 +31,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Chan Chemuyil Sur - Screenshot 2023-06-12 at 7.01.20 AM - 330f789c-d3e25240](../../Assets/63c5c37e7620ef4482ddcb8e66c1c82bb465e6ffb5d9f63f4b15702b895c32f3.png)
+- [Chan Chemuyil Sur - Image 01](../../Assets/63c5c37e7620ef4482ddcb8e66c1c82bb465e6ffb5d9f63f4b15702b895c32f3.png)

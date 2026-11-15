@@ -49,20 +49,20 @@ Two different holes - one incredibly dangerous, the other safe for recreational 
 
 # Maps
 
-- [Lake Vouliagmeni - GD-Limanaki-Map - 4e7e55ec-a898c17e](../../Assets/c8a554f08717181a73de357c038ffb24102c7357bb59feb83d7c72e195b4b98c.jpg)
+- [Lake Vouliagmeni - GD-Limanaki-Map](../../Assets/c8a554f08717181a73de357c038ffb24102c7357bb59feb83d7c72e195b4b98c.jpg)
 
 # Images
 
-- [Lake Vouliagmeni - FB_IMG_1731204099837 - 06571707-a898c17e](../../Assets/e5440f649be975814f43bcac83d25208b56a1739a03b0ed069b82971ae5efa7d.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204089720 - 6eb609cb-a898c17e](../../Assets/95dbf0dc1c925c5b88dd8c157f43ac52c32f1c371ff854f3c1fb072309d60be5.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204093228 - cc134418-a898c17e](../../Assets/4be22e0188e6a7f07ee554545f814beafc88e2dc020ac0519d39ec5c13aebab7.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204098254 - 27fcd613-a898c17e](../../Assets/d0efaacdd20b8e5279cec38543c624be116f144800529d7b39453a66c4ecf42c.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204087769 - fd5db9e2-a898c17e](../../Assets/9f2a841e35ab7d5f2a329e7ba95cc419ee45ceac178dfdc74cbd536f299fe72d.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204094829 - c622928f-a898c17e](../../Assets/a724994b1c6116b0f84c6217afe424007833d2b247698f3de8b081cd383b75f1.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204083398 - 04e6020b-a898c17e](../../Assets/5559c45eb59dc1af38111d56263a2ab71b7c7b675f8d3602121c60698a28e48c.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204096452 - 77ad7a72-a898c17e](../../Assets/2389bb67a5e0323ce2e2c4e2c41214708d6dc9fbbeea1c42b09c457cd9ea6408.jpg)
-- [Lake Vouliagmeni - GD-Limanaki-Map - 4e7e55ec-a898c17e](../../Assets/c8a554f08717181a73de357c038ffb24102c7357bb59feb83d7c72e195b4b98c.jpg)
-- [Lake Vouliagmeni - FB_IMG_1731204091617 - 1adf3ce9-a898c17e](../../Assets/793076b4f0febcb5da396bcf37dd13ea989f36872c4f409575061135a6f84014.jpg)
+- [Lake Vouliagmeni - Image 09](../../Assets/e5440f649be975814f43bcac83d25208b56a1739a03b0ed069b82971ae5efa7d.jpg)
+- [Lake Vouliagmeni - Image 03](../../Assets/95dbf0dc1c925c5b88dd8c157f43ac52c32f1c371ff854f3c1fb072309d60be5.jpg)
+- [Lake Vouliagmeni - Image 05](../../Assets/4be22e0188e6a7f07ee554545f814beafc88e2dc020ac0519d39ec5c13aebab7.jpg)
+- [Lake Vouliagmeni - Image 08](../../Assets/d0efaacdd20b8e5279cec38543c624be116f144800529d7b39453a66c4ecf42c.jpg)
+- [Lake Vouliagmeni - Image 02](../../Assets/9f2a841e35ab7d5f2a329e7ba95cc419ee45ceac178dfdc74cbd536f299fe72d.jpg)
+- [Lake Vouliagmeni - Image 06](../../Assets/a724994b1c6116b0f84c6217afe424007833d2b247698f3de8b081cd383b75f1.jpg)
+- [Lake Vouliagmeni - Image 01](../../Assets/5559c45eb59dc1af38111d56263a2ab71b7c7b675f8d3602121c60698a28e48c.jpg)
+- [Lake Vouliagmeni - Image 07](../../Assets/2389bb67a5e0323ce2e2c4e2c41214708d6dc9fbbeea1c42b09c457cd9ea6408.jpg)
+- [Lake Vouliagmeni - GD-Limanaki-Map](../../Assets/c8a554f08717181a73de357c038ffb24102c7357bb59feb83d7c72e195b4b98c.jpg)
+- [Lake Vouliagmeni - Image 04](../../Assets/793076b4f0febcb5da396bcf37dd13ea989f36872c4f409575061135a6f84014.jpg)
 
 # References
 

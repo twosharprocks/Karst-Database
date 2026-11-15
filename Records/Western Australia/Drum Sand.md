@@ -30,4 +30,4 @@ Ground is flat but stamping you hear a hollow underneath. Dug down about 1.5m an
 
 # Images
 
-- [Drum Sand - bu - 0dc596d2-aa2169e8](../../Assets/f29f42879aeadd5416b40b05312a2c9eca8ca835116c2b36daaf5414f8982aa4.jpg)
+- [Drum Sand - bu](../../Assets/f29f42879aeadd5416b40b05312a2c9eca8ca835116c2b36daaf5414f8982aa4.jpg)

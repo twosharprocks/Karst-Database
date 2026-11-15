@@ -34,8 +34,8 @@ Speak to Kristie/School teacher
 
 # Images
 
-- [L0038 - Rendelsham Cave - Location TBC - PXL_20230718_014923997 - 72a40ed1-229ba385](../../Assets/683ad430eb0f1c70836d5c34c2d2d02219f4c77a45d66a4496d50be80fe0b0f4.jpg)
-- [L0038 - Rendelsham Cave - Location TBC - PXL_20230718_014704476 - f99856e9-229ba385](../../Assets/43fb7726e86f928f7a42ffcda3f58340d5b295f97e144f34fd732440d9981041.jpg)
+- [L0038 - Rendelsham Cave - Location TBC - Image 02](../../Assets/683ad430eb0f1c70836d5c34c2d2d02219f4c77a45d66a4496d50be80fe0b0f4.jpg)
+- [L0038 - Rendelsham Cave - Location TBC - Image 01](../../Assets/43fb7726e86f928f7a42ffcda3f58340d5b295f97e144f34fd732440d9981041.jpg)
 
 # References
 

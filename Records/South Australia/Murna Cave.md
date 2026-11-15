@@ -31,7 +31,7 @@ L0201, Thin Roof: N, Fence: Y. Dimensions: 1m x 2m deep. Features: Decoration & 
 
 # Images
 
-- [L0201 - Murna Cave - 2023-04-10 14.28.59 - 71abe5b9-523fa643](../../Assets/ecaf1a49bf5a9fcc3aeb957da8535c8a63c280f68bca78e6afb69d7b12c1406f.jpg)
+- [L0201 - Murna Cave - Image 01](../../Assets/ecaf1a49bf5a9fcc3aeb957da8535c8a63c280f68bca78e6afb69d7b12c1406f.jpg)
 
 # References
 

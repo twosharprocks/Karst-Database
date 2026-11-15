@@ -65,10 +65,10 @@ Inside there are many interesting things to see including small artefacts to hug
 
 # Images
 
-- [Cambrian Slate Mine - 100_4484 - af33447d-9e04d4ed](../../Assets/197b24d3006e45be7b3b606108c3cd5b46f494070698864657f48d22f3edeb91.jpg)
-- [Cambrian Slate Mine - 100_4463 - e5a6f92b-9e04d4ed](../../Assets/9109b49164d26e97f4d5c1f8e573b0b91f04c828caf21ee028e6b279ac0c0c52.jpg)
-- [Cambrian Slate Mine - 100_4521a - d74b02fd-9e04d4ed](../../Assets/d00ed070379a050b7c697a1ea82f2bf69c27218fe336f7316e5159bbb8cb2250.jpg)
-- [Cambrian Slate Mine - IMG_0869-small - bf8ee25f-9e04d4ed](../../Assets/9954a60f49443c896b5eccd5623976a67151f8da4da8530be07215eda886b6e7.jpg)
-- [Cambrian Slate Mine - 100_4473 - 0238c4b7-9e04d4ed](../../Assets/f1e537c0be01bbf780aff9fc941f7c90945f1b045578b9af9dfc56e5b646a1d0.jpg)
-- [Cambrian Slate Mine - 100_4449 - 4ae63855-9e04d4ed](../../Assets/cc46f31a7aee97a7a7370b7602642c958b60155a71d83515c467242e08021f45.jpg)
-- [Cambrian Slate Mine - 100_4450 - 6def479f-9e04d4ed](../../Assets/3a1901f557e7b95dd5158357ada40ae01d6a5f57b793573d985a1904c96f0819.jpg)
+- [Cambrian Slate Mine - Image 05](../../Assets/197b24d3006e45be7b3b606108c3cd5b46f494070698864657f48d22f3edeb91.jpg)
+- [Cambrian Slate Mine - Image 03](../../Assets/9109b49164d26e97f4d5c1f8e573b0b91f04c828caf21ee028e6b279ac0c0c52.jpg)
+- [Cambrian Slate Mine - 100_4521a](../../Assets/d00ed070379a050b7c697a1ea82f2bf69c27218fe336f7316e5159bbb8cb2250.jpg)
+- [Cambrian Slate Mine - Image 06](../../Assets/9954a60f49443c896b5eccd5623976a67151f8da4da8530be07215eda886b6e7.jpg)
+- [Cambrian Slate Mine - Image 04](../../Assets/f1e537c0be01bbf780aff9fc941f7c90945f1b045578b9af9dfc56e5b646a1d0.jpg)
+- [Cambrian Slate Mine - Image 01](../../Assets/cc46f31a7aee97a7a7370b7602642c958b60155a71d83515c467242e08021f45.jpg)
+- [Cambrian Slate Mine - Image 02](../../Assets/3a1901f557e7b95dd5158357ada40ae01d6a5f57b793573d985a1904c96f0819.jpg)

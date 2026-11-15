@@ -30,4 +30,4 @@ During spring and summer months the bats leave the cave for the maternity cave i
 
 # Images
 
-- [Bat Cave - 2023-04-10 13.38.39 - 2df89dea-4fceb843](../../Assets/d9cbd918d54e329dfdbdabc3a4edd8f5465299b112d44175f30588d600048602.jpg)
+- [Bat Cave - Image 01](../../Assets/d9cbd918d54e329dfdbdabc3a4edd8f5465299b112d44175f30588d600048602.jpg)

@@ -25,12 +25,12 @@ surveyed_length: "3932 m"
 
 # Maps
 
-- [Izvor Cave - Izvor Cave - map - 61b982fa-41c85669](../../Assets/b96526ee2d340f8bfaade7ed5a931c238e9fd120b2f27e0bf2deb215a076306b.jpg)
+- [Izvor Cave - Izvor Cave - map](../../Assets/b96526ee2d340f8bfaade7ed5a931c238e9fd120b2f27e0bf2deb215a076306b.jpg)
 
 # Images
 
-- [Izvor Cave - Izvor Cave - 2f1b454d-41c85669](../../Assets/2fdcb256b85f909a126b9f24f2eabc5f0a2766481f1cf911897350ba79f9b146.jpg)
-- [Izvor Cave - Izvor Cave - map - 61b982fa-41c85669](../../Assets/b96526ee2d340f8bfaade7ed5a931c238e9fd120b2f27e0bf2deb215a076306b.jpg)
+- [Izvor Cave - Izvor Cave](../../Assets/2fdcb256b85f909a126b9f24f2eabc5f0a2766481f1cf911897350ba79f9b146.jpg)
+- [Izvor Cave - Izvor Cave - map](../../Assets/b96526ee2d340f8bfaade7ed5a931c238e9fd120b2f27e0bf2deb215a076306b.jpg)
 
 # References
 

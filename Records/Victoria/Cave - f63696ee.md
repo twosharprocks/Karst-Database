@@ -26,4 +26,4 @@ family: "Bad"
 
 # Images
 
-- [Cave - cave3 - 6dbbf77f-f63696ee](../../Assets/4144f7630146fce9c976c1a0573105282a016df28bcd9af92772f38d22f72a6f.jpg)
+- [Cave - cave3](../../Assets/4144f7630146fce9c976c1a0573105282a016df28bcd9af92772f38d22f72a6f.jpg)

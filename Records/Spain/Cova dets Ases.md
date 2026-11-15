@@ -22,8 +22,8 @@ source: "Wikiloc"
 
 # Images
 
-- [Cova dets Ases - donkey - f4c4020a-9db98957](../../Assets/e3abf898faa7846a72c705425a688722fc1007fe135cdd1974dd56506bab9733.jpg)
-- [Cova dets Ases - Cova-dets-Ases - b1a56c60-9db98957](../../Assets/bf59aff261642bfcd476d545bb6cda40b568b6ce8556d86b5d567f2cb03408d0.png)
+- [Cova dets Ases - donkey](../../Assets/e3abf898faa7846a72c705425a688722fc1007fe135cdd1974dd56506bab9733.jpg)
+- [Cova dets Ases - Cova-dets-Ases](../../Assets/bf59aff261642bfcd476d545bb6cda40b568b6ce8556d86b5d567f2cb03408d0.png)
 
 # References
 

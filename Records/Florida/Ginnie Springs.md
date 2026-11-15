@@ -27,4 +27,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Ginnie Springs - Image - b927abbc-5773fc0c](../../Assets/bb9c0c819dda000d78ed9df1ab805ca1c2d2f941b0f8965ecf1ea3d2250e43c3.jpg)
+- [Ginnie Springs - Image 01](../../Assets/bb9c0c819dda000d78ed9df1ab805ca1c2d2f941b0f8965ecf1ea3d2250e43c3.jpg)

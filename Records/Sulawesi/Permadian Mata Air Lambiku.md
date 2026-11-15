@@ -21,4 +21,4 @@ source: "Google Earth"
 
 # Images
 
-- [Permadian Mata Air Lambiku - Permadian Mata Air Lambiku - 7b2b851a-ab6a1ed8](../../Assets/24bbeb635cea3d14ae69300fcb5ec88920e377c34aae86968e426b1073623ddc.jpg)
+- [Permadian Mata Air Lambiku - Permadian Mata Air Lambiku](../../Assets/24bbeb635cea3d14ae69300fcb5ec88920e377c34aae86968e426b1073623ddc.jpg)

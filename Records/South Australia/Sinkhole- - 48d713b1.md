@@ -25,4 +25,4 @@ BC 23/8/2023: 2m round and 3m deep hole. Filled with forest litter
 
 # Images
 
-- [Sinkhole_ - wedge - e8871c1c-48d713b1](../../Assets/c89499a9f2ea6c87e0047c9568c2377bd10238915ebdace3c89221fa3e0b90b2.jpg)
+- [Sinkhole_ - wedge - 02](../../Assets/c89499a9f2ea6c87e0047c9568c2377bd10238915ebdace3c89221fa3e0b90b2.jpg)

@@ -20,4 +20,4 @@ source: "G11037_Parishplan_warwin"
 
 # Images
 
-- [Sinkhole_ - Sinkhole3 - 7c149f63-6099bad5](../../Assets/faf2f81cc44e78dd9b5a7f5975d62fd00babf377505a398ac5be182860aa5ce9.jpg)
+- [Sinkhole_ - Sinkhole3](../../Assets/faf2f81cc44e78dd9b5a7f5975d62fd00babf377505a398ac5be182860aa5ce9.jpg)

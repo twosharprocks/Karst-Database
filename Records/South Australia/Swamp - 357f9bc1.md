@@ -28,4 +28,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Swamp - go_photo_1627803806551 - b79e7af1-357f9bc1](../../Assets/3c03481e2299b56a9c6e601378b76dda3d159a68db5f5f95ce7b375e54b579d6.jpg)
+- [Swamp - go_photo_1627803806551](../../Assets/3c03481e2299b56a9c6e601378b76dda3d159a68db5f5f95ce7b375e54b579d6.jpg)

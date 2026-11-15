@@ -45,8 +45,8 @@ L0254 - Found by MW and added (not in Forestry supplied list)
 
 # Images
 
-- [L0254 - Battle-Axe Cave - battleaxet - fb9c92dc-4ef469c5](../../Assets/a7c823e9fba0ca96371d15dc40cc40f9b32ee81a07e1ffada6d694bafe9e4313.jpg)
-- [L0254 - Battle-Axe Cave - battleaxed - 95673697-4ef469c5](../../Assets/18a95e6702dc3fea7367a4fb4d9143b841802e35f8de796170062087d515fea1.jpg)
+- [L0254 - Battle-Axe Cave - battleaxet](../../Assets/a7c823e9fba0ca96371d15dc40cc40f9b32ee81a07e1ffada6d694bafe9e4313.jpg)
+- [L0254 - Battle-Axe Cave - battleaxed](../../Assets/18a95e6702dc3fea7367a4fb4d9143b841802e35f8de796170062087d515fea1.jpg)
 
 # References
 

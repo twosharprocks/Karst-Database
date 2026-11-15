@@ -34,8 +34,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cova de sa Piqueta - yellow - 42e11923-1b459010](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
-- [Cova de sa Piqueta - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca - bdf445a2-1b459010](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
+- [Cova de sa Piqueta - yellow](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
+- [Cova de sa Piqueta - Cave-maps-of-the-Pirata-Pont-Piqueta-system-and-Cova-de-sa-Gleda-Manacor-Mallorca](../../Assets/bc155d655bd00db00264b671849a0b486127e87224c90e2e46ddc3b943618d67.jpg)
 
 # References
 

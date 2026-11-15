@@ -27,7 +27,7 @@ Ellison's Cave is an extensive cave system located in Walker County, on Pigeon M
 
 # Images
 
-- [Ellison's Cave - 2025-07-09 22_44_59-Ellison's Cave - Google Maps - 2e16a508-5fa04746](../../Assets/bccfd39701bc8c419c19b332fe56598c770467b461487813f8e937cfaa3056e9.jpg)
+- [Ellison's Cave - 2025-07-09 22_44_59-Ellison's Cave - Google Maps](../../Assets/bccfd39701bc8c419c19b332fe56598c770467b461487813f8e937cfaa3056e9.jpg)
 
 # References
 

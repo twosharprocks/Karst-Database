@@ -22,4 +22,4 @@ vertical_access: "No"
 
 # Images
 
-- [Gua La Taa Desa Kamama - Gua La Taa Desa Kamama - aa72118e-d71771c2](../../Assets/828b516d254863b921857adf9209ad5f377c92cb25ccfd89ec492196448b128f.jpg)
+- [Gua La Taa Desa Kamama - Gua La Taa Desa Kamama](../../Assets/828b516d254863b921857adf9209ad5f377c92cb25ccfd89ec492196448b128f.jpg)

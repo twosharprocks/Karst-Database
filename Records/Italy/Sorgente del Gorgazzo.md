@@ -59,7 +59,7 @@ As cave continues with wide open tunnel- this is not a last Krzysztof’s word.
 
 # Images
 
-- [Sorgente del Gorgazzo - Sorgente-del-Gorgazzo-profil-e1597853588920-610x458 - 6cdbbebc-f3db20e0](../../Assets/e1db6bfd66f7e2ae5070a8ea893cf8f5aa48e0bd0387fd00f04fb1f4d3c4ab09.jpg)
+- [Sorgente del Gorgazzo - Cave profile](../../Assets/e1db6bfd66f7e2ae5070a8ea893cf8f5aa48e0bd0387fd00f04fb1f4d3c4ab09.jpg)
 
 # References
 

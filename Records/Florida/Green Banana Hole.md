@@ -35,7 +35,7 @@ In August 2020 the hole was explored by diver Marty Watson and a team of scienti
 
 # Images
 
-- [Green Banana Hole - FB_IMG_1746355954649 - 7e1f4a56-575cc25c](../../Assets/56708725debd656cc67393e5312efaeecc154a7842fbc243ede89f536eade25f.jpg)
+- [Green Banana Hole - Image 01](../../Assets/56708725debd656cc67393e5312efaeecc154a7842fbc243ede89f536eade25f.jpg)
 
 # References
 

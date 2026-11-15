@@ -25,5 +25,5 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Kakaha - Gua Kakaha2 - ca6205aa-a9d92954](../../Assets/d98029134de1bc63e5f7d9ac433c699d5156e5ee2658e7a1bc3d015a2c1fe826.jpg)
-- [Gua Kakaha - Gua Kakaha - 8c6678e5-a9d92954](../../Assets/df3393296c25c78ea799227f4788d2ea31c175b26dc4fab12db500802802e774.jpg)
+- [Gua Kakaha - Gua Kakaha2](../../Assets/d98029134de1bc63e5f7d9ac433c699d5156e5ee2658e7a1bc3d015a2c1fe826.jpg)
+- [Gua Kakaha - Gua Kakaha](../../Assets/df3393296c25c78ea799227f4788d2ea31c175b26dc4fab12db500802802e774.jpg)

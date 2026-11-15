@@ -29,7 +29,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cueva De Los Franceses - lora-amp - 5c769d05-48243ea5](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
+- [Cueva De Los Franceses - lora-amp](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
 
 # References
 

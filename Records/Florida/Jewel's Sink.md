@@ -30,8 +30,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Jewel's Sink - jewel2 - 13d1616a-403eef17](../../Assets/92871034dfdda348654dbaa04801c93a5017f48827364aec2187d9b94ac2fd4e.jpg)
-- [Jewel's Sink - jewel - a7a21e2e-403eef17](../../Assets/ba154b8ceed13e14113cab3e8075d54e1a104c98f5d8746e63e00a6f6d547bf3.jpg)
+- [Jewel's Sink - jewel2](../../Assets/92871034dfdda348654dbaa04801c93a5017f48827364aec2187d9b94ac2fd4e.jpg)
+- [Jewel's Sink - jewel](../../Assets/ba154b8ceed13e14113cab3e8075d54e1a104c98f5d8746e63e00a6f6d547bf3.jpg)
 
 # References
 

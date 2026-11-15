@@ -20,4 +20,4 @@ source: "G11037_Parishplan_warwin"
 
 # Images
 
-- [Unnamed Sinkhole - mossy cave - e374e3d1-3eb6c226](../../Assets/a7dded2968c87fb7be287b51df6c2bcad796946c259d3d7f54c965179510291f.jpg)
+- [Unnamed Sinkhole - mossy cave](../../Assets/a7dded2968c87fb7be287b51df6c2bcad796946c259d3d7f54c965179510291f.jpg)

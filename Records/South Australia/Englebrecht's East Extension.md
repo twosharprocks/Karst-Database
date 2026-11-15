@@ -64,10 +64,10 @@ Due to the pristine characteristics of the site and entry/exit challenges, train
 
 # Images
 
-- [L019E - Englebrecht's East Extension - rabbit hole - ae735929-17f304d3](../../Assets/633f4edf7a8a5638e667e2709a9202b9cb3a8ca13beb78489b8704d41a81b369.jpg)
-- [L019E - Englebrecht's East Extension - EEX - 42674818-17f304d3](../../Assets/a8af8625d5feebd5b0ba981a5b38b8dbd704e47d8813a6459fcab4d1d93f9a2d.jpg)
-- [L019E - Englebrecht's East Extension - Eng E (Sat) - 9e0c1c3b-17f304d3](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20-%20Satellite%20%28Richards%2C%202022%29.jpg)
-- [L019E - Englebrecht's East Extension - 5L019-20 Englebrechts East (with EEX) - 030672b9-17f304d3](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20%28Richards%2C%202022%29.jpg)
+- [L019E - Englebrecht's East Extension - Diver at Rabbit Hole](../../Assets/633f4edf7a8a5638e667e2709a9202b9cb3a8ca13beb78489b8704d41a81b369.jpg)
+- [L019E - Englebrecht's East Extension - Passage view](../../Assets/a8af8625d5feebd5b0ba981a5b38b8dbd704e47d8813a6459fcab4d1d93f9a2d.jpg)
+- [L019E - Englebrecht's East Extension - Satellite survey overlay](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20-%20Satellite%20%28Richards%2C%202022%29.jpg)
+- [L019E - Englebrecht's East Extension - Survey map including East Extension](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L019%20-%20Englebrecht%27s%20East%20%28Richards%2C%202022%29.jpg)
 
 # References
 

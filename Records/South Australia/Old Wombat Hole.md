@@ -38,7 +38,7 @@ L0236, Thin Roof: ?, Fence: ?. Dimensions: ?. Features: ?
 
 # Images
 
-- [L0236 - Old Wombat Hole - wombat - e4643289-01c60136](../../Assets/9c0ca867f15e63534328ad7103dd232e9668191c95303da7966e721766fb93a3.jpg)
+- [L0236 - Old Wombat Hole - wombat](../../Assets/9c0ca867f15e63534328ad7103dd232e9668191c95303da7966e721766fb93a3.jpg)
 
 # References
 

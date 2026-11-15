@@ -54,9 +54,9 @@ Trimixdivers.com (Last updated 29 Jan 2021) - The sinkhole is about 30m in diame
 
 # Images
 
-- [L0064 - Bottlebrush Sinkhole - bottle2 - 3c9b67bf-06e1c8d4](../../Assets/2d646a13231ddb87ebc05ea79410880f9b1d0082d1f2338ae4967a88ae7ca72e.jpg)
-- [L0064 - Bottlebrush Sinkhole - Photo_6553702_DJI_102_jpg_4124848_0_202212231398_photo_original - d8cb0416-06e1c8d4](../../Assets/c9e1444cb6c5e56bc767161ad910bad2a767f8d1d9b9e1a835c6e1204d604525.jpg)
-- [L0064 - Bottlebrush Sinkhole - bottle - 81d046ac-06e1c8d4](../../Assets/a7c71f0e07f43a13aec48123962b168bc58385a2c97ed44531284f3e4625a33d.jpg)
+- [L0064 - Bottlebrush Sinkhole - bottle2](../../Assets/2d646a13231ddb87ebc05ea79410880f9b1d0082d1f2338ae4967a88ae7ca72e.jpg)
+- [L0064 - Bottlebrush Sinkhole - Photo_6553702_DJI_102_jpg_4124848_0_202212231398_photo_original](../../Assets/c9e1444cb6c5e56bc767161ad910bad2a767f8d1d9b9e1a835c6e1204d604525.jpg)
+- [L0064 - Bottlebrush Sinkhole - bottle](../../Assets/a7c71f0e07f43a13aec48123962b168bc58385a2c97ed44531284f3e4625a33d.jpg)
 
 # References
 

@@ -25,7 +25,7 @@ Sea cave under island
 
 # Images
 
-- [Cova Submarina de Cala sa Nau - sa nau - 8b56e341-e3dff5e9](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
+- [Cova Submarina de Cala sa Nau - sa nau](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
 
 # References
 

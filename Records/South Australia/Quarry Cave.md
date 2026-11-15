@@ -41,17 +41,17 @@ Wetas have been observed here, and the presence of bats was also mentioned in a 
 
 # Images
 
-- [L0015 - Quarry Cave - 20250111_122205 - 7beed0ae-b50ca89d](../../Assets/7a768fff149c0f3df4f6793d5f57abe72e5a99ec7daabcf6e16e033b862d85af.jpg)
-- [L0015 - Quarry Cave - 20250111_122036 - c4af1c6b-b50ca89d](../../Assets/add49e636c2381a11fd3a3f2349eefeaae93a67b0bee5f669cc33d764d0a2717.jpg)
-- [L0015 - Quarry Cave - 20250111_121731 - 1b7d8e8a-b50ca89d](../../Assets/49730c0276228c5f6fb42e79196a85c65f8457fb434b4e39e810d77bbb6a1ab6.jpg)
-- [L0015 - Quarry Cave - 0052 - 6de62ffc-b50ca89d](../../Assets/1c3d2a9a1d2147b65b60aeda9ae3fc1358b15767b6e0e5dafe8b16cf14e1a9f7.jpg)
-- [L0015 - Quarry Cave - 20250111_121856 - 718fd812-b50ca89d](../../Assets/331420c7b8964153ca5dca547b0c97d971099a09b8d612241bc12948d77cb75d.jpg)
-- [L0015 - Quarry Cave - 20250111_121535 - 24246156-b50ca89d](../../Assets/d8daf3dfb9c3a172b93376c617007219991637cb5b9e35faef2841ddc621c8c9.jpg)
-- [L0015 - Quarry Cave - PXL_20230623_044241870 - a903d287-b50ca89d](../../Assets/fb39176bc9e51f868d3101a74029cf4ba8e38d1adbd61dd3beb1732fac089506.jpg)
-- [L0015 - Quarry Cave - PXL_20230623_043228551 - 2a040ffb-b50ca89d](../../Assets/02fb5093290ae86e6d31c661f9c26e1c0dcf5268d1dc40cf1dbdf68d13e1c38b.jpg)
-- [L0015 - Quarry Cave - 0053 - c3755c11-b50ca89d](../../Assets/3fe616f49f25e6c4f68af82a1a7f5d6d42295810abbc0b5c30e322b0dbd9fd17.jpg)
-- [L0015 - Quarry Cave - PXL_20230623_043240797 - a0b14acc-b50ca89d](../../Assets/6235bba0afa1fcc777891049a5ce2c97899f6c623382690e0e979cb9907986de.jpg)
-- [L0015 - Quarry Cave - 20250111_121855 - 8b262599-b50ca89d](../../Assets/a3bb2e79d34c18f66a6127d8763fefb9f13ea3707679663fc3368ee82d9a6e9e.jpg)
+- [L0015 - Quarry Cave - Image 08](../../Assets/7a768fff149c0f3df4f6793d5f57abe72e5a99ec7daabcf6e16e033b862d85af.jpg)
+- [L0015 - Quarry Cave - Image 07](../../Assets/add49e636c2381a11fd3a3f2349eefeaae93a67b0bee5f669cc33d764d0a2717.jpg)
+- [L0015 - Quarry Cave - Image 04](../../Assets/49730c0276228c5f6fb42e79196a85c65f8457fb434b4e39e810d77bbb6a1ab6.jpg)
+- [L0015 - Quarry Cave - Image 01](../../Assets/1c3d2a9a1d2147b65b60aeda9ae3fc1358b15767b6e0e5dafe8b16cf14e1a9f7.jpg)
+- [L0015 - Quarry Cave - Image 06](../../Assets/331420c7b8964153ca5dca547b0c97d971099a09b8d612241bc12948d77cb75d.jpg)
+- [L0015 - Quarry Cave - Image 03](../../Assets/d8daf3dfb9c3a172b93376c617007219991637cb5b9e35faef2841ddc621c8c9.jpg)
+- [L0015 - Quarry Cave - Image 11](../../Assets/fb39176bc9e51f868d3101a74029cf4ba8e38d1adbd61dd3beb1732fac089506.jpg)
+- [L0015 - Quarry Cave - Image 09](../../Assets/02fb5093290ae86e6d31c661f9c26e1c0dcf5268d1dc40cf1dbdf68d13e1c38b.jpg)
+- [L0015 - Quarry Cave - Image 02](../../Assets/3fe616f49f25e6c4f68af82a1a7f5d6d42295810abbc0b5c30e322b0dbd9fd17.jpg)
+- [L0015 - Quarry Cave - Image 10](../../Assets/6235bba0afa1fcc777891049a5ce2c97899f6c623382690e0e979cb9907986de.jpg)
+- [L0015 - Quarry Cave - Image 05](../../Assets/a3bb2e79d34c18f66a6127d8763fefb9f13ea3707679663fc3368ee82d9a6e9e.jpg)
 
 # References
 

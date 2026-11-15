@@ -58,8 +58,8 @@ Although we dive any small place just because “it is out there”, this one do
 
 # Images
 
-- [L0215 - Daves Cave - daves - 5b430544-87fc6216](../../Assets/560b2a014e344324bdee04ea7110b77e5d4055835dae9053b7838e035bad177a.jpg)
-- [L0215 - Daves Cave - daves2 - 40c6a9a7-87fc6216](../../Assets/7bef129feb04a12df8fc1dddb8ab49ee85e73ba4f7bea84e79d2586bb6d6d6fd.jpg)
+- [L0215 - Daves Cave - daves](../../Assets/560b2a014e344324bdee04ea7110b77e5d4055835dae9053b7838e035bad177a.jpg)
+- [L0215 - Daves Cave - daves2](../../Assets/7bef129feb04a12df8fc1dddb8ab49ee85e73ba4f7bea84e79d2586bb6d6d6fd.jpg)
 
 # References
 

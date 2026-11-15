@@ -27,5 +27,5 @@ Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Deep and narrow cave
 
 # Images
 
-- [Unnamed Forestry - 20240917_084251 - dc64194b-d6723564](../../Assets/e260c4564bb33282d7f93f18b9ff78645b5211b95082d900f8eccd75ec53c4b9.jpg)
-- [Unnamed Forestry - 20240917_084255 - fa537b6d-d6723564](../../Assets/49e188c3b8d217e9355ff25fad7fe78932cde81f9efee7ec4da4ab88dd812623.jpg)
+- [Unnamed Forestry - Image 32](../../Assets/e260c4564bb33282d7f93f18b9ff78645b5211b95082d900f8eccd75ec53c4b9.jpg)
+- [Unnamed Forestry - Image 33](../../Assets/49e188c3b8d217e9355ff25fad7fe78932cde81f9efee7ec4da4ab88dd812623.jpg)

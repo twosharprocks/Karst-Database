@@ -24,5 +24,5 @@ BC 4/11/2023: Small rocky entrance, nothing interesting
 
 # Images
 
-- [Unnamed feature - 2023-11-03 12.00.52 - 4295c75e-c274220a](../../Assets/e404cebef3e2a536ee998b03ea93dc8f01e7b2040be671755072a2a1f5b0329d.jpg)
-- [Unnamed feature - 2023-11-03 12.00.56 - ab958386-c274220a](../../Assets/41f4cf4fafe48a1fb3499f51c8951649d1cda77a132d3b4a6e2a64e154f2aa8a.jpg)
+- [Unnamed feature - Image 01](../../Assets/e404cebef3e2a536ee998b03ea93dc8f01e7b2040be671755072a2a1f5b0329d.jpg)
+- [Unnamed feature - Image 02](../../Assets/41f4cf4fafe48a1fb3499f51c8951649d1cda77a132d3b4a6e2a64e154f2aa8a.jpg)

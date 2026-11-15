@@ -24,4 +24,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Permandian Wakumoro - Permandian Wakumoro - 28512628-38b6308f](../../Assets/d59b035a60c6b7a8746b293633f4d93e2f3885ebde1194358475c54051807bcb.jpg)
+- [Permandian Wakumoro - Permandian Wakumoro](../../Assets/d59b035a60c6b7a8746b293633f4d93e2f3885ebde1194358475c54051807bcb.jpg)

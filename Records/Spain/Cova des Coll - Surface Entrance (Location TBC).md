@@ -29,9 +29,9 @@ Estimated location of surface doline
 
 # Maps
 
-- [Cova des Coll - Surface Entrance (Location TBC) - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed - 51d90862-5f4620a9](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
+- [Cova des Coll - Surface Entrance (Location TBC) - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
 
 # Images
 
-- [Cova des Coll - Surface Entrance (Location TBC) - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed - 51d90862-5f4620a9](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
-- [Cova des Coll - Surface Entrance (Location TBC) - Distribution-of-the-main-corrosion-morphologies-zones-with-well-conserved-speleothems - f3f4d62a-5f4620a9](../../Assets/add9808bcfa37a4c6e762351ec75914c9af82cb5826bd4dfe1aba66352d04774.png)
+- [Cova des Coll - Surface Entrance (Location TBC) - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
+- [Cova des Coll - Surface Entrance (Location TBC) - Distribution-of-the-main-corrosion-morphologies-zones-with-well-conserved-speleothems](../../Assets/add9808bcfa37a4c6e762351ec75914c9af82cb5826bd4dfe1aba66352d04774.png)

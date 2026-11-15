@@ -36,7 +36,7 @@ Closed on public holidays.
 
 # Images
 
-- [Yonderup Cave - yonderup-cave-yanchep-national-park-dbca - 0c621752-cffd508a](../../Assets/8c8464e34d63e1cc5c4f26e85f0280dc60c575ac41febc7a2263f8de550874d6.jpg)
+- [Yonderup Cave - yonderup-cave-yanchep-national-park-dbca](../../Assets/8c8464e34d63e1cc5c4f26e85f0280dc60c575ac41febc7a2263f8de550874d6.jpg)
 
 # References
 

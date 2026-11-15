@@ -51,7 +51,7 @@ Dug through by Michael Kaczkowski in 2022 into a cave entrance with lake. Dive a
 
 # Images
 
-- [Alvarium Cave - alv - 6bcec83c-3d1b4778](../../Assets/e797462001c9745c5f89d62cbc9cd0d70a4a980d0443c00f0ff9215b25073ef1.jpg)
-- [Alvarium Cave - alv - f5111610-3d1b4778](../../Assets/a269463e8e386acc3a1db73dee03b35b917e89d03056b7ed043bf1b1498050ac.jpeg)
-- [Alvarium Cave - 2024-04-24 08.36.01 - d10d5f65-3d1b4778](../../Assets/d3ae9317cf827222509c0f00d9c4644096ee6bfb7cc82e59bb868ed6a2ac7560.jpg)
-- [Alvarium Cave - alv - 9171ad56-3d1b4778](../../Assets/0e2ec96f16b52db3f075c9da5be178cf5b14a876aa847d6c138f1a037fec1fa4.jpg)
+- [Alvarium Cave - alv](../../Assets/e797462001c9745c5f89d62cbc9cd0d70a4a980d0443c00f0ff9215b25073ef1.jpg)
+- [Alvarium Cave - alv](../../Assets/a269463e8e386acc3a1db73dee03b35b917e89d03056b7ed043bf1b1498050ac.jpeg)
+- [Alvarium Cave - Image 01](../../Assets/d3ae9317cf827222509c0f00d9c4644096ee6bfb7cc82e59bb868ed6a2ac7560.jpg)
+- [Alvarium Cave - alv - 02](../../Assets/0e2ec96f16b52db3f075c9da5be178cf5b14a876aa847d6c138f1a037fec1fa4.jpg)

@@ -39,8 +39,8 @@ Rubbish Cave has very little to attract cave explorers or divers!
 
 # Images
 
-- [L0045 - Rubbish Cave - 0101 - 9764ad3c-04c950ae](../../Assets/c80a373d2b19912161ed225bd54dbc86754a5023fe753dfc7bf98f344571f7c2.jpg)
-- [L0045 - Rubbish Cave - 0100 - 0ec86803-04c950ae](../../Assets/488cd94f3137a6169e52c1282aaeed7e6e02b4f4bf92da705e746a54552c70d2.jpg)
+- [L0045 - Rubbish Cave - Image 02](../../Assets/c80a373d2b19912161ed225bd54dbc86754a5023fe753dfc7bf98f344571f7c2.jpg)
+- [L0045 - Rubbish Cave - Image 01](../../Assets/488cd94f3137a6169e52c1282aaeed7e6e02b4f4bf92da705e746a54552c70d2.jpg)
 
 # References
 

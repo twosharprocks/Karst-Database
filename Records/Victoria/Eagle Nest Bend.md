@@ -20,4 +20,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Eagle Nest Bend - eagle nest bend - b5a7d3c2-ed7f90a2](../../Assets/4d5e4cd65150488d1fa22d2c13b1cd7f23c8c0af4ae9e109908917396e8a708c.jpg)
+- [Eagle Nest Bend - eagle nest bend](../../Assets/4d5e4cd65150488d1fa22d2c13b1cd7f23c8c0af4ae9e109908917396e8a708c.jpg)

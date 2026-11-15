@@ -29,6 +29,6 @@ disabled_access_potential: "Low"
 
 # Images
 
-- [Anticline Cave - PXL_20250927_230113563 - 92b089b3-d1a6dd6c](../../Assets/c3d2c52b78453b83c70f38cade9fa69f25e9fc463af265f67dec1dbaa5211351.jpg)
-- [Anticline Cave - PXL_20250927_230130803 - 23384e45-d1a6dd6c](../../Assets/0b412529953048a06de34ad7b025e550d4d036aed551c65731004afca962d1bd.jpg)
-- [Anticline Cave - PXL_20250927_230100925 - 061577df-d1a6dd6c](../../Assets/76b0f97130df7433e5f040fb1bbd52796c9a8bd1aea8cca3404492025ed708d5.jpg)
+- [Anticline Cave - Image 02](../../Assets/c3d2c52b78453b83c70f38cade9fa69f25e9fc463af265f67dec1dbaa5211351.jpg)
+- [Anticline Cave - Image 03](../../Assets/0b412529953048a06de34ad7b025e550d4d036aed551c65731004afca962d1bd.jpg)
+- [Anticline Cave - Image 01](../../Assets/76b0f97130df7433e5f040fb1bbd52796c9a8bd1aea8cca3404492025ed708d5.jpg)

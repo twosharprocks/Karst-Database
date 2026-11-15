@@ -25,4 +25,4 @@ tidal: "No"
 
 # Images
 
-- [Dobes Hole - 566_system - 16ccd286-41b5041f](../../Assets/16f59bfaef64c44be825c3f9cca5386640eed1e921ba4480b8454dd08f8ee0b1.jpg)
+- [Dobes Hole - 566_system](../../Assets/16f59bfaef64c44be825c3f9cca5386640eed1e921ba4480b8454dd08f8ee0b1.jpg)

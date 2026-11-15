@@ -22,4 +22,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Nowando Cave - 2023-04-10 14.33.58 - 7c8abc8b-83d5c952](../../Assets/80f0a4975d155be1cab391c86546c34e16b316350de127262308d95af5baa199.jpg)
+- [Nowando Cave - Image 01](../../Assets/80f0a4975d155be1cab391c86546c34e16b316350de127262308d95af5baa199.jpg)

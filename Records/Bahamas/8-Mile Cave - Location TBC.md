@@ -22,5 +22,5 @@ Location estimated from research paper
 
 # Images
 
-- [8-Mile Cave - Location TBC - 8mile - 2f3feb2c-8af93162](../../Assets/7be288421a945b922e2c90f20f5b9ac194522cb394e68b31364147e263e73d45.gif)
+- [8-Mile Cave - Location TBC - 8mile](../../Assets/7be288421a945b922e2c90f20f5b9ac194522cb394e68b31364147e263e73d45.gif)
 - [The_caves_of_Abaco_Island_Bahamas_Keys_to_geologic - 1c91d1eb-8af93162](../../Assets/0fc0e87e855fb7fa5a1f450eace4bdaddddaf8d2a4e697fd8247bfcc1cf9ecb3.pdf)

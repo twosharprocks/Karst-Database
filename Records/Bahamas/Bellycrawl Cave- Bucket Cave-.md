@@ -23,9 +23,9 @@ Location estimated from research paper
 
 # Maps
 
-- [Bellycrawl Cave_ Bucket Cave_ - Map-of-Bucket-Cave-Coopers-Town-Great-Abaco-Island-Bahamas - 3fb4cb56-f2b09c9f](../../Assets/c360ecd5712463d15449c33e9084884db4290f7f8b28d97964a4a20801e18927.jpg)
+- [Bellycrawl Cave_ Bucket Cave_ - Map-of-Bucket-Cave-Coopers-Town-Great-Abaco-Island-Bahamas](../../Assets/c360ecd5712463d15449c33e9084884db4290f7f8b28d97964a4a20801e18927.jpg)
 
 # Images
 
-- [Bellycrawl Cave_ Bucket Cave_ - Map-of-Bucket-Cave-Coopers-Town-Great-Abaco-Island-Bahamas - 3fb4cb56-f2b09c9f](../../Assets/c360ecd5712463d15449c33e9084884db4290f7f8b28d97964a4a20801e18927.jpg)
+- [Bellycrawl Cave_ Bucket Cave_ - Map-of-Bucket-Cave-Coopers-Town-Great-Abaco-Island-Bahamas](../../Assets/c360ecd5712463d15449c33e9084884db4290f7f8b28d97964a4a20801e18927.jpg)
 - [The_caves_of_Abaco_Island_Bahamas_Keys_to_geologic - 807e46c8-f2b09c9f](../../Assets/0fc0e87e855fb7fa5a1f450eace4bdaddddaf8d2a4e697fd8247bfcc1cf9ecb3.pdf)

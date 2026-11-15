@@ -37,7 +37,7 @@ Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Sinkhole
 
 # Images
 
-- [Small Cave - ch - 227ebf58-0de0051a](../../Assets/36dae6565170ed199a133dfbdba24aa6f7b473096cea996305b723320d24053a.jpg)
-- [Small Cave - ch - 6d1c48a7-0de0051a](../../Assets/81ea3b2af46a34eed20b76f9bf2f1769f688d831fa005b5c0960f5c5c7565e37.jpg)
-- [Small Cave - ch - 68c7fdd6-0de0051a](../../Assets/704160b16e21c42533212b51872761e9d7f06a4281b70259fba5a86fc4b34d45.jpg)
-- [Small Cave - ch - e67af105-0de0051a](../../Assets/74fb75d5ed527b22702af9b43cf226ef4f6378e82828f895b9df4321ac2bdebf.jpg)
+- [Small Cave - ch](../../Assets/36dae6565170ed199a133dfbdba24aa6f7b473096cea996305b723320d24053a.jpg)
+- [Small Cave - ch - 03](../../Assets/81ea3b2af46a34eed20b76f9bf2f1769f688d831fa005b5c0960f5c5c7565e37.jpg)
+- [Small Cave - ch - 02](../../Assets/704160b16e21c42533212b51872761e9d7f06a4281b70259fba5a86fc4b34d45.jpg)
+- [Small Cave - ch - 04](../../Assets/74fb75d5ed527b22702af9b43cf226ef4f6378e82828f895b9df4321ac2bdebf.jpg)

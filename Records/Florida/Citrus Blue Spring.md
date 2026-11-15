@@ -40,8 +40,8 @@ Utilization - Citrus Blue Spring is surrounded by private property and is used l
 
 # Images
 
-- [Citrus Blue Spring - citrus_plan - ba554c07-1763b9a8](../../Assets/b172d7a283ceef830fec9c2d1123c116ff60948b791d74783eebe6d2564caf85.jpg)
-- [Citrus Blue Spring - citrus_profile - 9b292e05-1763b9a8](../../Assets/3c3be0519f6b3df0a75b16447ae07bb5c19ee2cd7424b9ade1e8e70e306fa8b8.jpg)
+- [Citrus Blue Spring - citrus_plan](../../Assets/b172d7a283ceef830fec9c2d1123c116ff60948b791d74783eebe6d2564caf85.jpg)
+- [Citrus Blue Spring - citrus_profile](../../Assets/3c3be0519f6b3df0a75b16447ae07bb5c19ee2cd7424b9ade1e8e70e306fa8b8.jpg)
 
 # References
 

@@ -25,4 +25,4 @@ BC 8/9/2023: No evident karst or interesting features
 
 # Images
 
-- [Surface Feature (NW) - 20230908_164255 - cd7334f3-8948f2d9](../../Assets/3b0e649a7891de73971be036b67402d62868963342ac22d0a971c9e39648aac7.jpg)
+- [Surface Feature (NW) - Image 02](../../Assets/3b0e649a7891de73971be036b67402d62868963342ac22d0a971c9e39648aac7.jpg)

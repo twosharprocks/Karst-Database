@@ -21,7 +21,7 @@ source: "Google Earth"
 
 # Images
 
-- [Permandian Foninto Wandiri - Permandian Foninto Wandiri - c8a40ce7-cd132c80](../../Assets/67f02bdb6ea3d30bc9bc4a484c825b3ce2bf40cc8cdfdcc65548c53ca7890c13.jpg)
+- [Permandian Foninto Wandiri - Permandian Foninto Wandiri](../../Assets/67f02bdb6ea3d30bc9bc4a484c825b3ce2bf40cc8cdfdcc65548c53ca7890c13.jpg)
 
 # References
 

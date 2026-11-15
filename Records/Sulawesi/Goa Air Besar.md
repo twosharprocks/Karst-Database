@@ -20,4 +20,4 @@ address: "Jl. Poros Wamengkoli, Buton Regency, South East Sulawesi, IDN, 93763"
 
 # Images
 
-- [Goa Air Besar - Gua Air Besar - 8449b0c8-36c49a54](../../Assets/64ad5a51d6435decd1f73e8fc0f36bf29e4b76739fc1ddbd8fc462c60a72a2aa.jpg)
+- [Goa Air Besar - Gua Air Besar](../../Assets/64ad5a51d6435decd1f73e8fc0f36bf29e4b76739fc1ddbd8fc462c60a72a2aa.jpg)

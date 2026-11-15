@@ -25,5 +25,5 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Inoli Lalibo - Gua Inoli Lalibo - b9dd174c-9c4b990b](../../Assets/d66380e9c88e9639e08aa4f59d05c015ec001f33a2e4da52ac07ed9becbb47c0.jpg)
-- [Gua Inoli Lalibo - Gua Inoli Lalibo2 - a9399461-9c4b990b](../../Assets/ee83f3b620c129749dd43f937f3e394405bca59bd9095629b0ef421152d0fa75.jpg)
+- [Gua Inoli Lalibo - Gua Inoli Lalibo](../../Assets/d66380e9c88e9639e08aa4f59d05c015ec001f33a2e4da52ac07ed9becbb47c0.jpg)
+- [Gua Inoli Lalibo - Gua Inoli Lalibo2](../../Assets/ee83f3b620c129749dd43f937f3e394405bca59bd9095629b0ef421152d0fa75.jpg)

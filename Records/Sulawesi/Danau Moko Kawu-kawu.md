@@ -20,4 +20,4 @@ address: "Muna Regency, South East Sulawesi, IDN, 93658"
 
 # Images
 
-- [Danau Moko Kawu-kawu - Danau Moko Kawu-kawu - b6fb8a90-2c6ba4dc](../../Assets/9e1f74120b8abf56aaad4436e9d1663a8c7d4514a5011f78eebf0fb7615dea03.jpg)
+- [Danau Moko Kawu-kawu - Danau Moko Kawu-kawu](../../Assets/9e1f74120b8abf56aaad4436e9d1663a8c7d4514a5011f78eebf0fb7615dea03.jpg)

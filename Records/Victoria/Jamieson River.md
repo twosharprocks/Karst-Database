@@ -22,4 +22,4 @@ Deep shelf in the river, unexplored. May have potential and worth a look.
 
 # Images
 
-- [Jamieson River - Screenshot 2024-02-16 205248 - 8a3cb7c8-9b9b18ce](../../Assets/f5e341dee468d0776821656db5796abe48bc0c46af540a6e5b08d8b7ab9c6e0f.png)
+- [Jamieson River - Image 01](../../Assets/f5e341dee468d0776821656db5796abe48bc0c46af540a6e5b08d8b7ab9c6e0f.png)

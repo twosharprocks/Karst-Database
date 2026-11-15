@@ -41,8 +41,8 @@ Sea cave. A boat ride is needed to take you to the entrance, which is at 14m dep
 
 # Images
 
-- [CT11 - Location TBC - ct12 - 21417e20-44bf9da3](../../Assets/d0b0f5a91ea29bd69f21787811da1ce5318ab6c7f640e2c28a6d93ae66a983e3.jpg)
-- [CT11 - Location TBC - ct12-2 - 16ed8692-44bf9da3](../../Assets/fd0e5cdcdff497e0dc79443d4f4a6e0fec3017c827227617f3fef83b7e53deef.jpg)
+- [CT11 - Location TBC - ct12](../../Assets/d0b0f5a91ea29bd69f21787811da1ce5318ab6c7f640e2c28a6d93ae66a983e3.jpg)
+- [CT11 - Location TBC - ct12-2](../../Assets/fd0e5cdcdff497e0dc79443d4f4a6e0fec3017c827227617f3fef83b7e53deef.jpg)
 
 # References
 

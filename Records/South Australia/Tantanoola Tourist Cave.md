@@ -39,7 +39,7 @@ Entrance is cave type; (Unknown entrances); development is single spacious chamb
 
 # Images
 
-- [L0012 - Tantanoola Tourist Cave - tant - 1fa8e7f0-1a395e34](../../Assets/6b23ecb853410517e441357c45a684ee0cd4eb2f92e161f2b99fe1d6c4496aeb.jpg)
+- [L0012 - Tantanoola Tourist Cave - tant](../../Assets/6b23ecb853410517e441357c45a684ee0cd4eb2f92e161f2b99fe1d6c4496aeb.jpg)
 
 # References
 

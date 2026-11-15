@@ -56,14 +56,14 @@ Now it’s time for the right-side corridor.  Start by diving into the lower one
 
 # Maps
 
-- [Marie Agnes Mine - home-section-2 - d7983233-7c8b80cb](../../Assets/1bbeae30f2bc8a26462ac1b2f676edcee8e901d65a49827e77f1440c4c73aeaf.jpg)
-- [Marie Agnes Mine - home-section-1 - c6f09ec0-7c8b80cb](../../Assets/bd0915a85c84abcc7d736c65ad71f9a69fe3ef22db3c8512a38031bf30bed829.jpg)
+- [Marie Agnes Mine - home-section-2](../../Assets/1bbeae30f2bc8a26462ac1b2f676edcee8e901d65a49827e77f1440c4c73aeaf.jpg)
+- [Marie Agnes Mine - home-section-1](../../Assets/bd0915a85c84abcc7d736c65ad71f9a69fe3ef22db3c8512a38031bf30bed829.jpg)
 
 # Images
 
-- [Marie Agnes Mine - Plan001-p-1080 - e28acf47-7c8b80cb](../../Assets/3eaeedf5485fecf46f5a4104e5c3fa29c1c00dec05cd6c6d68ec16000958d511.png)
-- [Marie Agnes Mine - home-section-2 - d7983233-7c8b80cb](../../Assets/1bbeae30f2bc8a26462ac1b2f676edcee8e901d65a49827e77f1440c4c73aeaf.jpg)
-- [Marie Agnes Mine - home-section-1 - c6f09ec0-7c8b80cb](../../Assets/bd0915a85c84abcc7d736c65ad71f9a69fe3ef22db3c8512a38031bf30bed829.jpg)
+- [Marie Agnes Mine - Plan001-p-1080](../../Assets/3eaeedf5485fecf46f5a4104e5c3fa29c1c00dec05cd6c6d68ec16000958d511.png)
+- [Marie Agnes Mine - home-section-2](../../Assets/1bbeae30f2bc8a26462ac1b2f676edcee8e901d65a49827e77f1440c4c73aeaf.jpg)
+- [Marie Agnes Mine - home-section-1](../../Assets/bd0915a85c84abcc7d736c65ad71f9a69fe3ef22db3c8512a38031bf30bed829.jpg)
 
 # References
 

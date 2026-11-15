@@ -42,7 +42,7 @@ The two spring-fed creeks keep the first pool filled with water all year round. 
 
 # Images
 
-- [Blinman pools - blinman-pools-flinders-ranges - e6c75437-34b4ca03](../../Assets/bc2ba6b79470b5d244fd19c2f78707c1c02164f5c2168ad0a0070c0cede04347.jpg)
+- [Blinman pools - blinman-pools-flinders-ranges](../../Assets/bc2ba6b79470b5d244fd19c2f78707c1c02164f5c2168ad0a0070c0cede04347.jpg)
 
 # References
 

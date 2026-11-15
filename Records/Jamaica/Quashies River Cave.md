@@ -22,4 +22,4 @@ tidal: "No"
 
 # Images
 
-- [Quashies River Cave - quashies - 02004c8f-015cc578](../../Assets/0dfd9416b967faefc2a483073d97f77320df4a1df9e1cf0da873bf3de077f178.jpg)
+- [Quashies River Cave - quashies](../../Assets/0dfd9416b967faefc2a483073d97f77320df4a1df9e1cf0da873bf3de077f178.jpg)

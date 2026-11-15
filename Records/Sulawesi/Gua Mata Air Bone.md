@@ -22,4 +22,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Mata Air Bone - Gua Mata Air Bone - 443dc51b-40a5daf9](../../Assets/b3e078acc4b2db49b7cd79f5169d3cb34c347b9c6c0bfb75e551da5bebcea5dd.jpg)
+- [Gua Mata Air Bone - Gua Mata Air Bone](../../Assets/b3e078acc4b2db49b7cd79f5169d3cb34c347b9c6c0bfb75e551da5bebcea5dd.jpg)

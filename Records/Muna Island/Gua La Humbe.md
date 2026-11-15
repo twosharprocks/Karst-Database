@@ -41,9 +41,9 @@ parking: "Good"
 
 # Images
 
-- [La Humbe - La Humbe - db88f588-a5a4e208](../../Assets/2da5e071aa901f5f77715f947767e26721e8b7ccf2a06f24f45726a6ca0e8210.jpg)
-- [La Humbe - La Humbe - pano - 9fbfa2ce-a5a4e208](../../Assets/80488412990426c629cbe89a21503f2983efee89b87930cbc5b0bc5289c0b980.jpg)
-- [La Humbe - la humbe sketch - bad30ea5-a5a4e208](../../Assets/3f6dd4af49bcb57bb3e390c6ec23a7cc57f2fd5eccc058a3dca6372aef7a34ef.jpg)
+- [La Humbe - La Humbe](../../Assets/2da5e071aa901f5f77715f947767e26721e8b7ccf2a06f24f45726a6ca0e8210.jpg)
+- [La Humbe - La Humbe - pano](../../Assets/80488412990426c629cbe89a21503f2983efee89b87930cbc5b0bc5289c0b980.jpg)
+- [La Humbe - la humbe sketch](../../Assets/3f6dd4af49bcb57bb3e390c6ec23a7cc57f2fd5eccc058a3dca6372aef7a34ef.jpg)
 
 # References
 

@@ -54,8 +54,8 @@ The water/lake in this chamber circles to the right and at the far end of the ch
 
 # Images
 
-- [L0020 - Englebrecht's West - 20230713_151744 - 4ca90a8a-79dbb77a](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
-- [L0020 - Englebrecht's West - 20230713_151715 - 633a21bf-79dbb77a](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
+- [L0020 - Englebrecht's West - Visitor building](../../Assets/b587a79a46460a6eb2641837e7089851928042c4c71955b9fbc48f79adc13a32.jpg)
+- [L0020 - Englebrecht's West - Entrance sinkhole](../../Assets/23fa11717d52575d7e40631fa2a131bd0c222b385d73b750111e0a26299649c6.jpg)
 
 # References
 

@@ -78,13 +78,13 @@ Last updated 7 July 2014
 
 # Maps
 
-- [Dan's Cave - abaco-caves-map-jpg - b100bf40-fd852e75](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
+- [Dan's Cave - abaco-caves-map-jpg](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
 
 # Images
 
-- [Dan's Cave - 117711000_1688508654639836_7479915030073406689_n - 7ad0afae-fd852e75](../../Assets/64cd520beb575104a98c45a449a74fcf7217ca9d63e758089a114f3397c2b5e0.jpg)
-- [Dan's Cave - abaco-caves-map-jpg - b100bf40-fd852e75](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
-- [Dan's Cave - abaco-caves-ralph-dan-jpg - 8b00cb8a-fd852e75](../../Assets/8b5171e6de0a016ddeb87ef1fe43005e99b581d9947b215045c9de463bedf245.jpg)
+- [Dan's Cave - Image 01](../../Assets/64cd520beb575104a98c45a449a74fcf7217ca9d63e758089a114f3397c2b5e0.jpg)
+- [Dan's Cave - abaco-caves-map-jpg](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
+- [Dan's Cave - abaco-caves-ralph-dan-jpg](../../Assets/8b5171e6de0a016ddeb87ef1fe43005e99b581d9947b215045c9de463bedf245.jpg)
 
 # References
 

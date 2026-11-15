@@ -23,6 +23,6 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan2 - 194937de-9e075f9c](../../Assets/ff8f0ef51f5a9ce9d7bfdc31b4559a3f545037e0cb4022e5c845c734b4dbb21a.jpg)
-- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan - 217895fd-9e075f9c](../../Assets/b770b50a1d033ea077a8f9fa0b0285282fff87e162f93bff266812527c23004d.jpg)
-- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan3 - a9ce8dd2-9e075f9c](../../Assets/f7012f59da5fb1d4d05dc6cf11b95a1b41b3a423c30b3b9c55fb0e50ae895fc0.jpg)
+- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan2](../../Assets/ff8f0ef51f5a9ce9d7bfdc31b4559a3f545037e0cb4022e5c845c734b4dbb21a.jpg)
+- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan](../../Assets/b770b50a1d033ea077a8f9fa0b0285282fff87e162f93bff266812527c23004d.jpg)
+- [Permandiah Lakaedu - Wisata Goa Lakaedu Boneoge Selatan3](../../Assets/f7012f59da5fb1d4d05dc6cf11b95a1b41b3a423c30b3b9c55fb0e50ae895fc0.jpg)

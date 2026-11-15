@@ -25,4 +25,4 @@ has_phone: "Yes"
 
 # Images
 
-- [Forest Clearing - DJI_0725 - 625464bc-647de08c](../../Assets/f16e72f0fb9561b219c02f838595df4b3424117540d452a2b042953b4073c8f9.jpg)
+- [Forest Clearing - Image 02](../../Assets/f16e72f0fb9561b219c02f838595df4b3424117540d452a2b042953b4073c8f9.jpg)

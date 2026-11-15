@@ -45,17 +45,17 @@ Moko Morete opens in a vast blue hole. An underwater passage to the west can be 
 
 # Maps
 
-- [Moko Morete - Photogrammetry model of Moko Morete showing overall survey of 209m - 5f821728-9ecbad71](../../Assets/4ab6a796e8e28fab46931e1cc05f8c6e9e66fa6084b33b4f27fd9d1f08903d9c.jpg)
+- [Moko Morete - Photogrammetry model of Moko Morete showing overall survey of 209m](../../Assets/4ab6a796e8e28fab46931e1cc05f8c6e9e66fa6084b33b4f27fd9d1f08903d9c.jpg)
 
 # Images
 
-- [Moko Morete - FB_IMG_1733031001766 - 7859e650-9ecbad71](../../Assets/2f5710f0257828c69b3e4693e560e93161a90a7ae8d359ec748d42d1486b30dc.jpg)
-- [Moko Morete - FB_IMG_1733031004220 - c294f613-9ecbad71](../../Assets/293b98e4a42c87a8c1cca34eb19a4e8926dbca41b0d2eabc7fb338acc3adf344.jpg)
-- [Moko Morete - FB_IMG_1733031005996 - c0ee379a-9ecbad71](../../Assets/8ca3496c90a817543ea1e08f71ac412a51680cdc31f3ec465349443b4072b984.jpg)
-- [Moko Morete - FB_IMG_1733031008254 - 061077f5-9ecbad71](../../Assets/01a54eadab41a4252b72dc03dfc5641de992ecc7fcd589ac05598d1d373c91ce.jpg)
-- [Moko Morete - FB_IMG_1733031009985 - c7a83d39-9ecbad71](../../Assets/de558bb55c33edfae052c64e679217b37d45392b536bae58f2d323d1eadff3f2.jpg)
-- [Moko Morete - FB_IMG_1733031011821 - 5e6ae891-9ecbad71](../../Assets/7fa3bda7b5fd00a79140ba1f1c8a3752e423e169628c01eac91a7a0e192facd6.jpg)
-- [Moko Morete - Photogrammetry model of Moko Morete showing overall survey of 209m - 5f821728-9ecbad71](../../Assets/4ab6a796e8e28fab46931e1cc05f8c6e9e66fa6084b33b4f27fd9d1f08903d9c.jpg)
+- [Moko Morete - Image 01](../../Assets/2f5710f0257828c69b3e4693e560e93161a90a7ae8d359ec748d42d1486b30dc.jpg)
+- [Moko Morete - Image 02](../../Assets/293b98e4a42c87a8c1cca34eb19a4e8926dbca41b0d2eabc7fb338acc3adf344.jpg)
+- [Moko Morete - Image 03](../../Assets/8ca3496c90a817543ea1e08f71ac412a51680cdc31f3ec465349443b4072b984.jpg)
+- [Moko Morete - Image 04](../../Assets/01a54eadab41a4252b72dc03dfc5641de992ecc7fcd589ac05598d1d373c91ce.jpg)
+- [Moko Morete - Image 05](../../Assets/de558bb55c33edfae052c64e679217b37d45392b536bae58f2d323d1eadff3f2.jpg)
+- [Moko Morete - Image 06](../../Assets/7fa3bda7b5fd00a79140ba1f1c8a3752e423e169628c01eac91a7a0e192facd6.jpg)
+- [Moko Morete - Photogrammetry model of Moko Morete showing overall survey of 209m](../../Assets/4ab6a796e8e28fab46931e1cc05f8c6e9e66fa6084b33b4f27fd9d1f08903d9c.jpg)
 
 - [241 - 6200ab3d-9ecbad71](../../Assets/4dbb8b5b04ef81a3ca7fad15a9922c39cd912241bb4d7595e3378b7de0041257.pdf)
 

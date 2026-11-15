@@ -25,4 +25,4 @@ Hole identified by CA
 
 # Images
 
-- [Hole Covered By Tin - 318074170_641965464292769_6661170963371286211_n - 7fd5e2c6-5256b4b1](../../Assets/00272122c4244b454db2b9a318c71e23425ab152255ea9fa342c0e6832dc0be7.jpg)
+- [Hole Covered By Tin - Image 01](../../Assets/00272122c4244b454db2b9a318c71e23425ab152255ea9fa342c0e6832dc0be7.jpg)

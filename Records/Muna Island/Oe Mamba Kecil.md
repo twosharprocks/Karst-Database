@@ -48,6 +48,6 @@ Depth +70m - use CCR
 
 # Images
 
-- [Oe Mamba Kecil - mamba - beef4e7b-68383f0c](../../Assets/daa3572ec74417ce2a4eb3d92a5d0d98f03d51f8c5abb237e141d6cc06681283.jpg)
-- [Oe Mamba Kecil - mamba kecil - 0f44938b-68383f0c](../../Assets/a65cadc5077c8235777082acebc1de566dbcd6af9670186eb7ec735075c9b47a.jpg)
-- [Oe Mamba Kecil - mamba2 - 9609c00c-68383f0c](../../Assets/467a4386013d864b873d2228f1fc929ad3338e57f89033ec5c1ab00e4d463dd2.jpg)
+- [Oe Mamba Kecil - mamba](../../Assets/daa3572ec74417ce2a4eb3d92a5d0d98f03d51f8c5abb237e141d6cc06681283.jpg)
+- [Oe Mamba Kecil - mamba kecil](../../Assets/a65cadc5077c8235777082acebc1de566dbcd6af9670186eb7ec735075c9b47a.jpg)
+- [Oe Mamba Kecil - mamba2](../../Assets/467a4386013d864b873d2228f1fc929ad3338e57f89033ec5c1ab00e4d463dd2.jpg)

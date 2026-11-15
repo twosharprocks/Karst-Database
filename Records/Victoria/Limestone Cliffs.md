@@ -19,4 +19,4 @@ address: "River Fire Ln, Glenelg Shire, Victoria, AUS, 3304"
 
 # Images
 
-- [Limestone Cliffs - limestone cliffs - cb555470-2eb4449d](../../Assets/4096fb7c194bf968052cfcbfab39c1fc58a5a9ff9fb142bc105a331e0aa90c32.jpg)
+- [Limestone Cliffs - limestone cliffs](../../Assets/4096fb7c194bf968052cfcbfab39c1fc58a5a9ff9fb142bc105a331e0aa90c32.jpg)

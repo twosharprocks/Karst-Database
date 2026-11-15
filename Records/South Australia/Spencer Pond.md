@@ -23,6 +23,6 @@ goes_to_water: "Yes"
 
 # Images
 
-- [L0216 - Spencer Pond - spencers - 1162f8e2-8e31b7bc](../../Assets/ea16398327b0279b29cfbf7130f3edfdd31ba7faa60f402bd5f5656d0ad85bb4.jpg)
+- [L0216 - Spencer Pond - spencers](../../Assets/ea16398327b0279b29cfbf7130f3edfdd31ba7faa60f402bd5f5656d0ad85bb4.jpg)
 
-- [L0216 - Spencer Pond - spencers - 1162f8e2-b7ffdbe4](../../Assets/ea16398327b0279b29cfbf7130f3edfdd31ba7faa60f402bd5f5656d0ad85bb4.jpg)
+- [L0216 - Spencer Pond - spencers - 02](../../Assets/ea16398327b0279b29cfbf7130f3edfdd31ba7faa60f402bd5f5656d0ad85bb4.jpg)

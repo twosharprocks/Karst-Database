@@ -83,8 +83,8 @@ On a new visit to the Clay Branch they advance about 100m up to a narrow pass wi
 
 # Images
 
-- [Fuente de la Cueva - lora-amp - c4cd3ffa-d5d359f9](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
-- [Fuente de la Cueva - topo grande - ec9b906f-d5d359f9](../../Assets/715f22383e79628738f40495025cfa469a058fbe6afa9fae225081ec8bfe707e.jpg)
+- [Fuente de la Cueva - lora-amp](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
+- [Fuente de la Cueva - topo grande](../../Assets/715f22383e79628738f40495025cfa469a058fbe6afa9fae225081ec8bfe707e.jpg)
 
 # References
 

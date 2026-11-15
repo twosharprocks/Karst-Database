@@ -69,8 +69,8 @@ Apparently no more than 26m in depth, this is a typical Mt Gambier sinkhole exce
 
 # Images
 
-- [L0040 - Hells Hole - cd1623b89eb44dfda73c69cb54e986bb - 045500e7-d7dae2ec](../../Assets/bc1e7a8df73706d1add6d59cc55a0426f25d8a74a22bcef912cf81fb32493ebe.jpeg)
-- [L0040 - Hells Hole - Screenshot 2024-01-12 192628 - 58f95c01-d7dae2ec](../../Assets/f0a041ddaaf51a00fb537e32556c230e670a04b06d59fe57d4927cfbb84e9db6.png)
+- [L0040 - Hells Hole - Image 01](../../Assets/bc1e7a8df73706d1add6d59cc55a0426f25d8a74a22bcef912cf81fb32493ebe.jpeg)
+- [L0040 - Hells Hole - Image 02](../../Assets/f0a041ddaaf51a00fb537e32556c230e670a04b06d59fe57d4927cfbb84e9db6.png)
 
 # References
 

@@ -27,12 +27,12 @@ goes_to_water: "Yes"
 
 # Maps
 
-- [Cova des Coll - Underwater Entrance - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed - 52762476-6c426fa9](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
+- [Cova des Coll - Underwater Entrance - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
 
 # Images
 
-- [Cova des Coll - Underwater Entrance - Distribution-of-the-main-corrosion-morphologies-zones-with-well-conserved-speleothems - 29eabd81-6c426fa9](../../Assets/add9808bcfa37a4c6e762351ec75914c9af82cb5826bd4dfe1aba66352d04774.png)
-- [Cova des Coll - Underwater Entrance - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed - 52762476-6c426fa9](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
+- [Cova des Coll - Underwater Entrance - Distribution-of-the-main-corrosion-morphologies-zones-with-well-conserved-speleothems](../../Assets/add9808bcfa37a4c6e762351ec75914c9af82cb5826bd4dfe1aba66352d04774.png)
+- [Cova des Coll - Underwater Entrance - Aerial-photograph-of-Portocolom-with-the-plan-outline-of-the-Cova-des-Coll-superimposed](../../Assets/f6ddcdd8e5abe7440150646ea451e344014770661c62cf15c3c56296d3d37f97.png)
 
 # References
 

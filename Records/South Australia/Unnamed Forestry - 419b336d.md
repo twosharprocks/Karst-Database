@@ -32,4 +32,4 @@ Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Depression
 
 # Images
 
-- [Unnamed Forestry - go_photo_1628489768715 - e001c97e-419b336d](../../Assets/1893dc292a8fc48397c07618e59176a66742388bd3323a30bf14600f7b871d6a.jpg)
+- [Unnamed Forestry - go_photo_1628489768715](../../Assets/1893dc292a8fc48397c07618e59176a66742388bd3323a30bf14600f7b871d6a.jpg)

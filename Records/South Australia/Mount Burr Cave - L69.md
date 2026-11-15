@@ -49,12 +49,12 @@ CEGSA first became aware of the feature through the overseer of the District Cou
 
 # Images
 
-- [L0069 - Mount Burr Cave - L69 - burr2 - 81f72c1c-4f7fc458](../../Assets/b1b0e2a79679d9d04a01447398f6e007adff2ad5dd92bf553fb57caa666f451c.jpg)
-- [L0069 - Mount Burr Cave - L69 - burr2 - 7abfccfd-4f7fc458](../../Assets/1a463e4e1bb74b167576cbcd5a6b89cd606e245d6f8d5850eaec816325ae857e.jpg)
-- [L0069 - Mount Burr Cave - L69 - burr - f4441898-4f7fc458](../../Assets/36a7ec13e3df2ae6f48c4dd0773142f47824f820c91dcb9a2cd6564dd6ab0a88.jpg)
-- [L0069 - Mount Burr Cave - L69 - PXL_20241214_030455679 - 42dd6ee8-4f7fc458](../../Assets/eb817ee661b97bb1c0d4a3fcabdad5d7c73afaa0c4f4bead4fd645102812bfed.jpg)
-- [L0069 - Mount Burr Cave - L69 - burr - 22711c5d-4f7fc458](../../Assets/b0d523222eaa0b3c72c0ee201bab8e890da5f33ff06a73953ca83bb19b45fad0.jpg)
-- [L0069 - Mount Burr Cave - L69 - PXL_20241214_030003999 - 6b987203-4f7fc458](../../Assets/eb50085ff4f3f3d5793458332280435288286e4badd60ba5c774247a16414741.jpg)
+- [L0069 - Mount Burr Cave - L69 - burr2 - 02](../../Assets/b1b0e2a79679d9d04a01447398f6e007adff2ad5dd92bf553fb57caa666f451c.jpg)
+- [L0069 - Mount Burr Cave - L69 - burr2](../../Assets/1a463e4e1bb74b167576cbcd5a6b89cd606e245d6f8d5850eaec816325ae857e.jpg)
+- [L0069 - Mount Burr Cave - L69 - burr - 02](../../Assets/36a7ec13e3df2ae6f48c4dd0773142f47824f820c91dcb9a2cd6564dd6ab0a88.jpg)
+- [L0069 - Mount Burr Cave - L69 - Image 02](../../Assets/eb817ee661b97bb1c0d4a3fcabdad5d7c73afaa0c4f4bead4fd645102812bfed.jpg)
+- [L0069 - Mount Burr Cave - L69 - burr](../../Assets/b0d523222eaa0b3c72c0ee201bab8e890da5f33ff06a73953ca83bb19b45fad0.jpg)
+- [L0069 - Mount Burr Cave - L69 - Image 01](../../Assets/eb50085ff4f3f3d5793458332280435288286e4badd60ba5c774247a16414741.jpg)
 
 # References
 

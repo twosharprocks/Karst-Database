@@ -26,5 +26,5 @@ parking: "Excellent"
 
 # Images
 
-- [Gaden Cave - PXL_20250926_062918433 - 30d9ced1-ce1d3274](../../Assets/dc478601eef7be4ea94c7b6fad11bca5b00e9cf7eb332ebddaf1c95e0d12734f.jpg)
-- [Gaden Cave - PXL_20250926_063021495 - 72e05cce-ce1d3274](../../Assets/430f4a79484203d9fd9b5a6222ec7547d59155bd78af19d85662ef16be48ace1.jpg)
+- [Gaden Cave - Image 01](../../Assets/dc478601eef7be4ea94c7b6fad11bca5b00e9cf7eb332ebddaf1c95e0d12734f.jpg)
+- [Gaden Cave - Image 02](../../Assets/430f4a79484203d9fd9b5a6222ec7547d59155bd78af19d85662ef16be48ace1.jpg)

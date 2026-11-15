@@ -36,7 +36,7 @@ Extraordinarily unique, visually amazing and acoustically sensational, Cabaret C
 
 # Images
 
-- [Cabaret Cave - cabaret-cave-yanchep-national-park-dbca - 9a95abbe-1725a0bd](../../Assets/b78e842dcd641e964fd85d84b74e2fdde580f4aaab591ce8b4841850dd08895c.jpeg)
+- [Cabaret Cave - cabaret-cave-yanchep-national-park-dbca](../../Assets/b78e842dcd641e964fd85d84b74e2fdde580f4aaab591ce8b4841850dd08895c.jpeg)
 
 # References
 

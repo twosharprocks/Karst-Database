@@ -37,8 +37,8 @@ An August 1971 CEGSA Trip Report by caver Ian D. Lewis described the feature as 
 
 # Images
 
-- [Kongorong Sinkhole - Location TBC - 0277 - 3901d5d8-4ceb48cc](../../Assets/2f788b9db3a2e86c00b507b8bddbef3294a87f8747fdba271502a352cf73bb39.jpg)
-- [Kongorong Sinkhole - Location TBC - 0276 - a7fa5639-4ceb48cc](../../Assets/f4988175d0394c2b53e1d7f3b95721d135de7e263199d58f61562c5053525c1b.jpg)
+- [Kongorong Sinkhole - Location TBC - Image 02](../../Assets/2f788b9db3a2e86c00b507b8bddbef3294a87f8747fdba271502a352cf73bb39.jpg)
+- [Kongorong Sinkhole - Location TBC - Image 01](../../Assets/f4988175d0394c2b53e1d7f3b95721d135de7e263199d58f61562c5053525c1b.jpg)
 
 # References
 

@@ -35,7 +35,7 @@ And only then it begins… Pristine, incredibly beautiful and opulent dripstone 
 
 # Images
 
-- [Minyé Sinkhole and Cave - Minye - af927e53-504cfe23](../../Assets/3ab7b5c140794e73fe9d749897d03de853202b5b584d9dee1c494a4101ed033b.jpg)
+- [Minyé Sinkhole and Cave - Minye](../../Assets/3ab7b5c140794e73fe9d749897d03de853202b5b584d9dee1c494a4101ed033b.jpg)
 
 # References
 

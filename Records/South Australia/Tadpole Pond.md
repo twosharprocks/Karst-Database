@@ -30,8 +30,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [L0248 - Tadpole Pond - 0484 - 5da48c32-f617eaa5](../../Assets/601ff29428cbe9f6a1bf7c93fb9a543bcc8e9913ee8f924c195f05bc3bc5d171.jpg)
-- [L0248 - Tadpole Pond - 0485 - ceb959c0-f617eaa5](../../Assets/56f460475d235ed5359e453e076152419b8d669fd39a5fac0c8ce436959d261a.jpg)
+- [L0248 - Tadpole Pond - Image 01](../../Assets/601ff29428cbe9f6a1bf7c93fb9a543bcc8e9913ee8f924c195f05bc3bc5d171.jpg)
+- [L0248 - Tadpole Pond - Image 02](../../Assets/56f460475d235ed5359e453e076152419b8d669fd39a5fac0c8ce436959d261a.jpg)
 
 # References
 

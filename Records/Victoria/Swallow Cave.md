@@ -19,4 +19,4 @@ address: "Great Ocean Rd, Lorne, Victoria, AUS, 3232"
 
 # Images
 
-- [Swallow Cave - swallow - fe360fd4-1368dd85](../../Assets/0bf2c5fce5c411ebf8858336771fa1d628b3998dba8ff688486a8baf7b4025c7.jpg)
+- [Swallow Cave - swallow](../../Assets/0bf2c5fce5c411ebf8858336771fa1d628b3998dba8ff688486a8baf7b4025c7.jpg)

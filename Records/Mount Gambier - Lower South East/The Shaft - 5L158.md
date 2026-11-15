@@ -59,15 +59,15 @@ A massive sinkhole and the deepest underwater cave in Australia. From a manhole 
 
 # Images
 
-- [5L158 - The Shaft - 11shaft-poster - 9c1eea4b-d8bdc4a7](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L158%20-%20The%20Shaft%20%28CEGSA%2C%202003%29.gif) — Tim Payne
-- [5L158 - The Shaft - 2294854 - e5971114-d8bdc4a7](../../Assets/4220fe660aa3fca10f9a79292f2f7fd4daedf916ef6569280a9b87ef19726407.jpg)
-- [5L158 - The Shaft - 5L-158 - b849738d-d8bdc4a7](../../Assets/e415c5d075a53973e4f126c290cf5a836554c841a0a056c5bb82282462cc146e.jpg) — Tim Payne
-- [5L158 - The Shaft - FB_IMG_1733229883525 - 38f8cc1d-d8bdc4a7](../../Assets/149285ddfcf0cc9795738b7741b20ef0ef021a02db9ee3702c4cc19ca5476965.jpg) — Steve Trewavas
-- [5L158 - The Shaft - Screenshot 2024-12-27 224948 - b615e7b8-d8bdc4a7](../../Assets/4c023b08861ca4cb82dce6d39f2ae0152193b423f283ff27aae42fbed43d5725.png)
+- [5L158 - The Shaft - 11shaft-poster](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L158%20-%20The%20Shaft%20%28CEGSA%2C%202003%29.gif) — Tim Payne
+- [5L158 - The Shaft - Image 01](../../Assets/4220fe660aa3fca10f9a79292f2f7fd4daedf916ef6569280a9b87ef19726407.jpg)
+- [5L158 - The Shaft - 5L-158](../../Assets/e415c5d075a53973e4f126c290cf5a836554c841a0a056c5bb82282462cc146e.jpg) — Tim Payne
+- [5L158 - The Shaft - Image 02](../../Assets/149285ddfcf0cc9795738b7741b20ef0ef021a02db9ee3702c4cc19ca5476965.jpg) — Steve Trewavas
+- [5L158 - The Shaft - Image 03](../../Assets/4c023b08861ca4cb82dce6d39f2ae0152193b423f283ff27aae42fbed43d5725.png)
 
-- [5L158 - The Shaft - 5L-158 - b849738d-d8bdc4a7](../../Assets/e415c5d075a53973e4f126c290cf5a836554c841a0a056c5bb82282462cc146e.jpg)
-- [5L158 - The Shaft - FB_IMG_1733229883525 - 38f8cc1d-d8bdc4a7](../../Assets/149285ddfcf0cc9795738b7741b20ef0ef021a02db9ee3702c4cc19ca5476965.jpg)
-- [5L158 - The Shaft - 11shaft-poster - 9c1eea4b-d8bdc4a7](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L158%20-%20The%20Shaft%20%28CEGSA%2C%202003%29.gif)
+- [5L158 - The Shaft - 5L-158](../../Assets/e415c5d075a53973e4f126c290cf5a836554c841a0a056c5bb82282462cc146e.jpg)
+- [5L158 - The Shaft - Image 02](../../Assets/149285ddfcf0cc9795738b7741b20ef0ef021a02db9ee3702c4cc19ca5476965.jpg)
+- [5L158 - The Shaft - 11shaft-poster](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L158%20-%20The%20Shaft%20%28CEGSA%2C%202003%29.gif)
 
 # References
 

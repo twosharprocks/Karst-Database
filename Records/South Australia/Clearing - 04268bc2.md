@@ -25,4 +25,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Clearing - 20230908_085122 - c44cad4b-04268bc2](../../Assets/1ae936814a88638ef01ab666325a50bd3ded5374bbf05ff2c331e98573d38e13.jpg)
+- [Clearing - Image 03](../../Assets/1ae936814a88638ef01ab666325a50bd3ded5374bbf05ff2c331e98573d38e13.jpg)

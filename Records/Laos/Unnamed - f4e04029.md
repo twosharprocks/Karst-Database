@@ -38,10 +38,10 @@ Zero stars - do not recommend
 
 # Maps
 
-- [Unnamed - laos map - b9ea23f6-f4e04029](../../Assets/b1c592e111daf58f4367ec50d77490673657289dda1beb28e458147c5057371a.jpg)
+- [Unnamed - laos map](../../Assets/b1c592e111daf58f4367ec50d77490673657289dda1beb28e458147c5057371a.jpg)
 
 # Images
 
-- [Unnamed - laos map - b9ea23f6-f4e04029](../../Assets/b1c592e111daf58f4367ec50d77490673657289dda1beb28e458147c5057371a.jpg)
-- [Unnamed - 5 - da1f4484-f4e04029](../../Assets/ee97bfb454dcb357e02469367e0b3cbfc50eab71124c9699cda3a0afee4e6cd2.jpg)
-- [Unnamed - entrance - robin - 8d5a3692-f4e04029](../../Assets/411077bbb188275d30f40ef75c3574389be71fd783b2a7c8dae782946d0cee94.jpg)
+- [Unnamed - laos map](../../Assets/b1c592e111daf58f4367ec50d77490673657289dda1beb28e458147c5057371a.jpg)
+- [Unnamed - Image 36](../../Assets/ee97bfb454dcb357e02469367e0b3cbfc50eab71124c9699cda3a0afee4e6cd2.jpg)
+- [Unnamed - entrance - robin](../../Assets/411077bbb188275d30f40ef75c3574389be71fd783b2a7c8dae782946d0cee94.jpg)

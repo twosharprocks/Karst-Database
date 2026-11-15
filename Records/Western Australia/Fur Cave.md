@@ -33,5 +33,5 @@ Found and dug to cave 2022 by Ryan Kaczkowski. Large drain leads to water. Curre
 
 # Images
 
-- [Fur Cave - PXL_20230527_012312388 - 622bc403-645c8d8b](../../Assets/34c3d2b965f70e195c08ec00f5fd3e5cd44d60b68c054d91d484036f911e8f7f.jpg)
-- [Fur Cave - PXL_20230527_012312388 - dfa0db5c-645c8d8b](../../Assets/440070d94eb6ced2560b525fb7b3dd88408e1b5a58304cff71f3bb9b941e3462.jpg)
+- [Fur Cave - Image 01](../../Assets/34c3d2b965f70e195c08ec00f5fd3e5cd44d60b68c054d91d484036f911e8f7f.jpg)
+- [Fur Cave - Image 02](../../Assets/440070d94eb6ced2560b525fb7b3dd88408e1b5a58304cff71f3bb9b941e3462.jpg)

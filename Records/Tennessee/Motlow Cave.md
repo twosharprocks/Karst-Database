@@ -42,7 +42,7 @@ Jason with his Motlow Cave map. Motlow Cave sits on the hill above the world-fam
 
 # Images
 
-- [Motlow Cave - Motlow Cave - 2b3fab1b-8e80f56f](../../Assets/a1bf771cf34c3cc366e82addb4099c6e82fb64e105c6f6da1c9558046f31858e.jpg)
+- [Motlow Cave - Motlow Cave](../../Assets/a1bf771cf34c3cc366e82addb4099c6e82fb64e105c6f6da1c9558046f31858e.jpg)
 
 # References
 

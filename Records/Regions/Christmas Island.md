@@ -58,7 +58,7 @@ Christmas Island local radio
 
 # Maps
 
-![Christmas Island - xmas - 9358c9e8-0bc8566f](../../Assets/8645955ac4c7dfcec39256cc83a5562841f3238313bb5bb594c92331631ca544.jpg)
+![Christmas Island - xmas](../../Assets/8645955ac4c7dfcec39256cc83a5562841f3238313bb5bb594c92331631ca544.jpg)
 
 # Additional Notes
 

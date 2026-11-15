@@ -43,9 +43,9 @@ parking: "Good"
 
 # Images
 
-- [Kadaiula - Kaidaiula - sketch - 9c0beb8c-35bbc5a3](../../Assets/e82a7d508e717178e1d44472c7d0c01afff45e0c0ab488e45f4147c5c80d50ea.jpg)
-- [Kadaiula - Kaidaiula - sign - 0653b3d5-35bbc5a3](../../Assets/bdedf22f47e9b0ec0e9ac7730da65970fb7bbb1ac287e0673f3b58575e49d6d7.jpg)
-- [Kadaiula - Kaidaiula - entry - 91e2d9fc-35bbc5a3](../../Assets/d6b0b471866d30788926f8b713b2d5f506cd370cef1cac755efb59415d57f04f.jpg)
+- [Kadaiula - Kaidaiula - sketch](../../Assets/e82a7d508e717178e1d44472c7d0c01afff45e0c0ab488e45f4147c5c80d50ea.jpg)
+- [Kadaiula - Kaidaiula - sign](../../Assets/bdedf22f47e9b0ec0e9ac7730da65970fb7bbb1ac287e0673f3b58575e49d6d7.jpg)
+- [Kadaiula - Kaidaiula - entry](../../Assets/d6b0b471866d30788926f8b713b2d5f506cd370cef1cac755efb59415d57f04f.jpg)
 
 # References
 

@@ -34,7 +34,7 @@ To dive Alachua Sink you must have a guide. Click here for information on contac
 
 # Images
 
-- [Alachua Sink - alachua_map - 5f5bddb9-0aece4f8](../../Assets/1437d5831cefc565b31247364b1806411e90158c1775f3bb888fd977030445f6.jpg)
+- [Alachua Sink - alachua_map](../../Assets/1437d5831cefc565b31247364b1806411e90158c1775f3bb888fd977030445f6.jpg)
 
 # References
 

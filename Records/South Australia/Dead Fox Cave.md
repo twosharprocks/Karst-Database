@@ -43,7 +43,7 @@ L0277, Thin Roof: N, Fence: N. Dimensions: ?. Features: plantation to be CF soon
 
 # Images
 
-- [L0277 - Dead Fox Cave - 20230422_114239 - bd487249-b65d6298](../../Assets/744e4e057f55ba6a4e7f9258be3f4b70fe33778c39dc30ff17f509ddf44934f7.jpg)
+- [L0277 - Dead Fox Cave - Image 01](../../Assets/744e4e057f55ba6a4e7f9258be3f4b70fe33778c39dc30ff17f509ddf44934f7.jpg)
 
 # References
 

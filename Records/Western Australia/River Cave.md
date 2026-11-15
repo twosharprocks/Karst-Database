@@ -32,7 +32,7 @@ mapped but contains the larger chambers than River Cave. These chambers were for
 
 # Images
 
-- [River Cave - arrow - 497e9872-806ea536](../../Assets/5caf18b886b9f3b4fca3afd17c14ae2c9f6a06b53dcc5b0f9466a0556f2db7af.jpg)
+- [River Cave - arrow](../../Assets/5caf18b886b9f3b4fca3afd17c14ae2c9f6a06b53dcc5b0f9466a0556f2db7af.jpg)
 
 # References
 

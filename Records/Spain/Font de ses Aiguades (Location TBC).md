@@ -31,7 +31,7 @@ Location estimated from image on pg 2
 
 # Images
 
-- [Font de ses Aiguades (Location TBC) - Screenshot (396) - 9dd788dc-8ac71f5e](../../Assets/fbeea585992fe2f9a41c407684dd803bc9f7c7cccc4af1267fcc5010cc530975.png)
+- [Font de ses Aiguades (Location TBC) - Image 01](../../Assets/fbeea585992fe2f9a41c407684dd803bc9f7c7cccc4af1267fcc5010cc530975.png)
 
 # References
 

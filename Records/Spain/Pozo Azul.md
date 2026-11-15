@@ -34,8 +34,8 @@ tidal: "No"
 
 # Images
 
-- [Pozo Azul - pozo2014-whole - 6be5a758-5ec71750](../../Assets/32ef045bfbe9ead63e6d7d323f2cb19ed3a4214f8bdc315e3e47c23dd5eb5376.png)
-- [Pozo Azul - pozo azul - 914c97b3-5ec71750](../../Assets/bd592c057d21ea6c26f51e52c21c8c717e129bb741b5df4153dc0d86ef33c416.jpg)
+- [Pozo Azul - pozo2014-whole - 02](../../Assets/32ef045bfbe9ead63e6d7d323f2cb19ed3a4214f8bdc315e3e47c23dd5eb5376.png)
+- [Pozo Azul - pozo azul](../../Assets/bd592c057d21ea6c26f51e52c21c8c717e129bb741b5df4153dc0d86ef33c416.jpg)
 
 ## Links reviewed from Cave Data Ideas
 

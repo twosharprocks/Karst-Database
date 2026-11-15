@@ -27,4 +27,4 @@ Location
 
 # Images
 
-- [Hole-in-the-Wall Cave - holeinwall - d451bdd6-04119a40](../../Assets/d4f7403c3ca978f0bda06c5305eede79d051ad5cfb04867e1262a08160a9577c.jpg)
+- [Hole-in-the-Wall Cave - holeinwall](../../Assets/d4f7403c3ca978f0bda06c5305eede79d051ad5cfb04867e1262a08160a9577c.jpg)

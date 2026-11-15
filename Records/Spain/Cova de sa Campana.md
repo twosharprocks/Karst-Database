@@ -30,7 +30,7 @@ We will certainly be impressed by the size of the cave and the dimensions of its
 
 # Images
 
-- [Cova de sa Campana - c-08-1-cova-de-sa-campana - 6b8e4fd3-b9f3df82](../../Assets/019b7f134e50c8d0ee53a04a4b90debaacaf7daa22561a81d51f16fb8824b7c5.jpg)
+- [Cova de sa Campana - c-08-1-cova-de-sa-campana](../../Assets/019b7f134e50c8d0ee53a04a4b90debaacaf7daa22561a81d51f16fb8824b7c5.jpg)
 
 # References
 

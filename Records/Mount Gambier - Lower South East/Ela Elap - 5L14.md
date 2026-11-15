@@ -48,7 +48,7 @@ This is a typical Mt Gambier and the Weeping Willow Tree over the entrance provi
 
 # Images
 
-- [5L14 - Ela Elap - 3Y2A0619 - a7e1a455-7ee7ddf4](../../Assets/65c46db28a7f7b4a51076ab81e023ac0712586f7063f13a36c0bb7e417f8d98a.jpeg)
+- [5L14 - Ela Elap - 3Y2A0619](../../Assets/65c46db28a7f7b4a51076ab81e023ac0712586f7063f13a36c0bb7e417f8d98a.jpeg)
 
 # References
 

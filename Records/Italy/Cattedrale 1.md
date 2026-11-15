@@ -29,4 +29,4 @@ Need to identify "Cattedrale 2" - much more extensive sea cave for divers shown 
 
 # Images
 
-- [Cattedrale 1 - catt1 - a0a5b35e-a76682ba](../../Assets/5b2d4afcdfb913786cd635bdbb5cb9091a4554ec76b975688f093d6d7a382859.jpg)
+- [Cattedrale 1 - catt1](../../Assets/5b2d4afcdfb913786cd635bdbb5cb9091a4554ec76b975688f093d6d7a382859.jpg)

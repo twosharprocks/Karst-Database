@@ -22,4 +22,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Snake Hill 4 - 2023-04-10 12.51.42 - 681e5d23-937aa240](../../Assets/0256f3dbe7a8519853616791993b7f5e08a5c2f0f7d57f93d216df04f8d3308b.jpg)
+- [Snake Hill 4 - Image 01](../../Assets/0256f3dbe7a8519853616791993b7f5e08a5c2f0f7d57f93d216df04f8d3308b.jpg)

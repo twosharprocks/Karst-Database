@@ -25,4 +25,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Service Point - PXL_20230807_033548612 - 046c11a9-b01b4901](../../Assets/b95c6a507d08672c0f6318c379349ad79b2ddafc46c8595d29d63f7b47f494f2.jpg)
+- [Service Point - Image 01](../../Assets/b95c6a507d08672c0f6318c379349ad79b2ddafc46c8595d29d63f7b47f494f2.jpg)

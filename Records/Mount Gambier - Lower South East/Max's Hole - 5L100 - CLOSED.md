@@ -60,12 +60,12 @@ Small cave leads from medium sized shaft with bifurcating entrance. Water filled
 
 # Images
 
-- [L0100 - Max's Hole - 20240323_160112 - d7a94a8a-5bc790c9](../../Assets/2cf165d6546f20a60969b7c1569c94f84a1bee5901b677d4646d5f831bfb43af.jpg)
-- [L0100 - Max's Hole - max1 - 0bd156a8-5bc790c9](../../Assets/01ec8c803e2e87f396a1379f21e05753d5c05d2b79eb87389012aefeb6020a56.jpg)
-- [L0100 - Max's Hole - 20240323_160249 - edbb82c1-5bc790c9](../../Assets/594424700a0694924c4c6b094699692af5c85c98a9994a08f1b2946c61c247fb.jpg)
-- [L0100 - Max's Hole - max2 - c6573bc0-5bc790c9](../../Assets/c3b3b435cbb3e45c2a5dd9aa0cc7ffc5cac149e693303374b7a0004a846c251b.jpg)
-- [L0100 - Max's Hole - 20240323_160208 - 44eb8802-5bc790c9](../../Assets/8f315c44bc94d1bda87fac94739092ca7ce0126c85ff97dec9d014e268f09152.jpg)
-- [L0100 - Max's Hole - 20240323_160209 - d706d0e6-5bc790c9](../../Assets/2e1269b611582672a9105ce01aabaec0c4f7924aed5b67679f28c4cd1904e3dd.jpg)
+- [L0100 - Max's Hole - Image 01](../../Assets/2cf165d6546f20a60969b7c1569c94f84a1bee5901b677d4646d5f831bfb43af.jpg)
+- [L0100 - Max's Hole - max1](../../Assets/01ec8c803e2e87f396a1379f21e05753d5c05d2b79eb87389012aefeb6020a56.jpg)
+- [L0100 - Max's Hole - Image 04](../../Assets/594424700a0694924c4c6b094699692af5c85c98a9994a08f1b2946c61c247fb.jpg)
+- [L0100 - Max's Hole - max2](../../Assets/c3b3b435cbb3e45c2a5dd9aa0cc7ffc5cac149e693303374b7a0004a846c251b.jpg)
+- [L0100 - Max's Hole - Image 02](../../Assets/8f315c44bc94d1bda87fac94739092ca7ce0126c85ff97dec9d014e268f09152.jpg)
+- [L0100 - Max's Hole - Image 03](../../Assets/2e1269b611582672a9105ce01aabaec0c4f7924aed5b67679f28c4cd1904e3dd.jpg)
 
 # References
 

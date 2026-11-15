@@ -27,7 +27,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Sterkfontein Caves - R - 91990b9a-4925c1f6](../../Assets/4e37111c386a010d3858920d83ea746eb3c53383ff4e806b04c91ec615bb69b6.jpeg)
+- [Sterkfontein Caves - R](../../Assets/4e37111c386a010d3858920d83ea746eb3c53383ff4e806b04c91ec615bb69b6.jpeg)
 
 # References
 

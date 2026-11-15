@@ -25,4 +25,4 @@ temperature: "Unknown–26 °C"
 
 # Images
 
-- [Kaponpon - kaponpon - 7dfb60e0-67360615](../../Assets/4c41418e9b4481a545eae4364e01f3a1328b29ccb0fbf50cce82794bdee450a9.jpg)
+- [Kaponpon - kaponpon](../../Assets/4c41418e9b4481a545eae4364e01f3a1328b29ccb0fbf50cce82794bdee450a9.jpg)

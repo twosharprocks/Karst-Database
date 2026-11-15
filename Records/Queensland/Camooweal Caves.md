@@ -24,5 +24,5 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Camooweal - Image - eca825ae-b7324517](../../Assets/df44603e3c6b77a10882854027b83e299b7be94b1bf1560a9394151a231c09fa.jpg)
-- [Camooweal - 20250724_154024 - 9f6dd418-b7324517](../../Assets/95869a1d46d2a708006a0cd3ed94f87996c22fddb304269278f6be7d1fb25f1d.jpg)
+- [Camooweal - Image 02](../../Assets/df44603e3c6b77a10882854027b83e299b7be94b1bf1560a9394151a231c09fa.jpg)
+- [Camooweal - Image 01](../../Assets/95869a1d46d2a708006a0cd3ed94f87996c22fddb304269278f6be7d1fb25f1d.jpg)

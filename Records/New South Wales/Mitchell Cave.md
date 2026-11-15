@@ -25,6 +25,6 @@ food: "Bad"
 
 # Images
 
-- [Mitchell Cave - PXL_20250926_065338984 - 5990d9a4-ff1d017a](../../Assets/b986743a2fe717f56c4cbca2d58aa8a3562a56648e285671fd6682264de213e8.jpg)
-- [Mitchell Cave - PXL_20250926_065352699 - 352fee58-ff1d017a](../../Assets/40546d107fa1bfe257c7c6b9ab87a22aecb0145a6591acdacb79b6f937e8f428.jpg)
-- [Mitchell Cave - PXL_20250926_065314448 - 2ddb5fb5-ff1d017a](../../Assets/d37422d654a521cad0338751b68e7ee88ea222e6fee136f8e6d3d5f2aaa9ef3c.jpg)
+- [Mitchell Cave - Image 02](../../Assets/b986743a2fe717f56c4cbca2d58aa8a3562a56648e285671fd6682264de213e8.jpg)
+- [Mitchell Cave - Image 03](../../Assets/40546d107fa1bfe257c7c6b9ab87a22aecb0145a6591acdacb79b6f937e8f428.jpg)
+- [Mitchell Cave - Image 01](../../Assets/d37422d654a521cad0338751b68e7ee88ea222e6fee136f8e6d3d5f2aaa9ef3c.jpg)

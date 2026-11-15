@@ -22,7 +22,7 @@ tourism_potential: "Medium"
 
 # Images
 
-- [Place ID 102730 - Unnamed Cave - 102730_7__TN1000x800 - 5f36be9f-6ce658e1](../../Assets/459de23bf80f661f7ee6bb2a193f865bfc33ca149d874b1cd09cac9823aa2018.jpg)
+- [Place ID 102730 - Unnamed Cave - 102730_7__TN1000x800](../../Assets/459de23bf80f661f7ee6bb2a193f865bfc33ca149d874b1cd09cac9823aa2018.jpg)
 
 # References
 

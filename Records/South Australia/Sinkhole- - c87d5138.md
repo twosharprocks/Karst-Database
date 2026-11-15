@@ -27,4 +27,4 @@ BC 6/8/2023 : could not find any sign. Maybe destroyed
 
 # Images
 
-- [Sinkhole_ - mor - b74408f3-c87d5138](../../Assets/9b2a17593a95bdd0633e6f1e5a47bf8d98edb3d5dae91b216b06099fd13ee807.jpg)
+- [Sinkhole_ - mor](../../Assets/9b2a17593a95bdd0633e6f1e5a47bf8d98edb3d5dae91b216b06099fd13ee807.jpg)

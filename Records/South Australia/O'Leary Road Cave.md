@@ -35,8 +35,8 @@ Apart from some crustal decoration at the end, the cave reportedly contains very
 
 # Images
 
-- [L0182 - O'Leary Road Cave - olear2 - ccce492b-fa807853](../../Assets/2c2883c6f8a42ce3eba9d94e1f9ada3ee1235de601475c72bb87fa067b6702d4.jpg)
-- [L0182 - O'Leary Road Cave - olear - 7ea114ea-fa807853](../../Assets/bc3c76b9600a16c9061e0ac7d554b44cb6ecd9209a3063fdc71a30214f0ec45a.jpg)
+- [L0182 - O'Leary Road Cave - olear2](../../Assets/2c2883c6f8a42ce3eba9d94e1f9ada3ee1235de601475c72bb87fa067b6702d4.jpg)
+- [L0182 - O'Leary Road Cave - olear](../../Assets/bc3c76b9600a16c9061e0ac7d554b44cb6ecd9209a3063fdc71a30214f0ec45a.jpg)
 
 # References
 

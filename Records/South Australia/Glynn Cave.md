@@ -36,11 +36,11 @@ L0138, Thin Roof: Y, Fence: R. Dimensions: ?. Features: bore holes alongside fea
 
 # Images
 
-- [L0138 - Glynn Cave - glynn2 - c047d598-5833f4b1](../../Assets/6d7b9d98da2a0126bf9b8353741670aff1b781edb1960ca0d55909fb412098a1.jpg)
-- [L0138 - Glynn Cave - 138 - 848067d9-5833f4b1](../../Assets/5cef6baf11eaae01385e2174abd6ad3354c3eefc972889f81d04682274bc4e64.jpg)
-- [L0138 - Glynn Cave - 138-1 - 0604bd24-5833f4b1](../../Assets/6e79ceec3971b6f21281c5913b35d85438005982e2f6c5b243a6e95255d3d91d.jpg)
-- [L0138 - Glynn Cave - 138-2 - 310b9cb3-5833f4b1](../../Assets/2bcfd829cb85c6b48b01d9992d52341bb5f3ada323fd415af6f904217dc68ca7.jpg)
-- [L0138 - Glynn Cave - glynn - 2035383f-5833f4b1](../../Assets/7a8c5585e111a476ea3afd36be8c4a468cf88e16cade2574d8e2e5ade589f50e.jpg)
+- [L0138 - Glynn Cave - glynn2](../../Assets/6d7b9d98da2a0126bf9b8353741670aff1b781edb1960ca0d55909fb412098a1.jpg)
+- [L0138 - Glynn Cave - Image 01](../../Assets/5cef6baf11eaae01385e2174abd6ad3354c3eefc972889f81d04682274bc4e64.jpg)
+- [L0138 - Glynn Cave - 138-1](../../Assets/6e79ceec3971b6f21281c5913b35d85438005982e2f6c5b243a6e95255d3d91d.jpg)
+- [L0138 - Glynn Cave - 138-2](../../Assets/2bcfd829cb85c6b48b01d9992d52341bb5f3ada323fd415af6f904217dc68ca7.jpg)
+- [L0138 - Glynn Cave - glynn](../../Assets/7a8c5585e111a476ea3afd36be8c4a468cf88e16cade2574d8e2e5ade589f50e.jpg)
 
 # References
 

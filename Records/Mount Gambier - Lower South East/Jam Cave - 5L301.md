@@ -54,8 +54,8 @@ L0301, Thin Roof: N, Fence: Y. Dimensions: ?. Features: recently fenced (July '9
 
 # Images
 
-- [5L301 - Jam Cave - 2023-04-22 10.30.40 - 42640ecd-17b92fe0](../../Assets/53d5cbaa0a30ff773778f46b3cf2aaf52ee86d1b074703d93e878cbf9be87ad8.jpg)
-- [5L301 - Jam Cave - 2023-04-22 10.32.11 - c8eae9f4-17b92fe0](../../Assets/3b0b7f92f3b75615eaed3c84e912eca7649e575b8706c96313b81c8938c2b769.jpg)
+- [5L301 - Jam Cave - Image 01](../../Assets/53d5cbaa0a30ff773778f46b3cf2aaf52ee86d1b074703d93e878cbf9be87ad8.jpg)
+- [5L301 - Jam Cave - Image 02](../../Assets/3b0b7f92f3b75615eaed3c84e912eca7649e575b8706c96313b81c8938c2b769.jpg)
 
 # References
 

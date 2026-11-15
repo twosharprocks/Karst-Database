@@ -42,11 +42,11 @@ L0109, Thin Roof: N, Fence: R. Dimensions: ?. Features: Scratches mistaken for p
 
 # Images
 
-- [L0109 - Petroglyph Cave - 20231013_135442 - 224d24d5-28f1333d](../../Assets/413eab081902c9ec758bca0a7520b6193cf204538dec96b0a5c11fe4cf4e8a93.jpg)
-- [L0109 - Petroglyph Cave - 20231013_135442 - f4b15964-28f1333d](../../Assets/413eab081902c9ec758bca0a7520b6193cf204538dec96b0a5c11fe4cf4e8a93.jpg)
-- [L0109 - Petroglyph Cave - 20231013_135449 - f2a9ebff-28f1333d](../../Assets/3fc42debe4e15a84269d8245e80e7b51324ca5553a32c706632c0d016e8fa206.jpg)
-- [L0109 - Petroglyph Cave - 109 - 3cc54bcf-28f1333d](../../Assets/689861b3094608cdfb1fb3c24246c448df8297c53d836a64a80a8834dc25c13b.jpg)
-- [L0109 - Petroglyph Cave - 20231013_135318 - b249b245-28f1333d](../../Assets/eccf56db371ccf073286f9d6ffc4807d641377a4fe0104ebb6d1b121711fdafe.jpg)
+- [L0109 - Petroglyph Cave - Image 03](../../Assets/413eab081902c9ec758bca0a7520b6193cf204538dec96b0a5c11fe4cf4e8a93.jpg)
+- [L0109 - Petroglyph Cave - Image 04](../../Assets/413eab081902c9ec758bca0a7520b6193cf204538dec96b0a5c11fe4cf4e8a93.jpg)
+- [L0109 - Petroglyph Cave - Image 05](../../Assets/3fc42debe4e15a84269d8245e80e7b51324ca5553a32c706632c0d016e8fa206.jpg)
+- [L0109 - Petroglyph Cave - Image 01](../../Assets/689861b3094608cdfb1fb3c24246c448df8297c53d836a64a80a8834dc25c13b.jpg)
+- [L0109 - Petroglyph Cave - Image 02](../../Assets/eccf56db371ccf073286f9d6ffc4807d641377a4fe0104ebb6d1b121711fdafe.jpg)
 
 # References
 

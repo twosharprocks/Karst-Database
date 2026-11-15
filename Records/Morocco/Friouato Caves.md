@@ -40,7 +40,7 @@ A spelunking expedition by a group from Exeter University discovered other secti
 
 # Images
 
-- [Friouato Caves - Gouffre332 - 79c22ebc-b3b5a367](../../Assets/a200572ac1b6e94628d8d47d638a8d51615a8016c31460682c381976c3697c4b.jpg)
+- [Friouato Caves - Gouffre332](../../Assets/a200572ac1b6e94628d8d47d638a8d51615a8016c31460682c381976c3697c4b.jpg)
 
 # References
 

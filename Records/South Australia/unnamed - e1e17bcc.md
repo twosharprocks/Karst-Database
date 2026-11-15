@@ -37,7 +37,7 @@ L0181, Thin Roof: N, Fence: N. Dimensions: 0.5m x 6m drop. Features: Cave cricke
 
 # Images
 
-- [L0181 - unnamed - 2023-04-11 09.14.09 - a23981fe-e1e17bcc](../../Assets/9c78c19c9a8d476994838f6be31561602afb56680a0928da4d58be766f618bc3.jpg)
+- [L0181 - unnamed - Image 01](../../Assets/9c78c19c9a8d476994838f6be31561602afb56680a0928da4d58be766f618bc3.jpg)
 
 # References
 

@@ -24,4 +24,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cenote Coop One - ccop one - e2273901-ecc80e35](../../Assets/ccc4ed4ff39dc251c1b459a329aeac131c76c961d6470793f631b4596d5eab41.jpg)
+- [Cenote Coop One - ccop one](../../Assets/ccc4ed4ff39dc251c1b459a329aeac131c76c961d6470793f631b4596d5eab41.jpg)

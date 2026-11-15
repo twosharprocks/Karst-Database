@@ -144,4 +144,4 @@ catalog-type: "region"
 
 # Images
 
-- [Victoria - F098-006 - 41d87746-902c84c0](../../Assets/0c92ab19112062aaf8a9bf57158339a431395df4b3bf128e7f88b0e2234124ad.jpg)
+- [Victoria - F098-006](../../Assets/0c92ab19112062aaf8a9bf57158339a431395df4b3bf128e7f88b0e2234124ad.jpg)

@@ -68,9 +68,9 @@ Known as the 'hole in the middle of the road', Allendale is one the of the first
 
 # Maps
 
-- [5L11 - Allendale - Contour map extracted from a 3D photogrammetric model of Allendale Cave - 6ffa777c-d38a415b](../../Assets/61571c7c83c2f3c018ea252f5243ae86acf1bb9a3936ba63c7cbccb63bb1a976.png)
-- [5L11 - Allendale - 1994 SAUSS map of Allendale Sinkhole - dd777156-d38a415b](../../Assets/810c25b4350babb567e59332b7e49b615546e0d080fcf682baa39a9e7b626121.jpg)
-- [5L11 - Allendale - Map extracted from 3D photogrammetry model of Allendale Cave - 568cb453-d38a415b](../../Assets/1c6a7437f94366950a79b460d3c0a3c43eb4a2a42e64f2e010273dd66c7f418b.jpg)
+- [5L11 - Allendale - Contour map extracted from a 3D photogrammetric model of Allendale Cave](../../Assets/61571c7c83c2f3c018ea252f5243ae86acf1bb9a3936ba63c7cbccb63bb1a976.png)
+- [5L11 - Allendale - 1994 SAUSS map of Allendale Sinkhole](../../Assets/810c25b4350babb567e59332b7e49b615546e0d080fcf682baa39a9e7b626121.jpg)
+- [5L11 - Allendale - Map extracted from 3D photogrammetry model of Allendale Cave](../../Assets/1c6a7437f94366950a79b460d3c0a3c43eb4a2a42e64f2e010273dd66c7f418b.jpg)
 
 # Source notes
 
@@ -94,17 +94,17 @@ A small tunnel (approx 5m diameter) follows the rock & rubble slope to the North
 
 # Images
 
-- [5L11 - Allendale - allen4 - 146cb1d4-d38a415b](../../Assets/2eff77c15b906853e6429ccf3ef924783da64e2b0cd4bd1620a98bf2868faaa9.jpg)
-- [5L11 - Allendale - Sideview of Allendale Cave 3D model - c5b8d3c4-d38a415b](../../Assets/bf0ced68e92bbc5280296e5ccf12e703b8d059a9a3c45b1b008d6bd3794b0072.png)
-- [5L11 - Allendale - 20250112_083952 - 77abb7e2-d38a415b](../../Assets/cbd77a795446662e5c8d2e4c2afe465ead9f37015c36457e1bf1515b4ecf79f4.jpg)
-- [5L11 - Allendale - allen3 - 496745fe-d38a415b](../../Assets/3b4f0ebb8cb157fd94a9d1a5232db1c7758115f869c7a1a89ba7aea7d77dc28d.jpg)
-- [5L11 - Allendale - Contour map extracted from a 3D photogrammetric model of Allendale Cave - 6ffa777c-d38a415b](../../Assets/61571c7c83c2f3c018ea252f5243ae86acf1bb9a3936ba63c7cbccb63bb1a976.png)
-- [5L11 - Allendale - 1994 SAUSS map of Allendale Sinkhole - dd777156-d38a415b](../../Assets/810c25b4350babb567e59332b7e49b615546e0d080fcf682baa39a9e7b626121.jpg)
-- [5L11 - Allendale - Allendalle entrance from the gate - 5578fea8-d38a415b](../../Assets/457985cca1a1a6fd4f47c98431b1c2e48c997472107f2d5f0731ba92ca06c7c9.jpg)
-- [5L11 - Allendale - Allendale s. Cave main tunnel access point can be seen on the Northwest corner of the lake - 30dbd355-d38a415b](../../Assets/0c59ac8d0e7a798b1e0d0934396028619ee2bd57e709df13eeb9bd7c2bcb5a45.jpg)
-- [5L11 - Allendale - allen - 97dfa871-d38a415b](../../Assets/efa0b2d7eadc89a7aa9ed226eada2e9c6277126ecde769391193362f6697a23f.jpg)
-- [5L11 - Allendale - Allendale Cave 3D model in perspective - 19585c22-d38a415b](../../Assets/0e0f4f31cec261fab6894a1ef2482d3f6af93595890a656b9b4bb7502966d68b.png)
-- [5L11 - Allendale - Map extracted from 3D photogrammetry model of Allendale Cave - 568cb453-d38a415b](../../Assets/1c6a7437f94366950a79b460d3c0a3c43eb4a2a42e64f2e010273dd66c7f418b.jpg)
+- [5L11 - Allendale - allen4](../../Assets/2eff77c15b906853e6429ccf3ef924783da64e2b0cd4bd1620a98bf2868faaa9.jpg)
+- [5L11 - Allendale - Sideview of Allendale Cave 3D model](../../Assets/bf0ced68e92bbc5280296e5ccf12e703b8d059a9a3c45b1b008d6bd3794b0072.png)
+- [5L11 - Allendale - Image 01](../../Assets/cbd77a795446662e5c8d2e4c2afe465ead9f37015c36457e1bf1515b4ecf79f4.jpg)
+- [5L11 - Allendale - allen3](../../Assets/3b4f0ebb8cb157fd94a9d1a5232db1c7758115f869c7a1a89ba7aea7d77dc28d.jpg)
+- [5L11 - Allendale - Contour map extracted from a 3D photogrammetric model of Allendale Cave](../../Assets/61571c7c83c2f3c018ea252f5243ae86acf1bb9a3936ba63c7cbccb63bb1a976.png)
+- [5L11 - Allendale - 1994 SAUSS map of Allendale Sinkhole](../../Assets/810c25b4350babb567e59332b7e49b615546e0d080fcf682baa39a9e7b626121.jpg)
+- [5L11 - Allendale - Allendalle entrance from the gate](../../Assets/457985cca1a1a6fd4f47c98431b1c2e48c997472107f2d5f0731ba92ca06c7c9.jpg)
+- [5L11 - Allendale - Allendale s. Cave main tunnel access point can be seen on the Northwest corner of the lake](../../Assets/0c59ac8d0e7a798b1e0d0934396028619ee2bd57e709df13eeb9bd7c2bcb5a45.jpg)
+- [5L11 - Allendale - allen](../../Assets/efa0b2d7eadc89a7aa9ed226eada2e9c6277126ecde769391193362f6697a23f.jpg)
+- [5L11 - Allendale - Allendale Cave 3D model in perspective](../../Assets/0e0f4f31cec261fab6894a1ef2482d3f6af93595890a656b9b4bb7502966d68b.png)
+- [5L11 - Allendale - Map extracted from 3D photogrammetry model of Allendale Cave](../../Assets/1c6a7437f94366950a79b460d3c0a3c43eb4a2a42e64f2e010273dd66c7f418b.jpg)
 
 # References
 

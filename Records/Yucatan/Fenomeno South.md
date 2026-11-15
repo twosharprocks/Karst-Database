@@ -27,4 +27,4 @@ maximum_depth: "13 m"
 
 # Images
 
-- [Fenomeno South - 465122657_122145478418304723_3557161439792738527_n - 0519c284-98588973](../../Assets/6425d5e1a9708fabe51266fc72e1ca9076c3b11e5995be95e5952fd9b4e2ae03.jpg)
+- [Fenomeno South - Image 01](../../Assets/6425d5e1a9708fabe51266fc72e1ca9076c3b11e5995be95e5952fd9b4e2ae03.jpg)

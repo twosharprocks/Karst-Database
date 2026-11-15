@@ -27,8 +27,8 @@ tidal: "No"
 
 # Images
 
-- [Cetatea Radesei - 454302414_3937520769864403_3350802605308395613_n - 9834c85c-ae2da9ae](../../Assets/5c09eddec508a3cc406e30df59f9dc3e2a3b65ef15471dc5d179ff4b49cc314b.jpg)
-- [Cetatea Radesei - 454381573_3937520113197802_718514006247668516_n - 47901826-ae2da9ae](../../Assets/e02b605619ef77154aa1c80a250b31727f3972b574951983d243cd3ee33e562a.jpg)
+- [Cetatea Radesei - Image 01](../../Assets/5c09eddec508a3cc406e30df59f9dc3e2a3b65ef15471dc5d179ff4b49cc314b.jpg)
+- [Cetatea Radesei - Image 02](../../Assets/e02b605619ef77154aa1c80a250b31727f3972b574951983d243cd3ee33e562a.jpg)
 
 # References
 

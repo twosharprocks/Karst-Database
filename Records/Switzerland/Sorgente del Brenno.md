@@ -27,8 +27,8 @@ difficulty: "VeryHard"
 
 # Images
 
-- [Sorgente del Brenno - FB_IMG_1729414167242 - da8bdfea-1512dd03](../../Assets/1c70958842a81974ce4d86e08c5fc84c3e89469b80117c3a1bf289bd07a51356.jpg)
-- [Sorgente del Brenno - FB_IMG_1729414170045 - d38aef7f-1512dd03](../../Assets/7c78e052577c5df81836c6635e93c589fc09c83928bb716dfc1c8cf152ca46b9.jpg)
+- [Sorgente del Brenno - Image 01](../../Assets/1c70958842a81974ce4d86e08c5fc84c3e89469b80117c3a1bf289bd07a51356.jpg)
+- [Sorgente del Brenno - Image 02](../../Assets/7c78e052577c5df81836c6635e93c589fc09c83928bb716dfc1c8cf152ca46b9.jpg)
 
 # References
 

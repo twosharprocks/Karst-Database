@@ -24,5 +24,5 @@ water_type: "Fresh"
 
 # Images
 
-- [Cueva de Saturno - saturno - 1f683c8e-551f7ea9](../../Assets/0d790608970a66e2172c8c6f0e2d524311cc87c81bb7534aedbcff4707a26967.jpg)
-- [Cueva de Saturno - saturno2 - 73679712-551f7ea9](../../Assets/e3d8ca654646fa94b1dcefb8304d9af496c55356c924feedc5fbd76e3e6a17ec.jpg)
+- [Cueva de Saturno - saturno](../../Assets/0d790608970a66e2172c8c6f0e2d524311cc87c81bb7534aedbcff4707a26967.jpg)
+- [Cueva de Saturno - saturno2](../../Assets/e3d8ca654646fa94b1dcefb8304d9af496c55356c924feedc5fbd76e3e6a17ec.jpg)

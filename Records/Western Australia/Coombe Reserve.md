@@ -51,7 +51,7 @@ Significant detail, videos, positional data and photogrammetry
 
 # Images
 
-- [Coombe Reserve - Coombes - b9fbba54-02e4b45f](../../Assets/dd04a1aaa10989aa267fe3405ea4874dae2c49bb8ad15d08d593be0003f79356.jpg)
+- [Coombe Reserve - Coombes](../../Assets/dd04a1aaa10989aa267fe3405ea4874dae2c49bb8ad15d08d593be0003f79356.jpg)
 
 # References
 

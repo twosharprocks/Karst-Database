@@ -41,8 +41,8 @@ This cave is located on the lands of the Nature Reserve of the Gorges of Ardeche
 
 # Images
 
-- [Dragonière - Dragonière - 67e7008a-70f0f379](../../Assets/92e140f7826d116395ec8da80185cc13bab92a7fb3fb42504600ff3ea1755c13.jpg)
-- [Dragonière - Dragonière2 - 7e37ae25-70f0f379](../../Assets/e7392720fb2e4cde7a7efad91fa4fa9084f79b3424a4ab317c0b8a50ce39b66e.jpg)
+- [Dragonière - Dragonière](../../Assets/92e140f7826d116395ec8da80185cc13bab92a7fb3fb42504600ff3ea1755c13.jpg)
+- [Dragonière - Dragonière2](../../Assets/e7392720fb2e4cde7a7efad91fa4fa9084f79b3424a4ab317c0b8a50ce39b66e.jpg)
 
 # References
 

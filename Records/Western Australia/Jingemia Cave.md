@@ -23,8 +23,8 @@ Jingemia Cave is a distinctive natural feature in a band of low rocky hills that
 
 # Images
 
-- [Jingemia Cave - jing - 5c5f586e-cf4a080e](../../Assets/ed3db60b748fa9db96494113f1e403c6464cda1c712d5c23a74858d7690247d0.jpg)
-- [Jingemia Cave - jibge - db06426b-cf4a080e](../../Assets/8c53d8e48032028ff1df1d948a3aaa6d998f490fea1aa556f468447fcae18c0e.jpg)
+- [Jingemia Cave - jing](../../Assets/ed3db60b748fa9db96494113f1e403c6464cda1c712d5c23a74858d7690247d0.jpg)
+- [Jingemia Cave - jibge](../../Assets/8c53d8e48032028ff1df1d948a3aaa6d998f490fea1aa556f468447fcae18c0e.jpg)
 
 # References
 

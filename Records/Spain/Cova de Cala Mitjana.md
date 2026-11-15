@@ -20,7 +20,7 @@ source: "ResearchGate"
 
 # Images
 
-- [Cova de Cala Mitjana - sa nau - 29a9f56d-0f27dbb0](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
+- [Cova de Cala Mitjana - sa nau](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
 
 # References
 

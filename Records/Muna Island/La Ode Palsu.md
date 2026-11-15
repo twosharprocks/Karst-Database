@@ -39,8 +39,8 @@ parking: "Ok"
 
 # Images
 
-- [La Ode Palsu - La Ode Palsu - entry - e6340e9e-fbd73648](../../Assets/46c4d6c180182edca723bbda43fb167333129ab4e8ac143b0b90772ac3c2d73c.jpg)
-- [La Ode Palsu - La Ode Palsu - sketch - 83168cac-fbd73648](../../Assets/e0bec03fa14fafe5a0591b005a3fc196591257952b31164fb16056879ae4e483.jpg)
+- [La Ode Palsu - La Ode Palsu - entry](../../Assets/46c4d6c180182edca723bbda43fb167333129ab4e8ac143b0b90772ac3c2d73c.jpg)
+- [La Ode Palsu - La Ode Palsu - sketch](../../Assets/e0bec03fa14fafe5a0591b005a3fc196591257952b31164fb16056879ae4e483.jpg)
 
 # References
 

@@ -25,4 +25,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Dam - dam - 7d9e7226-d56d6acf](../../Assets/6881d6a0babac3f4ba33447c4968e1dc6fc4aad817c23a06c7164fbdf41b8f82.jpg)
+- [Dam - dam](../../Assets/6881d6a0babac3f4ba33447c4968e1dc6fc4aad817c23a06c7164fbdf41b8f82.jpg)

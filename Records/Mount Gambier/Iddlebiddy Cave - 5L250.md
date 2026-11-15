@@ -64,9 +64,9 @@ The entrance is via a locked hatch that opens to reveal a solution tube about 8m
 TML Data: Iddlebiddy.tml
 KML Survey: Iddlebiddy.kml
 
-- [5L250 - Iddlebiddy Cave - Diver at the main Iddlebiddy tunnel section - 22781733-5a860a82](../../Assets/e8c140997f879c2a2bd6b49cb90caecba08f5aa4dbdb6cec4981e840e31984e3.jpeg)
-- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey - 69193e1d-5a860a82](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg)
-- [5L250 - Iddlebiddy Cave - Map Overlay (googlemaps) - e90f909f-5a860a82](../../Assets/08fd53f0b24691c7195a7360a6ceb9fe0253eda5a0b42fd0553a30f49727dd26.jpeg)
+- [5L250 - Iddlebiddy Cave - Diver at the main Iddlebiddy tunnel section](../../Assets/e8c140997f879c2a2bd6b49cb90caecba08f5aa4dbdb6cec4981e840e31984e3.jpeg)
+- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg)
+- [5L250 - Iddlebiddy Cave - Map Overlay (googlemaps)](../../Assets/08fd53f0b24691c7195a7360a6ceb9fe0253eda5a0b42fd0553a30f49727dd26.jpeg)
 - [Iddlebiddy - f89d1bdd-5a860a82](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/KML_Data/Iddlebiddy.kml)
 
 # Source notes
@@ -87,16 +87,16 @@ L0250, Thin Roof: N, Fence: N. Dimensions: ?. Features: popular diving site
 
 # Images
 
-- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey - 69193e1d-5a860a82](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg) — Grubby Wombat
-- [5L250 - Iddlebiddy Cave - Cave entrance - 4ba3c9e5-5a860a82](../../Assets/04374cb2431adf287eb127fc44d30bd07b99299f3eddaa054bfac32d3dcd83cf.jpg)
-- [5L250 - Iddlebiddy Cave - Diver at the main Iddlebiddy tunnel section - 22781733-5a860a82](../../Assets/e8c140997f879c2a2bd6b49cb90caecba08f5aa4dbdb6cec4981e840e31984e3.jpeg)
-- [5L250 - Iddlebiddy Cave - Forestry sign and dive gear setup bench at Iddlebiddy Cave entrance - 5245249e-5a860a82](../../Assets/1b5da18eb264b4fbce6800d9b4c9a1abc8b21173d1ffd10ba046c98038041f91.jpg)
-- [5L250 - Iddlebiddy Cave - Forestry sign at Iddlebiddy Cave entrance - f878cd6a-5a860a82](../../Assets/dc8594561e451b5fba0508d9ddb6bae64b94823e8855630c9d9628bcf9724ad1.jpg)
-- [5L250 - Iddlebiddy Cave - Iddlebiddy Cave entrance after hatch opened - d9f7e9b9-5a860a82](../../Assets/26431b6f8c5a197edd01c35749b8c5b4848574dc8f5f2308660b6a3422dc89e5.jpg)
-- [5L250 - Iddlebiddy Cave - Map Overlay (googlemaps) - e90f909f-5a860a82](../../Assets/08fd53f0b24691c7195a7360a6ceb9fe0253eda5a0b42fd0553a30f49727dd26.jpeg)
-- [5L250 - Iddlebiddy Cave - Screenshot 2023-10-24 at 11.33.29 pm - f12fea14-5a860a82](../../Assets/331a68ab02cb9de99d04fd79b2af564eabe6d02572807c731711a81e5bee6c6a.png)
+- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg) — Grubby Wombat
+- [5L250 - Iddlebiddy Cave - Cave entrance](../../Assets/04374cb2431adf287eb127fc44d30bd07b99299f3eddaa054bfac32d3dcd83cf.jpg)
+- [5L250 - Iddlebiddy Cave - Diver at the main Iddlebiddy tunnel section](../../Assets/e8c140997f879c2a2bd6b49cb90caecba08f5aa4dbdb6cec4981e840e31984e3.jpeg)
+- [5L250 - Iddlebiddy Cave - Forestry sign and dive gear setup bench at Iddlebiddy Cave entrance](../../Assets/1b5da18eb264b4fbce6800d9b4c9a1abc8b21173d1ffd10ba046c98038041f91.jpg)
+- [5L250 - Iddlebiddy Cave - Forestry sign at Iddlebiddy Cave entrance](../../Assets/dc8594561e451b5fba0508d9ddb6bae64b94823e8855630c9d9628bcf9724ad1.jpg)
+- [5L250 - Iddlebiddy Cave - Iddlebiddy Cave entrance after hatch opened](../../Assets/26431b6f8c5a197edd01c35749b8c5b4848574dc8f5f2308660b6a3422dc89e5.jpg)
+- [5L250 - Iddlebiddy Cave - Map Overlay (googlemaps)](../../Assets/08fd53f0b24691c7195a7360a6ceb9fe0253eda5a0b42fd0553a30f49727dd26.jpeg)
+- [5L250 - Iddlebiddy Cave - Image 01](../../Assets/331a68ab02cb9de99d04fd79b2af564eabe6d02572807c731711a81e5bee6c6a.png)
 
-- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey - 69193e1d-5a860a82](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg)
+- [5L250 - Iddlebiddy Cave - 5L250 - Iddlebiddy - full line survey](../../Assets/e6ed1545275763cc90f2e1f025052e3b7ce447e3e07af63fad016852f3790592.jpg)
 - [Iddlebiddy Map Dec23 - 8c073f79-5a860a82](../../Regions/Oceania/Australia/5L%20-%20Mt%20Gambier/Maps/5L250%20-%20Iddlebiddy%20-%20Will%20Passos%20%28Dec%202023%29.pdf)
 
 # References

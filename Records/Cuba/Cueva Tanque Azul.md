@@ -43,10 +43,10 @@ The cavern has two main entrances, one facing west and the other east , both gal
 
 # Images
 
-- [Cueva Tanque Azul - Tanque Azul2 - 7f51382d-a5937898](../../Assets/530409a45f66f566cc1df5fa3f4f6b85374bd70bcf2eb588052ee0243170ea9d.jpg)
-- [Cueva Tanque Azul - Tanque Azul - 71ad3a18-a5937898](../../Assets/4f10ae7c4914ca2a54aa16c893c04e98e35350203d6dca16ee455298874ec6e6.jpg)
-- [Cueva Tanque Azul - Tanque Azul-surface - b5901eed-a5937898](../../Assets/83d707f3c08aa1f87da66f8443e866dfd7dda603c7cc391ece6935f6e2749f4b.jpg)
-- [Cueva Tanque Azul - Dibujofinal - 1b1e0efa-a5937898](../../Assets/d09de10e4eac04613a931aa8619ceae0086b8c17e924b36bf43511106fb70f94.jpg)
+- [Cueva Tanque Azul - Tanque Azul2](../../Assets/530409a45f66f566cc1df5fa3f4f6b85374bd70bcf2eb588052ee0243170ea9d.jpg)
+- [Cueva Tanque Azul - Tanque Azul](../../Assets/4f10ae7c4914ca2a54aa16c893c04e98e35350203d6dca16ee455298874ec6e6.jpg)
+- [Cueva Tanque Azul - Tanque Azul-surface](../../Assets/83d707f3c08aa1f87da66f8443e866dfd7dda603c7cc391ece6935f6e2749f4b.jpg)
+- [Cueva Tanque Azul - Dibujofinal](../../Assets/d09de10e4eac04613a931aa8619ceae0086b8c17e924b36bf43511106fb70f94.jpg)
 
 # References
 

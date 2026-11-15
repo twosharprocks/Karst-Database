@@ -28,6 +28,6 @@ parking: "Bad"
 
 # Images
 
-- [Cathedral Cave - PXL_20250926_064838140 - f7eb8c0d-28e22a3f](../../Assets/cc6ca2fa62fae2b1a8e20afbf8393193a019e80d5eac61a2ef38f95000bd57cf.jpg)
-- [Cathedral Cave - PXL_20250926_064906021 - 84db28ee-28e22a3f](../../Assets/7ee1931aa0c36581904a4744aa385e67c66910dbd15abe48c9e1eb55bb3b3b4e.jpg)
-- [Cathedral Cave - PXL_20250926_064937501 - 93c7cbb9-28e22a3f](../../Assets/80d1c3142dcb2e1dd1af6cf5b75791c07d9ad02c213a3d1e6569105685de32e6.jpg)
+- [Cathedral Cave - Image 01](../../Assets/cc6ca2fa62fae2b1a8e20afbf8393193a019e80d5eac61a2ef38f95000bd57cf.jpg)
+- [Cathedral Cave - Image 02](../../Assets/7ee1931aa0c36581904a4744aa385e67c66910dbd15abe48c9e1eb55bb3b3b4e.jpg)
+- [Cathedral Cave - Image 03](../../Assets/80d1c3142dcb2e1dd1af6cf5b75791c07d9ad02c213a3d1e6569105685de32e6.jpg)

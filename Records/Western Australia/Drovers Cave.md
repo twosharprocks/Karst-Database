@@ -34,7 +34,7 @@ Location from Waze - locked gate in picture very different from Stockton Gully C
 
 # Images
 
-- [6J-2 - Drovers Cave - drovers - 83882965-2887f934](../../Assets/bb0ceb10e9f0406c49d1237d1eb510883852ba2e8cbddb3ea43246da0070bda5.jpg)
+- [6J-2 - Drovers Cave - drovers](../../Assets/bb0ceb10e9f0406c49d1237d1eb510883852ba2e8cbddb3ea43246da0070bda5.jpg)
 
 # References
 

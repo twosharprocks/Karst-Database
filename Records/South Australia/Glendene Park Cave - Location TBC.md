@@ -36,8 +36,8 @@ Apart from its significant size (more than 240 metres of passage to date), the c
 
 # Images
 
-- [Glendene Park Cave - Location TBC - 2382 - c2e241ba-f66d9c26](../../Assets/fce4e502070052a2bad8b2215e5005d7150cc63b1eba1f58a82cf172f0b469c3.jpg)
-- [Glendene Park Cave - Location TBC - 238 - 8cf00a6d-f66d9c26](../../Assets/bac9785b3106fb6bdf564abcc2238af1a91c94c416c9a6750d04680c42a18552.jpg)
+- [Glendene Park Cave - Location TBC - Image 02](../../Assets/fce4e502070052a2bad8b2215e5005d7150cc63b1eba1f58a82cf172f0b469c3.jpg)
+- [Glendene Park Cave - Location TBC - Image 01](../../Assets/bac9785b3106fb6bdf564abcc2238af1a91c94c416c9a6750d04680c42a18552.jpg)
 
 # References
 

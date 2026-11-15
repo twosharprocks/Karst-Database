@@ -24,7 +24,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Green Grotto Caves - gg - d601838e-df5267a0](../../Assets/27a25908732bd071fb4a5c577d1e0e65c06fc0c591ec98b27f57e57381f7c8ac.jpg)
-- [Green Grotto Caves - gg2 - 8569cf5f-df5267a0](../../Assets/d7fb3ad5e31e48cd35c8b74ef0289dd0d2496f9832579f61ec8fa885c28b450b.jpg)
+- [Green Grotto Caves - gg](../../Assets/27a25908732bd071fb4a5c577d1e0e65c06fc0c591ec98b27f57e57381f7c8ac.jpg)
+- [Green Grotto Caves - gg2](../../Assets/d7fb3ad5e31e48cd35c8b74ef0289dd0d2496f9832579f61ec8fa885c28b450b.jpg)
 
 - [Jamaica](../Regions/Jamaica.md)

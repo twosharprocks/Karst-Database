@@ -20,4 +20,4 @@ address: "Jl. [[Danau Napabale]], Muna Regency, South East Sulawesi, IDN, 93658"
 
 # Images
 
-- [Mata Air Wolio - Mata Air Wolio - 8fbbbc3c-c49c8d40](../../Assets/f6a0d1093216444e8a69f8c28a743d92f68cd4fe92bdc303adb13ddace4525d8.jpg)
+- [Mata Air Wolio - Mata Air Wolio](../../Assets/f6a0d1093216444e8a69f8c28a743d92f68cd4fe92bdc303adb13ddace4525d8.jpg)

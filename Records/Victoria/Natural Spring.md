@@ -23,8 +23,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Natural Spring - 20250213_105956 - 20ef76c8-920c43f1](../../Assets/fb8f95585758776e7f3f90f1f5bdb14fce0b16a6674694e0c436db7fea4de118.jpg)
-- [Natural Spring - 20250213_110019 - 93b5e7cf-920c43f1](../../Assets/99cbf82a85fe5955726e63b5f3e1f91b853e4570fa99f2a96b9a77dd80a683b3.jpg)
+- [Natural Spring - Image 01](../../Assets/fb8f95585758776e7f3f90f1f5bdb14fce0b16a6674694e0c436db7fea4de118.jpg)
+- [Natural Spring - Image 02](../../Assets/99cbf82a85fe5955726e63b5f3e1f91b853e4570fa99f2a96b9a77dd80a683b3.jpg)
 
 # References
 

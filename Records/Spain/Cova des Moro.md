@@ -30,9 +30,9 @@ The cave entrance, framed by megaliths at 16 meters above sea level, is surround
 
 # Images
 
-- [Cova des Moro - Cova_des_Moro_(Manacor)_10 - 58c68cc7-da7a4207](../../Assets/db79a2266151d26eb032aad6c32a38a1ad2d8e22097942ba408dec716de4ae27.jpg)
-- [Cova des Moro - yellow - 0c9ab74b-da7a4207](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
-- [Cova des Moro - Cova_des_Moro_(Manacor)_03 - 93ecd311-da7a4207](../../Assets/e2db3e71241a98caa57e1afe8675119aa5548b06cdb854c2aaa4fbb02aa43456.jpg)
+- [Cova des Moro - Cova_des_Moro_(Manacor)_10](../../Assets/db79a2266151d26eb032aad6c32a38a1ad2d8e22097942ba408dec716de4ae27.jpg)
+- [Cova des Moro - yellow](../../Assets/8e38c7b9fff59c74d931761322a49c25415fead095a08138697ef3f1dc73f56f.png)
+- [Cova des Moro - Cova_des_Moro_(Manacor)_03](../../Assets/e2db3e71241a98caa57e1afe8675119aa5548b06cdb854c2aaa4fbb02aa43456.jpg)
 
 # References
 

@@ -30,7 +30,7 @@ tidal: "No"
 
 # Images
 
-- [Gruta Do Mimoso - Gruta do Mimoso - 414a8e14-d537d576](../../Assets/753ed9b70443f1c4115fcf4e9a5f375ae665ef9c7c816aea253468b66e71e81e.jpg)
-- [Gruta Do Mimoso - 2024-11-11 14_16_01-Gruta do Mimoso - Google Maps - e4751ff7-d537d576](../../Assets/0d42fbc0e888c51fe4edc1abd5e8110e1f45a5418adad0c9540f89bab16161dc.jpg)
+- [Gruta Do Mimoso - Gruta do Mimoso](../../Assets/753ed9b70443f1c4115fcf4e9a5f375ae665ef9c7c816aea253468b66e71e81e.jpg)
+- [Gruta Do Mimoso - 2024-11-11 14_16_01-Gruta do Mimoso - Google Maps](../../Assets/0d42fbc0e888c51fe4edc1abd5e8110e1f45a5418adad0c9540f89bab16161dc.jpg)
 
 - [Brazil](../Regions/Brazil.md)

@@ -67,21 +67,21 @@ L0018, Thin Roof: N, Fence: N. Dimensions: ?. Features: Significant decoration N
 
 # Images
 
-- [L0018 - Tindales Caves E - PXL_20230718_005015360 - fb8d358d-60682d31](../../Assets/b0314e81ab91146d76369780000468bb98be27c3ceae0ad667eb503951340b17.jpg)
-- [L0018 - Tindales Caves E - 18 - 19581e50-60682d31](../../Assets/1346bdc116e088bb4fdba1f155bce13261b736940c078f05673ae4454e32f377.jpg)
-- [L0018 - Tindales Caves E - PXL_20230718_004645809 - 1e6059ad-60682d31](../../Assets/a7bc854376adae87abec79d95b10cb3f7cc9cbd0f0b4969de76315b0d7409f13.jpg)
-- [L0018 - Tindales Caves E - IMG_20210809_172110_2 - 919ad685-60682d31](../../Assets/8168c04d51aa5e94d6f2a4df4f213033bd9db54dc8fe84f4adf1db1fb9a80ac2.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000059380 - 1a2bf34c-60682d31](../../Assets/981dad9ef7fb5f0cc2859bb4d36d2c4c186e27d301319b57fd17815884aaf309.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_001057599 - 44285e5f-60682d31](../../Assets/83318773e5d9902a9927a2fa4169396c612c1e7b9a0b70f19d4e941ab4231f5c.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000453765 - b75efac0-60682d31](../../Assets/5b02fdfbfb118c2e3b870455dddc0929bb60b3c90b7a441a46800d8a3383b3bd.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000549488 - 890666c7-60682d31](../../Assets/3d47b964c041f719c68e9722130c3069b3f56b6b5c57dafdb801df62b6fe6a98.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000629222 - 0ed3c25c-60682d31](../../Assets/506882679aa5b82421046152aa23b225896c40bd0237827bb3a70db1f6865ac8.jpg)
-- [L0018 - Tindales Caves E - 0059 - bbc0d822-60682d31](../../Assets/fc5561472bf0a10bf495622352c047c1ea812e266166d335f2e200fc66a59daf.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000839374 - 2b98baee-60682d31](../../Assets/3fbc0189e9de28aea0d2b1d36630f7526c0e02e0fcb7773b3cf844158517c077.jpg)
-- [L0018 - Tindales Caves E - 0058 - f89c44df-60682d31](../../Assets/0a99c74c9e534910b24140dcf92fb64a8b546b5f2c0749debfac16471c9279c3.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000459921 - a4e319c4-60682d31](../../Assets/cfc17bc5e3533800dc984903a779f07b455698ec0917faac3dcd257e66b8e3d9.jpg)
-- [L0018 - Tindales Caves E - PXL_20230809_000448482 - 592c5e03-60682d31](../../Assets/5314847263cac51e24ec3bb147019495010b30c515dc84d9ffe1dd3bb4885e3e.jpg)
-- [L0018 - Tindales Caves E - PXL_20230718_004901700 - f5beed65-60682d31](../../Assets/0ee91811217eeea3118087d8fbe4d8ebc9d8f9e05abc17d1913a7fd03beb3ffd.jpg)
+- [L0018 - Tindales Caves E - Image 07](../../Assets/b0314e81ab91146d76369780000468bb98be27c3ceae0ad667eb503951340b17.jpg)
+- [L0018 - Tindales Caves E - Image 03](../../Assets/1346bdc116e088bb4fdba1f155bce13261b736940c078f05673ae4454e32f377.jpg)
+- [L0018 - Tindales Caves E - Image 05](../../Assets/a7bc854376adae87abec79d95b10cb3f7cc9cbd0f0b4969de76315b0d7409f13.jpg)
+- [L0018 - Tindales Caves E - Image 04](../../Assets/8168c04d51aa5e94d6f2a4df4f213033bd9db54dc8fe84f4adf1db1fb9a80ac2.jpg)
+- [L0018 - Tindales Caves E - Image 08](../../Assets/981dad9ef7fb5f0cc2859bb4d36d2c4c186e27d301319b57fd17815884aaf309.jpg)
+- [L0018 - Tindales Caves E - Image 15](../../Assets/83318773e5d9902a9927a2fa4169396c612c1e7b9a0b70f19d4e941ab4231f5c.jpg)
+- [L0018 - Tindales Caves E - Image 10](../../Assets/5b02fdfbfb118c2e3b870455dddc0929bb60b3c90b7a441a46800d8a3383b3bd.jpg)
+- [L0018 - Tindales Caves E - Image 12](../../Assets/3d47b964c041f719c68e9722130c3069b3f56b6b5c57dafdb801df62b6fe6a98.jpg)
+- [L0018 - Tindales Caves E - Image 13](../../Assets/506882679aa5b82421046152aa23b225896c40bd0237827bb3a70db1f6865ac8.jpg)
+- [L0018 - Tindales Caves E - Image 02](../../Assets/fc5561472bf0a10bf495622352c047c1ea812e266166d335f2e200fc66a59daf.jpg)
+- [L0018 - Tindales Caves E - Image 14](../../Assets/3fbc0189e9de28aea0d2b1d36630f7526c0e02e0fcb7773b3cf844158517c077.jpg)
+- [L0018 - Tindales Caves E - Image 01](../../Assets/0a99c74c9e534910b24140dcf92fb64a8b546b5f2c0749debfac16471c9279c3.jpg)
+- [L0018 - Tindales Caves E - Image 11](../../Assets/cfc17bc5e3533800dc984903a779f07b455698ec0917faac3dcd257e66b8e3d9.jpg)
+- [L0018 - Tindales Caves E - Image 09](../../Assets/5314847263cac51e24ec3bb147019495010b30c515dc84d9ffe1dd3bb4885e3e.jpg)
+- [L0018 - Tindales Caves E - Image 06](../../Assets/0ee91811217eeea3118087d8fbe4d8ebc9d8f9e05abc17d1913a7fd03beb3ffd.jpg)
 
 # References
 

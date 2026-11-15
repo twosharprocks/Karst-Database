@@ -36,8 +36,8 @@ The channel connecting the two features is only about a metre or so deep and con
 
 # Images
 
-- [L0247 - Hammerhead Pond - 0483 - fa5c65d2-0e80bafd](../../Assets/f25905a08caa600b4d5e08b548a6bad90d1dc36d7d802ac16c9bbd1389200a39.jpg)
-- [L0247 - Hammerhead Pond - 0482 - 4087a7cf-0e80bafd](../../Assets/4bc02f44dbbc61f070e692e01e98035e850aacb3e67e216aa38a97fc62d3431d.jpg)
+- [L0247 - Hammerhead Pond - Image 02](../../Assets/f25905a08caa600b4d5e08b548a6bad90d1dc36d7d802ac16c9bbd1389200a39.jpg)
+- [L0247 - Hammerhead Pond - Image 01](../../Assets/4bc02f44dbbc61f070e692e01e98035e850aacb3e67e216aa38a97fc62d3431d.jpg)
 
 # References
 

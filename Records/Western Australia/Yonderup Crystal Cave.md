@@ -32,7 +32,7 @@ Bookings for Companion Cardholders can be made by contacting the Yanchep Parks a
 
 # Images
 
-- [Yonderup Crystal Cave - crystal-cave-pantheon-yanchep-national-park-c-morey-1 - b3996b88-4feb9bf8](../../Assets/3c76ac61604d6ed04fbad84b494fb6536694c39bb2ae3411d44cd314ab73b6d0.jpg)
+- [Yonderup Crystal Cave - crystal-cave-pantheon-yanchep-national-park-c-morey-1](../../Assets/3c76ac61604d6ed04fbad84b494fb6536694c39bb2ae3411d44cd314ab73b6d0.jpg)
 
 # References
 

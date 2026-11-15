@@ -36,5 +36,5 @@ Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Sinkhole
 
 # Images
 
-- [Unnamed Forestry - 2023-08-05 17.23.19 - 050f2fcb-be8b12cf](../../Assets/20ece78db1c4841e7a9ffb11073e8768ca98145cd15e6c997c0c139c1511e367.jpg)
-- [Unnamed Forestry - 2023-08-05 17.23.23 - 02c63350-be8b12cf](../../Assets/f6f67c0930e4c19942472357737a4a56a24679087e4292be34c3e8748240b72f.jpg)
+- [Unnamed Forestry - Image 01](../../Assets/20ece78db1c4841e7a9ffb11073e8768ca98145cd15e6c997c0c139c1511e367.jpg)
+- [Unnamed Forestry - Image 02](../../Assets/f6f67c0930e4c19942472357737a4a56a24679087e4292be34c3e8748240b72f.jpg)

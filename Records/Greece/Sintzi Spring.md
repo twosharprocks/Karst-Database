@@ -46,8 +46,8 @@ Generally the visibility is very good but it differentiates depending on the sea
 
 # Images
 
-- [Sintzi Spring - sinzi - d653299e-cbd6e4b6](../../Assets/c741d132c222f7956a5bdb2cb163159f3e98b1b5641580cf54640f509a2ccf99.jpg)
-- [Sintzi Spring - sintzi - 1ae4980a-cbd6e4b6](../../Assets/e9b1e6382e5860d36c9f1a53568277f2e5197aeff04c2c5cce77c0a6bb9576a1.jpg)
+- [Sintzi Spring - sinzi](../../Assets/c741d132c222f7956a5bdb2cb163159f3e98b1b5641580cf54640f509a2ccf99.jpg)
+- [Sintzi Spring - sintzi](../../Assets/e9b1e6382e5860d36c9f1a53568277f2e5197aeff04c2c5cce77c0a6bb9576a1.jpg)
 
 # References
 

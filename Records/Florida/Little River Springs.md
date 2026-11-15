@@ -25,4 +25,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Little River Springs - Image - dec15eb6-c87e9516](../../Assets/e862f844fc3e828fb28f7a4e6987b0343d6296abf4a45328a123b68789cd900f.jpg)
+- [Little River Springs - Image 01](../../Assets/e862f844fc3e828fb28f7a4e6987b0343d6296abf4a45328a123b68789cd900f.jpg)

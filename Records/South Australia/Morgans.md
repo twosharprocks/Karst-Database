@@ -53,9 +53,9 @@ L0034, Thin Roof: N, Fence: Y. Dimensions: ?. Features: popular dry caving site 
 
 # Images
 
-- [L0034b - Morgans - 0085 - b888c5c0-69771605](../../Assets/42292568277e8fe8fb5ec14781bceafaa42be0df625c65f75c62c6685cf0fdde.jpg)
-- [L0034b - Morgans - 0084 - 6a7e4c57-69771605](../../Assets/258b97c7a8064ae22f2f0006cd72f7874aaabe0202f95d7a48eac91959c123b9.jpg)
-- [L0034b - Morgans - Formation on the NW side of Morgan's Cave - d49c920c-69771605](../../Assets/09d4c9f6664bc0bc845b11fac4305df57cc96e0442a54cdee305ef7ab357eda2.jpg)
+- [L0034b - Morgans - Image 02](../../Assets/42292568277e8fe8fb5ec14781bceafaa42be0df625c65f75c62c6685cf0fdde.jpg)
+- [L0034b - Morgans - Image 01](../../Assets/258b97c7a8064ae22f2f0006cd72f7874aaabe0202f95d7a48eac91959c123b9.jpg)
+- [L0034b - Morgans - Formation on the NW side of Morgan's Cave](../../Assets/09d4c9f6664bc0bc845b11fac4305df57cc96e0442a54cdee305ef7ab357eda2.jpg)
 
 # References
 

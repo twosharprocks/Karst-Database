@@ -51,8 +51,8 @@ Entrance is unknown ent.type; length is Unknown m
 
 # Images
 
-- [L0003 - Hand Cave - 20231103_124726 - 47221760-63115711](../../Assets/57144524578b2b91c191146b261b1c1b36f5f734611df947c532f39403dac23c.jpg)
-- [L0003 - Hand Cave - 20231103_124724 - 9ec697e4-63115711](../../Assets/a8724f13897263c20c2d49e8180d028742c8d123dddd4baa021fe2284c7e199c.jpg)
+- [L0003 - Hand Cave - Image 02](../../Assets/57144524578b2b91c191146b261b1c1b36f5f734611df947c532f39403dac23c.jpg)
+- [L0003 - Hand Cave - Image 01](../../Assets/a8724f13897263c20c2d49e8180d028742c8d123dddd4baa021fe2284c7e199c.jpg)
 
 # References
 

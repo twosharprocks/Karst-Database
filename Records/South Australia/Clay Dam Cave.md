@@ -29,6 +29,6 @@ DRONE PHOTOS TBA
 
 # Images
 
-- [Clay Dam Cave - DJI_0026 - f6d7eb0e-35de174b](../../Assets/3f55b3eb06ca2c49ce01809b73a517a82218a22345a69ecc5fb52819d6774745.jpg)
-- [Clay Dam Cave - DJI_0028 - 8568fa07-35de174b](../../Assets/9fd615de6d90a7787a0c83c9dfe661a3b0149110ade2a2fe41c33b2bc3b9a196.jpg)
-- [Clay Dam Cave - DJI_0024 - a3b660b9-35de174b](../../Assets/0427ce055d21f02656f51f6cc59ca049dbff7f428c715ccb95921b49572b9976.jpg)
+- [Clay Dam Cave - Image 02](../../Assets/3f55b3eb06ca2c49ce01809b73a517a82218a22345a69ecc5fb52819d6774745.jpg)
+- [Clay Dam Cave - Image 03](../../Assets/9fd615de6d90a7787a0c83c9dfe661a3b0149110ade2a2fe41c33b2bc3b9a196.jpg)
+- [Clay Dam Cave - Image 01](../../Assets/0427ce055d21f02656f51f6cc59ca049dbff7f428c715ccb95921b49572b9976.jpg)

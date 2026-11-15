@@ -26,7 +26,7 @@ has_toilets: "No"
 
 # Images
 
-- [Coffee River Cave - coffee - 300b7ecb-c42cdb02](../../Assets/2e47274510033315ff1f2cbe67f8e8e852229761f7dda38136646e588ce43428.jpg)
+- [Coffee River Cave - coffee](../../Assets/2e47274510033315ff1f2cbe67f8e8e852229761f7dda38136646e588ce43428.jpg)
 
 # References
 

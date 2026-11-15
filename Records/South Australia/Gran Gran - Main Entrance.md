@@ -50,8 +50,8 @@ The intersection of several highways nearby one of which was diverted by the Hig
 
 # Images
 
-- [L0060b - Gran Gran - Main Entrance - PXL_20230623_042657941 - d45bc459-237103d3](../../Assets/ddafea67700422ab41a37f03c2cdc45c36c842efcb584ca4134b9e04b9733cf7.jpg)
-- [L0060b - Gran Gran - Main Entrance - 0125 - 6293d8bc-237103d3](../../Assets/92900505eb1d483d74256a808d4cdf2d76d30b715cd568d7269d799c64074943.jpg)
+- [L0060b - Gran Gran - Main Entrance - Image 02](../../Assets/ddafea67700422ab41a37f03c2cdc45c36c842efcb584ca4134b9e04b9733cf7.jpg)
+- [L0060b - Gran Gran - Main Entrance - Image 01](../../Assets/92900505eb1d483d74256a808d4cdf2d76d30b715cd568d7269d799c64074943.jpg)
 
 # References
 

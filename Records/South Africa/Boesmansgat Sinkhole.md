@@ -40,5 +40,5 @@ In October 2022 Karen van den Oever broke her own Guinness World Record[4] as th
 
 # Images
 
-- [Boesmansgat Sinkhole - View-of-the-surface-pool-of-Boesmansgat-cave-2 - 966ab22b-4d539d0b](../../Assets/b66627561a1063c40797e388e5960a11fc42310364fafc40031958460b00fd53.jpg)
-- [Boesmansgat Sinkhole - Northern_Cape_Kalahari_Boesmansgat_Sinkhole - 229e2570-4d539d0b](../../Assets/47dddea152cc8ee55245cae64d15bcd6d991dae5b7ed75a9ca6bc525db544471.jpg)
+- [Boesmansgat Sinkhole - View-of-the-surface-pool-of-Boesmansgat-cave-2](../../Assets/b66627561a1063c40797e388e5960a11fc42310364fafc40031958460b00fd53.jpg)
+- [Boesmansgat Sinkhole - Northern_Cape_Kalahari_Boesmansgat_Sinkhole](../../Assets/47dddea152cc8ee55245cae64d15bcd6d991dae5b7ed75a9ca6bc525db544471.jpg)

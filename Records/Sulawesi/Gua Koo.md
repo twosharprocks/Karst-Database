@@ -22,4 +22,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Koo - Gua Koo - 54bffb00-3380cd6f](../../Assets/7a9c540216e5cb3bdaf0b61eb54ff0e4101d135bb6703b201fc7623c385e13c5.jpg)
+- [Gua Koo - Gua Koo](../../Assets/7a9c540216e5cb3bdaf0b61eb54ff0e4101d135bb6703b201fc7623c385e13c5.jpg)

@@ -52,13 +52,13 @@ Diving of from: Koh Tao Divers
 
 # Maps
 
-- [Tham Nong Tao - tham nong tao - map - 4f2b7805-cbca1bab](../../Assets/2a9659a4357986bc02cb7a2152be1355a9749fb35750114c40e1ff4d91084a8c.jpg)
+- [Tham Nong Tao - tham nong tao - map](../../Assets/2a9659a4357986bc02cb7a2152be1355a9749fb35750114c40e1ff4d91084a8c.jpg)
 
 # Images
 
-- [Tham Nong Tao - mnemo - 1827598e-cbca1bab](../../Assets/6e908a49f89db7417b340f29f47919a998f186c93ba07b32b4ee86616eb0ee75.jpg)
-- [Tham Nong Tao - tham nong tao - map - 4f2b7805-cbca1bab](../../Assets/2a9659a4357986bc02cb7a2152be1355a9749fb35750114c40e1ff4d91084a8c.jpg)
-- [Tham Nong Tao - Tham Nong Tao - 6b40fb15-cbca1bab](../../Assets/07ed0a9356b928f3a4582de04149172261a33fae4e8b78bf3a3ed1e20d8598e5.jpg)
+- [Tham Nong Tao - mnemo](../../Assets/6e908a49f89db7417b340f29f47919a998f186c93ba07b32b4ee86616eb0ee75.jpg)
+- [Tham Nong Tao - tham nong tao - map](../../Assets/2a9659a4357986bc02cb7a2152be1355a9749fb35750114c40e1ff4d91084a8c.jpg)
+- [Tham Nong Tao - Tham Nong Tao](../../Assets/07ed0a9356b928f3a4582de04149172261a33fae4e8b78bf3a3ed1e20d8598e5.jpg)
 
 # References
 

@@ -24,4 +24,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cow Springs (NSS-CDS) - Image - 44caa100-bb79a884](../../Assets/3151feb07a7fbf7b6cc1cbdfff3e46301b976069714f8de49512f1dc1df3058f.jpg)
+- [Cow Springs (NSS-CDS) - Image 01](../../Assets/3151feb07a7fbf7b6cc1cbdfff3e46301b976069714f8de49512f1dc1df3058f.jpg)

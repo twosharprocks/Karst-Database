@@ -42,7 +42,7 @@ L0034, Thin Roof: N, Fence: Y. Dimensions: ?. Features: popular dry caving site 
 
 # Images
 
-- [L0034a - Morgans - Alt Entrance - morgans 2nd - 08c89750-f865ea78](../../Assets/a620ab90e32ffaf1397dc425fa862da58686fbdd039d42178e0044e0a3a950cc.jpg)
+- [L0034a - Morgans - Alt Entrance - morgans 2nd](../../Assets/a620ab90e32ffaf1397dc425fa862da58686fbdd039d42178e0044e0a3a950cc.jpg)
 
 # References
 

@@ -45,10 +45,10 @@ Large flattener passage leads to spacious dome chamber with a large lake.
 
 # Images
 
-- [L0016 - Tantanoola Lake Cave - received_172777122376263 - 21ddb615-3919feac](../../Assets/67b92c1b6e638f35471d0466561104a9c09cbd110ced7852c62855453ed95dd9.jpeg)
-- [L0016 - Tantanoola Lake Cave - 20230423_100040 - 59281161-3919feac](../../Assets/6188f79da52a779c9c428e7e57cd619ac9cbbfebc30fdb19c05fe22f30ce1715.jpg)
-- [L0016 - Tantanoola Lake Cave - 20230423_095935 - 4301d34f-3919feac](../../Assets/857a8e52f7f13b444a5fd18133e46b5fb7c5cc6803c6a0fbcf13f9cea0855666.jpg)
-- [L0016 - Tantanoola Lake Cave - received_1271140510169716 - 5f356c21-3919feac](../../Assets/155c79495efa9081458c8c6953a632154099586006a9c24ece87a5639c99db4c.jpeg)
+- [L0016 - Tantanoola Lake Cave - received_172777122376263](../../Assets/67b92c1b6e638f35471d0466561104a9c09cbd110ced7852c62855453ed95dd9.jpeg)
+- [L0016 - Tantanoola Lake Cave - Image 02](../../Assets/6188f79da52a779c9c428e7e57cd619ac9cbbfebc30fdb19c05fe22f30ce1715.jpg)
+- [L0016 - Tantanoola Lake Cave - Image 01](../../Assets/857a8e52f7f13b444a5fd18133e46b5fb7c5cc6803c6a0fbcf13f9cea0855666.jpg)
+- [L0016 - Tantanoola Lake Cave - received_1271140510169716](../../Assets/155c79495efa9081458c8c6953a632154099586006a9c24ece87a5639c99db4c.jpeg)
 
 # References
 

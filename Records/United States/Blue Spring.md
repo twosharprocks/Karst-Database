@@ -34,7 +34,7 @@ access_and_warnings: "Access by Scientific Permit Only"
 
 # Images
 
-- [Blue Spring - Blue-Spring-Progression - cecc95e6-63f90f6b](../../Assets/f3caf89ef3e3c726eebeec7d554e5c0bc6bf87f3732258d17a16390a60fb42f8.png)
+- [Blue Spring - Blue-Spring-Progression](../../Assets/f3caf89ef3e3c726eebeec7d554e5c0bc6bf87f3732258d17a16390a60fb42f8.png)
 
 # References
 

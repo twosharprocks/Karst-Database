@@ -46,9 +46,9 @@ Since the entrance to the cave is under water directly in front of the cliffs in
 
 # Images
 
-- [Grotte di Cala Luna - 950d2366f0 - b70845b7-d3c020e4](../../Assets/9d5c6fbad4bb107e6a1d0fa7645f952141621e45f532aec61c79bc8c46e2796e.jpg)
-- [Grotte di Cala Luna - cala-luna_texty-pdf - 9dd8d50a-d3c020e4](../../Assets/791f3508b45f4dcfe30397788c316955e884aaa4cfaef99bc200a420799747ef.jpg)
-- [Grotte di Cala Luna - Cala_Luna_Grotto - 651d68dd-d3c020e4](../../Assets/8ab99dd16a9baadda5821f93d1d845f004eadd2a655f78d2c965ae184cbee516.jpg)
+- [Grotte di Cala Luna - 950d2366f0](../../Assets/9d5c6fbad4bb107e6a1d0fa7645f952141621e45f532aec61c79bc8c46e2796e.jpg)
+- [Grotte di Cala Luna - cala-luna_texty-pdf](../../Assets/791f3508b45f4dcfe30397788c316955e884aaa4cfaef99bc200a420799747ef.jpg)
+- [Grotte di Cala Luna - Cala_Luna_Grotto](../../Assets/8ab99dd16a9baadda5821f93d1d845f004eadd2a655f78d2c965ae184cbee516.jpg)
 
 # References
 

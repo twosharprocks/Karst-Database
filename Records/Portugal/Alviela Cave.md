@@ -52,12 +52,12 @@ PNSAC authorization is required. (Luís, R. 2018)
 
 # Maps
 
-- [Alviela Cave - alviera-map - 215dbc13-3eef770d](../../Assets/4e23ebddd30911501490211ac4fa72ae6207936cc877619f8cf9a115c1456b91.jpg)
+- [Alviela Cave - alviera-map](../../Assets/4e23ebddd30911501490211ac4fa72ae6207936cc877619f8cf9a115c1456b91.jpg)
 
 # Images
 
-- [Alviela Cave - mapenc - 55803b44-3eef770d](../../Assets/7018f73ae3ee52b4dc2c741163f3b84182eb7fe231c9cc911c14a500d48e041f.jpg)
-- [Alviela Cave - alviera-map - 215dbc13-3eef770d](../../Assets/4e23ebddd30911501490211ac4fa72ae6207936cc877619f8cf9a115c1456b91.jpg)
+- [Alviela Cave - mapenc](../../Assets/7018f73ae3ee52b4dc2c741163f3b84182eb7fe231c9cc911c14a500d48e041f.jpg)
+- [Alviela Cave - alviera-map](../../Assets/4e23ebddd30911501490211ac4fa72ae6207936cc877619f8cf9a115c1456b91.jpg)
 
 # References
 

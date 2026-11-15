@@ -25,7 +25,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cova d’en Bassol - sa nau - 389880e1-76d1cd86](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
+- [Cova d’en Bassol - sa nau](../../Assets/cb4b68746396588fa5163b125731a648d538a0385c5cec812aa87308ee7fd852.png)
 
 # References
 

@@ -52,11 +52,11 @@ Yellow marker visible (still deployed) with MX track in background @ 0:25
 
 # Images
 
-- [Stockton Colliery - Location Approximate - phstocktontunnels - f8214d1f-31f8f258](../../Assets/3e6fafdcf9799a3faf05c5bf65037ba6c38ecb2799c56965576a9b0abb2328f0.gif)
-- [Stockton Colliery - Location Approximate - stock - e4a7d7a9-31f8f258](../../Assets/3c7a9803c34fdd8e537326b9e4862d072b517e73f80e8962adc678940e7ea36a.jpg)
-- [Stockton Colliery - Location Approximate - 20190508_113256 - 0fe46bf8-31f8f258](../../Assets/bd99da266ba80577a729240ef0e9de0fc78ee8fd9349775d0c7d938e13064f72.jpg)
-- [Stockton Colliery - Location Approximate - headings - 5a49e005-31f8f258](../../Assets/cd1bd621672d0a22544b4ddc3e5e7a114b7e72652b6e29cf9555b6113758ae77.jpg)
-- [Stockton Colliery - Location Approximate - phstocktonmap2 - 7e0c6024-31f8f258](../../Assets/5163ade22c9a09cda5d69d43cfc271790dbab90920e36f315572b18f14f28166.gif)
+- [Stockton Colliery - Location Approximate - phstocktontunnels](../../Assets/3e6fafdcf9799a3faf05c5bf65037ba6c38ecb2799c56965576a9b0abb2328f0.gif)
+- [Stockton Colliery - Location Approximate - stock](../../Assets/3c7a9803c34fdd8e537326b9e4862d072b517e73f80e8962adc678940e7ea36a.jpg)
+- [Stockton Colliery - Location Approximate - Image 01](../../Assets/bd99da266ba80577a729240ef0e9de0fc78ee8fd9349775d0c7d938e13064f72.jpg)
+- [Stockton Colliery - Location Approximate - headings](../../Assets/cd1bd621672d0a22544b4ddc3e5e7a114b7e72652b6e29cf9555b6113758ae77.jpg)
+- [Stockton Colliery - Location Approximate - phstocktonmap2](../../Assets/5163ade22c9a09cda5d69d43cfc271790dbab90920e36f315572b18f14f28166.gif)
 
 # References
 

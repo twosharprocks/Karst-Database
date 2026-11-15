@@ -22,4 +22,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Unnamed Sinkholes - Sinkholes - f7cf5bd7-c0bf9f68](../../Assets/50b5c46b9ab2ba7c64d41cda15035e5bd1955ac860ba02b54d5083e6ab565d62.jpg)
+- [Unnamed Sinkholes - Sinkholes](../../Assets/50b5c46b9ab2ba7c64d41cda15035e5bd1955ac860ba02b54d5083e6ab565d62.jpg)

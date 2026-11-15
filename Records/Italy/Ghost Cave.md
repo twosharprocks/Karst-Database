@@ -30,5 +30,5 @@ The cave joint has a maximum penetration of approximately 70 meters. The differe
 
 # Images
 
-- [Ghost Cave - 717959105_10243945965253736_7483951668223623737_n - bcbb105d-1c79fa70](../../Assets/25821d3c8d5b543bcd9c2fa068ca00dfbc1e9091d63ba6e608efef537f752ac0.jpg)
-- [Ghost Cave - Rocce_a_lama_di_coltello_nella_Grotta_dei_Fantasmi - d201d336-1c79fa70](../../Assets/713fdada48d93345dfa1b3e589e07b129b87a184a85e04931c6a869e46a306a4.jpg)
+- [Ghost Cave - Image 01](../../Assets/25821d3c8d5b543bcd9c2fa068ca00dfbc1e9091d63ba6e608efef537f752ac0.jpg)
+- [Ghost Cave - Rocce_a_lama_di_coltello_nella_Grotta_dei_Fantasmi](../../Assets/713fdada48d93345dfa1b3e589e07b129b87a184a85e04931c6a869e46a306a4.jpg)

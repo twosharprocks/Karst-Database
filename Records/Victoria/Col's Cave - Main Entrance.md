@@ -27,5 +27,5 @@ disabled_access_potential: "Medium"
 
 # Images
 
-- [Col's Cave - Main Entrance - received_1234880080544129 - 0f886b94-e9b62635](../../Assets/85912b9d09cda292f2c2d6ce67ae484fae342b7fd479456ec228f8e4a4e5d3c0.jpeg)
-- [Col's Cave - Main Entrance - PXL_20230808_070830865 - 85babb91-e9b62635](../../Assets/0a67de6202c0f77ab03f8e2fb34e2e1b4b133f80ef541ccc0b229431174d28cc.jpg)
+- [Col's Cave - Main Entrance - received_1234880080544129](../../Assets/85912b9d09cda292f2c2d6ce67ae484fae342b7fd479456ec228f8e4a4e5d3c0.jpeg)
+- [Col's Cave - Main Entrance - Image 01](../../Assets/0a67de6202c0f77ab03f8e2fb34e2e1b4b133f80ef541ccc0b229431174d28cc.jpg)

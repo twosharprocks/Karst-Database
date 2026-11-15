@@ -47,10 +47,10 @@ Max depth 49m
 
 # Images
 
-- [Gua Wandoke - wandoke - depth - 50b08e7a-f27757da](../../Assets/0fcbb8bcacc472f0241bd8800cc2dd06e3d04618a7d57f3a4e248d56d3ae38a3.jpg)
-- [Gua Wandoke - wandoke - ghost - 4f631bb2-f27757da](../../Assets/f5c2be9c73828e7dfc25af8c9f6e8e506effbeb59080695f24b98af230ddc2a2.jpg)
-- [Gua Wandoke - wandoke - maps - 37bfb68b-f27757da](../../Assets/304dfcb43b2ae6dd72b08a0c22520cec1297dca3e5fb95ea98d63c6c6b6f5a9d.jpg)
-- [Gua Wandoke - wandoke - sketch - 3ff77620-f27757da](../../Assets/dd9795bbd84de288afa8f6031eee04627b4cd988707e660002db747e56cf1027.jpg)
+- [Gua Wandoke - wandoke - depth](../../Assets/0fcbb8bcacc472f0241bd8800cc2dd06e3d04618a7d57f3a4e248d56d3ae38a3.jpg)
+- [Gua Wandoke - wandoke - ghost](../../Assets/f5c2be9c73828e7dfc25af8c9f6e8e506effbeb59080695f24b98af230ddc2a2.jpg)
+- [Gua Wandoke - wandoke - maps](../../Assets/304dfcb43b2ae6dd72b08a0c22520cec1297dca3e5fb95ea98d63c6c6b6f5a9d.jpg)
+- [Gua Wandoke - wandoke - sketch](../../Assets/dd9795bbd84de288afa8f6031eee04627b4cd988707e660002db747e56cf1027.jpg)
 
 # References
 

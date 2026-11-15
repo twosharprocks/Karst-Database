@@ -47,8 +47,8 @@ This sinkhole seems to fit the general and locational description of a "large ci
 
 # Images
 
-- [L0039 - Tantanoola Sinkhole - 39 - affc3db8-f706db69](../../Assets/41e60141ad9a1a626abceceef4147aac50455545614a8b5f1a53c577e382d2e5.jpg)
-- [L0039 - Tantanoola Sinkhole - 0091 - e11aae7e-f706db69](../../Assets/b8c4dfc6a2d8918b1c3b7192de2d2eefba33a823bab3d7572323a9b56209ebcc.jpg)
+- [L0039 - Tantanoola Sinkhole - Image 02](../../Assets/41e60141ad9a1a626abceceef4147aac50455545614a8b5f1a53c577e382d2e5.jpg)
+- [L0039 - Tantanoola Sinkhole - Image 01](../../Assets/b8c4dfc6a2d8918b1c3b7192de2d2eefba33a823bab3d7572323a9b56209ebcc.jpg)
 
 # References
 

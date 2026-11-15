@@ -45,10 +45,10 @@ Even with a couple of Sherpa’s helping it took two trips to relay the gear to 
 
 # Images
 
-- [Blair Athol Mine - blairAthol-a - 67be4954-23a60cbb](../../Assets/efa1dba9678c3ee7c4db10f68b83a9d753a6133825ac67c7dc0cb6e14798153d.jpg)
-- [Blair Athol Mine - blairAthol-f - 4ea6e637-23a60cbb](../../Assets/a61cb5e72f0d7a799d95b6366d4bec62672cebfe91787e293fdaf97003b5fe06.jpg)
-- [Blair Athol Mine - blairAthol-g - 440e1ee8-23a60cbb](../../Assets/d90db76666b2c4a7ed45e7b02f187b995c9046bb2c7b8805d50371aea88b9f88.jpg)
-- [Blair Athol Mine - blairAthol-e - 156cc4e9-23a60cbb](../../Assets/6bc28c8b3aadee8860b528f3bd13960db402edacba3b0fb429a528f42cb39986.jpg)
+- [Blair Athol Mine - blairAthol-a](../../Assets/efa1dba9678c3ee7c4db10f68b83a9d753a6133825ac67c7dc0cb6e14798153d.jpg)
+- [Blair Athol Mine - blairAthol-f](../../Assets/a61cb5e72f0d7a799d95b6366d4bec62672cebfe91787e293fdaf97003b5fe06.jpg)
+- [Blair Athol Mine - blairAthol-g](../../Assets/d90db76666b2c4a7ed45e7b02f187b995c9046bb2c7b8805d50371aea88b9f88.jpg)
+- [Blair Athol Mine - blairAthol-e](../../Assets/6bc28c8b3aadee8860b528f3bd13960db402edacba3b0fb429a528f42cb39986.jpg)
 
 # References
 

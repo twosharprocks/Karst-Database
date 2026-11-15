@@ -34,7 +34,7 @@ Repository (meta-data only)
 
 # Images
 
-- [Cliefden Caves Area - 1996_-_Cliefden_Caves_Area_-_Natural_and_Cultural_Landscape_-_SHR_Plan_(5051851b10) - 6c4a5e75-460292d4](../../Assets/19f0ab687f1ed7f3dd11bfeecf008bcb15de6fd1062a5c20434ea8a0510c624c.jpg)
+- [Cliefden Caves Area - 1996_-_Cliefden_Caves_Area_-_Natural_and_Cultural_Landscape_-_SHR_Plan_(5051851b10)](../../Assets/19f0ab687f1ed7f3dd11bfeecf008bcb15de6fd1062a5c20434ea8a0510c624c.jpg)
 
 # References
 

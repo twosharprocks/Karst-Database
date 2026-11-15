@@ -31,7 +31,7 @@ The largest syngenetic karst area in Victoria and of high speleological importan
 
 # Images
 
-- [https___vro.agriculture.vic.gov.au_dpi_vro_glenregn.nsf_pages_landform_sites_sig_5-5 - Bats Ridge Cave - Location TBC - batridge - 22268a03-7d39ab32](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
+- [https___vro.agriculture.vic.gov.au_dpi_vro_glenregn.nsf_pages_landform_sites_sig_5-5 - Bats Ridge Cave - Location TBC - batridge](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
 
 # References
 

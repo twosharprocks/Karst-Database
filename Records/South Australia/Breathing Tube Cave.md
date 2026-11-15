@@ -42,12 +42,12 @@ L0300, Thin Roof: ?, Fence: ?. Dimensions: ?. Features: Cave first located by Bi
 
 # Images
 
-- [L0300 - Breathing Tube Cave - 2023-04-23 08.30.51 - 30b7f31f-401a9601](../../Assets/5d31d54d48ad0710cf2ec95c381629526da58928fc3d29ed25aae67c28a43493.jpg)
-- [L0300 - Breathing Tube Cave - 300 - 82831978-401a9601](../../Assets/1c2e76568667c7a69d795b07faf4f38f087f5f1bf8481502a876ec35ea1991cc.jpg)
-- [L0300 - Breathing Tube Cave - 2023-04-23 08.35.37 - d226070d-401a9601](../../Assets/f60d3a66c2b30e5ecaffdacc35a59f4ce7e3b99868609cee120ad9b89b3cc724.jpg)
-- [L0300 - Breathing Tube Cave - 2023-04-23 08.30.35 - b1bd3c21-401a9601](../../Assets/4ee29cb3ff53422564bfe01e8b4fe606dab2c481aba76645fd25664b739aa041.jpg)
-- [L0300 - Breathing Tube Cave - 300 - d654eba3-401a9601](../../Assets/35692edfecec92e629a719291c1b1ef928390d7dff9219963f10f54151c44aa4.jpg)
-- [L0300 - Breathing Tube Cave - 300d - 91e0efc1-401a9601](../../Assets/a18c6373e75d04cc754b05ff1b48d2b51ee05eebd0d437b0fbc2e89841818bc8.jpg)
+- [L0300 - Breathing Tube Cave - Image 02](../../Assets/5d31d54d48ad0710cf2ec95c381629526da58928fc3d29ed25aae67c28a43493.jpg)
+- [L0300 - Breathing Tube Cave - Image 04](../../Assets/1c2e76568667c7a69d795b07faf4f38f087f5f1bf8481502a876ec35ea1991cc.jpg)
+- [L0300 - Breathing Tube Cave - Image 03](../../Assets/f60d3a66c2b30e5ecaffdacc35a59f4ce7e3b99868609cee120ad9b89b3cc724.jpg)
+- [L0300 - Breathing Tube Cave - Image 01](../../Assets/4ee29cb3ff53422564bfe01e8b4fe606dab2c481aba76645fd25664b739aa041.jpg)
+- [L0300 - Breathing Tube Cave - Image 05](../../Assets/35692edfecec92e629a719291c1b1ef928390d7dff9219963f10f54151c44aa4.jpg)
+- [L0300 - Breathing Tube Cave - 300d](../../Assets/a18c6373e75d04cc754b05ff1b48d2b51ee05eebd0d437b0fbc2e89841818bc8.jpg)
 
 # References
 

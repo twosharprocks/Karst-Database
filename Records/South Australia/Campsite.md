@@ -31,7 +31,7 @@ Campsite mismarked as cave
 
 # Images
 
-- [Campsite - DJI_0033 - ee40546c-0a1c5ef7](../../Assets/c316671b8030635a7a9b4981b3ed6d09123dc61841f19fd22a5bae03db3e3433.jpg)
-- [Campsite - DJI_0035 - b758c425-0a1c5ef7](../../Assets/42c8b30e045d86d80cdbb20df6fca9618b36420ed9b2c402865f0a282b2b4fdb.jpg)
-- [Campsite - DJI_0032 - 903493a0-0a1c5ef7](../../Assets/f3ff494f844e701180a94f774f3a63560e37573dd4543e10ce184ea5ec709877.jpg)
-- [Campsite - DJI_0034 - 6ffa6ab4-0a1c5ef7](../../Assets/5301a006cf956435da71fc7d4999befdd8f2a844ab98f4e596f2103bbd111443.jpg)
+- [Campsite - Image 02](../../Assets/c316671b8030635a7a9b4981b3ed6d09123dc61841f19fd22a5bae03db3e3433.jpg)
+- [Campsite - Image 04](../../Assets/42c8b30e045d86d80cdbb20df6fca9618b36420ed9b2c402865f0a282b2b4fdb.jpg)
+- [Campsite - Image 01](../../Assets/f3ff494f844e701180a94f774f3a63560e37573dd4543e10ce184ea5ec709877.jpg)
+- [Campsite - Image 03](../../Assets/5301a006cf956435da71fc7d4999befdd8f2a844ab98f4e596f2103bbd111443.jpg)

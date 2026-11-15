@@ -19,4 +19,4 @@ source: "G11037_Parishplan_warwin"
 
 # Images
 
-- [Lava Dyke - Volcanic Neck - dyke - 2c337a24-bec9924e](../../Assets/02f3693c476a5f627e53d9d29db6bd311874b5654fe18ed5987693fba87a0483.jpg)
+- [Lava Dyke - Volcanic Neck - dyke](../../Assets/02f3693c476a5f627e53d9d29db6bd311874b5654fe18ed5987693fba87a0483.jpg)

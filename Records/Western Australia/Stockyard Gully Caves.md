@@ -66,9 +66,9 @@ Why these caves receive so little attention is hard to understand. The change fr
 
 # Images
 
-- [Stockyard Gully Caves - stockyard-gully3 - ae944366-f99b4a2c](../../Assets/98095d027fceb26c8f602d8aedebfbfcfca34cc7d16626b47368929c98fd0b68.jpg)
-- [Stockyard Gully Caves - stockyard-gully2 - c364ade3-f99b4a2c](../../Assets/2ff4448bb19ed6111c34bbf90186e26f29f8e75bb2355cb2921b854c690f1c6a.jpg)
-- [Stockyard Gully Caves - stockyard-gully - ba1bee1f-f99b4a2c](../../Assets/33fc551a57d6ae9deccd52cc51f42f45a315c5248935ea705303e551c8bef617.jpg)
+- [Stockyard Gully Caves - stockyard-gully3](../../Assets/98095d027fceb26c8f602d8aedebfbfcfca34cc7d16626b47368929c98fd0b68.jpg)
+- [Stockyard Gully Caves - stockyard-gully2](../../Assets/2ff4448bb19ed6111c34bbf90186e26f29f8e75bb2355cb2921b854c690f1c6a.jpg)
+- [Stockyard Gully Caves - stockyard-gully](../../Assets/33fc551a57d6ae9deccd52cc51f42f45a315c5248935ea705303e551c8bef617.jpg)
 
 # References
 

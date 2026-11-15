@@ -43,8 +43,8 @@ L0099, Thin Roof: N, Fence: R. Dimensions: ?. Features: Palaeontological value??
 
 # Images
 
-- [L0099 - L99 - PXL_20241214_040831623 - ba4cdee2-6d1ba8f8](../../Assets/3e6996b91e0934436d098f02c470b2517f35b5119bf26fd4d2daf2abb55fc6e7.jpg)
-- [L0099 - L99 - 99 - 50c48504-6d1ba8f8](../../Assets/6d3cc9f6d8330abcaf499221fb9cf82455b08b54dad299b4dc5a1a5528341e62.jpg)
+- [L0099 - L99 - Image 02](../../Assets/3e6996b91e0934436d098f02c470b2517f35b5119bf26fd4d2daf2abb55fc6e7.jpg)
+- [L0099 - L99 - Image 01](../../Assets/6d3cc9f6d8330abcaf499221fb9cf82455b08b54dad299b4dc5a1a5528341e62.jpg)
 
 # References
 

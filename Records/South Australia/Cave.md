@@ -28,5 +28,5 @@ Vertical access required to reach doline floor
 
 # Images
 
-- [Cave - DJI_0038 - 27e6cf82-670ddb1f](../../Assets/eaf323d35b59e9a72ac2f5c55c0db568817d1672eba409e940c705e0e9aee988.jpg)
-- [Cave - DJI_0036 - da6d373c-670ddb1f](../../Assets/abda12243be6053f8cce161a6f29cf128c59f3f22145dffa22b68405501a01f6.jpg)
+- [Cave - Image 02](../../Assets/eaf323d35b59e9a72ac2f5c55c0db568817d1672eba409e940c705e0e9aee988.jpg)
+- [Cave - Image 01](../../Assets/abda12243be6053f8cce161a6f29cf128c59f3f22145dffa22b68405501a01f6.jpg)

@@ -29,10 +29,10 @@ has_toilets: "No"
 
 # Images
 
-- [Grant's Hole - hole - d8558e40-d503d1a1](../../Assets/aabda11cab139fec59ac4a2ffd83399a31fae2b22c24ef031b6ae549522f858f.jpg)
-- [Grant's Hole - hole2 - ad77e300-d503d1a1](../../Assets/5ab6ba8cdf960e4fc46758881997dcb5d8c4ab55ec891eac6ca2151c3737dd20.jpg)
-- [Grant's Hole - toby2 - 14cb3502-d503d1a1](../../Assets/6c9f9fa2b848b0d76aa018a3bd2c9704494b5606134bdc6804fef72e2215cd24.jpg)
-- [Grant's Hole - toby - 1d1aa9d5-d503d1a1](../../Assets/3ff17e138f2494e2e97178f36fedc0d77b5d5f8aae95757dc384acf5d73b71c6.jpg)
+- [Grant's Hole - hole](../../Assets/aabda11cab139fec59ac4a2ffd83399a31fae2b22c24ef031b6ae549522f858f.jpg)
+- [Grant's Hole - hole2](../../Assets/5ab6ba8cdf960e4fc46758881997dcb5d8c4ab55ec891eac6ca2151c3737dd20.jpg)
+- [Grant's Hole - toby2](../../Assets/6c9f9fa2b848b0d76aa018a3bd2c9704494b5606134bdc6804fef72e2215cd24.jpg)
+- [Grant's Hole - toby](../../Assets/3ff17e138f2494e2e97178f36fedc0d77b5d5f8aae95757dc384acf5d73b71c6.jpg)
 
 # References
 

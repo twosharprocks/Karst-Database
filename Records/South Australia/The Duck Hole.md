@@ -29,10 +29,10 @@ Site is a swampy area of paddock that ducks migrate through - potential mark is 
 
 # Images
 
-- [The Duck Hole - duck karst - 50054f7b-cfe7a061](../../Assets/df5a3905a9456c5b992f414afe49ef1e344aeeaad98f4d80857db59c8014a6bc.jpg)
-- [The Duck Hole - duck aerial - 3b65be28-cfe7a061](../../Assets/3462ab5fb4c43fdcb53dd29c15ea1a5f04eae1c3024e7a77e723cfd68c7f7e5f.jpg)
-- [The Duck Hole - duck patch - 839f3470-cfe7a061](../../Assets/85a5c135bc99ca2e167ba87f62b42dacf77c98d60fffef2417a8297279cdd658.jpg)
-- [The Duck Hole - duck aerial 2 - b2a8a4f7-cfe7a061](../../Assets/5ff1e9dc591901a5e6ea08c2bce795ff710c8efb82b629dd268d151fb36b81ae.jpg)
+- [The Duck Hole - duck karst](../../Assets/df5a3905a9456c5b992f414afe49ef1e344aeeaad98f4d80857db59c8014a6bc.jpg)
+- [The Duck Hole - duck aerial](../../Assets/3462ab5fb4c43fdcb53dd29c15ea1a5f04eae1c3024e7a77e723cfd68c7f7e5f.jpg)
+- [The Duck Hole - duck patch](../../Assets/85a5c135bc99ca2e167ba87f62b42dacf77c98d60fffef2417a8297279cdd658.jpg)
+- [The Duck Hole - duck aerial 2](../../Assets/5ff1e9dc591901a5e6ea08c2bce795ff710c8efb82b629dd268d151fb36b81ae.jpg)
 
 # References
 

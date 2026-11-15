@@ -221,7 +221,7 @@ survey work.
 
 # Images
 
-- [Whalers' Way Sinkhole - 15 - ca1537d1-c51d0c25](../../Assets/1cbd24881e996cc3e54b835ef8833ab6a6622e2a7f670b0ee2bac9d9ce1541ab.jpg)
+- [Whalers' Way Sinkhole - Image 01](../../Assets/1cbd24881e996cc3e54b835ef8833ab6a6622e2a7f670b0ee2bac9d9ce1541ab.jpg)
 
 # References
 

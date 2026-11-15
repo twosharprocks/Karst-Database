@@ -37,9 +37,9 @@ Collins Cave is an impressive feature, having some of the largest and widest pas
 
 # Images
 
-- [L0031 - Collins Cave - collins2 - 509daaca-f6226cc6](../../Assets/9f583c8b15a085b52f42661458646c98c7650f2275817ed4b32785b92098e4c2.jpg)
-- [L0031 - Collins Cave - DJI_0063 - cccb8633-f6226cc6](../../Assets/3f04909bcb18c6bb2757370659742274120ae4b32f958d703c7f3280888a9fe5.jpg)
-- [L0031 - Collins Cave - collins - cea5b8d9-f6226cc6](../../Assets/163b5dcdf70652a73f3bbf4a00ab07b3e49bfb61bef25e981924b7c549c123cc.jpg)
+- [L0031 - Collins Cave - collins2](../../Assets/9f583c8b15a085b52f42661458646c98c7650f2275817ed4b32785b92098e4c2.jpg)
+- [L0031 - Collins Cave - Image 01](../../Assets/3f04909bcb18c6bb2757370659742274120ae4b32f958d703c7f3280888a9fe5.jpg)
+- [L0031 - Collins Cave - collins](../../Assets/163b5dcdf70652a73f3bbf4a00ab07b3e49bfb61bef25e981924b7c549c123cc.jpg)
 
 # References
 

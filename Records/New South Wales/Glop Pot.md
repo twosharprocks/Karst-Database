@@ -33,7 +33,7 @@ Repository - Survex, sketchsheets and illustrator
 
 # Images
 
-- [CP-7 - Glop Pot - cp7glop - 8415ab24-85570cfe](../../Assets/adf2b31c85e9f1beff1583f2a3fc1885f580aa7a735055c8e5844b8e95c5b69e.jpg)
+- [CP-7 - Glop Pot - cp7glop](../../Assets/adf2b31c85e9f1beff1583f2a3fc1885f580aa7a735055c8e5844b8e95c5b69e.jpg)
 
 # References
 

@@ -36,9 +36,9 @@ L0183, Thin Roof: N, Fence: R. Dimensions: 2m x 8m deep. Features: Remove huge l
 
 # Images
 
-- [L0183 - Initiation Pot - 20240828_170715 - 7bd633d3-34c55774](../../Assets/90bdc03df895a372d071834987ecc88d7cf581c8658c25b2df826a8fb63ecc44.jpg)
-- [L0183 - Initiation Pot - 20240828_170736 - ebc160bb-34c55774](../../Assets/65425eea135de7aff126de9b5e1fbe542193a07ff6437d63b93c5ae6c7668f9b.jpg)
-- [L0183 - Initiation Pot - 20240828_170655 - 7d839e9e-34c55774](../../Assets/812bb18bfeec2e94bac433367d9c9726445cf74b16ca9df90370f83330411eb6.jpg)
+- [L0183 - Initiation Pot - Image 02](../../Assets/90bdc03df895a372d071834987ecc88d7cf581c8658c25b2df826a8fb63ecc44.jpg)
+- [L0183 - Initiation Pot - Image 03](../../Assets/65425eea135de7aff126de9b5e1fbe542193a07ff6437d63b93c5ae6c7668f9b.jpg)
+- [L0183 - Initiation Pot - Image 01](../../Assets/812bb18bfeec2e94bac433367d9c9726445cf74b16ca9df90370f83330411eb6.jpg)
 
 # References
 

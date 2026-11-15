@@ -64,10 +64,10 @@ Since the entrance to the cave is under water directly in front of the cliffs in
 
 # Images
 
-- [Grotta Del Fico - Fico-GR-pdf - 2937cb09-7da88e95](../../Assets/e512abea74550f2aba6ad3520a089b2375baf65c0a3ec6a12cdcb61ede932c46.jpg)
-- [Grotta Del Fico - Fig_2_WP - 7e14ed6b-7da88e95](../../Assets/c740645aa14113bf410500ec2e8a81c43cd10df2cb464ab63b2e698f5b922e84.jpg)
-- [Grotta Del Fico - Bel-Torrente - 764aef2b-7da88e95](../../Assets/8c05bb677dad917344447dbb55cef216fcab0a2c96cc282e64d73397e5887caf.jpg)
-- [Grotta Del Fico - Fig_1_WP - 6e82b52a-7da88e95](../../Assets/4dfefcacd92dfe49d6252b7be2b30b7c48b9edf7212f8361acc949c39ea09a96.jpg)
+- [Grotta Del Fico - Fico-GR-pdf](../../Assets/e512abea74550f2aba6ad3520a089b2375baf65c0a3ec6a12cdcb61ede932c46.jpg)
+- [Grotta Del Fico - Fig_2_WP](../../Assets/c740645aa14113bf410500ec2e8a81c43cd10df2cb464ab63b2e698f5b922e84.jpg)
+- [Grotta Del Fico - Bel-Torrente](../../Assets/8c05bb677dad917344447dbb55cef216fcab0a2c96cc282e64d73397e5887caf.jpg)
+- [Grotta Del Fico - Fig_1_WP](../../Assets/4dfefcacd92dfe49d6252b7be2b30b7c48b9edf7212f8361acc949c39ea09a96.jpg)
 
 # References
 

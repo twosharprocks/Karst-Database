@@ -25,4 +25,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Clearing - go_photo_1628484386587 - 089fef52-e5aa9f84](../../Assets/5a7d6db41c497852dc4201bf8494ea4acf92daba319fb8583d27253faf0f2471.jpg)
+- [Clearing - go_photo_1628484386587](../../Assets/5a7d6db41c497852dc4201bf8494ea4acf92daba319fb8583d27253faf0f2471.jpg)

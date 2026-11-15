@@ -55,16 +55,16 @@ parking: "Good"
 
 # Maps
 
-- [Gua La Pahia - la pahia - map - 9cf56aeb-204d672d](../../Assets/e2a2e518f55a0690075e5438ac48192f001cdc70159a554a720082fe343438ee.jpg)
+- [Gua La Pahia - la pahia - map](../../Assets/e2a2e518f55a0690075e5438ac48192f001cdc70159a554a720082fe343438ee.jpg)
 
 # Images
 
-- [Gua La Pahia - Gua La Pahia - Sketch - 0b1e5a65-204d672d](../../Assets/bd4eba90470d26b005d3a31ac71f19203b20dff28f8e94d466e722dd860061df.jpg)
-- [Gua La Pahia - la pahia - map - 9cf56aeb-204d672d](../../Assets/e2a2e518f55a0690075e5438ac48192f001cdc70159a554a720082fe343438ee.jpg)
-- [Gua La Pahia - Photogrammetry model based on 3D data from Grubby Wombat - 60c4edbf-204d672d](../../Assets/2b8bc18ce14edbf69a2dc954ed59cbf0fda439f89a8e1654ae59edb9cb9b447c.jpg) — Will Passos
-- [Gua La Pahia - PXL_20250803_071713199 - 167a54b1-204d672d](../../Assets/9afca1bfb663be3c2ad6c51d43705000cce0a0ceab28be108e08c10a0a651ea0.jpg)
+- [Gua La Pahia - Gua La Pahia - Sketch](../../Assets/bd4eba90470d26b005d3a31ac71f19203b20dff28f8e94d466e722dd860061df.jpg)
+- [Gua La Pahia - la pahia - map](../../Assets/e2a2e518f55a0690075e5438ac48192f001cdc70159a554a720082fe343438ee.jpg)
+- [Gua La Pahia - Photogrammetry model based on 3D data from Grubby Wombat](../../Assets/2b8bc18ce14edbf69a2dc954ed59cbf0fda439f89a8e1654ae59edb9cb9b447c.jpg) — Will Passos
+- [Gua La Pahia - Image 01](../../Assets/9afca1bfb663be3c2ad6c51d43705000cce0a0ceab28be108e08c10a0a651ea0.jpg)
 
-- [Gua La Pahia - Photogrammetry model based on 3D data from Grubby Wombat - 60c4edbf-204d672d](../../Assets/2b8bc18ce14edbf69a2dc954ed59cbf0fda439f89a8e1654ae59edb9cb9b447c.jpg)
+- [Gua La Pahia - Photogrammetry model based on 3D data from Grubby Wombat](../../Assets/2b8bc18ce14edbf69a2dc954ed59cbf0fda439f89a8e1654ae59edb9cb9b447c.jpg)
 
 # References
 

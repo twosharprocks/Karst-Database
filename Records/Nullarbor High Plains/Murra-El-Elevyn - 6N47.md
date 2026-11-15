@@ -73,9 +73,9 @@ Youtube video showing significant cave ladder required
 
 # Images
 
-- [Murra El Elevyn Cave - 419690779_1042849297016885_2642693015512437405_n - 271dbead-41c22713](../../Assets/f50b1077bdf700372fa898bea26f429b9cb1f8d8277e24de75faa8c9d1e8f498.jpg)
-- [Murra El Elevyn Cave - 419318738_1520079201869287_2485267095906773903_n - 1f580aab-41c22713](../../Assets/7d6baa120ede930526ace1d32889318a4ef742974d25a9b1d45a054e1c87a944.jpg)
-- [Murra El Elevyn Cave - 20260219_150209 - 238c6da6-41c22713](../../Assets/e58746f88bc6eff3654379d8edd9e14d53208de71bcb863dd4282d927db7ebb4.jpg)
+- [Murra El Elevyn Cave - Image 03](../../Assets/f50b1077bdf700372fa898bea26f429b9cb1f8d8277e24de75faa8c9d1e8f498.jpg)
+- [Murra El Elevyn Cave - Image 02](../../Assets/7d6baa120ede930526ace1d32889318a4ef742974d25a9b1d45a054e1c87a944.jpg)
+- [Murra El Elevyn Cave - Image 01](../../Assets/e58746f88bc6eff3654379d8edd9e14d53208de71bcb863dd4282d927db7ebb4.jpg)
 - [MurraElElevyn_HP_V1_1 - 2c2b130a-41c22713](../../Regions/Oceania/Australia/6N%20-%20Nullabor%20and%20Roe%20Plains/Maps/6N47%20-%20Murra-El-Elevyn%20%28Porter%2C%202024%29%20%28High-Res%20PDF%29.pdf)
 
 # References

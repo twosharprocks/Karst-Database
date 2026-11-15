@@ -25,4 +25,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Moko - gua moko - a95eb826-dc42d9c1](../../Assets/099059e1a793a77b8e5fd03073634e8411eda1a31650de0dafdacb1be32330f0.jpg)
+- [Gua Moko - gua moko](../../Assets/099059e1a793a77b8e5fd03073634e8411eda1a31650de0dafdacb1be32330f0.jpg)

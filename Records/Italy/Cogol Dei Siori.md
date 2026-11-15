@@ -39,7 +39,7 @@ The passage discovered by Bolanz is on the right of the mill, while proceeding a
 
 # Images
 
-- [Cogol Dei Siori - 584_system - da0a54fb-322b2b43](../../Assets/1f1950e09e1c61ee66a2486acfc57df9022bfb5e460f06dfaa0bb559adabba64.gif)
+- [Cogol Dei Siori - 584_system](../../Assets/1f1950e09e1c61ee66a2486acfc57df9022bfb5e460f06dfaa0bb559adabba64.gif)
 
 # References
 

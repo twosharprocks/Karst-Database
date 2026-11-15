@@ -36,7 +36,7 @@ Complete survey to [Nicte Ha](Nicte%20Ha.md) (downstream/east) and approximately
 
 # Images
 
-- [Dos Palmas - Dos-Palmas,-Web-Version - 30bd6b2c-cde7b827](../../Assets/786c01fdfd27c2f514298d0015185e676285ec792b6cdb9a6618c2f3664da4b4.jpg)
-- [Dos Palmas - rory-dos palmas 1 - d475c01d-cde7b827](../../Assets/a61757edc1df73ca1041948bb41b717d3242a5d3695b7cb61235fc230d46d65f.jpg)
-- [Dos Palmas - rory-dos palmas 2 - 3451d126-cde7b827](../../Assets/aa0e643b23c91b6ca4c1efd9a7b39b17e2166b6115717aa0666e9ff4b6a8d771.jpg)
-- [Dos Palmas - Dos-Palmas-Entrance - 003faab8-cde7b827](../../Assets/46537dc7cd3e445e91a88144030174a4fc86f56406972b6ad384f95b48f64885.jpg)
+- [Dos Palmas - Dos-Palmas,-Web-Version](../../Assets/786c01fdfd27c2f514298d0015185e676285ec792b6cdb9a6618c2f3664da4b4.jpg)
+- [Dos Palmas - rory-dos palmas 1](../../Assets/a61757edc1df73ca1041948bb41b717d3242a5d3695b7cb61235fc230d46d65f.jpg)
+- [Dos Palmas - rory-dos palmas 2](../../Assets/aa0e643b23c91b6ca4c1efd9a7b39b17e2166b6115717aa0666e9ff4b6a8d771.jpg)
+- [Dos Palmas - Dos-Palmas-Entrance](../../Assets/46537dc7cd3e445e91a88144030174a4fc86f56406972b6ad384f95b48f64885.jpg)

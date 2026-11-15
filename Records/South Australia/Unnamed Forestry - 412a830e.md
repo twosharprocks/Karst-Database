@@ -27,4 +27,4 @@ Thin Roof: ?, Fence: ?. Dimensions: 1.5 x1.5 into small opening. Features: Cave
 
 # Images
 
-- [Unnamed Forestry - 20240828_170847 - 04f0af9b-412a830e](../../Assets/b81373056c98a754e0e37a56db06e480dd8dc2b1f40494d78c025b2362e5a434.jpg)
+- [Unnamed Forestry - Image 17](../../Assets/b81373056c98a754e0e37a56db06e480dd8dc2b1f40494d78c025b2362e5a434.jpg)

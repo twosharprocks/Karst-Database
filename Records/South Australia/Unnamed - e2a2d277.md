@@ -24,5 +24,5 @@ has_phone: "Yes"
 
 # Images
 
-- [Unnamed - PXL_20250118_040015348 - fcfad24b-e2a2d277](../../Assets/245aac762ed28f475f0ce80f2073dc159f63ec0a9403d4b996e17d4218195652.jpg)
-- [Unnamed - dji_fly_20241213_171424_699_1734072876711_photo_optimized - 084341db-e2a2d277](../../Assets/7b940fa7f0fa1681dfffd90ec880bd4c8cdcc26f2a38e52c5a76ded07aa4c095.jpg)
+- [Unnamed - Image 38](../../Assets/245aac762ed28f475f0ce80f2073dc159f63ec0a9403d4b996e17d4218195652.jpg)
+- [Unnamed - Image 37](../../Assets/7b940fa7f0fa1681dfffd90ec880bd4c8cdcc26f2a38e52c5a76ded07aa4c095.jpg)

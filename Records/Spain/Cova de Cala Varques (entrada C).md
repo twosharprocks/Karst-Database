@@ -21,8 +21,8 @@ source: "MapCarta"
 
 # Images
 
-- [Cova de Cala Varques (entrada C) - Screenshot (395) - 305dab8e-94209907](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
-- [Cova de Cala Varques (entrada C) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area - c6c6baba-94209907](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
+- [Cova de Cala Varques (entrada C) - Image 01](../../Assets/f7b4424dc2af5b3385d34b71a4826d2121546766af8b870f6d9d996a65c12685.png)
+- [Cova de Cala Varques (entrada C) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
 
 # References
 

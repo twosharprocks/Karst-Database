@@ -33,10 +33,10 @@ L0054, Thin Roof: N, Fence: R. Dimensions: ? . Features: Very wide& deep; improv
 
 # Images
 
-- [L0054 - Honeysuckle Sinkhole - 20240829_090416 - ac5e93d3-3d15f0cb](../../Assets/36e05ddb1f6931b9eb6fccb0c8868e09c4cf96f327da25f5f9eb9e6bc6a84e7c.jpg)
-- [L0054 - Honeysuckle Sinkhole - 20240829_090329 - bcb6e81f-3d15f0cb](../../Assets/04a719bd8f059a0b214a8e90339b365565c7b418011aa78d578fe867a00df79f.jpg)
-- [L0054 - Honeysuckle Sinkhole - 20240829_090334 - b1f84e6e-3d15f0cb](../../Assets/8fa933c6cb35c3e9c244d111d8a04263c5c9e89eea85726441aa17479301cc88.jpg)
-- [L0054 - Honeysuckle Sinkhole - 20240829_090549 - 43329a60-3d15f0cb](../../Assets/15eda878f9875d61228fc043b85f16687c7b74acad6ce9d9d8c0dd127faa3bd9.jpg)
+- [L0054 - Honeysuckle Sinkhole - Image 03](../../Assets/36e05ddb1f6931b9eb6fccb0c8868e09c4cf96f327da25f5f9eb9e6bc6a84e7c.jpg)
+- [L0054 - Honeysuckle Sinkhole - Image 01](../../Assets/04a719bd8f059a0b214a8e90339b365565c7b418011aa78d578fe867a00df79f.jpg)
+- [L0054 - Honeysuckle Sinkhole - Image 02](../../Assets/8fa933c6cb35c3e9c244d111d8a04263c5c9e89eea85726441aa17479301cc88.jpg)
+- [L0054 - Honeysuckle Sinkhole - Image 04](../../Assets/15eda878f9875d61228fc043b85f16687c7b74acad6ce9d9d8c0dd127faa3bd9.jpg)
 
 # References
 

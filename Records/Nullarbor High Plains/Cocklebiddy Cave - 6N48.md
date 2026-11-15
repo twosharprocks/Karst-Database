@@ -64,10 +64,10 @@ In conclusion, the Cocklebiddy Cave is a testament to the wonders that lie benea
 	- [6N48 - Cocklebiddy Part 3](../../Regions/Oceania/Australia/6N%20-%20Nullabor%20and%20Roe%20Plains/Maps/6N48%20-%20Cocklebiddy%20Part%203.jpg) (Payne)
 
 ## Images
-- [6N48 - Cocklebiddy Cave - 2019-01-09 06.28.36 - 84b2c69c-c3fffd30](../../Assets/5961add4a36d3f1b35e20b671507149406dadf7a9584c7c2684cf30471adc155.jpg)
-- [6N48 - Cocklebiddy Cave - 2019-01-09 06.48.53 - 400a365a-c3fffd30](../../Assets/4dd2dba9a62b6df393b320872ccbb5f4184d35cdfa4a69d06b745fd7bff9107b.jpg)
-- [6N48 - Cocklebiddy Cave - 2019-01-09 06.52.17 - 6ab1fca4-c3fffd30](../../Assets/771802cdd59ef000bbe728d78d42856922f2b6b0a26b3c7b80a4197249304da5.jpg)
-- [6N48 - Cocklebiddy Cave - 2019-01-09 06.52.55 - e52738b0-c3fffd30](../../Assets/5d181a4b26c40dc2a5a317d813174e373cc3ea9228a45456b185a97224084ef3.jpg)
+- [6N48 - Cocklebiddy Cave - Image 01](../../Assets/5961add4a36d3f1b35e20b671507149406dadf7a9584c7c2684cf30471adc155.jpg)
+- [6N48 - Cocklebiddy Cave - Image 02](../../Assets/4dd2dba9a62b6df393b320872ccbb5f4184d35cdfa4a69d06b745fd7bff9107b.jpg)
+- [6N48 - Cocklebiddy Cave - Image 03](../../Assets/771802cdd59ef000bbe728d78d42856922f2b6b0a26b3c7b80a4197249304da5.jpg)
+- [6N48 - Cocklebiddy Cave - Image 04](../../Assets/5d181a4b26c40dc2a5a317d813174e373cc3ea9228a45456b185a97224084ef3.jpg)
 - [Cocklebiddy - Drone Model - Top View](../../Assets/cf6360e0a1982673018f4550f3f18fcc048347cb3e520572370eaf94aa88b66b.jpg) (Richards)
 - [Cocklebiddy - Drone Model - Side view](../../Assets/dac1624ae1a7f6e6587866f8c312891efb5950d1c6386c4e222c70b037af09b3.jpg) (Richards)
 

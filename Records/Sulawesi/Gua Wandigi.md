@@ -24,4 +24,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Gua Wandigi - Gua Wandigi - b6ec298e-5dfb8e96](../../Assets/2c1e4380d9e3cc7317d0501374ea6770d07a205e101c56ddf3e9826429cc2335.jpg)
+- [Gua Wandigi - Gua Wandigi](../../Assets/2c1e4380d9e3cc7317d0501374ea6770d07a205e101c56ddf3e9826429cc2335.jpg)

@@ -23,12 +23,12 @@ Location estimated from rollingharbour image
 
 # Maps
 
-- [Nancy's Cave - abaco-caves-map-jpg - 17cb94bf-1f80f564](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
+- [Nancy's Cave - abaco-caves-map-jpg](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
 
 # Images
 
-- [Nancy's Cave - abaco-caves-ralph-dan-jpg - cebbe906-1f80f564](../../Assets/8b5171e6de0a016ddeb87ef1fe43005e99b581d9947b215045c9de463bedf245.jpg)
-- [Nancy's Cave - abaco-caves-map-jpg - 17cb94bf-1f80f564](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
+- [Nancy's Cave - abaco-caves-ralph-dan-jpg](../../Assets/8b5171e6de0a016ddeb87ef1fe43005e99b581d9947b215045c9de463bedf245.jpg)
+- [Nancy's Cave - abaco-caves-map-jpg](../../Assets/c9ab7b8d1035dc813ecdf498d68062ccb6673d10ff3de71ce8a4ea59bd2a5cd1.jpg)
 
 # References
 

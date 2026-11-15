@@ -29,5 +29,5 @@ Worth exploring this area and other potential limestone outcrops heading in 310-
 
 # Images
 
-- [Rocky Clearing - 2023-08-05 07.28.15 - aa860ca9-98149d14](../../Assets/efe65807cc46292463d79c46e190988fe7c69741ccb7203d8b4301cf81fee879.jpg)
-- [Rocky Clearing - 2023-08-05 07.27.47 - a01c747d-98149d14](../../Assets/1faa4508aa52d42f7cd3c4a0fbd34754043c923804c745191e3f1919eb6fbc56.jpg)
+- [Rocky Clearing - Image 02](../../Assets/efe65807cc46292463d79c46e190988fe7c69741ccb7203d8b4301cf81fee879.jpg)
+- [Rocky Clearing - Image 01](../../Assets/1faa4508aa52d42f7cd3c4a0fbd34754043c923804c745191e3f1919eb6fbc56.jpg)

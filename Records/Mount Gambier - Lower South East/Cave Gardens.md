@@ -56,12 +56,12 @@ Cave Gardens is a large, deep collapse entrance in a 20 x 25 metre wide depressi
 
 # Images
 
-- [Cave Gardens - 20230713_153434 - ac9a3959-543b542e](../../Assets/a6896b1506f270fdd4a58fd31da2fc7c2d30c3eeab59f5b51243c55b66e146f6.jpg)
-- [Cave Gardens - 20230713_153441 - ad58b4da-543b542e](../../Assets/dd60534b5b1274404b671a8cb193e3c6d0b00973a8589280976caaa0a68c63ea.jpg)
-- [Cave Gardens - 20230713_155346 - 7d365be5-543b542e](../../Assets/e15673a9e68f02515390f8c7c8f79e910b8f371257ee8a9c1eaccb9572174d75.jpg)
-- [Cave Gardens - 20230713_155421 - 67b1e9fb-543b542e](../../Assets/b2c38315e4cc41ccbad339625307d27c904fdeb3feae4d2e1c9a6f842c52c3c5.jpg)
-- [Cave Gardens - gard - 8c7bc517-543b542e](../../Assets/6c1fc07d5170ff811fcc7267b7a7d32db3791379c47df415d52e1e6a7b277d3b.jpg)
-- [Cave Gardens - gard2 - 72127dee-543b542e](../../Assets/7f1a138d6ce167a4f79c3077dfd61e1d34db75cb4542d54c61e0ac18bfef092c.jpg)
+- [Cave Gardens - Image 01](../../Assets/a6896b1506f270fdd4a58fd31da2fc7c2d30c3eeab59f5b51243c55b66e146f6.jpg)
+- [Cave Gardens - Image 02](../../Assets/dd60534b5b1274404b671a8cb193e3c6d0b00973a8589280976caaa0a68c63ea.jpg)
+- [Cave Gardens - Image 03](../../Assets/e15673a9e68f02515390f8c7c8f79e910b8f371257ee8a9c1eaccb9572174d75.jpg)
+- [Cave Gardens - Image 04](../../Assets/b2c38315e4cc41ccbad339625307d27c904fdeb3feae4d2e1c9a6f842c52c3c5.jpg)
+- [Cave Gardens - gard](../../Assets/6c1fc07d5170ff811fcc7267b7a7d32db3791379c47df415d52e1e6a7b277d3b.jpg)
+- [Cave Gardens - gard2](../../Assets/7f1a138d6ce167a4f79c3077dfd61e1d34db75cb4542d54c61e0ac18bfef092c.jpg)
 
 # References
 

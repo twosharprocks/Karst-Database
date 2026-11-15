@@ -28,4 +28,4 @@ Italian Sea Cave identified in Turkish Journal of Zoology paper
 
 # Images
 
-- [Small Sea Cave - sp - ff1bfbb6-3c382544](../../Assets/4db1d56a5a4bde788bb02024d1314ed0b7b89114c042c37d34e58cabc0aa6c26.jpg)
+- [Small Sea Cave - sp](../../Assets/4db1d56a5a4bde788bb02024d1314ed0b7b89114c042c37d34e58cabc0aa6c26.jpg)

@@ -27,4 +27,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Rocky Outcrop - IMG_20210811_160217_8 - 66031dfc-945bec03](../../Assets/c80f534c8705849bb5d153cdbc51edc74c2ffba73ba52290458c80547de8c6f7.jpg)
+- [Rocky Outcrop - Image 01](../../Assets/c80f534c8705849bb5d153cdbc51edc74c2ffba73ba52290458c80547de8c6f7.jpg)

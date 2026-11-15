@@ -58,10 +58,10 @@ After 1978, nothing more was discovered in this chasm, but various impostors cla
 
 # Images
 
-- [Şesuri Pothole - Avenul-din-Sesuri - 132e3e1d-28d53d39](../../Assets/dfb98ec4425b0ed9259e03d6c9f99c1fcc9b65a36ba52e8d9470e9ae7c573960.jpg)
-- [Şesuri Pothole - Avenul-din-Sesuri2 - 4f2e0ce7-28d53d39](../../Assets/3899694985f2f378868822900606a893c71e9557ea16781e101a67bd8071541d.jpg)
-- [Şesuri Pothole - Avenul-din-Sesuri - entry - 2c060039-28d53d39](../../Assets/b9c6cd90a3fad56715563c99cff0e6a1fdeb330c3f514580b9174ad660e75ae5.jpg)
-- [Şesuri Pothole - avenul-din-sesuri-profil - 356c9a6b-28d53d39](../../Assets/5ba23bd8c3e9374a9fdb39b988eaad3c236a59cb60ea48daba78917f72c60950.jpg)
+- [Şesuri Pothole - Avenul-din-Sesuri](../../Assets/dfb98ec4425b0ed9259e03d6c9f99c1fcc9b65a36ba52e8d9470e9ae7c573960.jpg)
+- [Şesuri Pothole - Avenul-din-Sesuri2](../../Assets/3899694985f2f378868822900606a893c71e9557ea16781e101a67bd8071541d.jpg)
+- [Şesuri Pothole - Avenul-din-Sesuri - entry](../../Assets/b9c6cd90a3fad56715563c99cff0e6a1fdeb330c3f514580b9174ad660e75ae5.jpg)
+- [Şesuri Pothole - avenul-din-sesuri-profil](../../Assets/5ba23bd8c3e9374a9fdb39b988eaad3c236a59cb60ea48daba78917f72c60950.jpg)
 
 # References
 

@@ -32,5 +32,5 @@ Entry through [Catfish Hotel](Catfish%20Hotel.md) due to tight restrictions and 
 
 # Images
 
-- [Manatee Spring - manatee - 5e660bab-4d8b08c6](../../Assets/f6a6759b14ef1b081b594031367530a6b00e6b20619b6a601718d3a60f8c20a0.jpg)
-- [Manatee Spring - FB_IMG_1731110017210 - 2e8375d8-4d8b08c6](../../Assets/e722d716a5b5ef61b337dae0617bbdcf031da6c5ec87172762f6b9264fc2e197.jpg)
+- [Manatee Spring - manatee](../../Assets/f6a6759b14ef1b081b594031367530a6b00e6b20619b6a601718d3a60f8c20a0.jpg)
+- [Manatee Spring - Image 01](../../Assets/e722d716a5b5ef61b337dae0617bbdcf031da6c5ec87172762f6b9264fc2e197.jpg)

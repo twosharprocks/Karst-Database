@@ -29,5 +29,5 @@ access_and_warnings: "Private - 249 Tollner Road, Compton"
 
 # Images
 
-- [L89 - Echo Cave - Echo2 - 805bcaa9-5741fd47](../../Assets/2059900997568d32abdcb79667b757bebe6cfc90d7bc9b7a5119f50ef33f9a98.jpg)
-- [L89 - Echo Cave - Echo1 - eddc50ed-5741fd47](../../Assets/ab01304b8e2806fc18c4545a8563928d0c32a6ea502380ffa0c83bb6a395d1a4.jpg)
+- [L89 - Echo Cave - Echo2](../../Assets/2059900997568d32abdcb79667b757bebe6cfc90d7bc9b7a5119f50ef33f9a98.jpg)
+- [L89 - Echo Cave - Echo1](../../Assets/ab01304b8e2806fc18c4545a8563928d0c32a6ea502380ffa0c83bb6a395d1a4.jpg)

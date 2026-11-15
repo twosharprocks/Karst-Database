@@ -27,7 +27,7 @@ Brittania Creek Cave is a unique attraction within the Great Forest National Par
 
 # Images
 
-- [Brittania Creek Cave - 2024-01-12 06.21.20 - a7942fd1-22e432b8](../../Assets/438f9dc543df7d7ba9e625ef22f28ce8e7eaede1c4c60d1c55ad3e252b257e30.jpg)
+- [Brittania Creek Cave - Image 01](../../Assets/438f9dc543df7d7ba9e625ef22f28ce8e7eaede1c4c60d1c55ad3e252b257e30.jpg)
 
 # References
 

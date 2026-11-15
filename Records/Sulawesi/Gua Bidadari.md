@@ -25,5 +25,5 @@ tidal: "No"
 
 # Images
 
-- [Gua Bidadari - bidadari - bdd4f778-08fa010c](../../Assets/da16588a5d30d08daa04f8bd6f651d87f238d8f560a8a6d741ed34a5c0bbfd22.jpg)
-- [Gua Bidadari - bidadari2 - 8e5a3406-08fa010c](../../Assets/6bdeef5ba3bcbbe7a99f7ffc80fdf7a6357482fb1cc1c80d0d48dcf122c04b80.jpg)
+- [Gua Bidadari - bidadari](../../Assets/da16588a5d30d08daa04f8bd6f651d87f238d8f560a8a6d741ed34a5c0bbfd22.jpg)
+- [Gua Bidadari - bidadari2](../../Assets/6bdeef5ba3bcbbe7a99f7ffc80fdf7a6357482fb1cc1c80d0d48dcf122c04b80.jpg)

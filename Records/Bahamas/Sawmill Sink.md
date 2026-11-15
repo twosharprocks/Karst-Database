@@ -19,4 +19,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Sawmill Sink - Sawmill-Sink - 6067e332-42dcb269](../../Assets/15050f2488a3f5bc503b0ecc0900e0f3a848ade1ba572b4e6b81206a5a5511a4.png)
+- [Sawmill Sink - Sawmill-Sink](../../Assets/15050f2488a3f5bc503b0ecc0900e0f3a848ade1ba572b4e6b81206a5a5511a4.png)

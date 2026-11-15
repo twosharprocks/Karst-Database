@@ -20,4 +20,4 @@ address: "North Buton Regency, South East Sulawesi, IDN, 93673"
 
 # Images
 
-- [Unnamed - Gua - 168f15a2-120ca923](../../Assets/b743a5b9b99ecc1afe8fc2d75d710d5ccaddc5282c5417247536d950265054cc.jpg)
+- [Unnamed - Gua](../../Assets/b743a5b9b99ecc1afe8fc2d75d710d5ccaddc5282c5417247536d950265054cc.jpg)

@@ -58,7 +58,7 @@ L0001, Thin Roof: N, Fence: Y. Dimensions: 3m x 20m deep. Features: Lublonite (M
 
 # Images
 
-- [L0001 - Snowflake Cave - 20231103_120106 - 629dc456-22615a3e](../../Assets/13f4905c564df3346d832909df73bd0b70b179b0722f2bfe63c192001297afd3.jpg)
+- [L0001 - Snowflake Cave - Image 01](../../Assets/13f4905c564df3346d832909df73bd0b70b179b0722f2bfe63c192001297afd3.jpg)
 
 # References
 

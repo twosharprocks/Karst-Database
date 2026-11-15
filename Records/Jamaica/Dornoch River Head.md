@@ -24,10 +24,10 @@ tidal: "No"
 
 # Images
 
-- [Dornoch River Head - d3 - cf09ddf7-fa26f813](../../Assets/c5cd97ad5d7c578590adc17cdb171b2241db722a707bbbdf48ba1ee0185106c1.jpg)
-- [Dornoch River Head - dornoch - bf09a5af-fa26f813](../../Assets/91880e2898a6e88f6c5f5a827a9dd62801472d15840517961e8e52ea22a35ae4.jpg)
-- [Dornoch River Head - dornoch - 91c9eecf-fa26f813](../../Assets/91880e2898a6e88f6c5f5a827a9dd62801472d15840517961e8e52ea22a35ae4.jpg)
-- [Dornoch River Head - d2 - a5603593-fa26f813](../../Assets/9f6522a8acf0bd641398c8e8d59618e1d582e8566d521afd64bfa35a2a1105e0.jpg)
+- [Dornoch River Head - d3](../../Assets/c5cd97ad5d7c578590adc17cdb171b2241db722a707bbbdf48ba1ee0185106c1.jpg)
+- [Dornoch River Head - dornoch - 02](../../Assets/91880e2898a6e88f6c5f5a827a9dd62801472d15840517961e8e52ea22a35ae4.jpg)
+- [Dornoch River Head - dornoch](../../Assets/91880e2898a6e88f6c5f5a827a9dd62801472d15840517961e8e52ea22a35ae4.jpg)
+- [Dornoch River Head - d2](../../Assets/9f6522a8acf0bd641398c8e8d59618e1d582e8566d521afd64bfa35a2a1105e0.jpg)
 
 # References
 

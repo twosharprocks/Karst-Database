@@ -26,7 +26,7 @@ tidal: "No"
 
 # Images
 
-- [Jackson Blue Springs - Image - 0a2cb8cd-63289b14](../../Assets/08f7ed7421850778525a0c18d7f794ea2625a4f1f6b246d7f4536a70ec8d7b12.jpg)
+- [Jackson Blue Springs - Image 01](../../Assets/08f7ed7421850778525a0c18d7f794ea2625a4f1f6b246d7f4536a70ec8d7b12.jpg)
 
 # References
 

@@ -32,12 +32,12 @@ entry_type: "Shore"
 
 # Maps
 
-- [Almonda Cave - almonda - map - eec3d86c-7cad43c8](../../Assets/a7ca66242be133f5fec734391baa20094983696ee520dd630637f449705d2697.jpg)
+- [Almonda Cave - almonda - map](../../Assets/a7ca66242be133f5fec734391baa20094983696ee520dd630637f449705d2697.jpg)
 
 # Images
 
-- [Almonda Cave - almonda - map - eec3d86c-7cad43c8](../../Assets/a7ca66242be133f5fec734391baa20094983696ee520dd630637f449705d2697.jpg)
-- [Almonda Cave - almonda - 83891b60-7cad43c8](../../Assets/0f1ff1314d2c8cd5354e0d624c953eab02f1f8c650f0ec58d9629b55d40130da.jpg)
+- [Almonda Cave - almonda - map](../../Assets/a7ca66242be133f5fec734391baa20094983696ee520dd630637f449705d2697.jpg)
+- [Almonda Cave - almonda](../../Assets/0f1ff1314d2c8cd5354e0d624c953eab02f1f8c650f0ec58d9629b55d40130da.jpg)
 
 ## Links reviewed from Cave Data Ideas
 

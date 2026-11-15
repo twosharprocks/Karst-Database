@@ -41,7 +41,7 @@ parking: "Ok"
 
 # Images
 
-- [Moko Panjang - moko panjang - sketch - 86fa31f5-a7168d6f](../../Assets/2e98f96ac0ff39b70b22765ad2e97f1a955a4ad5b5a9e2d7e481920fabdcdd4b.jpg)
+- [Moko Panjang - moko panjang - sketch](../../Assets/2e98f96ac0ff39b70b22765ad2e97f1a955a4ad5b5a9e2d7e481920fabdcdd4b.jpg)
 
 # References
 

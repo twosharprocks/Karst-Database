@@ -22,7 +22,7 @@ address: "Epirus, Decentralized Administration of Epirus and Western Macedonia, 
 
 # Images
 
-- [Aphrodite's Cave - Cave of Amphitrite - 407697f0-b9d0dd83](../../Assets/00c9420933841779a6f5ae20c4485dd5674c3d8ff60082d3691e5cb6a9e05ecb.jpg)
+- [Aphrodite's Cave - Cave of Amphitrite](../../Assets/00c9420933841779a6f5ae20c4485dd5674c3d8ff60082d3691e5cb6a9e05ecb.jpg)
 
 # References
 

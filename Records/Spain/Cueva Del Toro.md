@@ -28,7 +28,7 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Cueva Del Toro - lora-amp - 8c8d025c-24b0318a](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
+- [Cueva Del Toro - lora-amp](../../Assets/bba47918cfcf721b105ceb18e0d735b121eb7005e367f6128db2a880d79b2286.jpg)
 
 # References
 

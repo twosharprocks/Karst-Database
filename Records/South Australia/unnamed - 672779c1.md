@@ -28,4 +28,4 @@ L0347, Thin Roof: N, Fence: R. Dimensions: ?. Features: Stoney unplanted land ne
 
 # Images
 
-- [L0347 - unnamed - 2023-04-11 11.18.05 - 7d5d98a6-672779c1](../../Assets/7ccdb90386242e5c0693078ebb91fad518ea7766438f7cd37e53b0f957bc15d7.jpg)
+- [L0347 - unnamed - Image 01](../../Assets/7ccdb90386242e5c0693078ebb91fad518ea7766438f7cd37e53b0f957bc15d7.jpg)

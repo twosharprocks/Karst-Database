@@ -23,4 +23,4 @@ has_phone: "Yes"
 
 # Images
 
-- [Unnamed - PXL_20250926_065801403 - f23afadd-161b0068](../../Assets/964a56fc7a14bae0361703035a8ccf29c8b9c2f112bf51e5ae3102dd3d0aa9b4.jpg)
+- [Unnamed - Image 42](../../Assets/964a56fc7a14bae0361703035a8ccf29c8b9c2f112bf51e5ae3102dd3d0aa9b4.jpg)

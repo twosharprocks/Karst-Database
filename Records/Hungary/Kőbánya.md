@@ -25,4 +25,4 @@ tidal: "No"
 
 # Images
 
-- [Kőbánya - FB_IMG_1736323374414 - 23dfa2bf-b2fed969](../../Assets/2f1a67eb0ac0ead00b782292f9884f05d5165aef9f3ab86e30456d36e2b013bf.jpg)
+- [Kőbánya - Image 01](../../Assets/2f1a67eb0ac0ead00b782292f9884f05d5165aef9f3ab86e30456d36e2b013bf.jpg)

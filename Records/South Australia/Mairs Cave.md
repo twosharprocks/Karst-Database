@@ -34,9 +34,9 @@ Minburra Station
 
 # Images
 
-- [Mairs Cave - mares2 - 7f2b8a04-b0d99c8d](../../Assets/b8f8d2ea07568a206a9d299929dc29e3b2fdda848011cec6fdc5993d5cad8c79.jpg)
-- [Mairs Cave - mares - 270ef241-b0d99c8d](../../Assets/89afce58c25d1001201a4e59e78fd2b7aa70b59aa78a19fd5d0de385dc413356.jpg)
-- [Mairs Cave - Mairs-Cave-Flinders-Ranges (1) - 3387c132-b0d99c8d](../../Assets/a1cd8bbc0f903f8a9e40273d90116d168a8b8ef859446579f88fcee0d4fa7e6d.jpg)
+- [Mairs Cave - mares2](../../Assets/b8f8d2ea07568a206a9d299929dc29e3b2fdda848011cec6fdc5993d5cad8c79.jpg)
+- [Mairs Cave - mares](../../Assets/89afce58c25d1001201a4e59e78fd2b7aa70b59aa78a19fd5d0de385dc413356.jpg)
+- [Mairs Cave - Mairs-Cave-Flinders-Ranges (1)](../../Assets/a1cd8bbc0f903f8a9e40273d90116d168a8b8ef859446579f88fcee0d4fa7e6d.jpg)
 
 # References
 

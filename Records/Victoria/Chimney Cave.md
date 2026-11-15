@@ -21,7 +21,7 @@ source: "ResearchGate"
 
 # Images
 
-- [Chimney Cave - batridge - e522dce8-69c6dde2](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
+- [Chimney Cave - batridge](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
 
 # References
 

@@ -23,4 +23,4 @@ large depression ~100m diameter and 10m deep. No sign of rock or any
 
 # Images
 
-- [Unnamed - 20240322_165648 - ce771250-160cd639](../../Assets/7d0cc3d8758f49903ae6650040a6925cc9d4d14a1696f1d78f32cd5794376735.jpg)
+- [Unnamed - Image 24](../../Assets/7d0cc3d8758f49903ae6650040a6925cc9d4d14a1696f1d78f32cd5794376735.jpg)

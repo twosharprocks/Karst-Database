@@ -23,4 +23,4 @@ BC 23/9/2023: No visible signs of anything interesting
 
 # Images
 
-- [Surface Feature (NW) - 16954311553666440715934554075229 - 307152f0-f772fe66](../../Assets/0c2ac3a947e538adbd11310c4df56197047a1b8a926ee8eb899339cceac29e2f.jpg)
+- [Surface Feature (NW) - Image 01](../../Assets/0c2ac3a947e538adbd11310c4df56197047a1b8a926ee8eb899339cceac29e2f.jpg)

@@ -26,5 +26,5 @@ goes_to_water: "No"
 
 # Images
 
-- [Clearing - 20230805_072815 - e3246915-adf192b2](../../Assets/efe65807cc46292463d79c46e190988fe7c69741ccb7203d8b4301cf81fee879.jpg)
-- [Clearing - 20230805_072747 - e21da44a-adf192b2](../../Assets/1faa4508aa52d42f7cd3c4a0fbd34754043c923804c745191e3f1919eb6fbc56.jpg)
+- [Clearing - Image 02](../../Assets/efe65807cc46292463d79c46e190988fe7c69741ccb7203d8b4301cf81fee879.jpg)
+- [Clearing - Image 01](../../Assets/1faa4508aa52d42f7cd3c4a0fbd34754043c923804c745191e3f1919eb6fbc56.jpg)

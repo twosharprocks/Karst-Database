@@ -20,7 +20,7 @@ source: "ResearchGate"
 
 # Images
 
-- [River Cave - batridge - 3c6340d6-8a777bd3](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
+- [River Cave - batridge](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
 
 # References
 

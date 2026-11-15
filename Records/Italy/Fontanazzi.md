@@ -28,8 +28,8 @@ Special thanks to the local cave community for correctly placing and maintaining
 
 # Images
 
-- [Fontanazzi - 587_system - 1daede56-ccae2f95](../../Assets/3761ac32b0563fc3c077023f2567c129b286978d429e357eacf0f14c98fb2340.jpg)
-- [Fontanazzi - 587_plan - 96cf2db4-ccae2f95](../../Assets/d29cb9106c4147f452dbd041e4495bec05ddd53463ed6f6c8c64927c1a68e93b.jpg)
+- [Fontanazzi - 587_system](../../Assets/3761ac32b0563fc3c077023f2567c129b286978d429e357eacf0f14c98fb2340.jpg)
+- [Fontanazzi - 587_plan](../../Assets/d29cb9106c4147f452dbd041e4495bec05ddd53463ed6f6c8c64927c1a68e93b.jpg)
 
 # References
 

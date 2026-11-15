@@ -42,9 +42,9 @@ Cave Diving trip in La Azohia, Spain (CT-12) (Peter G)
 
 # Images
 
-- [Moraig - Location TBC - ct12-2 - 34286576-3503a297](../../Assets/fd0e5cdcdff497e0dc79443d4f4a6e0fec3017c827227617f3fef83b7e53deef.jpg)
-- [Moraig - Location TBC - ct12 - 722fca5c-3503a297](../../Assets/d0b0f5a91ea29bd69f21787811da1ce5318ab6c7f640e2c28a6d93ae66a983e3.jpg)
-- [Moraig - Location TBC - 659 - e2d60719-3503a297](../../Assets/af5014f639be810f3d1ae935d64b61c44dfc87f758983fb87e9a410da99534c8.jpg)
+- [Moraig - Location TBC - ct12-2](../../Assets/fd0e5cdcdff497e0dc79443d4f4a6e0fec3017c827227617f3fef83b7e53deef.jpg)
+- [Moraig - Location TBC - ct12](../../Assets/d0b0f5a91ea29bd69f21787811da1ce5318ab6c7f640e2c28a6d93ae66a983e3.jpg)
+- [Moraig - Location TBC - Image 01](../../Assets/af5014f639be810f3d1ae935d64b61c44dfc87f758983fb87e9a410da99534c8.jpg)
 
 # References
 

@@ -27,7 +27,7 @@ exploration_potential: "Medium"
 
 # Images
 
-- [Three Rocks - 2024-04-24 15.53.42 - 171340bf-611af678](../../Assets/4b21d05371b3e7b50b6ddd54fb4886e4e569d9979462283f8856fa241c2d40e9.jpg)
-- [Three Rocks - 20240716_171722 - 0654a689-611af678](../../Assets/6c1c0f8318b8a9d8334758ce5b01047e063b842f06580de2974a02e4b3e1e312.jpg)
-- [Three Rocks - 2024-04-24 15.53.21 - b0a3ee7a-611af678](../../Assets/7a181720708feba8abaef78e554dfe46b069c8320e514dd7040049c15f5d8108.jpg)
-- [Three Rocks - 20240716_171712 - 725ebea1-611af678](../../Assets/1b85f8ff398e855ba1d307f1fe114cdcfbd8afee9cffe5d7d0a6bb89ef2b490a.jpg)
+- [Three Rocks - Image 02](../../Assets/4b21d05371b3e7b50b6ddd54fb4886e4e569d9979462283f8856fa241c2d40e9.jpg)
+- [Three Rocks - Image 04](../../Assets/6c1c0f8318b8a9d8334758ce5b01047e063b842f06580de2974a02e4b3e1e312.jpg)
+- [Three Rocks - Image 01](../../Assets/7a181720708feba8abaef78e554dfe46b069c8320e514dd7040049c15f5d8108.jpg)
+- [Three Rocks - Image 03](../../Assets/1b85f8ff398e855ba1d307f1fe114cdcfbd8afee9cffe5d7d0a6bb89ef2b490a.jpg)

@@ -43,9 +43,9 @@ L0083, Thin Roof: N, Fence: R. Dimensions: 1.5m x 10m deep. Features: Bone depos
 
 # Images
 
-- [L0083 - Feasts Tube - feasts2 - 6a1d32c0-7c5ad325](../../Assets/a57ae2c4aae6d83bc5707d7002c5f44f27ccd299ebcca1cd7d49eb58564c05cf.jpg)
-- [L0083 - Feasts Tube - PXL_20221222_225129730 - 804d1872-7c5ad325](../../Assets/9ce9c4e3751c3d3de2789ed520c831e5e02fd88acadcc2c6b0ef3e05babbf49b.jpg)
-- [L0083 - Feasts Tube - feasts - 77b3812a-7c5ad325](../../Assets/c8eb219076b3783ea6bc0a232ddf50e8d7f49807b89bf41437d5f2e9752985b5.jpg)
+- [L0083 - Feasts Tube - feasts2](../../Assets/a57ae2c4aae6d83bc5707d7002c5f44f27ccd299ebcca1cd7d49eb58564c05cf.jpg)
+- [L0083 - Feasts Tube - Image 01](../../Assets/9ce9c4e3751c3d3de2789ed520c831e5e02fd88acadcc2c6b0ef3e05babbf49b.jpg)
+- [L0083 - Feasts Tube - feasts](../../Assets/c8eb219076b3783ea6bc0a232ddf50e8d7f49807b89bf41437d5f2e9752985b5.jpg)
 
 # References
 

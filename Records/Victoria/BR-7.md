@@ -19,4 +19,4 @@ system_name: "Bats Ridge Caves"
 
 # Images
 
-- [BR-7 - batridge - 021f21a4-77a9f0a8](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)
+- [BR-7 - batridge](../../Assets/bf16027ba403a47cbdd76f28179aec7fa1e124908eae22faf8e2a4294039c277.jpg)

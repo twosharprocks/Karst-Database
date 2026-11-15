@@ -23,4 +23,4 @@ vertical_access: "No"
 
 # Images
 
-- [Box & Vent_ - vent - acbd113d-77c90b9d](../../Assets/a40bfb9ff3c9c5f4845b73984ab63e42b7e5685a1e688b7591ca7bc9a614fefc.jpg)
+- [Box & Vent_ - vent](../../Assets/a40bfb9ff3c9c5f4845b73984ab63e42b7e5685a1e688b7591ca7bc9a614fefc.jpg)

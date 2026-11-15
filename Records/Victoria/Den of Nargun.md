@@ -27,8 +27,8 @@ has_toilets: "No"
 
 # Images
 
-- [Den of Nargun - 2 - 1ffd80c6-a73c7388](../../Assets/50dc723287a7d3ed34a1cc3b81bf30356bddc4381ba275a1b40fbbb6a3a7db16.jpg)
-- [Den of Nargun - nargun - b533965a-a73c7388](../../Assets/78280729237d743f7e007a76a1e905013746427974cc68989f5c877c4c1dab4b.jpg)
+- [Den of Nargun - Image 01](../../Assets/50dc723287a7d3ed34a1cc3b81bf30356bddc4381ba275a1b40fbbb6a3a7db16.jpg)
+- [Den of Nargun - nargun](../../Assets/78280729237d743f7e007a76a1e905013746427974cc68989f5c877c4c1dab4b.jpg)
 
 # References
 

@@ -36,5 +36,5 @@ L0418, Thin Roof: N, Fence: R. Dimensions: 1 x 1 x 4m deep. Features:  identifie
 
 # Images
 
-- [L0418 - GPS Tube - PXL_20230715_052602298 - 80157c5f-e11bc101](../../Assets/63c06c622e37e52ecc569bdb87bcfa90e61c64a5603d976878b46c1fc6a43bf2.jpg)
-- [L0418 - GPS Tube - PXL_20230715_052539325 - 6ad6150c-e11bc101](../../Assets/7560d3d085447caf9b24c02b89ab95978b92141eba380fc0c091d06a17a4a64e.jpg)
+- [L0418 - GPS Tube - Image 02](../../Assets/63c06c622e37e52ecc569bdb87bcfa90e61c64a5603d976878b46c1fc6a43bf2.jpg)
+- [L0418 - GPS Tube - Image 01](../../Assets/7560d3d085447caf9b24c02b89ab95978b92141eba380fc0c091d06a17a4a64e.jpg)

@@ -33,7 +33,7 @@ mapped but contains the larger chambers than [River Cave](River%20Cave.md). Thes
 
 # Images
 
-- [Arramall Cave - arrow - 6b7e666f-a4f29057](../../Assets/5caf18b886b9f3b4fca3afd17c14ae2c9f6a06b53dcc5b0f9466a0556f2db7af.jpg)
+- [Arramall Cave - arrow](../../Assets/5caf18b886b9f3b4fca3afd17c14ae2c9f6a06b53dcc5b0f9466a0556f2db7af.jpg)
 
 # References
 

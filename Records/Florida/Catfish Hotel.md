@@ -31,4 +31,4 @@ Entry point for divers (NOT [Manatee Spring](Manatee%20Spring.md))
 
 # Images
 
-- [Catfish Hotel - manatee - 204f92fa-4fbc3693](../../Assets/f6a6759b14ef1b081b594031367530a6b00e6b20619b6a601718d3a60f8c20a0.jpg)
+- [Catfish Hotel - manatee](../../Assets/f6a6759b14ef1b081b594031367530a6b00e6b20619b6a601718d3a60f8c20a0.jpg)

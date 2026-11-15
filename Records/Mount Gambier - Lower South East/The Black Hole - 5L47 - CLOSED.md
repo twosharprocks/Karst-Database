@@ -43,8 +43,8 @@ The Black Hole has only been cursorily observed scientifically, but some interes
 
 # Images
 
-- [L0047 - Black Hole - Screenshot 2024-12-27 224335 - 5c4ae523-91458702](../../Assets/a6206966b92f3292e749ea336a30fe3d08b662326cbc7e24830f99926c7f4fea.png)
-- [L0047 - Black Hole - Screenshot 2024-12-27 224506 - 78c5d7e7-91458702](../../Assets/aee1f5d6743482bbedc550d37b5caa9f238147adc7d7339319dcb11b553759c1.png)
+- [L0047 - Black Hole - Image 01](../../Assets/a6206966b92f3292e749ea336a30fe3d08b662326cbc7e24830f99926c7f4fea.png)
+- [L0047 - Black Hole - Image 02](../../Assets/aee1f5d6743482bbedc550d37b5caa9f238147adc7d7339319dcb11b553759c1.png)
 
 # References
 

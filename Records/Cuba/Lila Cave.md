@@ -27,6 +27,6 @@ has_toilets: "No"
 
 # Images
 
-- [Lila Cave - lila2 - 0a9ce204-4aa43c67](../../Assets/781876d55058d4512062360b4d7cc6d6357b71ee67813395974a971f4403fd71.jpg)
-- [Lila Cave - lil profile - d8c73cf7-4aa43c67](../../Assets/86a639d098f4793e57d5083512353809e723792cfb3cabb690cf81d48290eded.jpg)
-- [Lila Cave - lila cave - 0a0a9627-4aa43c67](../../Assets/dd9de12010e92d71f9a68919d8eaec7fc701000e6bd99a9905c2df1d5dff2222.jpg)
+- [Lila Cave - lila2](../../Assets/781876d55058d4512062360b4d7cc6d6357b71ee67813395974a971f4403fd71.jpg)
+- [Lila Cave - lil profile](../../Assets/86a639d098f4793e57d5083512353809e723792cfb3cabb690cf81d48290eded.jpg)
+- [Lila Cave - lila cave](../../Assets/dd9de12010e92d71f9a68919d8eaec7fc701000e6bd99a9905c2df1d5dff2222.jpg)

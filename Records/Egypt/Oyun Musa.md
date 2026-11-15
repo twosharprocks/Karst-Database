@@ -28,4 +28,4 @@ Collection of fresh water springs said to be those in the area referred to as El
 
 # Images
 
-- [Oyun Musa - Moses_spring_BW_1 - 963b8308-fb2ecec9](../../Assets/40664d9bc1a7050fa0a25bb8feefbe9de6be8043b1afb9b03673b40534ecc86e.jpg)
+- [Oyun Musa - Moses_spring_BW_1](../../Assets/40664d9bc1a7050fa0a25bb8feefbe9de6be8043b1afb9b03673b40534ecc86e.jpg)

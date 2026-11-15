@@ -26,8 +26,8 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Avenc del Camp del Pou - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area - 100de87e-b5ee89fa](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
-- [Avenc del Camp del Pou - Screenshot (390) - 19d5cea6-b5ee89fa](../../Assets/630ef1c0498648193274b8878c2675d42cf93e42ff5063d2de4da9101a168bf0.png)
+- [Avenc del Camp del Pou - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
+- [Avenc del Camp del Pou - Image 01](../../Assets/630ef1c0498648193274b8878c2675d42cf93e42ff5063d2de4da9101a168bf0.png)
 
 # References
 

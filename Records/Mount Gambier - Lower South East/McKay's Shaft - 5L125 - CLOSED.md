@@ -53,8 +53,8 @@ Long vertical tube entrance leads to a single large water-filled dome mainly sub
 
 # Images
 
-- [L0125 - McKays Shaft - 0249 - 6e8cf5db-690ebf2b](../../Assets/2f069498321c33d66edcb0e87163e8b9a8f988fa3618814a467b1a4b4f4697c7.jpg)
-- [L0125 - McKays Shaft - 0248 - ff55e573-690ebf2b](../../Assets/41eb08fa229b74b03296b9cfe7a048e7c1b8d149ec56907f7c3bbbc2b44c720c.jpg)
+- [L0125 - McKays Shaft - Image 02](../../Assets/2f069498321c33d66edcb0e87163e8b9a8f988fa3618814a467b1a4b4f4697c7.jpg)
+- [L0125 - McKays Shaft - Image 01](../../Assets/41eb08fa229b74b03296b9cfe7a048e7c1b8d149ec56907f7c3bbbc2b44c720c.jpg)
 
 # References
 

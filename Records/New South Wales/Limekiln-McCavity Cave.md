@@ -33,5 +33,5 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Limekiln-McCavity Cave - PXL_20250927_000841150 - ca2cb171-cb327bc5](../../Assets/4d892128732a5007b2444d154c53219f5e9291dca714e51e9a0210202606d804.jpg)
-- [Limekiln-McCavity Cave - PXL_20250927_015905829 - 3fd5bb82-cb327bc5](../../Assets/266ce8d39ad0e43210ac975d4001f29995000ad7e7fd9b714d9a804d7ed6355c.jpg)
+- [Limekiln-McCavity Cave - Image 01](../../Assets/4d892128732a5007b2444d154c53219f5e9291dca714e51e9a0210202606d804.jpg)
+- [Limekiln-McCavity Cave - Image 02](../../Assets/266ce8d39ad0e43210ac975d4001f29995000ad7e7fd9b714d9a804d7ed6355c.jpg)

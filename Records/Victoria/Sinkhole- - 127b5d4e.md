@@ -20,4 +20,4 @@ source: "G11042_parishplan_pt-Warrain"
 
 # Images
 
-- [Sinkhole_ - freshwater - e1845ff0-127b5d4e](../../Assets/9ca4d0c85835cb983d7fe3f658e753093f63c7074399d4aa1a6729e6a017ff85.jpg)
+- [Sinkhole_ - freshwater](../../Assets/9ca4d0c85835cb983d7fe3f658e753093f63c7074399d4aa1a6729e6a017ff85.jpg)

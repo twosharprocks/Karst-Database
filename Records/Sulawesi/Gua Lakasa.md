@@ -26,4 +26,4 @@ water_type: "Fresh"
 
 # Images
 
-- [Gua Lakasa - Lakasa - 85f649d6-a9c25557](../../Assets/d524f053eadfdcf4c90992f024286ec2c1607fa60ceaaca008a07b5b1a20c0c5.jpg)
+- [Gua Lakasa - Lakasa](../../Assets/d524f053eadfdcf4c90992f024286ec2c1607fa60ceaaca008a07b5b1a20c0c5.jpg)

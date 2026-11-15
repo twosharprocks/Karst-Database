@@ -34,7 +34,7 @@ Do not confuse with cave of same name on Menorca
 
 # Images
 
-- [Cova dels Coloms (Mallorca) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area - 2e31e14b-31a7cb1a](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
+- [Cova dels Coloms (Mallorca) - Aerial-photograph-of-the-Son-Josep-Can-Frasquet-Cala-Varques-and-Cala-Falco-area](../../Assets/b6b3595e618d759e7e0228d2725f0283d4c19d9387acd9f18363f36ebf5b6be5.png)
 
 # References
 

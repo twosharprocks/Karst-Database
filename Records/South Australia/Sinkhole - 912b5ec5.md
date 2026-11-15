@@ -28,4 +28,4 @@ Filled with rubbish
 
 # Images
 
-- [Sinkhole - dji_fly_20241213_172326_701_1734072814548_photo_optimized - 66c4d52c-912b5ec5](../../Assets/6dba3eb8c2419e863d0adbcd05720365dd216f4002a94f5940a23e4749a3b194.jpg)
+- [Sinkhole - Image 01](../../Assets/6dba3eb8c2419e863d0adbcd05720365dd216f4002a94f5940a23e4749a3b194.jpg)

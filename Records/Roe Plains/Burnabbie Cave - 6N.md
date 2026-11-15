@@ -33,13 +33,13 @@ tidal: "No"
 
 # Images
 
-- [Burnabbie Cave - PXL_20220908_073209863 - 456bbfb2-d7500adf](../../Assets/ed1912efec4d6b9b01874a7b81cbeed769044c105bc9e5826266013ee16025f7.jpg)
-- [Burnabbie Cave - burn3 - 187a423c-d7500adf](../../Assets/0c63cc137f49ab7039e547723611edc0c5700889867ff08e833f57de301663ab.jpg)
-- [Burnabbie Cave - burn - 5411dc27-d7500adf](../../Assets/cc3842ccb23e06ecd1112eb8ba5d06ceb9d6dcd178bcfba9b983d7cd100decf5.jpg)
-- [Burnabbie Cave - burn2 - f74e5112-d7500adf](../../Assets/ac32b43b42f3c60610532d4380354aa045fae6d538d35d373db974d836c23fcf.jpg)
-- [Burnabbie Cave - burnabbie - 83c82ad5-d7500adf](../../Assets/4482f32c29af736516b1cce167780b6f91a5ebcfb6aadab367912003c2db89c2.jpg)
-- [Burnabbie Cave - burnabbie3 - 931ae59e-d7500adf](../../Assets/5087522b896da6cc0cc9c0448da8492c8d4258f3c4a578bbb29065fd392a2bae.jpg)
-- [Burnabbie Cave - burnabbie2 - 53727174-d7500adf](../../Assets/9bd6e22848f19b6a3cab90bcad21a055cd5ed7e85837c1f288bd46d7f1678e5a.jpg)
+- [Burnabbie Cave - Image 01](../../Assets/ed1912efec4d6b9b01874a7b81cbeed769044c105bc9e5826266013ee16025f7.jpg)
+- [Burnabbie Cave - burn3](../../Assets/0c63cc137f49ab7039e547723611edc0c5700889867ff08e833f57de301663ab.jpg)
+- [Burnabbie Cave - burn](../../Assets/cc3842ccb23e06ecd1112eb8ba5d06ceb9d6dcd178bcfba9b983d7cd100decf5.jpg)
+- [Burnabbie Cave - burn2](../../Assets/ac32b43b42f3c60610532d4380354aa045fae6d538d35d373db974d836c23fcf.jpg)
+- [Burnabbie Cave - burnabbie](../../Assets/4482f32c29af736516b1cce167780b6f91a5ebcfb6aadab367912003c2db89c2.jpg)
+- [Burnabbie Cave - burnabbie3](../../Assets/5087522b896da6cc0cc9c0448da8492c8d4258f3c4a578bbb29065fd392a2bae.jpg)
+- [Burnabbie Cave - burnabbie2](../../Assets/9bd6e22848f19b6a3cab90bcad21a055cd5ed7e85837c1f288bd46d7f1678e5a.jpg)
 - [Burnabbie Map - 996b11bc-d7500adf](../../Assets/a9aadc76fd6fe38ce07c6574413a3c2fa7b2c30f7010af45e5fe0b55a5138441.pdf)
 
 # References

@@ -28,5 +28,5 @@ BC and MW (27/5/2023) Tight wriggly stuff to get to a very tight passage which I
 
 # Images
 
-- [N2792 - Captain Cave - capt2 - 77fbfce7-1101a0f0](../../Assets/f376012939de88928f1fe16823500e8c244f7e3879a20dc79a7012e13e86a27c.jpeg)
-- [N2792 - Captain Cave - capt - 111e5bae-1101a0f0](../../Assets/5154fa9d2fff7a6ba28297cb8b00061ab05b1c19fb67e87f22c278f30e423fd1.jpeg)
+- [N2792 - Captain Cave - capt2](../../Assets/f376012939de88928f1fe16823500e8c244f7e3879a20dc79a7012e13e86a27c.jpeg)
+- [N2792 - Captain Cave - capt](../../Assets/5154fa9d2fff7a6ba28297cb8b00061ab05b1c19fb67e87f22c278f30e423fd1.jpeg)

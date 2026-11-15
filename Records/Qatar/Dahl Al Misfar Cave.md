@@ -21,7 +21,7 @@ address: "الشيحانية, QAT"
 
 # Images
 
-- [Dahl Al Misfar Cave - 1mk634215edifetbk7E81_Z_710_10000_Q70 - 91e32507-6a0e378f](../../Assets/40c89c43abaeb0d222b08eb2e041d852959c1d7cfce0a278217b40ae47499481.jpg)
+- [Dahl Al Misfar Cave - 1mk634215edifetbk7E81_Z_710_10000_Q70](../../Assets/40c89c43abaeb0d222b08eb2e041d852959c1d7cfce0a278217b40ae47499481.jpg)
 
 # References
 

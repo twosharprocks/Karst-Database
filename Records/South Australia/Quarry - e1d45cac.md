@@ -27,4 +27,4 @@ goes_to_water: "No"
 
 # Images
 
-- [Quarry - quarry - 3f6619f0-e1d45cac](../../Assets/f99181a56ebbbdd2a01c76ea94b4ff7f1fdb96c969cd35ce9654248344e0d2a7.jpg)
+- [Quarry - quarry](../../Assets/f99181a56ebbbdd2a01c76ea94b4ff7f1fdb96c969cd35ce9654248344e0d2a7.jpg)

@@ -41,6 +41,6 @@ Because of its depth and sheltered position, it serves as an alternative dive si
 
 # Images
 
-- [Lake Bullen Merri - 20260621_085452 - 0ef46687-e945e2b6](../../Assets/38a3e1b1f7b3893cae9f35775f9c08a4b866a31bfcfec937dff8deb6b7601398.jpg)
-- [Lake Bullen Merri - 20260621_085112 - ef58ad9c-e945e2b6](../../Assets/c0287e18b98a6ab18a4404ddf09768713620dc839a15e41397aa2312819b6963.jpg)
-- [Lake Bullen Merri - 20260621_085010 - dfaf823c-e945e2b6](../../Assets/a0836d5bac93adf66a5843740ecb109f9be5adae9c83f71f89670b1d363cad20.jpg)
+- [Lake Bullen Merri - Image 03](../../Assets/38a3e1b1f7b3893cae9f35775f9c08a4b866a31bfcfec937dff8deb6b7601398.jpg)
+- [Lake Bullen Merri - Image 02](../../Assets/c0287e18b98a6ab18a4404ddf09768713620dc839a15e41397aa2312819b6963.jpg)
+- [Lake Bullen Merri - Image 01](../../Assets/a0836d5bac93adf66a5843740ecb109f9be5adae9c83f71f89670b1d363cad20.jpg)

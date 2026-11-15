@@ -24,4 +24,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Peacock_Orange Grove Spring System - Image - 5323ddc0-8f6bbfe7](../../Assets/f7fae07b3309d23454ccc688ec7f44be6c346c0f0faeef94ba8ee69a09c5d5b8.jpg)
+- [Peacock_Orange Grove Spring System - Image 01](../../Assets/f7fae07b3309d23454ccc688ec7f44be6c346c0f0faeef94ba8ee69a09c5d5b8.jpg)

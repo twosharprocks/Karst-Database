@@ -25,5 +25,5 @@ BC 4/11/2023: Small entrance leading to a small tight cave that tails off after 
 
 # Images
 
-- [Small cave - 2023-11-03 11.49.20 - ec6d724e-e5c91118](../../Assets/a41f21a819485387ddebc09b63915b79d692e41991c9d255cc34b68895d4a964.jpg)
-- [Small cave - 2023-11-03 11.53.46 - 93636dfc-e5c91118](../../Assets/29c522194418a1e2eee5216aa87e3d56ec0bc9364c1a82eb47e23044489a4d09.jpg)
+- [Small cave - Image 01](../../Assets/a41f21a819485387ddebc09b63915b79d692e41991c9d255cc34b68895d4a964.jpg)
+- [Small cave - Image 02](../../Assets/29c522194418a1e2eee5216aa87e3d56ec0bc9364c1a82eb47e23044489a4d09.jpg)

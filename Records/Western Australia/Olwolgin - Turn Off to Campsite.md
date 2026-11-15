@@ -20,5 +20,5 @@ goes_to_water: "No"
 
 # Images
 
-- [Olwolgin - Turn Off to Campsite - 17210851508608335845655395527017 - 19568574-6b2853e7](../../Assets/3b470c345b824cd2e7d3ae6d7b8809f87fc7236c361f89d16886f520a9a779a6.jpg)
-- [Olwolgin - Turn Off to Campsite - 1721085165560700780829557823089 - 828694b4-6b2853e7](../../Assets/a4895ca990c59cecd118f1c2e147e812fd7f961cdb9c2825c6e5c1ccde14f014.jpg)
+- [Olwolgin - Turn Off to Campsite - Image 01](../../Assets/3b470c345b824cd2e7d3ae6d7b8809f87fc7236c361f89d16886f520a9a779a6.jpg)
+- [Olwolgin - Turn Off to Campsite - Image 02](../../Assets/a4895ca990c59cecd118f1c2e147e812fd7f961cdb9c2825c6e5c1ccde14f014.jpg)

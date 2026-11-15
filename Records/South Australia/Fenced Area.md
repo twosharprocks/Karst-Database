@@ -22,4 +22,4 @@ Identified by CA
 
 # Images
 
-- [Fenced Area - PXL_20230715_072501934 - c9ca93a4-3acc75bc](../../Assets/de25232cd548477a3948e82f6d54a8c8ca614e3497bd297f372b3e8bb5e20942.jpg)
+- [Fenced Area - Image 01](../../Assets/de25232cd548477a3948e82f6d54a8c8ca614e3497bd297f372b3e8bb5e20942.jpg)

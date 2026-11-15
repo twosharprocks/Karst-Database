@@ -38,14 +38,14 @@ L0079, Thin Roof: N, Fence: Y. Dimensions: 0.7m diam tube x 4+m deep. Features: 
 
 # Images
 
-- [L0079 - Crevice Cave - 20230423_110356 - d89daaad-d311d8af](../../Assets/2c729d1c2a291d7acc63c3e98dfb97a86191a5b6e094fce8847be9520a8c7229.jpg)
-- [L0079 - Crevice Cave - creviced - a5966d95-d311d8af](../../Assets/91118f6569e598ca17d3e093722b66a820fe957aebcb9153d435921c404a7fdc.jpg)
-- [L0079 - Crevice Cave - crevicet - d0fa610a-d311d8af](../../Assets/dad17b889a3e4250789e863e518a7d9867281055d1d440c4af95ee0c596f687b.jpg)
-- [L0079 - Crevice Cave - l76 - aa4072a9-d311d8af](../../Assets/fb1200cd1956fbf3e131ed57dc85f5e1bba4511919aacf8ff8de245415163f42.jpg)
-- [L0079 - Crevice Cave - 20230423_105918 - 6c3ddaba-d311d8af](../../Assets/02d04e19b783fe0f306a3789637b6eba6236c13e4f155ad8354160ce36d519e7.jpg)
-- [L0079 - Crevice Cave - 2023-04-23 11.11.20 - a184624a-d311d8af](../../Assets/57c4fb8811d1fd3d051e5f7e48dab2da03a75f13ea31341ab677014e49ae575a.jpg)
-- [L0079 - Crevice Cave - 20230423_111118 - f01b6612-d311d8af](../../Assets/57c4fb8811d1fd3d051e5f7e48dab2da03a75f13ea31341ab677014e49ae575a.jpg)
-- [L0079 - Crevice Cave - 2023-04-23 10.59.03 - 291b89f8-d311d8af](../../Assets/db9a545aff449c3ba76695e3bde6e819646aab83711bbeca461d0372ae712f36.jpg)
+- [L0079 - Crevice Cave - Image 04](../../Assets/2c729d1c2a291d7acc63c3e98dfb97a86191a5b6e094fce8847be9520a8c7229.jpg)
+- [L0079 - Crevice Cave - creviced](../../Assets/91118f6569e598ca17d3e093722b66a820fe957aebcb9153d435921c404a7fdc.jpg)
+- [L0079 - Crevice Cave - crevicet](../../Assets/dad17b889a3e4250789e863e518a7d9867281055d1d440c4af95ee0c596f687b.jpg)
+- [L0079 - Crevice Cave - l76](../../Assets/fb1200cd1956fbf3e131ed57dc85f5e1bba4511919aacf8ff8de245415163f42.jpg)
+- [L0079 - Crevice Cave - Image 03](../../Assets/02d04e19b783fe0f306a3789637b6eba6236c13e4f155ad8354160ce36d519e7.jpg)
+- [L0079 - Crevice Cave - Image 02](../../Assets/57c4fb8811d1fd3d051e5f7e48dab2da03a75f13ea31341ab677014e49ae575a.jpg)
+- [L0079 - Crevice Cave - Image 05](../../Assets/57c4fb8811d1fd3d051e5f7e48dab2da03a75f13ea31341ab677014e49ae575a.jpg)
+- [L0079 - Crevice Cave - Image 01](../../Assets/db9a545aff449c3ba76695e3bde6e819646aab83711bbeca461d0372ae712f36.jpg)
 
 # References
 

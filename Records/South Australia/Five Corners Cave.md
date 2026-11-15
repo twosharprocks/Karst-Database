@@ -37,8 +37,8 @@ This cave has two entrances; a roof window and an artificial shaft (for guano mi
 
 # Images
 
-- [L0027 - Five Corners Cave - 0073 - 97c54905-5135095b](../../Assets/f5066b19c51fa2c324997499945b0f964f551760fdf0a766b7fad2fba032d008.jpg)
-- [L0027 - Five Corners Cave - 0072 - 03d3af09-5135095b](../../Assets/be676cad0095b5d796d42e81fe1b5f659887bb36041666a1d316f9924dccd0a1.jpg)
+- [L0027 - Five Corners Cave - Image 02](../../Assets/f5066b19c51fa2c324997499945b0f964f551760fdf0a766b7fad2fba032d008.jpg)
+- [L0027 - Five Corners Cave - Image 01](../../Assets/be676cad0095b5d796d42e81fe1b5f659887bb36041666a1d316f9924dccd0a1.jpg)
 
 # References
 

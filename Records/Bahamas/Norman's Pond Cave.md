@@ -22,4 +22,4 @@ goes_to_water: "Yes"
 
 # Images
 
-- [Norman's Pond Cave - normans_pond_cave_profile - 6fbaeff3-24edc098](../../Assets/6a11ce2e8abba201effcd91d70bb65ed0807d49ac200bb6c2220087f9a8470df.jpg)
+- [Norman's Pond Cave - normans_pond_cave_profile](../../Assets/6a11ce2e8abba201effcd91d70bb65ed0807d49ac200bb6c2220087f9a8470df.jpg)
