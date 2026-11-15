@@ -93,7 +93,7 @@ catalog-type: "region"
 
 # Cave Notes
 
-Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/e3225d9f04669493071ab4a4727f566c06b378d5/content/posts/Cave%20Regions.md).
+Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/73b195340ffa8c8d5bda0b7f377a43d52e1f8c86/content/posts/Cave%20Regions.md).
 
 # About
 
