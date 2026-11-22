@@ -23,4 +23,4 @@ Burundi is a parent region used to organise cave notes. More specific administra
 
 # References
 
-- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/73b195340ffa8c8d5bda0b7f377a43d52e1f8c86/content/posts/Cave%20Regions.md)
+- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/a5d21cb6c0418a18837275b53bc2a9da89f99c71/content/posts/Cave%20Regions.md)
