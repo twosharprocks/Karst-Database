@@ -25,4 +25,4 @@ Israel is a parent region used to organise cave notes. More specific administrat
 
 # References
 
-- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/a5d21cb6c0418a18837275b53bc2a9da89f99c71/content/posts/Cave%20Regions.md)
+- [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/0fb1180950c91c217348506dff0bd6e1e087ea87/content/posts/Cave%20Regions.md)

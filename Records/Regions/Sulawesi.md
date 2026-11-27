@@ -93,7 +93,7 @@ catalog-type: "region"
 
 # Cave Notes
 
-Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/a5d21cb6c0418a18837275b53bc2a9da89f99c71/content/posts/Cave%20Regions.md).
+Sulawesi - Indonesia is listed under [Oceania](Oceania.md) in [Cave Regions](https://github.com/twosharprocks/digitalgarden/blob/0fb1180950c91c217348506dff0bd6e1e087ea87/content/posts/Cave%20Regions.md).
 
 # About
 
@@ -126,7 +126,7 @@ Region Kapantareh
 ## Muna Island
 - [Kadena Glamping Dive Resort](https://maps.app.goo.gl/ZioZRpKZppd9k8mw9)
 # Trips
-- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/2ae91fd1ab9a99ad0dec6645d5443ec85a49c684/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
+- [Trip - Sulawesi - 2025 Aug](https://github.com/twosharprocks/digitalgarden/blob/0fb1180950c91c217348506dff0bd6e1e087ea87/content/posts/Trip%20-%20Sulawesi%20-%202025%20Aug.md)
 ---
 
 # Source notes

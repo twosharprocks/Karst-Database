@@ -28,4 +28,4 @@ catalog-type: "region"
 
 # Trips
 
-- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/b9982354c51e1a88e467a9d2a3396956f3b9ab37/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)
+- [Trip - Akiyoshidai - 2026 May](https://github.com/twosharprocks/digitalgarden/blob/0fb1180950c91c217348506dff0bd6e1e087ea87/content/posts/Trip%20-%20Akiyoshidai%20-%202026%20May.md)
